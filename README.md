@@ -37,8 +37,12 @@ cd panchangam/bin
 ````
 The above codes generate two PDF files (`daily-cal-2017-Chennai-deva.pdf`, `cal-2017-Chennai-deva.pdf`) and an ICS file (`Chennai-2017-devanagari.ics`) in the `pdf` and `ics` folders respectively.
 
-## Documentation
-Currently, the documentation is sparse, but I hope to populate more in the `docs` folder. There are also some useful references in the `docs\ref` folder.
+## Documentation & References
+Currently, the documentation is sparse, but I hope to populate more in the `docs` folder. There are also some useful references in the `docs/ref` folder.
+
+#### Similar software
+* [drik-panchanga](https://github.com/webresh/drik-panchanga): well-written Python-based panchangam, with a nice simple GUI
+* [drikpanchang.com](https://www.drikpanchang.com): online calendar, with a lot of details, festivals etc.
 
 ## Credits
 Sincere thanks to the creators of pyswisseph, without which I could not have attempted this. Many thanks are due to [Ajit Krishnan](http://aupasana.com/) for so clearly explaining the panchangam process, and example festivals, which was sort of the inspiration for integrating a number of festivals. Many thanks to Saketha Nath for getting details of hundreds of festivals from obscure sources, and to the [Vaidikasri magazine](http://vaithikasri.com/), which is another veritable treasure house of these festivals.
