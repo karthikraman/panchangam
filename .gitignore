@@ -1,0 +1,14 @@
+*.pyc
+*.tex~
+*.aux
+*.synctex.gz
+*.log
+*.sublime-workspace
+*old*
+panchangam/data/*.log
+panchangam/pdf/*old*.pdf
+panchangam/debug_logs/
+*.log
+*.fdb_latexmk
+panchangam/event_rules.json
+panchangam/kanchi_aradhana_prathama.json
