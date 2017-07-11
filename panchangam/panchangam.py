@@ -225,7 +225,7 @@ class panchangam:
         last_lunar_month = None
         for d in range(1, MAX_SZ - 1):
             # Assign lunar_month for each day
-            if self.tithi_sunrise[d] == 1:
+            if self.tithi_sunrise[d] == 1 and self.tithi_sunrise[d - 1] != 1:
                 for i in range(last_month_change, d):
                     if (self.solar_month[d] == last_lunar_month):
                         self.lunar_month[i] = self.solar_month[d] % 12 + 0.5
