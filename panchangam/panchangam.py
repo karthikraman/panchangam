@@ -874,7 +874,7 @@ class panchangam:
                                     (d >= self.lunar_month.index(1)) - fest_start_year + 1
 
                         if fest_num is not None and fest_num < 0:
-                            print('Festival %s is only in the future!' % festival_name)
+                            sys.stderr.write('Festival %s is only in the future!\n' % festival_name)
                             return
 
                         if fest_num is not None:
@@ -910,7 +910,7 @@ class panchangam:
                                 (d >= self.lunar_month.index(1)) - fest_start_year + 1
 
                     if fest_num is not None and fest_num < 0:
-                        print('Festival %s is only in the future!' % festival_name)
+                        sys.stderr.write('Festival %s is only in the future!\n' % festival_name)
                         return
 
                     if fest_num is not None:
