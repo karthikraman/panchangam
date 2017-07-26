@@ -269,7 +269,7 @@ def main():
         sys.stderr.write('Loaded pre-computed panchangam from %s.\n' % fname)
     elif os.path.isfile(fname_det):
         # Load pickle, do not compute!
-        with open(fname, 'rb') as f:
+        with open(fname_det, 'rb') as f:
             Panchangam = pickle.load(f)
         sys.stderr.write('Loaded pre-computed panchangam from %s.\n' % fname)
     else:
