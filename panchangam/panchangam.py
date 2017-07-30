@@ -1627,12 +1627,62 @@ class panchangam:
                             uid_list.append(uid)
                         event.add('uid', uid)
                         self.ics_calendar.add_component(event)
+                    elif not stext.find('samApanam') == -1:
+                        # It's an ending event
+                        check_d = d
+                        stext_start = stext.replace('samApanam', 'ArambhaH')
+                        print(stext_start)
+                        while check_d > 1:
+                            check_d -= 1
+                            if stext_start in self.festivals[check_d]:
+                                print(self.festivals[check_d])
+                                start_d = check_d
+                                break
+
+                        event = Event()
+                        event.add('summary', tr(stext.replace('~', ' '), self.script))
+                        fest_num_loc = stext.find('#')
+                        if not fest_num_loc == -1:
+                            stext = stext[:fest_num_loc - 2]  # Two more chars dropped, ~\
+                        event.add('dtstart', (datetime(y, m, dt) - timedelta(d - start_d)).date())
+                        event.add('dtend', (datetime(y, m, dt) + timedelta(1)).date())
+
+                        stext_iast = str(transliterate(stext, 'harvardkyoto', 'iast'), 'utf8')
+                        page_id = romanise(stext_iast).replace('/', '-').strip('-')
+
+                        desc = ''
+                        if stext in festival_rules:
+                            desc = festival_rules[stext]['Short Description'] + '\n\n' +\
+                                tr(festival_rules[stext]['Shloka'], self.script, False) +\
+                                '\n\n'
+                        else:
+                            sys.stderr.write('No description found for festival %s!\n' % stext)
+                        desc += "http://adyatithi.wordpress.com/" +\
+                            page_id.rstrip('-1234567890').rstrip('0123456789{}\\#')
+                        # print(event)
+                        alarm = Alarm()
+                        alarm.add('action', 'DISPLAY')
+                        alarm.add('trigger', timedelta(hours=-4))
+                        event.add_component(alarm)
+                        event.add('description', desc.strip())
+                        uid = '%s-%d-%02d' % (page_id, y, m)
+                        if uid not in uid_list:
+                            uid_list.append(uid)
+                        else:
+                            uid = '%s-%d-%02d-%02d' % (page_id, y, m, dt)
+                            uid_list.append(uid)
+                        event.add('uid', uid)
+                        event['X-MICROSOFT-CDO-ALLDAYEVENT'] = 'TRUE'
+                        event['TRANSP'] = 'TRANSPARENT'
+                        event['X-MICROSOFT-CDO-BUSYSTATUS'] = 'FREE'
+                        self.ics_calendar.add_component(event)
+
                     else:
                         event = Event()
                         event.add('summary', tr(stext.replace('~', ' '), self.script))
                         fest_num_loc = stext.find('#')
                         if not fest_num_loc == -1:
-                            stext = stext[:fest_num_loc - 2] # Two more chars dropped, ~\
+                            stext = stext[:fest_num_loc - 2]  # Two more chars dropped, ~\
                         event.add('dtstart', date(y, m, dt))
                         event.add('dtend', (datetime(y, m, dt) + timedelta(1)).date())
 

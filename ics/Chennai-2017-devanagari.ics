@@ -828,7 +828,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:श्यामळानवरात्रि समापनम
  ्
-DTSTART;VALUE=DATE:20170205
+DTSTART;VALUE=DATE:20170128
 DTEND;VALUE=DATE:20170206
 UID:shyamalanavaratri-samapanam-2017-02
 DESCRIPTION:http://adyatithi.wordpress.com/shyamalanavaratri-samapanam
@@ -2228,7 +2228,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:वसन्तनवरात्रि समापनम्
-DTSTART;VALUE=DATE:20170405
+DTSTART;VALUE=DATE:20170328
 DTEND;VALUE=DATE:20170406
 UID:vasantanavaratri-samapanam-2017-04
 DESCRIPTION:http://adyatithi.wordpress.com/vasantanavaratri-samapanam
@@ -3680,7 +3680,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:अग्निनक्षत्र-समापनम्
-DTSTART;VALUE=DATE:20170529
+DTSTART;VALUE=DATE:20170504
 DTEND;VALUE=DATE:20170530
 UID:agninakshatra-samapanam-2017-05
 DESCRIPTION:http://adyatithi.wordpress.com/agninakshatra-samapanam
@@ -4866,7 +4866,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:वाराही नवरात्रि समापनम्
-DTSTART;VALUE=DATE:20170702
+DTSTART;VALUE=DATE:20170624
 DTEND;VALUE=DATE:20170703
 UID:varahi-navaratri-samapanam-2017-07
 DESCRIPTION:http://adyatithi.wordpress.com/varahi-navaratri-samapanam
@@ -7437,7 +7437,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:चातुर्मासस्यव्रत समापन
  म्
-DTSTART;VALUE=DATE:20170906
+DTSTART;VALUE=DATE:20170709
 DTEND;VALUE=DATE:20170907
 UID:chaturmasasyavrata-samapanam-2017-09
 DESCRIPTION:http://adyatithi.wordpress.com/chaturmasasyavrata-samapanam
@@ -7678,7 +7678,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:महालक्ष्मी व्रत समापनम्
-DTSTART;VALUE=DATE:20170912
+DTSTART;VALUE=DATE:20170829
 DTEND;VALUE=DATE:20170913
 UID:mahalakshmi-vrata-samapanam-2017-09
 DESCRIPTION:http://adyatithi.wordpress.com/mahalakshmi-vrata-samapanam
@@ -8035,7 +8035,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:महालय-पक्ष समापनम्
-DTSTART;VALUE=DATE:20170920
+DTSTART;VALUE=DATE:20170907
 DTEND;VALUE=DATE:20170921
 UID:mahalaya-paksha-samapanam-2017-09
 DESCRIPTION:http://adyatithi.wordpress.com/mahalaya-paksha-samapanam
@@ -8425,7 +8425,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:शरन्नवरात्रि समापनम्
-DTSTART;VALUE=DATE:20170929
+DTSTART;VALUE=DATE:20170921
 DTEND;VALUE=DATE:20170930
 UID:sharannavaratri-samapanam-2017-09
 DESCRIPTION:http://adyatithi.wordpress.com/sharannavaratri-samapanam
@@ -9730,7 +9730,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:चातुर्मासस्य समापनम्
-DTSTART;VALUE=DATE:20171101
+DTSTART;VALUE=DATE:20170704
 DTEND;VALUE=DATE:20171102
 UID:chaturmasasya-samapanam-2017-11
 DESCRIPTION:http://adyatithi.wordpress.com/chaturmasasya-samapanam
