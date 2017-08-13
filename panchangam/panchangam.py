@@ -1638,11 +1638,11 @@ class panchangam:
                         # It's an ending event
                         check_d = d
                         stext_start = stext.replace('samApanam', 'ArambhaH')
-                        print(stext_start)
+                        # print(stext_start)
                         while check_d > 1:
                             check_d -= 1
                             if stext_start in self.festivals[check_d]:
-                                print(self.festivals[check_d])
+                                # print(self.festivals[check_d])
                                 start_d = check_d
                                 break
 
@@ -1664,8 +1664,7 @@ class panchangam:
                                 '\n\n'
                         else:
                             sys.stderr.write('No description found for festival %s!\n' % stext)
-                        desc += BASE_URL +\
-                            page_id.rstrip('-1234567890').rstrip('0123456789{}\\#')
+                        desc += BASE_URL + page_id.rstrip('-1234567890').rstrip('0123456789{}\\#')
                         # print(event)
                         event.add_component(alarm)
                         event.add('description', desc.strip())
