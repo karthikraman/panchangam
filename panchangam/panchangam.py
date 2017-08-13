@@ -1583,6 +1583,13 @@ class panchangam:
 
         self.ics_calendar = Calendar()
         uid_list = []
+
+        alarm = Alarm()
+        alarm.add('action', 'DISPLAY')
+        alarm.add('trigger', timedelta(hours=-4))
+
+        BASE_URL = "http://adyatithi.wordpress.com/"
+
         for d in range(1, MAX_SZ - 1):
             [y, m, dt, t] = swe.revjul(self.jd_start + d - 1)
 
@@ -1617,7 +1624,7 @@ class panchangam:
                                 tr(festival_rules[stext]['Shloka'], self.script, False) + '\n\n'
                         else:
                             sys.stderr.write('No description found for festival %s!\n' % stext)
-                        desc += "http://adyatithih.wordpress.com/" + page_id
+                        desc += BASE_URL + page_id
                         event.add('description', desc.strip())
                         uid = '%s-%d-%02d' % (page_id, y, m)
                         if uid not in uid_list:
@@ -1657,12 +1664,9 @@ class panchangam:
                                 '\n\n'
                         else:
                             sys.stderr.write('No description found for festival %s!\n' % stext)
-                        desc += "http://adyatithih.wordpress.com/" +\
+                        desc += BASE_URL +\
                             page_id.rstrip('-1234567890').rstrip('0123456789{}\\#')
                         # print(event)
-                        alarm = Alarm()
-                        alarm.add('action', 'DISPLAY')
-                        alarm.add('trigger', timedelta(hours=-4))
                         event.add_component(alarm)
                         event.add('description', desc.strip())
                         uid = '%s-%d-%02d' % (page_id, y, m)
@@ -1697,7 +1701,7 @@ class panchangam:
                                     '\n\n'
                             else:
                                 sys.stderr.write('No description found for festival %s!\n' % stext)
-                            desc += "http://adyatithih.wordpress.com/" +\
+                            desc += BASE_URL +\
                                 page_id.rstrip('-1234567890').rstrip('0123456789{}\\#')
                         else:
                             # Handle ekadashi descriptions differently
@@ -1710,14 +1714,10 @@ class panchangam:
                             desc += '\n'
 
                         if page_id.find('ekadashi') != -1:
-                            ekad = '-'.join(page_id.split('-')[1:-1])
+                            ekad = '-'.join(page_id.split('-')[1:])
                             # Skipping first split, which must be sarva/smarta/vaishnava
-                            # Also skipping last, which is "ekadashi"
-                            desc += "http://adyatithih.wordpress.com/" + ekad + "-ekadashi"
+                            desc += BASE_URL + ekad
                         # print(page_id)
-                        alarm = Alarm()
-                        alarm.add('action', 'DISPLAY')
-                        alarm.add('trigger', timedelta(hours=-4))
                         event.add_component(alarm)
                         event.add('description', desc.strip())
                         uid = '%s-%d-%02d' % (page_id, y, m)
