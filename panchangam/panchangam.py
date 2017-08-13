@@ -1593,7 +1593,7 @@ class panchangam:
                 summary_text = self.festivals[d]
                 # this will work whether we have one or more events on the same day
                 for stext in sorted(summary_text):
-                    if not stext.find('RIGHTarrow') == -1:
+                    if stext.find('RIGHTarrow') != -1:
                         # It's a grahanam/yogam, with a start and end time
                         if stext.find('{}') != -1:
                             # Starting or ending time is empty, e.g. harivasara, so no ICS entry
@@ -1627,7 +1627,7 @@ class panchangam:
                             uid_list.append(uid)
                         event.add('uid', uid)
                         self.ics_calendar.add_component(event)
-                    elif not stext.find('samApanam') == -1:
+                    elif stext.find('samApanam') != -1:
                         # It's an ending event
                         check_d = d
                         stext_start = stext.replace('samApanam', 'ArambhaH')
@@ -1642,7 +1642,7 @@ class panchangam:
                         event = Event()
                         event.add('summary', tr(stext.replace('~', ' '), self.script))
                         fest_num_loc = stext.find('#')
-                        if not fest_num_loc == -1:
+                        if fest_num_loc != -1:
                             stext = stext[:fest_num_loc - 2]  # Two more chars dropped, ~\
                         event.add('dtstart', (datetime(y, m, dt) - timedelta(d - start_d)).date())
                         event.add('dtend', (datetime(y, m, dt) + timedelta(1)).date())
@@ -1681,7 +1681,7 @@ class panchangam:
                         event = Event()
                         event.add('summary', tr(stext.replace('~', ' '), self.script))
                         fest_num_loc = stext.find('#')
-                        if not fest_num_loc == -1:
+                        if fest_num_loc != -1:
                             stext = stext[:fest_num_loc - 2]  # Two more chars dropped, ~\
                         event.add('dtstart', date(y, m, dt))
                         event.add('dtend', (datetime(y, m, dt) + timedelta(1)).date())
