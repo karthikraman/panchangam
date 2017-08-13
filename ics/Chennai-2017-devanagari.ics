@@ -10274,14 +10274,12 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:कृत्तिका मण्डल पारायण आर
- म्भः
+SUMMARY:कृत्तिका मण्डल पारायणम्
 DTSTART;VALUE=DATE:20171116
-DTEND;VALUE=DATE:20171117
-UID:krittika-mandala-parayana-arambha-2017-11
+DTEND;VALUE=DATE:20180103
+UID:krittika-mandala-parayanam-2017
 DESCRIPTION:Conduct veda parayanam in the evening\, on one of these 48 day
- s.\n\n\n\nhttp://adyatithih.wordpress.com/krittika-mandala-parayana-arambh
- a
+ s.\n\n\n\nhttp://adyatithih.wordpress.com/krittika-mandala-parayanam
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE

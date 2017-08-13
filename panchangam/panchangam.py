@@ -1602,7 +1602,37 @@ class panchangam:
                     desc = ''
                     page_id = ''
                     event = Event()
-                    if stext.find('RIGHTarrow') != -1:
+                    if stext == 'kRttikA~maNDala~pArAyaNam':
+                        event.add('summary', tr(stext.replace('~', ' '), self.script))
+                        fest_num_loc = stext.find('#')
+                        if fest_num_loc != -1:
+                            stext = stext[:fest_num_loc - 2]  # Two more chars dropped, ~\
+                        event.add('dtstart', date(y, m, dt))
+                        event.add('dtend', (datetime(y, m, dt) + timedelta(48)).date())
+
+                        if stext in festival_rules:
+                            desc = festival_rules[stext]['Short Description'] + '\n\n' +\
+                                tr(festival_rules[stext]['Shloka'], self.script, False) +\
+                                '\n\n'
+                            if 'URL' in festival_rules[stext]:
+                                page_id = festival_rules[stext]['URL']
+                            else:
+                                sys.stderr.write('No URL found for festival %s!\n' % stext)
+                        else:
+                            sys.stderr.write('No description found for festival %s!\n' % stext)
+                        desc += BASE_URL +\
+                            page_id.rstrip('-1234567890').rstrip('0123456789{}\\#')
+                        uid = '%s-%d' % (page_id, y)
+
+                        event.add_component(alarm)
+                        event.add('description', desc.strip())
+                        uid_list.append(uid)
+                        event.add('uid', uid)
+                        event['X-MICROSOFT-CDO-ALLDAYEVENT'] = 'TRUE'
+                        event['TRANSP'] = 'TRANSPARENT'
+                        event['X-MICROSOFT-CDO-BUSYSTATUS'] = 'FREE'
+                        self.ics_calendar.add_component(event)
+                    elif stext.find('RIGHTarrow') != -1:
                         # It's a grahanam/yogam, with a start and end time
                         if stext.find('{}') != -1:
                             # Starting or ending time is empty, e.g. harivasara, so no ICS entry
@@ -1648,21 +1678,8 @@ class panchangam:
                         self.ics_calendar.add_component(event)
                     elif stext.find('samApanam') != -1:
                         # It's an ending event
-                        check_d = d
-                        stext_start = stext.replace('samApanam', 'ArambhaH')
-                        # print(stext_start)
-                        while check_d > 1:
-                            check_d -= 1
-                            if stext_start in self.festivals[check_d]:
-                                # print(self.festivals[check_d])
-                                start_d = check_d
-                                break
-
                         event.add('summary', tr(stext.replace('~', ' '), self.script))
-                        fest_num_loc = stext.find('#')
-                        if fest_num_loc != -1:
-                            stext = stext[:fest_num_loc - 2]  # Two more chars dropped, ~\
-                        event.add('dtstart', (datetime(y, m, dt) - timedelta(d - start_d)).date())
+                        event.add('dtstart', date(y, m, dt))
                         event.add('dtend', (datetime(y, m, dt) + timedelta(1)).date())
 
                         if stext in festival_rules:
@@ -1675,6 +1692,41 @@ class panchangam:
                                 sys.stderr.write('No URL found for festival %s!\n' % stext)
                         else:
                             sys.stderr.write('No description found for festival %s!\n' % stext)
+
+                        desc += BASE_URL + page_id.rstrip('-1234567890').rstrip('0123456789{}\\#')
+                        # print(event)
+                        event.add_component(alarm)
+                        event.add('description', desc.strip())
+                        uid = '%s-%d-%02d' % (page_id, y, m)
+                        if uid not in uid_list:
+                            uid_list.append(uid)
+                        else:
+                            uid = '%s-%d-%02d-%02d' % (page_id, y, m, dt)
+                            uid_list.append(uid)
+                        event.add('uid', uid)
+                        event['X-MICROSOFT-CDO-ALLDAYEVENT'] = 'TRUE'
+                        event['TRANSP'] = 'TRANSPARENT'
+                        event['X-MICROSOFT-CDO-BUSYSTATUS'] = 'FREE'
+                        self.ics_calendar.add_component(event)
+
+                        # Find start and add entire event as well
+                        desc = ''
+                        page_id = page_id.replace('-samapanam','')
+                        event = Event()
+                        check_d = d
+                        stext_start = stext.replace('samApanam', 'ArambhaH')
+                        # print(stext_start)
+                        while check_d > 1:
+                            check_d -= 1
+                            if stext_start in self.festivals[check_d]:
+                                # print(self.festivals[check_d])
+                                start_d = check_d
+                                break
+
+                        event.add('summary', tr(stext.replace('samApanam','').replace('~', ' '), self.script))
+                        event.add('dtstart', (datetime(y, m, dt) - timedelta(d - start_d)).date())
+                        event.add('dtend', (datetime(y, m, dt) + timedelta(1)).date())
+
                         desc += BASE_URL + page_id.rstrip('-1234567890').rstrip('0123456789{}\\#')
                         # print(event)
                         event.add_component(alarm)
