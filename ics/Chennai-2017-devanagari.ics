@@ -1259,10 +1259,9 @@ SUMMARY:काञ्ची जगद्गुरु श्री शङ्
  ती \\#{49}
 DTSTART;VALUE=DATE:20170223
 DTEND;VALUE=DATE:20170224
-UID:kanchi-jagadguru-shri-shri-shankara-vijayendra-sarasvati-jayanti-2017-
- 02
-DESCRIPTION:http://adyatithih.wordpress.com/kanchi-jagadguru-shri-shri-sha
- nkara-vijayendra-sarasvati-jayanti
+UID:kanchi-jagadguru-shri-shankara-vijayendra-sarasvati-jayanti-2017-02
+DESCRIPTION:http://adyatithih.wordpress.com/kanchi-jagadguru-shri-shankara
+ -vijayendra-sarasvati-jayanti
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -2493,7 +2492,7 @@ BEGIN:VEVENT
 SUMMARY:श्री हनूमत् जयन्ती
 DTSTART;VALUE=DATE:20170411
 DTEND;VALUE=DATE:20170412
-UID:shri-hanumat-jayanti-2017-04
+UID:shri-hanumat-jayanti-2-2017-04
 DESCRIPTION:Hanuman born from Kaikeyi part of Payasam taken by Vulture and
   eaten by Anjana Devi\n\n\n\nhttp://adyatithih.wordpress.com/shri-hanumat-
  jayanti
@@ -2649,7 +2648,7 @@ BEGIN:VEVENT
 SUMMARY:स्मार्त वरूथिनी एकादशी
 DTSTART;VALUE=DATE:20170422
 DTEND;VALUE=DATE:20170423
-UID:smArta-varuthini-ekadashi-2017-04
+UID:smarta-varuthini-ekadashi-2017-04
 DESCRIPTION:http://adyatithih.wordpress.com/varuthini-ekadashi
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -2693,7 +2692,7 @@ BEGIN:VEVENT
 SUMMARY:वैष्णव वरूथिनी एकादशी
 DTSTART;VALUE=DATE:20170423
 DTEND;VALUE=DATE:20170424
-UID:vaiSNava-varuthini-ekadashi-2017-04
+UID:vaishnava-varuthini-ekadashi-2017-04
 DESCRIPTION:http://adyatithih.wordpress.com/varuthini-ekadashi
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -4106,10 +4105,9 @@ SUMMARY:काञ्ची जगद्गुरु श्री चन्
  ती \\#{124}
 DTSTART;VALUE=DATE:20170608
 DTEND;VALUE=DATE:20170609
-UID:kanchi-jagadguru-shri-shri-chandrashekharendra-sarasvati-jayanti-2017-
- 06
-DESCRIPTION:http://adyatithih.wordpress.com/kanchi-jagadguru-shri-shri-cha
- ndrashekharendra-sarasvati-jayanti
+UID:kanchi-jagadguru-shri-chandrashekharendra-sarasvati-jayanti-2017-06
+DESCRIPTION:http://adyatithih.wordpress.com/kanchi-jagadguru-shri-chandras
+ hekharendra-sarasvati-jayanti
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -6243,9 +6241,9 @@ SUMMARY:काञ्ची जगद्गुरु श्री जये
  न्द्र सरस्वती जयन्ती \\#{83}
 DTSTART;VALUE=DATE:20170808
 DTEND;VALUE=DATE:20170809
-UID:kanchi-jagadguru-shri-shri-jayendra-sarasvati-jayanti-2017-08
-DESCRIPTION:http://adyatithih.wordpress.com/kanchi-jagadguru-shri-shri-jay
- endra-sarasvati-jayanti
+UID:kanchi-jagadguru-shri-jayendra-sarasvati-jayanti-2017-08
+DESCRIPTION:http://adyatithih.wordpress.com/kanchi-jagadguru-shri-jayendra
+ -sarasvati-jayanti
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -7706,14 +7704,13 @@ SUMMARY:शृङ्गेरी 35 जगद्गुरु श्री
  ी आराधना
 DTSTART;VALUE=DATE:20170912
 DTEND;VALUE=DATE:20170913
-UID:shringeri-35-jagadguru-shri-shri-abhinava-vidyatirtha-mahasvami-aradha
- na-2017-09
+UID:shringeri-35-jagadguru-shri-abhinava-vidyatirtha-mahasvami-aradhana-20
+ 17-09
 DESCRIPTION:विवेकिनं महाप्राज्ञ्य
  ं धैर्यौदार्यक्षमानिधिम् ।
  \nसदाऽभिनवपूर्वं तं विद्यात
  ीर्थगुरुं भजे ॥\n\nhttp://adyatithih.wordpress.c
- om/shringeri-35-jagadguru-shri-shri-abhinava-vidyatirtha-mahasvami-aradhan
- a
+ om/shringeri-35-jagadguru-shri-abhinava-vidyatirtha-mahasvami-aradhana
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -7946,9 +7943,9 @@ SUMMARY:श्री बोधेन्द्र सरस्वती आ
  राधना
 DTSTART;VALUE=DATE:20170917
 DTEND;VALUE=DATE:20170918
-UID:shri-shri-bodhendra-sarasvati-aradhana-2017-09
-DESCRIPTION:http://adyatithih.wordpress.com/shri-shri-bodhendra-sarasvati-
- aradhana
+UID:shri-bodhendra-sarasvati-aradhana-2017-09
+DESCRIPTION:http://adyatithih.wordpress.com/shri-bodhendra-sarasvati-aradh
+ ana
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -8078,13 +8075,12 @@ SUMMARY:शृङ्गेरी 34 जगद्गुरु श्री
  चन्द्रशेखर भारती आराधना
 DTSTART;VALUE=DATE:20170920
 DTEND;VALUE=DATE:20170921
-UID:shringeri-34-jagadguru-shri-shri-chandrashekhara-bharati-aradhana-2017
- -09
+UID:shringeri-34-jagadguru-shri-chandrashekhara-bharati-aradhana-2017-09
 DESCRIPTION:सदाऽऽत्मध्याननिरतं वि
  षयेभ्यः परङ्मुखम् ।\nनौमि शा
  स्त्रेषु निष्णातं चन्द्रशे
  खरभारतीम् ॥\n\nhttp://adyatithih.wordpress.com/shringe
- ri-34-jagadguru-shri-shri-chandrashekhara-bharati-aradhana
+ ri-34-jagadguru-shri-chandrashekhara-bharati-aradhana
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -9133,13 +9129,12 @@ SUMMARY:शृङ्गेरी 34 जगद्गुरु श्री
  चन्द्रशेखर भारती जयन्ती
 DTSTART;VALUE=DATE:20171015
 DTEND;VALUE=DATE:20171016
-UID:shringeri-34-jagadguru-shri-shri-chandrashekhara-bharati-jayanti-2017-
- 10
+UID:shringeri-34-jagadguru-shri-chandrashekhara-bharati-jayanti-2017-10
 DESCRIPTION:सदाऽऽत्मध्याननिरतं वि
  षयेभ्यः परङ्मुखम् ।\nनौमि शा
  स्त्रेषु निष्णातं चन्द्रशे
  खरभारतीम् ॥\n\nhttp://adyatithih.wordpress.com/shringe
- ri-34-jagadguru-shri-shri-chandrashekhara-bharati-jayanti
+ ri-34-jagadguru-shri-chandrashekhara-bharati-jayanti
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -9363,13 +9358,13 @@ SUMMARY:शृङ्गेरी 35 जगद्गुरु श्री
  ी जयन्ती
 DTSTART;VALUE=DATE:20171018
 DTEND;VALUE=DATE:20171019
-UID:shringeri-35-jagadguru-shri-shri-abhinava-vidyatirtha-mahasvami-jayant
- i-2017-10
+UID:shringeri-35-jagadguru-shri-abhinava-vidyatirtha-mahasvami-jayanti-201
+ 7-10
 DESCRIPTION:विवेकिनं महाप्राज्ञ्य
  ं धैर्यौदार्यक्षमानिधिम् ।
  \nसदाऽभिनवपूर्वं तं विद्यात
  ीर्थगुरुं भजे ॥\n\nhttp://adyatithih.wordpress.c
- om/shringeri-35-jagadguru-shri-shri-abhinava-vidyatirtha-mahasvami-jayanti
+ om/shringeri-35-jagadguru-shri-abhinava-vidyatirtha-mahasvami-jayanti
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -10975,7 +10970,7 @@ BEGIN:VEVENT
 SUMMARY:श्री हनूमत् जयन्ती
 DTSTART;VALUE=DATE:20171218
 DTEND;VALUE=DATE:20171219
-UID:shri-hanumat-jayanti-2017-12
+UID:shri-hanumat-jayanti-1-2017-12
 DESCRIPTION:http://adyatithih.wordpress.com/shri-hanumat-jayanti
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
