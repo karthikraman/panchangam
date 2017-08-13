@@ -9365,11 +9365,11 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:आश्विन अमावस्या
+SUMMARY:आश्वयुज अमावस्या
 DTSTART;VALUE=DATE:20171019
 DTEND;VALUE=DATE:20171020
-UID:ashvina-amavasya-2017-10
-DESCRIPTION:http://adyatithi.wordpress.com/ashvina-amavasya
+UID:ashvayuja-amavasya-2017-10
+DESCRIPTION:http://adyatithi.wordpress.com/ashvayuja-amavasya
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
