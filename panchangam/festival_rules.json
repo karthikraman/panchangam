@@ -1347,13 +1347,13 @@
     "Primary Reference": "Vrata Chudamani 173",
     "Comments": ""
   },
-  "cAturmAsasya~ArambhaH": {
+  "cAturmAsya~ArambhaH": {
     "Month Type": "lunar_month",
     "Month Number": 4,
     "Angam Type": "tithi",
     "Angam Number": 11,
     "Tags": "vratam-start,special-period-start",
-    "URL": "chaturmasasya-arambha",
+    "URL": "chaturmasya-arambha",
     "Short Description": "Chaaturmasya begins; 4 months; Pradakshina to Pippala; Deeparadhana in temple; Saraswati Pooja;1st month no vegetables; 2nd month no curds; 3rd month no milk; 4th month no dals;",
     "Shloka": "",
     "Other Names": "",
@@ -1426,13 +1426,13 @@
     "Primary Reference": "",
     "Comments": ""
   },
-  "cAturmAsasyavrata~ArambhaH": {
+  "cAturmAsyavrata~ArambhaH": {
     "Month Type": "lunar_month",
     "Month Number": 4,
     "Angam Type": "tithi",
     "Angam Number": 15,
     "Tags": "vratam-start,special-period-start",
-    "URL": "chaturmasasyavrata-arambha",
+    "URL": "chaturmasyavrata-arambha",
     "Short Description": "",
     "Shloka": "",
     "Other Names": "",
@@ -2360,13 +2360,13 @@
     "Primary Reference": "",
     "Comments": ""
   },
-  "cAturmAsasyavrata~samApanam": {
+  "cAturmAsyavrata~samApanam": {
     "Month Type": "lunar_month",
     "Month Number": 6,
     "Angam Type": "tithi",
     "Angam Number": 15,
     "Tags": "special-period-end,vratam-end,common-festivals",
-    "URL": "chaturmasasyavrata-samapanam",
+    "URL": "chaturmasyavrata-samapanam",
     "Short Description": "",
     "Shloka": "",
     "Other Names": "",
@@ -3824,13 +3824,13 @@
     "Primary Reference": "",
     "Comments": ""
   },
-  "cAturmAsasya~samApanam": {
+  "cAturmAsya~samApanam": {
     "Month Type": "lunar_month",
     "Month Number": 8,
     "Angam Type": "tithi",
     "Angam Number": 12,
     "Tags": "special-period-end",
-    "URL": "chaturmasasya-samapanam",
+    "URL": "chaturmasya-samapanam",
     "Short Description": "",
     "Shloka": "",
     "Other Names": "",
