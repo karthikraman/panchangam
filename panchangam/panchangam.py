@@ -1586,7 +1586,7 @@ class panchangam:
 
         alarm = Alarm()
         alarm.add('action', 'DISPLAY')
-        alarm.add('trigger', timedelta(hours=-4))
+        alarm.add('trigger', timedelta(hours=-4))  # default alarm, with a 4 hour reminder
 
         BASE_URL = "http://adyatithih.wordpress.com/"
 
@@ -1596,16 +1596,17 @@ class panchangam:
             if len(self.festivals[d]) > 0:
                 # Eliminate repeat festivals on the same day, and keep the list arbitrarily sorted
                 self.festivals[d] = sorted(list(set(self.festivals[d])))
-
                 summary_text = self.festivals[d]
                 # this will work whether we have one or more events on the same day
                 for stext in sorted(summary_text):
+                    desc = ''
+                    page_id = ''
+                    event = Event()
                     if stext.find('RIGHTarrow') != -1:
                         # It's a grahanam/yogam, with a start and end time
                         if stext.find('{}') != -1:
                             # Starting or ending time is empty, e.g. harivasara, so no ICS entry
                             continue
-                        event = Event()
                         [stext, t1, arrow, t2] = stext.split('\\')
                         stext = stext.strip('~')
                         event.add('summary', tr(stext, self.script))
@@ -1616,14 +1617,16 @@ class panchangam:
                         event.add('dtend', datetime(y, m, dt, int(t2[7:9]), int(
                             t2[10:12]), tzinfo=tz(self.city.timezone)))
 
-                        stext_iast = str(transliterate(stext, 'harvardkyoto', 'iast'), 'utf8')
-                        page_id = romanise(stext_iast).strip('-')
-                        desc = ''
                         if stext in festival_rules:
                             desc = festival_rules[stext]['Short Description'] + '\n\n' +\
                                 tr(festival_rules[stext]['Shloka'], self.script, False) + '\n\n'
+                            if 'URL' in festival_rules[stext]:
+                                page_id = festival_rules[stext]['URL']
+                            else:
+                                sys.stderr.write('No URL found for festival %s!\n' % stext)
                         else:
                             sys.stderr.write('No description found for festival %s!\n' % stext)
+
                         desc += BASE_URL + page_id
                         event.add('description', desc.strip())
                         uid = '%s-%d-%02d' % (page_id, y, m)
@@ -1633,6 +1636,7 @@ class panchangam:
                             uid = '%s-%d-%02d-%02d' % (page_id, y, m, dt)
                             uid_list.append(uid)
                         event.add('uid', uid)
+                        event.add_component(alarm)
                         self.ics_calendar.add_component(event)
                     elif stext.find('samApanam') != -1:
                         # It's an ending event
@@ -1646,7 +1650,6 @@ class panchangam:
                                 start_d = check_d
                                 break
 
-                        event = Event()
                         event.add('summary', tr(stext.replace('~', ' '), self.script))
                         fest_num_loc = stext.find('#')
                         if fest_num_loc != -1:
@@ -1654,14 +1657,14 @@ class panchangam:
                         event.add('dtstart', (datetime(y, m, dt) - timedelta(d - start_d)).date())
                         event.add('dtend', (datetime(y, m, dt) + timedelta(1)).date())
 
-                        stext_iast = str(transliterate(stext, 'harvardkyoto', 'iast'), 'utf8')
-                        page_id = romanise(stext_iast).replace('/', '-').strip('-')
-
-                        desc = ''
                         if stext in festival_rules:
                             desc = festival_rules[stext]['Short Description'] + '\n\n' +\
                                 tr(festival_rules[stext]['Shloka'], self.script, False) +\
                                 '\n\n'
+                            if 'URL' in festival_rules[stext]:
+                                page_id = festival_rules[stext]['URL']
+                            else:
+                                sys.stderr.write('No URL found for festival %s!\n' % stext)
                         else:
                             sys.stderr.write('No description found for festival %s!\n' % stext)
                         desc += BASE_URL + page_id.rstrip('-1234567890').rstrip('0123456789{}\\#')
@@ -1681,7 +1684,6 @@ class panchangam:
                         self.ics_calendar.add_component(event)
 
                     else:
-                        event = Event()
                         event.add('summary', tr(stext.replace('~', ' '), self.script))
                         fest_num_loc = stext.find('#')
                         if fest_num_loc != -1:
@@ -1689,37 +1691,37 @@ class panchangam:
                         event.add('dtstart', date(y, m, dt))
                         event.add('dtend', (datetime(y, m, dt) + timedelta(1)).date())
 
-                        stext_iast = str(transliterate(stext, 'harvardkyoto', 'iast'), 'utf8')
-                        page_id = romanise(stext_iast).replace('/', '-').strip('-')
-
-                        desc = ''
                         if stext.find('EkAdazI') == -1:
                             if stext in festival_rules:
                                 desc = festival_rules[stext]['Short Description'] + '\n\n' +\
                                     tr(festival_rules[stext]['Shloka'], self.script, False) +\
                                     '\n\n'
+                                if 'URL' in festival_rules[stext]:
+                                    page_id = festival_rules[stext]['URL']
+                                else:
+                                    sys.stderr.write('No URL found for festival %s!\n' % stext)
                             else:
                                 sys.stderr.write('No description found for festival %s!\n' % stext)
                             desc += BASE_URL +\
                                 page_id.rstrip('-1234567890').rstrip('0123456789{}\\#')
+                            uid = '%s-%d-%02d' % (page_id, y, m)
                         else:
                             # Handle ekadashi descriptions differently
                             ekad = '~'.join(stext.split('~')[1:])  # get rid of sarva etc. prefix!
                             if ekad in festival_rules:
                                 desc = festival_rules[ekad]['Short Description'] + '\n\n' +\
                                     tr(festival_rules[ekad]['Shloka'], self.script) + '\n\n'
+                                if 'URL' in festival_rules[ekad]:
+                                    page_id = festival_rules[ekad]['URL']
+                                else:
+                                    sys.stderr.write('No URL found for festival %s!\n' % stext)
                             else:
                                 sys.stderr.write('No description found for festival %s!\n' % ekad)
-                            desc += '\n'
-
-                        if page_id.find('ekadashi') != -1:
-                            ekad = '-'.join(page_id.split('-')[1:])
-                            # Skipping first split, which must be sarva/smarta/vaishnava
-                            desc += BASE_URL + ekad
+                            desc += '\n' + BASE_URL + page_id
+                            uid = '%s-%d-%02d' % (stext.split('~')[0]+ "-" + page_id, y, m)
                         # print(page_id)
                         event.add_component(alarm)
                         event.add('description', desc.strip())
-                        uid = '%s-%d-%02d' % (page_id, y, m)
                         if uid not in uid_list:
                             uid_list.append(uid)
                         else:

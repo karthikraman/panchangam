@@ -3,9 +3,9 @@ BEGIN:VEVENT
 SUMMARY:உந்து மதக்களிற்றன்{}
 DTSTART;VALUE=DATE:20170102
 DTEND;VALUE=DATE:20170103
-UID:ta:undu-madakkalir2r2an2{}-2017-01
+UID:ta:undu-madakkalirran-2017-01
 DESCRIPTION:Offer naivedyam of `citrAnnam` (tamarind rice) to Vishnu\n\n\n
- \nhttp://adyatithih.wordpress.com/ta:undu-madakkalir2r2an
+ \nhttp://adyatithih.wordpress.com/ta:undu-madakkalirran
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -33,8 +33,8 @@ SUMMARY:வாயிலார் நாயனார் குருபூ
  ஜை
 DTSTART;VALUE=DATE:20170106
 DTEND;VALUE=DATE:20170107
-UID:ta:vayilar-nayan2ar-gurupujai-2017-01
-DESCRIPTION:http://adyatithih.wordpress.com/ta:vayilar-nayan2ar-gurupujai
+UID:ta:vayilar-nayanar-gurupujai-2017-01
+DESCRIPTION:http://adyatithih.wordpress.com/ta:vayilar-nayanar-gurupujai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -64,8 +64,8 @@ BEGIN:VEVENT
 SUMMARY:मन्वादि (चाक्षुष)
 DTSTART;VALUE=DATE:20170108
 DTEND;VALUE=DATE:20170109
-UID:manvadi-(chakshusha)-2-2017-01
-DESCRIPTION:http://adyatithih.wordpress.com/manvadi-(chakshusha)
+UID:manvadi-chakshusha-2017-01
+DESCRIPTION:http://adyatithih.wordpress.com/manvadi-chakshusha
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -154,14 +154,14 @@ SUMMARY:ஆருத்ரா தரிசனம்/நடராஜர்
  மஹாபிஷேகம்
 DTSTART;VALUE=DATE:20170111
 DTEND;VALUE=DATE:20170112
-UID:ta:arudra-darichan2am-natarajar-mahabhishekam-2017-01
+UID:ta:arudra-darichanam-natarajar-mahabhishekam-2017-01
 DESCRIPTION:Visit Chidambaram to have darshan of Nataraja\, or pray to Nat
  araja\n\nकृपासमुद्रम् सुमुखं त्र
  िनेत्रं सदाशिवं रुद्रमनन्त
  रूपम् ।\nजटाधरं पार्वतिवामभ
  ागं चिदम्बरेशं हृदि भावयाम
- ि ॥\n\nhttp://adyatithih.wordpress.com/ta:arudra-darichan2am-natarajar
- -mahabhishekam
+ ि ॥\n\nhttp://adyatithih.wordpress.com/ta:arudra-darichanam-natarajar-
+ mahabhishekam
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -174,8 +174,8 @@ BEGIN:VEVENT
 SUMMARY:சடைய நாயனார் குருபூஜை
 DTSTART;VALUE=DATE:20170111
 DTEND;VALUE=DATE:20170112
-UID:ta:chadaiya-nayan2ar-gurupujai-2017-01
-DESCRIPTION:http://adyatithih.wordpress.com/ta:chadaiya-nayan2ar-gurupujai
+UID:ta:chadaiya-nayanar-gurupujai-2017-01
+DESCRIPTION:http://adyatithih.wordpress.com/ta:chadaiya-nayanar-gurupujai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -234,9 +234,9 @@ BEGIN:VEVENT
 SUMMARY:கறவைகள் பின்சென்று
 DTSTART;VALUE=DATE:20170112
 DTEND;VALUE=DATE:20170113
-UID:ta:kar2avaigal-pin2chen2r2u-2017-01
+UID:ta:kar2avaigal-pinchenru-2017-01
 DESCRIPTION:Offer naivedyam of `dadhyodanam` to Vishnu\, for Tiruppavai 28
- \n\n\n\nhttp://adyatithih.wordpress.com/ta:kar2avaigal-pin2chen2r2u
+ \n\n\n\nhttp://adyatithih.wordpress.com/ta:kar2avaigal-pinchenru
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -379,8 +379,8 @@ BEGIN:VEVENT
 SUMMARY:கனுப் பொங்கல்
 DTSTART;VALUE=DATE:20170115
 DTEND;VALUE=DATE:20170116
-UID:ta:kan2up-pongal-2017-01
-DESCRIPTION:http://adyatithih.wordpress.com/ta:kan2up-pongal
+UID:ta:kanup-pongal-2017-01
+DESCRIPTION:http://adyatithih.wordpress.com/ta:kanup-pongal
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -424,9 +424,9 @@ SUMMARY:சண்டேஶ்வர நாயனார் குருப
  ூஜை
 DTSTART;VALUE=DATE:20170117
 DTEND;VALUE=DATE:20170118
-UID:ta:chandeshvara-nayan2ar-gurupujai-2017-01
-DESCRIPTION:http://adyatithih.wordpress.com/ta:chandeshvara-nayan2ar-gurup
- ujai
+UID:ta:chandeshvara-nayanar-gurupujai-2017-01
+DESCRIPTION:http://adyatithih.wordpress.com/ta:chandeshvara-nayanar-gurupu
+ jai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -505,9 +505,9 @@ SUMMARY:திருநீலகண்ட நாயனார் குர
  ுபூஜை
 DTSTART;VALUE=DATE:20170122
 DTEND;VALUE=DATE:20170123
-UID:ta:tirunilakantha-nayan2ar-gurupujai-2017-01
-DESCRIPTION:http://adyatithih.wordpress.com/ta:tirunilakantha-nayan2ar-gur
- upujai
+UID:ta:tirunilakantha-nayanar-gurupujai-2017-01
+DESCRIPTION:http://adyatithih.wordpress.com/ta:tirunilakantha-nayanar-guru
+ pujai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -548,8 +548,8 @@ BEGIN:VEVENT
 SUMMARY:मौनि (पौष/मकर) अमावस्या
 DTSTART;VALUE=DATE:20170127
 DTEND;VALUE=DATE:20170128
-UID:mauni-(pausha-makara)-amavasya-2017-01
-DESCRIPTION:http://adyatithih.wordpress.com/mauni-(pausha-makara)-amavasya
+UID:mauni-pausha-makara-amavasya-2017-01
+DESCRIPTION:http://adyatithih.wordpress.com/mauni-pausha-makara-amavasya
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -613,9 +613,9 @@ SUMMARY:அப்பூதியடிகள் நாயனார் க
  ுருபூஜை
 DTSTART;VALUE=DATE:20170130
 DTEND;VALUE=DATE:20170131
-UID:ta:appudiyadigal-nayan2ar-gurupujai-2017-01
-DESCRIPTION:http://adyatithih.wordpress.com/ta:appudiyadigal-nayan2ar-guru
- pujai
+UID:ta:appudiyadigal-nayanar-gurupujai-2017-01
+DESCRIPTION:http://adyatithih.wordpress.com/ta:appudiyadigal-nayanar-gurup
+ ujai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -724,9 +724,9 @@ SUMMARY:கலிக்கம்ப நாயனார் குருப
  ூஜை
 DTSTART;VALUE=DATE:20170202
 DTEND;VALUE=DATE:20170203
-UID:ta:kalikkamba-nayan2ar-gurupujai-2017-02
-DESCRIPTION:http://adyatithih.wordpress.com/ta:kalikkamba-nayan2ar-gurupuj
- ai
+UID:ta:kalikkamba-nayanar-gurupujai-2017-02
+DESCRIPTION:http://adyatithih.wordpress.com/ta:kalikkamba-nayanar-gurupuja
+ i
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -756,8 +756,8 @@ BEGIN:VEVENT
 SUMMARY:मन्वादि (सावर्णि)
 DTSTART;VALUE=DATE:20170203
 DTEND;VALUE=DATE:20170204
-UID:manvadi-(savarni)-2017-02
-DESCRIPTION:http://adyatithih.wordpress.com/manvadi-(savarni)
+UID:manvadi-savarni-2017-02
+DESCRIPTION:http://adyatithih.wordpress.com/manvadi-savarni
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -877,8 +877,8 @@ SUMMARY:கண்ணப்ப நாயனார் குருபூஜ
  ை
 DTSTART;VALUE=DATE:20170207
 DTEND;VALUE=DATE:20170208
-UID:ta:kannappa-nayan2ar-gurupujai-2017-02
-DESCRIPTION:http://adyatithih.wordpress.com/ta:kannappa-nayan2ar-gurupujai
+UID:ta:kannappa-nayanar-gurupujai-2017-02
+DESCRIPTION:http://adyatithih.wordpress.com/ta:kannappa-nayanar-gurupujai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -920,9 +920,9 @@ SUMMARY:அரிவாட்டாய நாயனார் குரு
  பூஜை
 DTSTART;VALUE=DATE:20170208
 DTEND;VALUE=DATE:20170209
-UID:ta:arivattaya-nayan2ar-gurupujai-2017-02
-DESCRIPTION:http://adyatithih.wordpress.com/ta:arivattaya-nayan2ar-gurupuj
- ai
+UID:ta:arivattaya-nayanar-gurupujai-2017-02
+DESCRIPTION:http://adyatithih.wordpress.com/ta:arivattaya-nayanar-gurupuja
+ i
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -971,7 +971,7 @@ BEGIN:VEVENT
 SUMMARY:आ-का-मा-वै स्नानम्
 DTSTART;VALUE=DATE:20170210
 DTEND;VALUE=DATE:20170211
-UID:a-ka-ma-vai-snanam-4-2017-02
+UID:a-ka-ma-vai-snanam-2017-02
 DESCRIPTION:Perform snana four ghatikas before sunrise (during `aruNodayam
  `\, when the Moon is still up\, on the full-moon days of `ASADha`\, `kArti
  ka`\, `mAgha` and `vaizAkha` – hence the name `A-kA-mA-vai`) bestows str
@@ -1181,9 +1181,8 @@ SUMMARY:எறிபத்த நாயனார் குருபூஜ
  ை
 DTSTART;VALUE=DATE:20170215
 DTEND;VALUE=DATE:20170216
-UID:ta:er2ipatta-nayan2ar-gurupujai-2017-02
-DESCRIPTION:http://adyatithih.wordpress.com/ta:er2ipatta-nayan2ar-gurupuja
- i
+UID:ta:eripatta-nayanar-gurupujai-2017-02
+DESCRIPTION:http://adyatithih.wordpress.com/ta:eripatta-nayanar-gurupujai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -1244,8 +1243,8 @@ BEGIN:VEVENT
 SUMMARY:காரி நாயனார் குருபூஜை
 DTSTART;VALUE=DATE:20170222
 DTEND;VALUE=DATE:20170223
-UID:ta:kari-nayan2ar-gurupujai-2017-02
-DESCRIPTION:http://adyatithih.wordpress.com/ta:kari-nayan2ar-gurupujai
+UID:ta:kari-nayanar-gurupujai-2017-02
+DESCRIPTION:http://adyatithih.wordpress.com/ta:kari-nayanar-gurupujai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -1260,9 +1259,10 @@ SUMMARY:काञ्ची जगद्गुरु श्री शङ्
  ती \\#{49}
 DTSTART;VALUE=DATE:20170223
 DTEND;VALUE=DATE:20170224
-UID:kanchi-jagadguru-shri-shankara-vijayendra-sarasvati-jayanti-2017-02
-DESCRIPTION:http://adyatithih.wordpress.com/kanchi-jagadguru-shri-shankara
- -vijayendra-sarasvati-jayanti
+UID:kanchi-jagadguru-shri-shri-shankara-vijayendra-sarasvati-jayanti-2017-
+ 02
+DESCRIPTION:http://adyatithih.wordpress.com/kanchi-jagadguru-shri-shri-sha
+ nkara-vijayendra-sarasvati-jayanti
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -1351,9 +1351,9 @@ SUMMARY:கொச்செங்கட் சோழ நாயனார்
  குருபூஜை
 DTSTART;VALUE=DATE:20170227
 DTEND;VALUE=DATE:20170228
-UID:ta:kochchengat-chozha-nayan2ar-gurupujai-2017-02
-DESCRIPTION:http://adyatithih.wordpress.com/ta:kochchengat-chozha-nayan2ar
- -gurupujai
+UID:ta:kochchengat-chozha-nayanar-gurupujai-2017-02
+DESCRIPTION:http://adyatithih.wordpress.com/ta:kochchengat-chozha-nayanar-
+ gurupujai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -1526,7 +1526,7 @@ BEGIN:VEVENT
 SUMMARY:நடராஜர் மஹாபிஷேகம்
 DTSTART;VALUE=DATE:20170311
 DTEND;VALUE=DATE:20170312
-UID:ta:natarajar-mahabhishekam-6-2017-03
+UID:ta:natarajar-mahabhishekam-2017-03
 DESCRIPTION:http://adyatithih.wordpress.com/ta:natarajar-mahabhishekam
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -1583,8 +1583,8 @@ BEGIN:VEVENT
 SUMMARY:मन्वादि (धर्म सावर्णि)
 DTSTART;VALUE=DATE:20170312
 DTEND;VALUE=DATE:20170313
-UID:manvadi-(dharma-savarni)-2017-03
-DESCRIPTION:http://adyatithih.wordpress.com/manvadi-(dharma-savarni)
+UID:manvadi-dharma-savarni-2017-03
+DESCRIPTION:http://adyatithih.wordpress.com/manvadi-dharma-savarni
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -1613,9 +1613,8 @@ SUMMARY:எறிபத்த நாயனார் குருபூஜ
  ை
 DTSTART;VALUE=DATE:20170314
 DTEND;VALUE=DATE:20170315
-UID:ta:er2ipatta-nayan2ar-gurupujai-2017-03
-DESCRIPTION:http://adyatithih.wordpress.com/ta:er2ipatta-nayan2ar-gurupuja
- i
+UID:ta:eripatta-nayanar-gurupujai-2017-03
+DESCRIPTION:http://adyatithih.wordpress.com/ta:eripatta-nayanar-gurupujai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -1628,8 +1627,8 @@ BEGIN:VEVENT
 SUMMARY:காரடையான் நோம்பு
 DTSTART;VALUE=DATE:20170314
 DTEND;VALUE=DATE:20170315
-UID:ta:karadaiyan2-nombu-2017-03
-DESCRIPTION:http://adyatithih.wordpress.com/ta:karadaiyan2-nombu
+UID:ta:karadaiyan-nombu-2017-03
+DESCRIPTION:http://adyatithih.wordpress.com/ta:karadaiyan-nombu
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -1755,9 +1754,9 @@ SUMMARY:தண்டியடிகள் நாயனார் குர
  ுபூஜை
 DTSTART;VALUE=DATE:20170326
 DTEND;VALUE=DATE:20170327
-UID:ta:dandiyadigal-nayan2ar-gurupujai-2017-03
-DESCRIPTION:http://adyatithih.wordpress.com/ta:dandiyadigal-nayan2ar-gurup
- ujai
+UID:ta:dandiyadigal-nayanar-gurupujai-2017-03
+DESCRIPTION:http://adyatithih.wordpress.com/ta:dandiyadigal-nayanar-gurupu
+ jai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -1853,8 +1852,8 @@ BEGIN:VEVENT
 SUMMARY:मन्वादि (तामस)
 DTSTART;VALUE=DATE:20170328
 DTEND;VALUE=DATE:20170329
-UID:manvadi-(tamasa)-2-2017-03
-DESCRIPTION:http://adyatithih.wordpress.com/manvadi-(tamasa)
+UID:manvadi-tamasa-2017-03
+DESCRIPTION:http://adyatithih.wordpress.com/manvadi-tamasa
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -1961,8 +1960,8 @@ BEGIN:VEVENT
 SUMMARY:मन्वादि (उत्तम)
 DTSTART;VALUE=DATE:20170330
 DTEND;VALUE=DATE:20170331
-UID:manvadi-(uttama)-1-2017-03
-DESCRIPTION:http://adyatithih.wordpress.com/manvadi-(uttama)
+UID:manvadi-uttama-2017-03
+DESCRIPTION:http://adyatithih.wordpress.com/manvadi-uttama
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -2033,8 +2032,8 @@ BEGIN:VEVENT
 SUMMARY:நேச நாயனார் குருபூஜை
 DTSTART;VALUE=DATE:20170401
 DTEND;VALUE=DATE:20170402
-UID:ta:necha-nayan2ar-gurupujai-2017-04
-DESCRIPTION:http://adyatithih.wordpress.com/ta:necha-nayan2ar-gurupujai
+UID:ta:necha-nayanar-gurupujai-2017-04
+DESCRIPTION:http://adyatithih.wordpress.com/ta:necha-nayanar-gurupujai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -2117,9 +2116,8 @@ BEGIN:VEVENT
 SUMMARY:கணநாத நாயனார் குருபூஜை
 DTSTART;VALUE=DATE:20170403
 DTEND;VALUE=DATE:20170404
-UID:ta:gananatha-nayan2ar-gurupujai-2017-04
-DESCRIPTION:http://adyatithih.wordpress.com/ta:gananatha-nayan2ar-gurupuja
- i
+UID:ta:gananatha-nayanar-gurupujai-2017-04
+DESCRIPTION:http://adyatithih.wordpress.com/ta:gananatha-nayanar-gurupujai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -2163,8 +2161,8 @@ BEGIN:VEVENT
 SUMMARY:கபாலீ சவுடல் விமானம்
 DTSTART;VALUE=DATE:20170404
 DTEND;VALUE=DATE:20170405
-UID:ta:kapali-chavudal-viman2am-2017-04
-DESCRIPTION:http://adyatithih.wordpress.com/ta:kapali-chavudal-viman2am
+UID:ta:kapali-chavudal-vimanam-2017-04
+DESCRIPTION:http://adyatithih.wordpress.com/ta:kapali-chavudal-vimanam
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -2177,8 +2175,8 @@ BEGIN:VEVENT
 SUMMARY:கபாலீ ரிஷப வாஹனம்
 DTSTART;VALUE=DATE:20170404
 DTEND;VALUE=DATE:20170405
-UID:ta:kapali-rishabha-vahan2am-2017-04
-DESCRIPTION:http://adyatithih.wordpress.com/ta:kapali-rishabha-vahan2am
+UID:ta:kapali-rishabha-vahanam-2017-04
+DESCRIPTION:http://adyatithih.wordpress.com/ta:kapali-rishabha-vahanam
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -2220,9 +2218,9 @@ SUMMARY:முனையடுவார் நாயனார் குர
  ுபூஜை
 DTSTART;VALUE=DATE:20170405
 DTEND;VALUE=DATE:20170406
-UID:ta:mun2aiyaduvar-nayan2ar-gurupujai-2017-04
-DESCRIPTION:http://adyatithih.wordpress.com/ta:mun2aiyaduvar-nayan2ar-guru
- pujai
+UID:ta:munaiyaduvar-nayanar-gurupujai-2017-04
+DESCRIPTION:http://adyatithih.wordpress.com/ta:munaiyaduvar-nayanar-gurupu
+ jai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -2308,8 +2306,8 @@ BEGIN:VEVENT
 SUMMARY:கபாலீ அறுபத்து மூவர்
 DTSTART;VALUE=DATE:20170407
 DTEND;VALUE=DATE:20170408
-UID:ta:kapali-ar2upattu-muvar-2017-04
-DESCRIPTION:http://adyatithih.wordpress.com/ta:kapali-ar2upattu-muvar
+UID:ta:kapali-arupattu-muvar-2017-04
+DESCRIPTION:http://adyatithih.wordpress.com/ta:kapali-arupattu-muvar
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -2379,8 +2377,8 @@ BEGIN:VEVENT
 SUMMARY:பங்குனி உத்திரம்
 DTSTART;VALUE=DATE:20170409
 DTEND;VALUE=DATE:20170410
-UID:ta:pangun2i-uttiram-2017-04
-DESCRIPTION:http://adyatithih.wordpress.com/ta:pangun2i-uttiram
+UID:ta:panguni-uttiram-2017-04
+DESCRIPTION:http://adyatithih.wordpress.com/ta:panguni-uttiram
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -2394,9 +2392,9 @@ SUMMARY:கபாலீ உமா-மஹெஶ்வர தரிசனம
  ்
 DTSTART;VALUE=DATE:20170410
 DTEND;VALUE=DATE:20170411
-UID:ta:kapali-uma-maheshvara-darichan2am-2017-04
+UID:ta:kapali-uma-maheshvara-darichanam-2017-04
 DESCRIPTION:http://adyatithih.wordpress.com/ta:kapali-uma-maheshvara-daric
- han2am
+ hanam
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -2410,9 +2408,8 @@ SUMMARY:கபாலீ விடையாற்றி தொடக்க
  ம்
 DTSTART;VALUE=DATE:20170410
 DTEND;VALUE=DATE:20170411
-UID:ta:kapali-vidaiyar2r2i-todakkam-2017-04
-DESCRIPTION:http://adyatithih.wordpress.com/ta:kapali-vidaiyar2r2i-todakka
- m
+UID:ta:kapali-vidaiyarri-todakkam-2017-04
+DESCRIPTION:http://adyatithih.wordpress.com/ta:kapali-vidaiyarri-todakkam
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -2454,7 +2451,7 @@ BEGIN:VEVENT
 SUMMARY:गजेन्द्र-मोक्षः
 DTSTART;VALUE=DATE:20170411
 DTEND;VALUE=DATE:20170412
-UID:gajendra-moksha-1-2017-04
+UID:gajendra-moksha-2017-04
 DESCRIPTION:http://adyatithih.wordpress.com/gajendra-moksha
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -2468,8 +2465,8 @@ BEGIN:VEVENT
 SUMMARY:मन्वादि (रौच्य)
 DTSTART;VALUE=DATE:20170411
 DTEND;VALUE=DATE:20170412
-UID:manvadi-(rauchya)-2017-04
-DESCRIPTION:http://adyatithih.wordpress.com/manvadi-(rauchya)
+UID:manvadi-rauchya-2017-04
+DESCRIPTION:http://adyatithih.wordpress.com/manvadi-rauchya
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -2482,8 +2479,8 @@ BEGIN:VEVENT
 SUMMARY:मन्वादि (स्वारोचिष)
 DTSTART;VALUE=DATE:20170411
 DTEND;VALUE=DATE:20170412
-UID:manvadi-(svarochisha)-1-2017-04
-DESCRIPTION:http://adyatithih.wordpress.com/manvadi-(svarochisha)
+UID:manvadi-svarochisha-2017-04
+DESCRIPTION:http://adyatithih.wordpress.com/manvadi-svarochisha
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -2496,7 +2493,7 @@ BEGIN:VEVENT
 SUMMARY:श्री हनूमत् जयन्ती
 DTSTART;VALUE=DATE:20170411
 DTEND;VALUE=DATE:20170412
-UID:shri-hanumat-jayanti-2-2017-04
+UID:shri-hanumat-jayanti-2017-04
 DESCRIPTION:Hanuman born from Kaikeyi part of Payasam taken by Vulture and
   eaten by Anjana Devi\n\n\n\nhttp://adyatithih.wordpress.com/shri-hanumat-
  jayanti
@@ -2622,9 +2619,8 @@ BEGIN:VEVENT
 SUMMARY:கபாலீ விடையாற்றி நிறைவு
 DTSTART;VALUE=DATE:20170420
 DTEND;VALUE=DATE:20170421
-UID:ta:kapali-vidaiyar2r2i-nir2aivu-2017-04
-DESCRIPTION:http://adyatithih.wordpress.com/ta:kapali-vidaiyar2r2i-nir2aiv
- u
+UID:ta:kapali-vidaiyarri-niraivu-2017-04
+DESCRIPTION:http://adyatithih.wordpress.com/ta:kapali-vidaiyarri-niraivu
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -2653,7 +2649,7 @@ BEGIN:VEVENT
 SUMMARY:स्मार्त वरूथिनी एकादशी
 DTSTART;VALUE=DATE:20170422
 DTEND;VALUE=DATE:20170423
-UID:smarta-varuthini-ekadashi-2017-04
+UID:smArta-varuthini-ekadashi-2017-04
 DESCRIPTION:http://adyatithih.wordpress.com/varuthini-ekadashi
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -2668,9 +2664,9 @@ SUMMARY:திருநாவுக்கரச நாயனார் க
  ுருபூஜை
 DTSTART;VALUE=DATE:20170422
 DTEND;VALUE=DATE:20170423
-UID:ta:tirunavukkarachha-nayan2ar-gurupujai-2017-04
-DESCRIPTION:http://adyatithih.wordpress.com/ta:tirunavukkarachha-nayan2ar-
- gurupujai
+UID:ta:tirunavukkarachha-nayanar-gurupujai-2017-04
+DESCRIPTION:http://adyatithih.wordpress.com/ta:tirunavukkarachha-nayanar-g
+ urupujai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -2697,7 +2693,7 @@ BEGIN:VEVENT
 SUMMARY:वैष्णव वरूथिनी एकादशी
 DTSTART;VALUE=DATE:20170423
 DTEND;VALUE=DATE:20170424
-UID:vaishnava-varuthini-ekadashi-2017-04
+UID:vaiSNava-varuthini-ekadashi-2017-04
 DESCRIPTION:http://adyatithih.wordpress.com/varuthini-ekadashi
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -2834,9 +2830,9 @@ SUMMARY:சிருத்தொண்ட நாயனார் குர
  ுபூஜை
 DTSTART;VALUE=DATE:20170427
 DTEND;VALUE=DATE:20170428
-UID:ta:chiruttonda-nayan2ar-gurupujai-2017-04
-DESCRIPTION:http://adyatithih.wordpress.com/ta:chiruttonda-nayan2ar-gurupu
- jai
+UID:ta:chiruttonda-nayanar-gurupujai-2017-04
+DESCRIPTION:http://adyatithih.wordpress.com/ta:chiruttonda-nayanar-gurupuj
+ ai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -2849,7 +2845,7 @@ BEGIN:VEVENT
 SUMMARY:परशुराम जयन्ती
 DTSTART;VALUE=DATE:20170428
 DTEND;VALUE=DATE:20170429
-UID:parashurama-jayanti-1-2017-04
+UID:parashurama-jayanti-2017-04
 DESCRIPTION:http://adyatithih.wordpress.com/parashurama-jayanti
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -2939,9 +2935,9 @@ SUMMARY:மங்கையர்க்கரசியார் நாய
  னார் குருபூஜை
 DTSTART;VALUE=DATE:20170429
 DTEND;VALUE=DATE:20170430
-UID:ta:mangaiyarkkarachiyar-nayan2ar-gurupujai-2017-04
-DESCRIPTION:http://adyatithih.wordpress.com/ta:mangaiyarkkarachiyar-nayan2
- ar-gurupujai
+UID:ta:mangaiyarkkarachiyar-nayanar-gurupujai-2017-04
+DESCRIPTION:http://adyatithih.wordpress.com/ta:mangaiyarkkarachiyar-nayana
+ r-gurupujai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -2982,7 +2978,7 @@ BEGIN:VEVENT
 SUMMARY:सर्प पूजा
 DTSTART;VALUE=DATE:20170430
 DTEND;VALUE=DATE:20170501
-UID:sarpa-puja-1-2017-04
+UID:sarpa-puja-2017-04
 DESCRIPTION:Vishnu's boon to AdiSesha that humans will worship on this day
  \n\n\n\nhttp://adyatithih.wordpress.com/sarpa-puja
 TRANSP:TRANSPARENT
@@ -3058,9 +3054,9 @@ SUMMARY:விறன்மிண்ட நாயனார் குரு
  பூஜை
 DTSTART;VALUE=DATE:20170501
 DTEND;VALUE=DATE:20170502
-UID:ta:vir2an2minda-nayan2ar-gurupujai-2017-05
-DESCRIPTION:http://adyatithih.wordpress.com/ta:vir2an2minda-nayan2ar-gurup
- ujai
+UID:ta:viranminda-nayanar-gurupujai-2017-05
+DESCRIPTION:http://adyatithih.wordpress.com/ta:viranminda-nayanar-gurupuja
+ i
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -3236,8 +3232,8 @@ SUMMARY:மீனாக்ஷீ திருக்கல்யாணம
  ்
 DTSTART;VALUE=DATE:20170506
 DTEND;VALUE=DATE:20170507
-UID:ta:min2akshi-tirukkalyanam-2017-05
-DESCRIPTION:http://adyatithih.wordpress.com/ta:min2akshi-tirukkalyanam
+UID:ta:minakshi-tirukkalyanam-2017-05
+DESCRIPTION:http://adyatithih.wordpress.com/ta:minakshi-tirukkalyanam
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -3280,9 +3276,9 @@ SUMMARY:இசைஞானியார் நாயனார் குர
  ுபூஜை
 DTSTART;VALUE=DATE:20170509
 DTEND;VALUE=DATE:20170510
-UID:ta:ichainan2iyar-nayan2ar-gurupujai-2017-05
-DESCRIPTION:http://adyatithih.wordpress.com/ta:ichainan2iyar-nayan2ar-guru
- pujai
+UID:ta:ichainaniyar-nayanar-gurupujai-2017-05
+DESCRIPTION:http://adyatithih.wordpress.com/ta:ichainaniyar-nayanar-gurupu
+ jai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -3311,7 +3307,7 @@ BEGIN:VEVENT
 SUMMARY:आ-का-मा-वै स्नानम्
 DTSTART;VALUE=DATE:20170510
 DTEND;VALUE=DATE:20170511
-UID:a-ka-ma-vai-snanam-1-2017-05
+UID:a-ka-ma-vai-snanam-2017-05
 DESCRIPTION:Perform snana four ghatikas before sunrise (during `aruNodayam
  `\, when the Moon is still up\, on the full-moon days of `ASADha`\, `kArti
  ka`\, `mAgha` and `vaizAkha` – hence the name `A-kA-mA-vai`) bestows str
@@ -3382,9 +3378,9 @@ SUMMARY:திருக்குறிப்புத் தொண்ட
  நாயனார் குருபூஜை
 DTSTART;VALUE=DATE:20170510
 DTEND;VALUE=DATE:20170511
-UID:ta:tirukkur2ipput-tonda-nayan2ar-gurupujai-2017-05
-DESCRIPTION:http://adyatithih.wordpress.com/ta:tirukkur2ipput-tonda-nayan2
- ar-gurupujai
+UID:ta:tirukkuripput-tonda-nayanar-gurupujai-2017-05
+DESCRIPTION:http://adyatithih.wordpress.com/ta:tirukkuripput-tonda-nayanar
+ -gurupujai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -3570,9 +3566,9 @@ SUMMARY:கழற்சிங்க நாயனார் குருப
  ூஜை
 DTSTART;VALUE=DATE:20170524
 DTEND;VALUE=DATE:20170525
-UID:ta:kazhar2chinga-nayan2ar-gurupujai-2017-05
-DESCRIPTION:http://adyatithih.wordpress.com/ta:kazhar2chinga-nayan2ar-guru
- pujai
+UID:ta:kazharchinga-nayanar-gurupujai-2017-05
+DESCRIPTION:http://adyatithih.wordpress.com/ta:kazharchinga-nayanar-gurupu
+ jai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -3754,9 +3750,9 @@ SUMMARY:நமிநந்தியடிகள் நாயனார்
  குருபூஜை
 DTSTART;VALUE=DATE:20170530
 DTEND;VALUE=DATE:20170531
-UID:ta:naminandiyadigal-nayan2ar-gurupujai-2017-05
-DESCRIPTION:http://adyatithih.wordpress.com/ta:naminandiyadigal-nayan2ar-g
- urupujai
+UID:ta:naminandiyadigal-nayanar-gurupujai-2017-05
+DESCRIPTION:http://adyatithih.wordpress.com/ta:naminandiyadigal-nayanar-gu
+ rupujai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -3798,9 +3794,9 @@ SUMMARY:ஸோமாஸிமார நாயனார் குருப
  ூஜை
 DTSTART;VALUE=DATE:20170531
 DTEND;VALUE=DATE:20170601
-UID:ta:somasimara-nayan2ar-gurupujai-2017-05
-DESCRIPTION:http://adyatithih.wordpress.com/ta:somasimara-nayan2ar-gurupuj
- ai
+UID:ta:somasimara-nayanar-gurupujai-2017-05
+DESCRIPTION:http://adyatithih.wordpress.com/ta:somasimara-nayanar-gurupuja
+ i
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -4110,9 +4106,10 @@ SUMMARY:काञ्ची जगद्गुरु श्री चन्
  ती \\#{124}
 DTSTART;VALUE=DATE:20170608
 DTEND;VALUE=DATE:20170609
-UID:kanchi-jagadguru-shri-chandrashekharendra-sarasvati-jayanti-2017-06
-DESCRIPTION:http://adyatithih.wordpress.com/kanchi-jagadguru-shri-chandras
- hekharendra-sarasvati-jayanti
+UID:kanchi-jagadguru-shri-shri-chandrashekharendra-sarasvati-jayanti-2017-
+ 06
+DESCRIPTION:http://adyatithih.wordpress.com/kanchi-jagadguru-shri-shri-cha
+ ndrashekharendra-sarasvati-jayanti
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -4154,8 +4151,8 @@ BEGIN:VEVENT
 SUMMARY:मन्वादि (भौत्य)
 DTSTART;VALUE=DATE:20170609
 DTEND;VALUE=DATE:20170610
-UID:manvadi-(bhautya)-2017-06
-DESCRIPTION:http://adyatithih.wordpress.com/manvadi-(bhautya)
+UID:manvadi-bhautya-2017-06
+DESCRIPTION:http://adyatithih.wordpress.com/manvadi-bhautya
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -4168,8 +4165,8 @@ BEGIN:VEVENT
 SUMMARY:मन्वादि (तामस)
 DTSTART;VALUE=DATE:20170609
 DTEND;VALUE=DATE:20170610
-UID:manvadi-(tamasa)-1-2017-06
-DESCRIPTION:http://adyatithih.wordpress.com/manvadi-(tamasa)
+UID:manvadi-tamasa-2017-06
+DESCRIPTION:http://adyatithih.wordpress.com/manvadi-tamasa
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -4198,8 +4195,8 @@ BEGIN:VEVENT
 SUMMARY:முருக நாயனார் குருபூஜை
 DTSTART;VALUE=DATE:20170610
 DTEND;VALUE=DATE:20170611
-UID:ta:muruga-nayan2ar-gurupujai-2017-06
-DESCRIPTION:http://adyatithih.wordpress.com/ta:muruga-nayan2ar-gurupujai
+UID:ta:muruga-nayanar-gurupujai-2017-06
+DESCRIPTION:http://adyatithih.wordpress.com/ta:muruga-nayanar-gurupujai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -4213,9 +4210,9 @@ SUMMARY:திருஞானஸம்பந்தமூர்த்தி
   நாயனார் குருபூஜை
 DTSTART;VALUE=DATE:20170610
 DTEND;VALUE=DATE:20170611
-UID:ta:tirunan2asambandhamurtti-nayan2ar-gurupujai-2017-06
-DESCRIPTION:http://adyatithih.wordpress.com/ta:tirunan2asambandhamurtti-na
- yan2ar-gurupujai
+UID:ta:tirunanasambandhamurtti-nayanar-gurupujai-2017-06
+DESCRIPTION:http://adyatithih.wordpress.com/ta:tirunanasambandhamurtti-nay
+ anar-gurupujai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -4229,9 +4226,9 @@ SUMMARY:திருநீலகண்ட யாழ்ப்பாண ந
  ாயனார் குருபூஜை
 DTSTART;VALUE=DATE:20170610
 DTEND;VALUE=DATE:20170611
-UID:ta:tirunilakantha-yazhppana-nayan2ar-gurupujai-2017-06
+UID:ta:tirunilakantha-yazhppana-nayanar-gurupujai-2017-06
 DESCRIPTION:http://adyatithih.wordpress.com/ta:tirunilakantha-yazhppana-na
- yan2ar-gurupujai
+ yanar-gurupujai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -4245,9 +4242,9 @@ SUMMARY:திருநீலநக்க நாயனார் குர
  ுபூஜை
 DTSTART;VALUE=DATE:20170610
 DTEND;VALUE=DATE:20170611
-UID:ta:tirunilanakka-nayan2ar-gurupujai-2017-06
-DESCRIPTION:http://adyatithih.wordpress.com/ta:tirunilanakka-nayan2ar-guru
- pujai
+UID:ta:tirunilanakka-nayanar-gurupujai-2017-06
+DESCRIPTION:http://adyatithih.wordpress.com/ta:tirunilanakka-nayanar-gurup
+ ujai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -4345,9 +4342,9 @@ SUMMARY:எயர்கோன் கலிக்காம நாயனா
  ர் குருபூஜை
 DTSTART;VALUE=DATE:20170619
 DTEND;VALUE=DATE:20170620
-UID:ta:eyarkon2-kalikkama-nayan2ar-gurupujai-2017-06
-DESCRIPTION:http://adyatithih.wordpress.com/ta:eyarkon2-kalikkama-nayan2ar
- -gurupujai
+UID:ta:eyarkon-kalikkama-nayanar-gurupujai-2017-06
+DESCRIPTION:http://adyatithih.wordpress.com/ta:eyarkon-kalikkama-nayanar-g
+ urupujai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -4405,9 +4402,9 @@ SUMMARY:சிதம்பரம் த்வஜாரோஹணம்/ப
  ஞ்சமூர்த்தி பவனி
 DTSTART;VALUE=DATE:20170621
 DTEND;VALUE=DATE:20170622
-UID:ta:chidambaram-dvajarohanam-panchamurtti-bhavan2i-2017-06
+UID:ta:chidambaram-dvajarohanam-panchamurtti-bhavani-2017-06
 DESCRIPTION:http://adyatithih.wordpress.com/ta:chidambaram-dvajarohanam-pa
- nchamurtti-bhavan2i
+ nchamurtti-bhavani
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -4421,9 +4418,9 @@ SUMMARY:சிதம்பரம் வெள்ளி சந்த்ர
  ப்ரப வாஹனம்
 DTSTART;VALUE=DATE:20170622
 DTEND;VALUE=DATE:20170623
-UID:ta:chidambaram-velli-chandraprabha-vahan2am-2017-06
+UID:ta:chidambaram-velli-chandraprabha-vahanam-2017-06
 DESCRIPTION:http://adyatithih.wordpress.com/ta:chidambaram-velli-chandrapr
- abha-vahan2am
+ abha-vahanam
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -4451,9 +4448,9 @@ SUMMARY:சிதம்பரம் தங்க ஸூர்யப்ர
  ப வாஹனம்
 DTSTART;VALUE=DATE:20170623
 DTEND;VALUE=DATE:20170624
-UID:ta:chidambaram-tanga-suryaprabha-vahan2am-2017-06
+UID:ta:chidambaram-tanga-suryaprabha-vahanam-2017-06
 DESCRIPTION:http://adyatithih.wordpress.com/ta:chidambaram-tanga-suryaprab
- ha-vahan2am
+ ha-vahanam
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -4513,9 +4510,9 @@ SUMMARY:சிதம்பரம் வெள்ளி பூத வாஹ
  னம்
 DTSTART;VALUE=DATE:20170624
 DTEND;VALUE=DATE:20170625
-UID:ta:chidambaram-velli-bhuta-vahan2am-2017-06
+UID:ta:chidambaram-velli-bhuta-vahanam-2017-06
 DESCRIPTION:http://adyatithih.wordpress.com/ta:chidambaram-velli-bhuta-vah
- an2am
+ anam
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -4577,9 +4574,9 @@ SUMMARY:சிதம்பரம் வெள்ளி ரிஷப வா
  ஹனம்
 DTSTART;VALUE=DATE:20170625
 DTEND;VALUE=DATE:20170626
-UID:ta:chidambaram-velli-rishabha-vahan2am-2017-06
+UID:ta:chidambaram-velli-rishabha-vahanam-2017-06
 DESCRIPTION:http://adyatithih.wordpress.com/ta:chidambaram-velli-rishabha-
- vahan2am
+ vahanam
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -4593,9 +4590,9 @@ SUMMARY:சிதம்பரம் வெள்ளி யானை வா
  ஹனம்
 DTSTART;VALUE=DATE:20170626
 DTEND;VALUE=DATE:20170627
-UID:ta:chidambaram-velli-yan2ai-vahan2am-2017-06
-DESCRIPTION:http://adyatithih.wordpress.com/ta:chidambaram-velli-yan2ai-va
- han2am
+UID:ta:chidambaram-velli-yanai-vahanam-2017-06
+DESCRIPTION:http://adyatithih.wordpress.com/ta:chidambaram-velli-yanai-vah
+ anam
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -4622,9 +4619,9 @@ BEGIN:VEVENT
 SUMMARY:சிதம்பரம் கைலாச வாஹனம்
 DTSTART;VALUE=DATE:20170627
 DTEND;VALUE=DATE:20170628
-UID:ta:chidambaram-kailacha-vahan2am-2017-06
-DESCRIPTION:http://adyatithih.wordpress.com/ta:chidambaram-kailacha-vahan2
- am
+UID:ta:chidambaram-kailacha-vahanam-2017-06
+DESCRIPTION:http://adyatithih.wordpress.com/ta:chidambaram-kailacha-vahana
+ m
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -4638,9 +4635,9 @@ SUMMARY:புகழ்த்துணை நாயனார் குர
  ுபூஜை
 DTSTART;VALUE=DATE:20170627
 DTEND;VALUE=DATE:20170628
-UID:ta:pugazhttunai-nayan2ar-gurupujai-2017-06
-DESCRIPTION:http://adyatithih.wordpress.com/ta:pugazhttunai-nayan2ar-gurup
- ujai
+UID:ta:pugazhttunai-nayanar-gurupujai-2017-06
+DESCRIPTION:http://adyatithih.wordpress.com/ta:pugazhttunai-nayanar-gurupu
+ jai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -4654,9 +4651,9 @@ SUMMARY:சிதம்பரம் பிக்ஷாடனர் தங
  ்க ரதம்
 DTSTART;VALUE=DATE:20170628
 DTEND;VALUE=DATE:20170629
-UID:ta:chidambaram-bhikshatan2ar-tanga-ratham-2017-06
-DESCRIPTION:http://adyatithih.wordpress.com/ta:chidambaram-bhikshatan2ar-t
- anga-ratham
+UID:ta:chidambaram-bhikshatanar-tanga-ratham-2017-06
+DESCRIPTION:http://adyatithih.wordpress.com/ta:chidambaram-bhikshatanar-ta
+ nga-ratham
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -4730,9 +4727,8 @@ SUMMARY:அமரநீதி நாயனார் குருபூஜ
  ை
 DTSTART;VALUE=DATE:20170629
 DTEND;VALUE=DATE:20170630
-UID:ta:amaraniti-nayan2ar-gurupujai-2017-06
-DESCRIPTION:http://adyatithih.wordpress.com/ta:amaraniti-nayan2ar-gurupuja
- i
+UID:ta:amaraniti-nayanar-gurupujai-2017-06
+DESCRIPTION:http://adyatithih.wordpress.com/ta:amaraniti-nayanar-gurupujai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -4759,9 +4755,8 @@ BEGIN:VEVENT
 SUMMARY:நடராஜர் ஆனி திருமஞ்சனம்
 DTSTART;VALUE=DATE:20170630
 DTEND;VALUE=DATE:20170701
-UID:ta:natarajar-an2i-tirumanchan2am-2017-06
-DESCRIPTION:http://adyatithih.wordpress.com/ta:natarajar-an2i-tirumanchan2
- am
+UID:ta:natarajar-ani-tirumanchanam-2017-06
+DESCRIPTION:http://adyatithih.wordpress.com/ta:natarajar-ani-tirumanchanam
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -4940,8 +4935,8 @@ BEGIN:VEVENT
 SUMMARY:मन्वादि (चाक्षुष)
 DTSTART;VALUE=DATE:20170703
 DTEND;VALUE=DATE:20170704
-UID:manvadi-(chakshusha)-1-2017-07
-DESCRIPTION:http://adyatithih.wordpress.com/manvadi-(chakshusha)
+UID:manvadi-chakshusha-2017-07
+DESCRIPTION:http://adyatithih.wordpress.com/manvadi-chakshusha
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -4954,8 +4949,8 @@ BEGIN:VEVENT
 SUMMARY:मन्वादि (वैवस्वत)
 DTSTART;VALUE=DATE:20170703
 DTEND;VALUE=DATE:20170704
-UID:manvadi-(vaivasvata)-2017-07
-DESCRIPTION:http://adyatithih.wordpress.com/manvadi-(vaivasvata)
+UID:manvadi-vaivasvata-2017-07
+DESCRIPTION:http://adyatithih.wordpress.com/manvadi-vaivasvata
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -5157,8 +5152,8 @@ BEGIN:VEVENT
 SUMMARY:मन्वादि (रुद्र सावर्णि)
 DTSTART;VALUE=DATE:20170708
 DTEND;VALUE=DATE:20170709
-UID:manvadi-(rudra-savarni)-2017-07
-DESCRIPTION:http://adyatithih.wordpress.com/manvadi-(rudra-savarni)
+UID:manvadi-rudra-savarni-2017-07
+DESCRIPTION:http://adyatithih.wordpress.com/manvadi-rudra-savarni
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -5188,7 +5183,7 @@ BEGIN:VEVENT
 SUMMARY:आ-का-मा-वै स्नानम्
 DTSTART;VALUE=DATE:20170709
 DTEND;VALUE=DATE:20170710
-UID:a-ka-ma-vai-snanam-2-2017-07
+UID:a-ka-ma-vai-snanam-2017-07
 DESCRIPTION:Perform snana four ghatikas before sunrise (during `aruNodayam
  `\, when the Moon is still up\, on the full-moon days of `ASADha`\, `kArti
  ka`\, `mAgha` and `vaizAkha` – hence the name `A-kA-mA-vai`) bestows str
@@ -5268,7 +5263,7 @@ BEGIN:VEVENT
 SUMMARY:अशून्यशयन व्रतम्
 DTSTART;VALUE=DATE:20170710
 DTEND;VALUE=DATE:20170711
-UID:ashunyashayana-vratam-1-2017-07
+UID:ashunyashayana-vratam-2017-07
 DESCRIPTION:Lord Mahavishnu sleeps with Goddess Mahalakshmi on this day. D
  o Puja by placing the God/Goddess on a new bed with pillow/blanket. Do dan
  am of same after puja.\n\nलक्ष्म्या वियुज्
@@ -5357,9 +5352,9 @@ SUMMARY:எயர்கோன் கலிக்காம நாயனா
  ர் குருபூஜை
 DTSTART;VALUE=DATE:20170716
 DTEND;VALUE=DATE:20170717
-UID:ta:eyarkon2-kalikkama-nayan2ar-gurupujai-2017-07
-DESCRIPTION:http://adyatithih.wordpress.com/ta:eyarkon2-kalikkama-nayan2ar
- -gurupujai
+UID:ta:eyarkon-kalikkama-nayanar-gurupujai-2017-07
+DESCRIPTION:http://adyatithih.wordpress.com/ta:eyarkon-kalikkama-nayanar-g
+ urupujai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -5388,8 +5383,8 @@ SUMMARY:மூர்த்தி நாயனார் குருபூ
  ஜை
 DTSTART;VALUE=DATE:20170719
 DTEND;VALUE=DATE:20170720
-UID:ta:murtti-nayan2ar-gurupujai-2017-07
-DESCRIPTION:http://adyatithih.wordpress.com/ta:murtti-nayan2ar-gurupujai
+UID:ta:murtti-nayanar-gurupujai-2017-07
+DESCRIPTION:http://adyatithih.wordpress.com/ta:murtti-nayanar-gurupujai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -5403,9 +5398,9 @@ SUMMARY:புகழ்ச்சோழ நாயனார் குரு
  பூஜை
 DTSTART;VALUE=DATE:20170719
 DTEND;VALUE=DATE:20170720
-UID:ta:pugazhchchozha-nayan2ar-gurupujai-2017-07
-DESCRIPTION:http://adyatithih.wordpress.com/ta:pugazhchchozha-nayan2ar-gur
- upujai
+UID:ta:pugazhchchozha-nayanar-gurupujai-2017-07
+DESCRIPTION:http://adyatithih.wordpress.com/ta:pugazhchchozha-nayanar-guru
+ pujai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -5477,9 +5472,8 @@ SUMMARY:கூற்றுவ நாயனார் குருபூஜ
  ை
 DTSTART;VALUE=DATE:20170722
 DTEND;VALUE=DATE:20170723
-UID:ta:kur2r2uva-nayan2ar-gurupujai-2017-07
-DESCRIPTION:http://adyatithih.wordpress.com/ta:kur2r2uva-nayan2ar-gurupuja
- i
+UID:ta:kurruva-nayanar-gurupujai-2017-07
+DESCRIPTION:http://adyatithih.wordpress.com/ta:kurruva-nayanar-gurupujai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -5765,9 +5759,9 @@ SUMMARY:பெருமிழலைக் குறும்ப நாய
  னார் குருபூஜை
 DTSTART;VALUE=DATE:20170729
 DTEND;VALUE=DATE:20170730
-UID:ta:perumizhalaik-kur2umba-nayan2ar-gurupujai-2017-07
-DESCRIPTION:http://adyatithih.wordpress.com/ta:perumizhalaik-kur2umba-naya
- n2ar-gurupujai
+UID:ta:perumizhalaik-kurumba-nayanar-gurupujai-2017-07
+DESCRIPTION:http://adyatithih.wordpress.com/ta:perumizhalaik-kurumba-nayan
+ ar-gurupujai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -5887,9 +5881,9 @@ SUMMARY:சுந்தரமூர்த்தி நாயனார்
  குருபூஜை
 DTSTART;VALUE=DATE:20170731
 DTEND;VALUE=DATE:20170801
-UID:ta:chundaramurtti-nayan2ar-gurupujai-2017-07
-DESCRIPTION:http://adyatithih.wordpress.com/ta:chundaramurtti-nayan2ar-gur
- upujai
+UID:ta:chundaramurtti-nayanar-gurupujai-2017-07
+DESCRIPTION:http://adyatithih.wordpress.com/ta:chundaramurtti-nayanar-guru
+ pujai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -5903,9 +5897,9 @@ SUMMARY:கழறிற்றறிவார் நாயனார் க
  ுருபூஜை
 DTSTART;VALUE=DATE:20170731
 DTEND;VALUE=DATE:20170801
-UID:ta:kazhar2ir2r2ar2ivar-nayan2ar-gurupujai-2017-07
-DESCRIPTION:http://adyatithih.wordpress.com/ta:kazhar2ir2r2ar2ivar-nayan2a
- r-gurupujai
+UID:ta:kazharirrarivar-nayanar-gurupujai-2017-07
+DESCRIPTION:http://adyatithih.wordpress.com/ta:kazharirrarivar-nayanar-gur
+ upujai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -6028,8 +6022,8 @@ SUMMARY:கோட்புலி நாயனார் குருபூ
  ஜை
 DTSTART;VALUE=DATE:20170803
 DTEND;VALUE=DATE:20170804
-UID:ta:kotpuli-nayan2ar-gurupujai-2017-08
-DESCRIPTION:http://adyatithih.wordpress.com/ta:kotpuli-nayan2ar-gurupujai
+UID:ta:kotpuli-nayanar-gurupujai-2017-08
+DESCRIPTION:http://adyatithih.wordpress.com/ta:kotpuli-nayanar-gurupujai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -6042,8 +6036,8 @@ BEGIN:VEVENT
 SUMMARY:கலிய நாயனார் குருபூஜை
 DTSTART;VALUE=DATE:20170803
 DTEND;VALUE=DATE:20170804
-UID:ta:kaliya-nayan2ar-gurupujai-2017-08
-DESCRIPTION:http://adyatithih.wordpress.com/ta:kaliya-nayan2ar-gurupujai
+UID:ta:kaliya-nayanar-gurupujai-2017-08
+DESCRIPTION:http://adyatithih.wordpress.com/ta:kaliya-nayanar-gurupujai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -6143,6 +6137,10 @@ DTSTART;TZID=Asia/Calcutta;VALUE=DATE-TIME:20170807T225200
 DTEND;TZID=Asia/Calcutta;VALUE=DATE-TIME:20170807T004800
 UID:chandra-grahanam-2017-08
 DESCRIPTION:http://adyatithih.wordpress.com/chandra-grahanam
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:हयग्रीव जयन्ती
@@ -6245,9 +6243,9 @@ SUMMARY:काञ्ची जगद्गुरु श्री जये
  न्द्र सरस्वती जयन्ती \\#{83}
 DTSTART;VALUE=DATE:20170808
 DTEND;VALUE=DATE:20170809
-UID:kanchi-jagadguru-shri-jayendra-sarasvati-jayanti-2017-08
-DESCRIPTION:http://adyatithih.wordpress.com/kanchi-jagadguru-shri-jayendra
- -sarasvati-jayanti
+UID:kanchi-jagadguru-shri-shri-jayendra-sarasvati-jayanti-2017-08
+DESCRIPTION:http://adyatithih.wordpress.com/kanchi-jagadguru-shri-shri-jay
+ endra-sarasvati-jayanti
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -6260,7 +6258,7 @@ BEGIN:VEVENT
 SUMMARY:अशून्यशयन व्रतम्
 DTSTART;VALUE=DATE:20170809
 DTEND;VALUE=DATE:20170810
-UID:ashunyashayana-vratam-2-2017-08
+UID:ashunyashayana-vratam-2017-08
 DESCRIPTION:http://adyatithih.wordpress.com/ashunyashayana-vratam
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -6441,8 +6439,8 @@ BEGIN:VEVENT
 SUMMARY:मन्वादि (ब्रह्म सावर्णि)
 DTSTART;VALUE=DATE:20170815
 DTEND;VALUE=DATE:20170816
-UID:manvadi-(brahma-savarni)-2017-08
-DESCRIPTION:http://adyatithih.wordpress.com/manvadi-(brahma-savarni)
+UID:manvadi-brahma-savarni-2017-08
+DESCRIPTION:http://adyatithih.wordpress.com/manvadi-brahma-savarni
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -6471,8 +6469,8 @@ SUMMARY:மூர்த்தி நாயனார் குருபூ
  ஜை
 DTSTART;VALUE=DATE:20170815
 DTEND;VALUE=DATE:20170816
-UID:ta:murtti-nayan2ar-gurupujai-2017-08
-DESCRIPTION:http://adyatithih.wordpress.com/ta:murtti-nayan2ar-gurupujai
+UID:ta:murtti-nayanar-gurupujai-2017-08
+DESCRIPTION:http://adyatithih.wordpress.com/ta:murtti-nayanar-gurupujai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -6486,9 +6484,9 @@ SUMMARY:புகழ்ச்சோழ நாயனார் குரு
  பூஜை
 DTSTART;VALUE=DATE:20170815
 DTEND;VALUE=DATE:20170816
-UID:ta:pugazhchchozha-nayan2ar-gurupujai-2017-08
-DESCRIPTION:http://adyatithih.wordpress.com/ta:pugazhchchozha-nayan2ar-gur
- upujai
+UID:ta:pugazhchchozha-nayanar-gurupujai-2017-08
+DESCRIPTION:http://adyatithih.wordpress.com/ta:pugazhchchozha-nayanar-guru
+ pujai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -6667,9 +6665,9 @@ BEGIN:VEVENT
 SUMMARY:ஆவணி ஞாயிற்றுக்கிழமை
 DTSTART;VALUE=DATE:20170820
 DTEND;VALUE=DATE:20170821
-UID:ta:avani-nayir2r2ukkizhamai-2017-08
+UID:ta:avani-nayirrukkizhamai-2017-08
 DESCRIPTION:Do puja to Surya/Suryanamaskaram.\n\n\n\nhttp://adyatithih.wor
- dpress.com/ta:avani-nayir2r2ukkizhamai
+ dpress.com/ta:avani-nayirrukkizhamai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -6683,9 +6681,9 @@ SUMMARY:செருத்துணை நாயனார் குரு
  பூஜை
 DTSTART;VALUE=DATE:20170820
 DTEND;VALUE=DATE:20170821
-UID:ta:cheruttunai-nayan2ar-gurupujai-2017-08
-DESCRIPTION:http://adyatithih.wordpress.com/ta:cheruttunai-nayan2ar-gurupu
- jai
+UID:ta:cheruttunai-nayanar-gurupujai-2017-08
+DESCRIPTION:http://adyatithih.wordpress.com/ta:cheruttunai-nayanar-gurupuj
+ ai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -6740,8 +6738,8 @@ SUMMARY:அதிபத்த நாயனார் குருபூஜ
  ை
 DTSTART;VALUE=DATE:20170821
 DTEND;VALUE=DATE:20170822
-UID:ta:atipatta-nayan2ar-gurupujai-2017-08
-DESCRIPTION:http://adyatithih.wordpress.com/ta:atipatta-nayan2ar-gurupujai
+UID:ta:atipatta-nayanar-gurupujai-2017-08
+DESCRIPTION:http://adyatithih.wordpress.com/ta:atipatta-nayanar-gurupujai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -6798,9 +6796,9 @@ SUMMARY:இளையான்குடி மாற நாயனார்
  குருபூஜை
 DTSTART;VALUE=DATE:20170822
 DTEND;VALUE=DATE:20170823
-UID:ta:ilaiyan2kudi-mar2a-nayan2ar-gurupujai-2017-08
-DESCRIPTION:http://adyatithih.wordpress.com/ta:ilaiyan2kudi-mar2a-nayan2ar
- -gurupujai
+UID:ta:ilaiyankudi-mara-nayanar-gurupujai-2017-08
+DESCRIPTION:http://adyatithih.wordpress.com/ta:ilaiyankudi-mara-nayanar-gu
+ rupujai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -6850,8 +6848,8 @@ BEGIN:VEVENT
 SUMMARY:मन्वादि (रैवत)
 DTSTART;VALUE=DATE:20170824
 DTEND;VALUE=DATE:20170825
-UID:manvadi-(raivata)-2017-08
-DESCRIPTION:http://adyatithih.wordpress.com/manvadi-(raivata)
+UID:manvadi-raivata-2017-08
+DESCRIPTION:http://adyatithih.wordpress.com/manvadi-raivata
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -7000,9 +6998,9 @@ BEGIN:VEVENT
 SUMMARY:ஆவணி ஞாயிற்றுக்கிழமை
 DTSTART;VALUE=DATE:20170827
 DTEND;VALUE=DATE:20170828
-UID:ta:avani-nayir2r2ukkizhamai-2017-08-27
+UID:ta:avani-nayirrukkizhamai-2017-08-27
 DESCRIPTION:Do puja to Surya/Suryanamaskaram.\n\n\n\nhttp://adyatithih.wor
- dpress.com/ta:avani-nayir2r2ukkizhamai
+ dpress.com/ta:avani-nayirrukkizhamai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -7102,9 +7100,9 @@ SUMMARY:குலச்சிரை நாயனார் குருப
  ூஜை
 DTSTART;VALUE=DATE:20170829
 DTEND;VALUE=DATE:20170830
-UID:ta:kulachchirai-nayan2ar-gurupujai-2017-08
-DESCRIPTION:http://adyatithih.wordpress.com/ta:kulachchirai-nayan2ar-gurup
- ujai
+UID:ta:kulachchirai-nayanar-gurupujai-2017-08
+DESCRIPTION:http://adyatithih.wordpress.com/ta:kulachchirai-nayanar-gurupu
+ jai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -7174,7 +7172,7 @@ BEGIN:VEVENT
 SUMMARY:गजेन्द्र-मोक्षः
 DTSTART;VALUE=DATE:20170831
 DTEND;VALUE=DATE:20170901
-UID:gajendra-moksha-2-2017-08
+UID:gajendra-moksha-2017-08
 DESCRIPTION:http://adyatithih.wordpress.com/gajendra-moksha
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -7189,9 +7187,9 @@ SUMMARY:குங்கிலியக்கலய நாயனார்
  குருபூஜை
 DTSTART;VALUE=DATE:20170831
 DTEND;VALUE=DATE:20170901
-UID:ta:kungiliyakkalaya-nayan2ar-gurupujai-2017-08
-DESCRIPTION:http://adyatithih.wordpress.com/ta:kungiliyakkalaya-nayan2ar-g
- urupujai
+UID:ta:kungiliyakkalaya-nayanar-gurupujai-2017-08
+DESCRIPTION:http://adyatithih.wordpress.com/ta:kungiliyakkalaya-nayanar-gu
+ rupujai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -7300,9 +7298,9 @@ BEGIN:VEVENT
 SUMMARY:ஆவணி ஞாயிற்றுக்கிழமை
 DTSTART;VALUE=DATE:20170903
 DTEND;VALUE=DATE:20170904
-UID:ta:avani-nayir2r2ukkizhamai-2017-09
+UID:ta:avani-nayirrukkizhamai-2017-09
 DESCRIPTION:Do puja to Surya/Suryanamaskaram.\n\n\n\nhttp://adyatithih.wor
- dpress.com/ta:avani-nayir2r2ukkizhamai
+ dpress.com/ta:avani-nayirrukkizhamai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -7359,7 +7357,7 @@ BEGIN:VEVENT
 SUMMARY:गो-त्रिरात्रि-व्रतम्
 DTSTART;VALUE=DATE:20170904
 DTEND;VALUE=DATE:20170905
-UID:go-triratri-vratam-1-2017-09
+UID:go-triratri-vratam-2017-09
 DESCRIPTION:Agastya arghya danam\n\n\n\nhttp://adyatithih.wordpress.com/go
  -triratri-vratam
 TRANSP:TRANSPARENT
@@ -7422,7 +7420,7 @@ BEGIN:VEVENT
 SUMMARY:நடராஜர் மஹாபிஷேகம்
 DTSTART;VALUE=DATE:20170905
 DTEND;VALUE=DATE:20170906
-UID:ta:natarajar-mahabhishekam-2-2017-09
+UID:ta:natarajar-mahabhishekam-2017-09
 DESCRIPTION:http://adyatithih.wordpress.com/ta:natarajar-mahabhishekam
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -7465,7 +7463,7 @@ BEGIN:VEVENT
 SUMMARY:दिक्पाल पूजा
 DTSTART;VALUE=DATE:20170906
 DTEND;VALUE=DATE:20170907
-UID:dikpala-puja-1-2017-09
+UID:dikpala-puja-2017-09
 DESCRIPTION:Spend this day in Badarikashramam\n\n\n\nhttp://adyatithih.wor
  dpress.com/dikpala-puja
 TRANSP:TRANSPARENT
@@ -7510,7 +7508,7 @@ BEGIN:VEVENT
 SUMMARY:अशून्यशयन व्रतम्
 DTSTART;VALUE=DATE:20170907
 DTEND;VALUE=DATE:20170908
-UID:ashunyashayana-vratam-3-2017-09
+UID:ashunyashayana-vratam-2017-09
 DESCRIPTION:http://adyatithih.wordpress.com/ashunyashayana-vratam
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -7586,7 +7584,7 @@ BEGIN:VEVENT
 SUMMARY:दिक्पाल पूजा
 DTSTART;VALUE=DATE:20170910
 DTEND;VALUE=DATE:20170911
-UID:dikpala-puja-2-2017-09
+UID:dikpala-puja-2017-09-10
 DESCRIPTION:http://adyatithih.wordpress.com/dikpala-puja
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -7628,9 +7626,9 @@ BEGIN:VEVENT
 SUMMARY:ஆவணி ஞாயிற்றுக்கிழமை
 DTSTART;VALUE=DATE:20170910
 DTEND;VALUE=DATE:20170911
-UID:ta:avani-nayir2r2ukkizhamai-2017-09-10
+UID:ta:avani-nayirrukkizhamai-2017-09-10
 DESCRIPTION:Do puja to Surya/Suryanamaskaram.\n\n\n\nhttp://adyatithih.wor
- dpress.com/ta:avani-nayir2r2ukkizhamai
+ dpress.com/ta:avani-nayirrukkizhamai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -7708,13 +7706,14 @@ SUMMARY:शृङ्गेरी 35 जगद्गुरु श्री
  ी आराधना
 DTSTART;VALUE=DATE:20170912
 DTEND;VALUE=DATE:20170913
-UID:shringeri-35-jagadguru-shri-abhinava-vidyatirtha-mahasvami-aradhana-20
- 17-09
+UID:shringeri-35-jagadguru-shri-shri-abhinava-vidyatirtha-mahasvami-aradha
+ na-2017-09
 DESCRIPTION:विवेकिनं महाप्राज्ञ्य
  ं धैर्यौदार्यक्षमानिधिम् ।
  \nसदाऽभिनवपूर्वं तं विद्यात
  ीर्थगुरुं भजे ॥\n\nhttp://adyatithih.wordpress.c
- om/shringeri-35-jagadguru-shri-abhinava-vidyatirtha-mahasvami-aradhana
+ om/shringeri-35-jagadguru-shri-shri-abhinava-vidyatirtha-mahasvami-aradhan
+ a
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -7761,7 +7760,7 @@ BEGIN:VEVENT
 SUMMARY:जीमूतवाहन पूजा
 DTSTART;VALUE=DATE:20170913
 DTEND;VALUE=DATE:20170914
-UID:jimutavahana-puja-1-2017-09
+UID:jimutavahana-puja-2017-09
 DESCRIPTION:Jeemuutavahana is an atma-tyagi vidyadhara Chakravarti. Saved 
  Shankhachuda's (Naaga) life by offering himself to Garuda. From that day G
  aruda stopped eating snakes.\n\n\n\nhttp://adyatithih.wordpress.com/jimuta
@@ -7856,9 +7855,9 @@ SUMMARY:செருத்துணை நாயனார் குரு
  பூஜை
 DTSTART;VALUE=DATE:20170916
 DTEND;VALUE=DATE:20170917
-UID:ta:cheruttunai-nayan2ar-gurupujai-2017-09
-DESCRIPTION:http://adyatithih.wordpress.com/ta:cheruttunai-nayan2ar-gurupu
- jai
+UID:ta:cheruttunai-nayanar-gurupujai-2017-09
+DESCRIPTION:http://adyatithih.wordpress.com/ta:cheruttunai-nayanar-gurupuj
+ ai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -7904,8 +7903,8 @@ SUMMARY:அதிபத்த நாயனார் குருபூஜ
  ை
 DTSTART;VALUE=DATE:20170917
 DTEND;VALUE=DATE:20170918
-UID:ta:atipatta-nayan2ar-gurupujai-2017-09
-DESCRIPTION:http://adyatithih.wordpress.com/ta:atipatta-nayan2ar-gurupujai
+UID:ta:atipatta-nayanar-gurupujai-2017-09
+DESCRIPTION:http://adyatithih.wordpress.com/ta:atipatta-nayanar-gurupujai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -7947,9 +7946,9 @@ SUMMARY:श्री बोधेन्द्र सरस्वती आ
  राधना
 DTSTART;VALUE=DATE:20170917
 DTEND;VALUE=DATE:20170918
-UID:shri-bodhendra-sarasvati-aradhana-2017-09
-DESCRIPTION:http://adyatithih.wordpress.com/shri-bodhendra-sarasvati-aradh
- ana
+UID:shri-shri-bodhendra-sarasvati-aradhana-2017-09
+DESCRIPTION:http://adyatithih.wordpress.com/shri-shri-bodhendra-sarasvati-
+ aradhana
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -8079,12 +8078,13 @@ SUMMARY:शृङ्गेरी 34 जगद्गुरु श्री
  चन्द्रशेखर भारती आराधना
 DTSTART;VALUE=DATE:20170920
 DTEND;VALUE=DATE:20170921
-UID:shringeri-34-jagadguru-shri-chandrashekhara-bharati-aradhana-2017-09
+UID:shringeri-34-jagadguru-shri-shri-chandrashekhara-bharati-aradhana-2017
+ -09
 DESCRIPTION:सदाऽऽत्मध्याननिरतं वि
  षयेभ्यः परङ्मुखम् ।\nनौमि शा
  स्त्रेषु निष्णातं चन्द्रशे
  खरभारतीम् ॥\n\nhttp://adyatithih.wordpress.com/shringe
- ri-34-jagadguru-shri-chandrashekhara-bharati-aradhana
+ ri-34-jagadguru-shri-shri-chandrashekhara-bharati-aradhana
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -8188,10 +8188,10 @@ BEGIN:VEVENT
 SUMMARY:புரட்டாசி சனிக்கிழமை
 DTSTART;VALUE=DATE:20170923
 DTEND;VALUE=DATE:20170924
-UID:ta:purattachi-chan2ikkizhamai-2017-09
+UID:ta:purattachi-chanikkizhamai-2017-09
 DESCRIPTION:Perform special puja and naivedyam (e.g. `tilAnnam`) to Lord V
- enkateshwara.\n\n\n\nhttp://adyatithih.wordpress.com/ta:purattachi-chan2ik
- kizhamai
+ enkateshwara.\n\n\n\nhttp://adyatithih.wordpress.com/ta:purattachi-chanikk
+ izhamai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -8426,8 +8426,8 @@ BEGIN:VEVENT
 SUMMARY:मन्वादि (स्वायम्भुव)
 DTSTART;VALUE=DATE:20170929
 DTEND;VALUE=DATE:20170930
-UID:manvadi-(svayambhuva)-2017-09
-DESCRIPTION:http://adyatithih.wordpress.com/manvadi-(svayambhuva)
+UID:manvadi-svayambhuva-2017-09
+DESCRIPTION:http://adyatithih.wordpress.com/manvadi-svayambhuva
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -8543,9 +8543,9 @@ SUMMARY:ஏனாதிநாத நாயனார் குருபூ
  ஜை
 DTSTART;VALUE=DATE:20170930
 DTEND;VALUE=DATE:20171001
-UID:ta:en2adinatha-nayan2ar-gurupujai-2017-09
-DESCRIPTION:http://adyatithih.wordpress.com/ta:en2adinatha-nayan2ar-gurupu
- jai
+UID:ta:enadinatha-nayanar-gurupujai-2017-09
+DESCRIPTION:http://adyatithih.wordpress.com/ta:enadinatha-nayanar-gurupuja
+ i
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -8558,10 +8558,10 @@ BEGIN:VEVENT
 SUMMARY:புரட்டாசி சனிக்கிழமை
 DTSTART;VALUE=DATE:20170930
 DTEND;VALUE=DATE:20171001
-UID:ta:purattachi-chan2ikkizhamai-2017-09-30
+UID:ta:purattachi-chanikkizhamai-2017-09-30
 DESCRIPTION:Perform special puja and naivedyam (e.g. `tilAnnam`) to Lord V
- enkateshwara.\n\n\n\nhttp://adyatithih.wordpress.com/ta:purattachi-chan2ik
- kizhamai
+ enkateshwara.\n\n\n\nhttp://adyatithih.wordpress.com/ta:purattachi-chanikk
+ izhamai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -8634,9 +8634,9 @@ SUMMARY:நரசிங்கமுனையரைய நாயனார
  ் குருபூஜை
 DTSTART;VALUE=DATE:20171003
 DTEND;VALUE=DATE:20171004
-UID:ta:narachingamun2aiyaraiya-nayan2ar-gurupujai-2017-10
-DESCRIPTION:http://adyatithih.wordpress.com/ta:narachingamun2aiyaraiya-nay
- an2ar-gurupujai
+UID:ta:narachingamunaiyaraiya-nayanar-gurupujai-2017-10
+DESCRIPTION:http://adyatithih.wordpress.com/ta:narachingamunaiyaraiya-naya
+ nar-gurupujai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -8649,7 +8649,7 @@ BEGIN:VEVENT
 SUMMARY:நடராஜர் மஹாபிஷேகம்
 DTSTART;VALUE=DATE:20171004
 DTEND;VALUE=DATE:20171005
-UID:ta:natarajar-mahabhishekam-3-2017-10
+UID:ta:natarajar-mahabhishekam-2017-10
 DESCRIPTION:http://adyatithih.wordpress.com/ta:natarajar-mahabhishekam
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -8818,7 +8818,7 @@ BEGIN:VEVENT
 SUMMARY:अशून्यशयन व्रतम्
 DTSTART;VALUE=DATE:20171007
 DTEND;VALUE=DATE:20171008
-UID:ashunyashayana-vratam-4-2017-10
+UID:ashunyashayana-vratam-2017-10
 DESCRIPTION:http://adyatithih.wordpress.com/ashunyashayana-vratam
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -8832,10 +8832,10 @@ BEGIN:VEVENT
 SUMMARY:புரட்டாசி சனிக்கிழமை
 DTSTART;VALUE=DATE:20171007
 DTEND;VALUE=DATE:20171008
-UID:ta:purattachi-chan2ikkizhamai-2017-10
+UID:ta:purattachi-chanikkizhamai-2017-10
 DESCRIPTION:Perform special puja and naivedyam (e.g. `tilAnnam`) to Lord V
- enkateshwara.\n\n\n\nhttp://adyatithih.wordpress.com/ta:purattachi-chan2ik
- kizhamai
+ enkateshwara.\n\n\n\nhttp://adyatithih.wordpress.com/ta:purattachi-chanikk
+ izhamai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -8849,9 +8849,9 @@ SUMMARY:ருத்ர-பஶுபதி நாயனார் குர
  ுபூஜை
 DTSTART;VALUE=DATE:20171007
 DTEND;VALUE=DATE:20171008
-UID:ta:rudra-pashupati-nayan2ar-gurupujai-2017-10
-DESCRIPTION:http://adyatithih.wordpress.com/ta:rudra-pashupati-nayan2ar-gu
- rupujai
+UID:ta:rudra-pashupati-nayanar-gurupujai-2017-10
+DESCRIPTION:http://adyatithih.wordpress.com/ta:rudra-pashupati-nayanar-gur
+ upujai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -8984,9 +8984,9 @@ SUMMARY:திருநாளைப்போவார் நாயனா
  ர் குருபூஜை
 DTSTART;VALUE=DATE:20171010
 DTEND;VALUE=DATE:20171011
-UID:ta:tirunalaippovar-nayan2ar-gurupujai-2017-10
-DESCRIPTION:http://adyatithih.wordpress.com/ta:tirunalaippovar-nayan2ar-gu
- rupujai
+UID:ta:tirunalaippovar-nayanar-gurupujai-2017-10
+DESCRIPTION:http://adyatithih.wordpress.com/ta:tirunalaippovar-nayanar-gur
+ upujai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -8999,7 +8999,7 @@ BEGIN:VEVENT
 SUMMARY:जीमूतवाहन पूजा
 DTSTART;VALUE=DATE:20171012
 DTEND;VALUE=DATE:20171013
-UID:jimutavahana-puja-2-2017-10
+UID:jimutavahana-puja-2017-10
 DESCRIPTION:In North India\, for progeny\n\n\n\nhttp://adyatithih.wordpres
  s.com/jimutavahana-puja
 TRANSP:TRANSPARENT
@@ -9102,10 +9102,10 @@ BEGIN:VEVENT
 SUMMARY:புரட்டாசி சனிக்கிழமை
 DTSTART;VALUE=DATE:20171014
 DTEND;VALUE=DATE:20171015
-UID:ta:purattachi-chan2ikkizhamai-2017-10-14
+UID:ta:purattachi-chanikkizhamai-2017-10-14
 DESCRIPTION:Perform special puja and naivedyam (e.g. `tilAnnam`) to Lord V
- enkateshwara.\n\n\n\nhttp://adyatithih.wordpress.com/ta:purattachi-chan2ik
- kizhamai
+ enkateshwara.\n\n\n\nhttp://adyatithih.wordpress.com/ta:purattachi-chanikk
+ izhamai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -9133,12 +9133,13 @@ SUMMARY:शृङ्गेरी 34 जगद्गुरु श्री
  चन्द्रशेखर भारती जयन्ती
 DTSTART;VALUE=DATE:20171015
 DTEND;VALUE=DATE:20171016
-UID:shringeri-34-jagadguru-shri-chandrashekhara-bharati-jayanti-2017-10
+UID:shringeri-34-jagadguru-shri-shri-chandrashekhara-bharati-jayanti-2017-
+ 10
 DESCRIPTION:सदाऽऽत्मध्याननिरतं वि
  षयेभ्यः परङ्मुखम् ।\nनौमि शा
  स्त्रेषु निष्णातं चन्द्रशे
  खरभारतीम् ॥\n\nhttp://adyatithih.wordpress.com/shringe
- ri-34-jagadguru-shri-chandrashekhara-bharati-jayanti
+ ri-34-jagadguru-shri-shri-chandrashekhara-bharati-jayanti
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -9247,7 +9248,7 @@ BEGIN:VEVENT
 SUMMARY:गो-त्रिरात्रि-व्रतम्
 DTSTART;VALUE=DATE:20171017
 DTEND;VALUE=DATE:20171018
-UID:go-triratri-vratam-2-2017-10
+UID:go-triratri-vratam-2017-10
 DESCRIPTION:http://adyatithih.wordpress.com/go-triratri-vratam
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -9275,8 +9276,8 @@ BEGIN:VEVENT
 SUMMARY:சத்தி நாயனார் குருபூஜை
 DTSTART;VALUE=DATE:20171017
 DTEND;VALUE=DATE:20171018
-UID:ta:chatti-nayan2ar-gurupujai-2017-10
-DESCRIPTION:http://adyatithih.wordpress.com/ta:chatti-nayan2ar-gurupujai
+UID:ta:chatti-nayanar-gurupujai-2017-10
+DESCRIPTION:http://adyatithih.wordpress.com/ta:chatti-nayanar-gurupujai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -9362,13 +9363,13 @@ SUMMARY:शृङ्गेरी 35 जगद्गुरु श्री
  ी जयन्ती
 DTSTART;VALUE=DATE:20171018
 DTEND;VALUE=DATE:20171019
-UID:shringeri-35-jagadguru-shri-abhinava-vidyatirtha-mahasvami-jayanti-201
- 7-10
+UID:shringeri-35-jagadguru-shri-shri-abhinava-vidyatirtha-mahasvami-jayant
+ i-2017-10
 DESCRIPTION:विवेकिनं महाप्राज्ञ्य
  ं धैर्यौदार्यक्षमानिधिम् ।
  \nसदाऽभिनवपूर्वं तं विद्यात
  ीर्थगुरुं भजे ॥\n\nhttp://adyatithih.wordpress.c
- om/shringeri-35-jagadguru-shri-abhinava-vidyatirtha-mahasvami-jayanti
+ om/shringeri-35-jagadguru-shri-shri-abhinava-vidyatirtha-mahasvami-jayanti
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -9381,8 +9382,8 @@ BEGIN:VEVENT
 SUMMARY:आश्वयुज अमावस्या
 DTSTART;VALUE=DATE:20171019
 DTEND;VALUE=DATE:20171020
-UID:ashvayuja-amavasya-2017-10
-DESCRIPTION:http://adyatithih.wordpress.com/ashvayuja-amavasya
+UID:ashvina-amavasya-2017-10
+DESCRIPTION:http://adyatithih.wordpress.com/ashvina-amavasya
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -9505,8 +9506,8 @@ SUMMARY:பூசலார் நாயனார் குருபூஜ
  ை
 DTSTART;VALUE=DATE:20171023
 DTEND;VALUE=DATE:20171024
-UID:ta:puchalar-nayan2ar-gurupujai-2017-10
-DESCRIPTION:http://adyatithih.wordpress.com/ta:puchalar-nayan2ar-gurupujai
+UID:ta:puchalar-nayanar-gurupujai-2017-10
+DESCRIPTION:http://adyatithih.wordpress.com/ta:puchalar-nayanar-gurupujai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -9533,7 +9534,7 @@ BEGIN:VEVENT
 SUMMARY:सर्प पूजा
 DTSTART;VALUE=DATE:20171025
 DTEND;VALUE=DATE:20171026
-UID:sarpa-puja-2-2017-10
+UID:sarpa-puja-2017-10
 DESCRIPTION:Vishnu's boon to AdiSesha that humans will worship on this day
  \n\n\n\nhttp://adyatithih.wordpress.com/sarpa-puja
 TRANSP:TRANSPARENT
@@ -9549,9 +9550,9 @@ SUMMARY:ஐயடிகள் காடவர்கோன் நாயன
  ார் குருபூஜை
 DTSTART;VALUE=DATE:20171025
 DTEND;VALUE=DATE:20171026
-UID:ta:aiyadigal-kadavarkon2-nayan2ar-gurupujai-2017-10
-DESCRIPTION:http://adyatithih.wordpress.com/ta:aiyadigal-kadavarkon2-nayan
- 2ar-gurupujai
+UID:ta:aiyadigal-kadavarkon-nayanar-gurupujai-2017-10
+DESCRIPTION:http://adyatithih.wordpress.com/ta:aiyadigal-kadavarkon-nayana
+ r-gurupujai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -9759,8 +9760,8 @@ BEGIN:VEVENT
 SUMMARY:मन्वादि (स्वारोचिष)
 DTSTART;VALUE=DATE:20171101
 DTEND;VALUE=DATE:20171102
-UID:manvadi-(svarochisha)-2-2017-11
-DESCRIPTION:http://adyatithih.wordpress.com/manvadi-(svarochisha)
+UID:manvadi-svarochisha-2017-11
+DESCRIPTION:http://adyatithih.wordpress.com/manvadi-svarochisha
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -9858,8 +9859,8 @@ BEGIN:VEVENT
 SUMMARY:मन्वादि (उत्तम)
 DTSTART;VALUE=DATE:20171103
 DTEND;VALUE=DATE:20171104
-UID:manvadi-(uttama)-2-2017-11
-DESCRIPTION:http://adyatithih.wordpress.com/manvadi-(uttama)
+UID:manvadi-uttama-2017-11
+DESCRIPTION:http://adyatithih.wordpress.com/manvadi-uttama
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -9873,8 +9874,8 @@ SUMMARY:திருமூல நாயனார் குருபூஜ
  ை
 DTSTART;VALUE=DATE:20171103
 DTEND;VALUE=DATE:20171104
-UID:ta:tirumula-nayan2ar-gurupujai-2017-11
-DESCRIPTION:http://adyatithih.wordpress.com/ta:tirumula-nayan2ar-gurupujai
+UID:ta:tirumula-nayanar-gurupujai-2017-11
+DESCRIPTION:http://adyatithih.wordpress.com/ta:tirumula-nayanar-gurupujai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -9901,7 +9902,7 @@ BEGIN:VEVENT
 SUMMARY:आ-का-मा-वै स्नानम्
 DTSTART;VALUE=DATE:20171104
 DTEND;VALUE=DATE:20171105
-UID:a-ka-ma-vai-snanam-3-2017-11
+UID:a-ka-ma-vai-snanam-2017-11
 DESCRIPTION:Perform snana four ghatikas before sunrise (during `aruNodayam
  `\, when the Moon is still up\, on the full-moon days of `ASADha`\, `kArti
  ka`\, `mAgha` and `vaizAkha` – hence the name `A-kA-mA-vai`) bestows str
@@ -9937,8 +9938,8 @@ BEGIN:VEVENT
 SUMMARY:मन्वादि (दक्ष सावर्णि)
 DTSTART;VALUE=DATE:20171104
 DTEND;VALUE=DATE:20171105
-UID:manvadi-(daksha-savarni)-2017-11
-DESCRIPTION:http://adyatithih.wordpress.com/manvadi-(daksha-savarni)
+UID:manvadi-daksha-savarni-2017-11
+DESCRIPTION:http://adyatithih.wordpress.com/manvadi-daksha-savarni
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -9952,9 +9953,9 @@ SUMMARY:நின்றசீர் நெடுமாற நாயனா
  ர் குருபூஜை
 DTSTART;VALUE=DATE:20171104
 DTEND;VALUE=DATE:20171105
-UID:ta:nin2r2achir-nedumar2a-nayan2ar-gurupujai-2017-11
-DESCRIPTION:http://adyatithih.wordpress.com/ta:nin2r2achir-nedumar2a-nayan
- 2ar-gurupujai
+UID:ta:ninrachir-nedumara-nayanar-gurupujai-2017-11
+DESCRIPTION:http://adyatithih.wordpress.com/ta:ninrachir-nedumara-nayanar-
+ gurupujai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -9984,9 +9985,8 @@ SUMMARY:இடங்கழி நாயனார் குருபூஜ
  ை
 DTSTART;VALUE=DATE:20171105
 DTEND;VALUE=DATE:20171106
-UID:ta:idankazhi-nayan2ar-gurupujai-2017-11
-DESCRIPTION:http://adyatithih.wordpress.com/ta:idankazhi-nayan2ar-gurupuja
- i
+UID:ta:idankazhi-nayanar-gurupujai-2017-11
+DESCRIPTION:http://adyatithih.wordpress.com/ta:idankazhi-nayanar-gurupujai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -10136,8 +10136,8 @@ BEGIN:VEVENT
 SUMMARY:சத்தி நாயனார் குருபூஜை
 DTSTART;VALUE=DATE:20171113
 DTEND;VALUE=DATE:20171114
-UID:ta:chatti-nayan2ar-gurupujai-2017-11
-DESCRIPTION:http://adyatithih.wordpress.com/ta:chatti-nayan2ar-gurupujai
+UID:ta:chatti-nayanar-gurupujai-2017-11
+DESCRIPTION:http://adyatithih.wordpress.com/ta:chatti-nayanar-gurupujai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -10244,9 +10244,9 @@ SUMMARY:கார்த்திகை ஞாயிற்றுக்க
  ிழமை
 DTSTART;VALUE=DATE:20171119
 DTEND;VALUE=DATE:20171120
-UID:ta:karttigai-nayir2r2ukkizhamai-2017-11
+UID:ta:karttigai-nayirrukkizhamai-2017-11
 DESCRIPTION:Do puja to Surya/Suryanamaskaram.\n\n\n\nhttp://adyatithih.wor
- dpress.com/ta:karttigai-nayir2r2ukkizhamai
+ dpress.com/ta:karttigai-nayirrukkizhamai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -10307,8 +10307,8 @@ BEGIN:VEVENT
 SUMMARY:மூர்க நாயனார் குருபூஜை
 DTSTART;VALUE=DATE:20171121
 DTEND;VALUE=DATE:20171122
-UID:ta:murkha-nayan2ar-gurupujai-2017-11
-DESCRIPTION:http://adyatithih.wordpress.com/ta:murkha-nayan2ar-gurupujai
+UID:ta:murkha-nayanar-gurupujai-2017-11
+DESCRIPTION:http://adyatithih.wordpress.com/ta:murkha-nayanar-gurupujai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -10336,9 +10336,9 @@ SUMMARY:சிரப்புலி நாயனார் குருப
  ூஜை
 DTSTART;VALUE=DATE:20171122
 DTEND;VALUE=DATE:20171123
-UID:ta:chirappuli-nayan2ar-gurupujai-2017-11
-DESCRIPTION:http://adyatithih.wordpress.com/ta:chirappuli-nayan2ar-gurupuj
- ai
+UID:ta:chirappuli-nayanar-gurupujai-2017-11
+DESCRIPTION:http://adyatithih.wordpress.com/ta:chirappuli-nayanar-gurupuja
+ i
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -10444,9 +10444,9 @@ SUMMARY:கார்த்திகை ஞாயிற்றுக்க
  ிழமை
 DTSTART;VALUE=DATE:20171126
 DTEND;VALUE=DATE:20171127
-UID:ta:karttigai-nayir2r2ukkizhamai-2017-11-26
+UID:ta:karttigai-nayirrukkizhamai-2017-11-26
 DESCRIPTION:Do puja to Surya/Suryanamaskaram.\n\n\n\nhttp://adyatithih.wor
- dpress.com/ta:karttigai-nayir2r2ukkizhamai
+ dpress.com/ta:karttigai-nayirrukkizhamai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -10597,8 +10597,8 @@ BEGIN:VEVENT
 SUMMARY:கார்த்திகை
 DTSTART;VALUE=DATE:20171203
 DTEND;VALUE=DATE:20171204
-UID:ta:karttigai-2017-12
-DESCRIPTION:http://adyatithih.wordpress.com/ta:karttigai
+UID:kartiki-2017-12
+DESCRIPTION:http://adyatithih.wordpress.com/kartiki
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -10612,9 +10612,9 @@ SUMMARY:கார்த்திகை ஞாயிற்றுக்க
  ிழமை
 DTSTART;VALUE=DATE:20171203
 DTEND;VALUE=DATE:20171204
-UID:ta:karttigai-nayir2r2ukkizhamai-2017-12
+UID:ta:karttigai-nayirrukkizhamai-2017-12
 DESCRIPTION:Do puja to Surya/Suryanamaskaram.\n\n\n\nhttp://adyatithih.wor
- dpress.com/ta:karttigai-nayir2r2ukkizhamai
+ dpress.com/ta:karttigai-nayirrukkizhamai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -10628,9 +10628,9 @@ SUMMARY:கணம்புல்ல நாயனார் குருப
  ூஜை
 DTSTART;VALUE=DATE:20171203
 DTEND;VALUE=DATE:20171204
-UID:ta:kanampulla-nayan2ar-gurupujai-2017-12
-DESCRIPTION:http://adyatithih.wordpress.com/ta:kanampulla-nayan2ar-gurupuj
- ai
+UID:ta:kanampulla-nayanar-gurupujai-2017-12
+DESCRIPTION:http://adyatithih.wordpress.com/ta:kanampulla-nayanar-gurupuja
+ i
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -10727,9 +10727,9 @@ SUMMARY:கார்த்திகை ஞாயிற்றுக்க
  ிழமை
 DTSTART;VALUE=DATE:20171210
 DTEND;VALUE=DATE:20171211
-UID:ta:karttigai-nayir2r2ukkizhamai-2017-12-10
+UID:ta:karttigai-nayirrukkizhamai-2017-12-10
 DESCRIPTION:Do puja to Surya/Suryanamaskaram.\n\n\n\nhttp://adyatithih.wor
- dpress.com/ta:karttigai-nayir2r2ukkizhamai
+ dpress.com/ta:karttigai-nayirrukkizhamai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -10757,9 +10757,8 @@ SUMMARY:மெய்ப்பொருள் நாயனார் கு
  ருபூஜை
 DTSTART;VALUE=DATE:20171211
 DTEND;VALUE=DATE:20171212
-UID:ta:meypporul-nayan2ar-gurupujai-2017-12
-DESCRIPTION:http://adyatithih.wordpress.com/ta:meypporul-nayan2ar-gurupuja
- i
+UID:ta:meypporul-nayanar-gurupujai-2017-12
+DESCRIPTION:http://adyatithih.wordpress.com/ta:meypporul-nayanar-gurupujai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -10791,8 +10790,8 @@ BEGIN:VEVENT
 SUMMARY:ஆனாய நாயனார் குருபூஜை
 DTSTART;VALUE=DATE:20171212
 DTEND;VALUE=DATE:20171213
-UID:ta:an2aya-nayan2ar-gurupujai-2017-12
-DESCRIPTION:http://adyatithih.wordpress.com/ta:an2aya-nayan2ar-gurupujai
+UID:ta:anaya-nayanar-gurupujai-2017-12
+DESCRIPTION:http://adyatithih.wordpress.com/ta:anaya-nayanar-gurupujai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -10976,7 +10975,7 @@ BEGIN:VEVENT
 SUMMARY:श्री हनूमत् जयन्ती
 DTSTART;VALUE=DATE:20171218
 DTEND;VALUE=DATE:20171219
-UID:shri-hanumat-jayanti-1-2017-12
+UID:shri-hanumat-jayanti-2017-12
 DESCRIPTION:http://adyatithih.wordpress.com/shri-hanumat-jayanti
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -11026,8 +11025,8 @@ SUMMARY:சாக்கிய நாயனார் குருபூஜ
  ை
 DTSTART;VALUE=DATE:20171220
 DTEND;VALUE=DATE:20171221
-UID:ta:chakkiya-nayan2ar-gurupujai-2017-12
-DESCRIPTION:http://adyatithih.wordpress.com/ta:chakkiya-nayan2ar-gurupujai
+UID:ta:chakkiya-nayanar-gurupujai-2017-12
+DESCRIPTION:http://adyatithih.wordpress.com/ta:chakkiya-nayanar-gurupujai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -11085,8 +11084,8 @@ SUMMARY:வாயிலார் நாயனார் குருபூ
  ஜை
 DTSTART;VALUE=DATE:20171227
 DTEND;VALUE=DATE:20171228
-UID:ta:vayilar-nayan2ar-gurupujai-2017-12
-DESCRIPTION:http://adyatithih.wordpress.com/ta:vayilar-nayan2ar-gurupujai
+UID:ta:vayilar-nayanar-gurupujai-2017-12
+DESCRIPTION:http://adyatithih.wordpress.com/ta:vayilar-nayanar-gurupujai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -11116,8 +11115,8 @@ BEGIN:VEVENT
 SUMMARY:मन्वादि (चाक्षुष)
 DTSTART;VALUE=DATE:20171229
 DTEND;VALUE=DATE:20171230
-UID:manvadi-(chakshusha)-2-2017-12
-DESCRIPTION:http://adyatithih.wordpress.com/manvadi-(chakshusha)
+UID:manvadi-chakshusha-2017-12
+DESCRIPTION:http://adyatithih.wordpress.com/manvadi-chakshusha
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
