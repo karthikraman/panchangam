@@ -1718,7 +1718,7 @@ class panchangam:
                             else:
                                 sys.stderr.write('No description found for festival %s!\n' % ekad)
                             desc += '\n' + BASE_URL + page_id
-                            uid = '%s-%d-%02d' % (stext.split('~')[0]+ "-" + page_id, y, m)
+                            uid = '%s-%d-%02d' % (stext.split('~')[0] + "-" + page_id, y, m)
                         # print(page_id)
                         event.add_component(alarm)
                         event.add('description', desc.strip())
