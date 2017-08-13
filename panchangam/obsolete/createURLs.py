@@ -5,10 +5,13 @@ from helper_functions import romanise
 from helper_functions import transliterate
 from collections import OrderedDict
 
-with open('festival_rules.json') as festivals_data:
+fname = 'festival_rules'
+fname = 'kanchi_aradhana_rules'
+
+with open(fname + '.json') as festivals_data:
     festival_rules = json.load(festivals_data, object_pairs_hook=OrderedDict)
 
-with open('festival_rules_clean.json', 'w') as fp:
+with open(fname + '_clean.json', 'w') as fp:
     json.dump(festival_rules, fp, indent=2)
 
 for stext in festival_rules:
@@ -25,5 +28,5 @@ for stext in festival_rules:
             URL = ekad
     festival_rules[stext]["URL"] = URL
 
-with open('festival_rules_URL.json', 'w') as fp:
+with open(fname + '_URL.json', 'w') as fp:
     json.dump(festival_rules, fp, indent=2)
