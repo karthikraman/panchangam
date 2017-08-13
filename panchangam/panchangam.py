@@ -1610,12 +1610,20 @@ class panchangam:
                         [stext, t1, arrow, t2] = stext.split('\\')
                         stext = stext.strip('~')
                         event.add('summary', tr(stext, self.script))
-                        # we know that t1 is something like 'textsf{14:44}{'
+                        # we know that t1 is something like 'textsf{hh:mm(+1)}{'
                         # so we know the exact positions of min and hour
-                        event.add('dtstart', datetime(y, m, dt, int(t1[7:9]), int(
-                            t1[10:12]), tzinfo=tz(self.city.timezone)))
-                        event.add('dtend', datetime(y, m, dt, int(t2[7:9]), int(
-                            t2[10:12]), tzinfo=tz(self.city.timezone)))
+                        if t1[12] == '(':  # (+1), next day
+                            event.add('dtstart', datetime(y, m, dt, int(t1[7:9]), int(t1[10:12]),
+                                      tzinfo=tz(self.city.timezone)) + timedelta(1))
+                        else:
+                            event.add('dtstart', datetime(y, m, dt, int(t1[7:9]), int(t1[10:12]),
+                                      tzinfo=tz(self.city.timezone)))
+                        if t2[12] == '(':  # (+1), next day
+                            event.add('dtend', datetime(y, m, dt, int(t2[7:9]), int(t2[10:12]),
+                                      tzinfo=tz(self.city.timezone)) + timedelta(1))
+                        else:
+                            event.add('dtend', datetime(y, m, dt, int(t2[7:9]), int(t2[10:12]),
+                                      tzinfo=tz(self.city.timezone)))
 
                         if stext in festival_rules:
                             desc = festival_rules[stext]['Short Description'] + '\n\n' +\
