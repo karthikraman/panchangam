@@ -1588,7 +1588,7 @@ class panchangam:
         alarm.add('action', 'DISPLAY')
         alarm.add('trigger', timedelta(hours=-4))
 
-        BASE_URL = "http://adyatithi.wordpress.com/"
+        BASE_URL = "http://adyatithih.wordpress.com/"
 
         for d in range(1, MAX_SZ - 1):
             [y, m, dt, t] = swe.revjul(self.jd_start + d - 1)
