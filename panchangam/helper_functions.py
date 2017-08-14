@@ -373,6 +373,27 @@ def get_nakshatram(jd):
     return get_angam(jd, NAKSHATRAM)
 
 
+def get_solar_rashi(jd):
+    """Returns the solar rashi prevailing at a given moment
+
+    Solar month is computed based on the longitude of the sun; in
+    addition, to obtain the absolute value of the longitude, the
+    ayanamsa is required to be subtracted.
+
+    Args:
+      float jd, the Julian day
+
+    Returns:
+      int rashi, where 1 stands for mESa, ..., 12 stands for mIna
+
+    Examples:
+      >>> get_solar_rashi(2444961.7125)
+      9
+    """
+
+    return get_angam(jd, SOLAR_MONTH)
+
+
 def get_angam_float(jd, angam_type, offset=0, debug=False):
     """Returns the angam
 
