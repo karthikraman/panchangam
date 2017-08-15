@@ -9806,7 +9806,7 @@
   },
   "tripura~bhairavI~jayantI": {
     "Month Type": "lunar_month",
-    "Month Number": 10,
+    "Month Number": 9,
     "Angam Type": "tithi",
     "Angam Number": 15,
     "Tags": "dashamahavidya",
@@ -9824,6 +9824,8 @@
     "Month Number": 1,
     "Angam Type": "tithi",
     "Angam Number": 9,
+    "kala": "madhyahna",
+    "priority": "purvaviddha",
     "Tags": "dashamahavidya",
     "URL": "mahatara-jayanti",
     "Short Description": "Goddess Mahatara is 2nd of the Dasha Maha Vidyas.",
