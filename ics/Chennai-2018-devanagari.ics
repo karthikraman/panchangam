@@ -2,7 +2,7 @@ BEGIN:VCALENDAR
 BEGIN:VEVENT
 SUMMARY:काञ्ची 8 जगद्गुरु श्री कै
  वल्यानन्दयोगेन्द्र सरस्वत
- ी आराधना \\#{1989}
+ ी आराधना #{1989}
 DTSTART;VALUE=DATE:20180101
 DTEND;VALUE=DATE:20180102
 UID:kanchi-8-jagadguru-shri-kaivalyanandayogendra-sarasvati-aradhana-2018-
@@ -19,7 +19,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:बदर्यां ज्योतिर्मठ प्रत
- िष्ठापन जयन्ती \\#{2503}
+ िष्ठापन जयन्ती #{2503}
 DTSTART;VALUE=DATE:20180102
 DTEND;VALUE=DATE:20180103
 UID:badaryam-jyotirmatha-pratishthapana-jayanti-2018-01
@@ -37,7 +37,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:काञ्ची 62 जगद्गुरु श्री चन
  ्द्रशेखरेन्द्र सरस्वती 5 आर
- ाधना \\#{235}
+ ाधना #{235}
 DTSTART;VALUE=DATE:20180102
 DTEND;VALUE=DATE:20180103
 UID:kanchi-62-jagadguru-shri-chandrashekharendra-sarasvati-5-aradhana-2018
@@ -103,8 +103,22 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:शाकम्भरी जयन्ती
+DTSTART;VALUE=DATE:20180102
+DTEND;VALUE=DATE:20180103
+UID:shakambhari-jayanti-2018-01
+DESCRIPTION:http://adyatithih.wordpress.com/shakambhari-jayanti
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:शृङ्गेर्यां शारदा मठ प्र
- तिष्ठापन जयन्ती \\#{2501}
+ तिष्ठापन जयन्ती #{2501}
 DTSTART;VALUE=DATE:20180102
 DTEND;VALUE=DATE:20180103
 UID:shringeryam-sharada-matha-pratishthapana-jayanti-2018-01
@@ -122,7 +136,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:काञ्ची 37 जगद्गुरु श्री वि
  द्याघनेन्द्र सरस्वती 3 आराध
- ना \\#{1230}
+ ना #{1230}
 DTSTART;VALUE=DATE:20180103
 DTEND;VALUE=DATE:20180104
 UID:kanchi-37-jagadguru-shri-vidyaghanendra-sarasvati-3-aradhana-2018-01
@@ -137,7 +151,7 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:रमण महर्षि जयन्ती \\#{139}
+SUMMARY:रमण महर्षि जयन्ती #{139}
 DTSTART;VALUE=DATE:20180103
 DTEND;VALUE=DATE:20180104
 UID:ramana-maharshi-jayanti-2018-01
@@ -184,7 +198,7 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:त्यागराज आराधना \\#{171}
+SUMMARY:त्यागराज आराधना #{171}
 DTSTART;VALUE=DATE:20180106
 DTEND;VALUE=DATE:20180107
 UID:tyagaraja-aradhana-2018-01
@@ -217,11 +231,25 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:विवेकानन्द जयन्ती \\#{156}
+SUMMARY:विवेकानन्द जयन्ती #{156}
 DTSTART;VALUE=DATE:20180108
 DTEND;VALUE=DATE:20180109
 UID:vivekananda-jayanti-2018-01
 DESCRIPTION:http://adyatithih.wordpress.com/vivekananda-jayanti
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:भीष्म जयन्ती
+DTSTART;VALUE=DATE:20180110
+DTEND;VALUE=DATE:20180111
+UID:bhishma-jayanti-2018-01
+DESCRIPTION:http://adyatithih.wordpress.com/bhishma-jayanti
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -491,6 +519,35 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:मार्कण्डेय जयन्ती
+DTSTART;VALUE=DATE:20180121
+DTEND;VALUE=DATE:20180122
+UID:markandeya-jayanti-2018-01
+DESCRIPTION:http://adyatithih.wordpress.com/markandeya-jayanti
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:माघी सरस्वती पूजा
+DTSTART;VALUE=DATE:20180122
+DTEND;VALUE=DATE:20180123
+UID:maghi-sarasvati-puja-2018-01
+DESCRIPTION:Saraswati Puja\, especially in Bengal.\n\n\n\nhttp://adyatithi
+ h.wordpress.com/maghi-sarasvati-puja
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:सर्प पूजा
 DTSTART;VALUE=DATE:20180122
 DTEND;VALUE=DATE:20180123
@@ -555,7 +612,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:द्वारका मठ प्रतिष्ठापन ज
- यन्ती \\#{2508}
+ यन्ती #{2508}
 DTSTART;VALUE=DATE:20180124
 DTEND;VALUE=DATE:20180125
 UID:dvaraka-matha-pratishthapana-jayanti-2018-01
@@ -576,6 +633,20 @@ DTSTART;VALUE=DATE:20180124
 DTEND;VALUE=DATE:20180125
 UID:manvadi-savarni-2018-01
 DESCRIPTION:http://adyatithih.wordpress.com/manvadi-savarni
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:नर्मदा जयन्ती
+DTSTART;VALUE=DATE:20180124
+DTEND;VALUE=DATE:20180125
+UID:narmada-jayanti-2018-01
+DESCRIPTION:http://adyatithih.wordpress.com/narmada-jayanti
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -621,6 +692,20 @@ UID:bhishmashtami-2018-01
 DESCRIPTION:Bhishma obtained mukti on this day\; offer tarpana to Bhishma 
  (even those with parents). Brings health\, long life and harmony in family
  .\n\n\n\nhttp://adyatithih.wordpress.com/bhishmashtami
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:खोडियार माता जयन्ती
+DTSTART;VALUE=DATE:20180125
+DTEND;VALUE=DATE:20180126
+UID:khodiyar-mata-jayanti-2018-01
+DESCRIPTION:http://adyatithih.wordpress.com/khodiyar-mata-jayanti
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -690,7 +775,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:काञ्ची 11 जगद्गुरु श्री शि
  वानन्द चिद्घनेन्द्र सरस्वत
- ी आराधना \\#{1846}
+ ी आराधना #{1846}
 DTSTART;VALUE=DATE:20180127
 DTEND;VALUE=DATE:20180128
 UID:kanchi-11-jagadguru-shri-shivananda-chidghanendra-sarasvati-aradhana-2
@@ -847,7 +932,8 @@ SUMMARY:ललिता जयन्ती
 DTSTART;VALUE=DATE:20180131
 DTEND;VALUE=DATE:20180201
 UID:lalita-jayanti-2018-01
-DESCRIPTION:http://adyatithih.wordpress.com/lalita-jayanti
+DESCRIPTION:Goddess Lalita is 3rd of the Dasha Maha Vidyas.\n\n\n\nhttp://
+ adyatithih.wordpress.com/lalita-jayanti
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -901,7 +987,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:काञ्ची 51 जगद्गुरु श्री वि
  द्यातीर्थेन्द्र सरस्वती आर
- ाधना \\#{633}
+ ाधना #{633}
 DTSTART;VALUE=DATE:20180201
 DTEND;VALUE=DATE:20180202
 UID:kanchi-51-jagadguru-shri-vidyatirthendra-sarasvati-aradhana-2018-02
@@ -995,7 +1081,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:श्री शेषाद्रि स्वामी जयन
- ्ती \\#{149}
+ ्ती #{149}
 DTSTART;VALUE=DATE:20180205
 DTEND;VALUE=DATE:20180206
 UID:shri-sheshadri-svami-jayanti-2018-02
@@ -1013,15 +1099,43 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:यशोदा जयन्ती
+DTSTART;VALUE=DATE:20180206
+DTEND;VALUE=DATE:20180207
+UID:yashoda-jayanti-2018-02
+DESCRIPTION:http://adyatithih.wordpress.com/yashoda-jayanti
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:काञ्ची 66 जगद्गुरु श्री चन
  ्द्रशेखरेन्द्र सरस्वती 7 आर
- ाधना \\#{111}
+ ाधना #{111}
 DTSTART;VALUE=DATE:20180207
 DTEND;VALUE=DATE:20180208
 UID:kanchi-66-jagadguru-shri-chandrashekharendra-sarasvati-7-aradhana-2018
  -02
 DESCRIPTION:http://adyatithih.wordpress.com/kanchi-66-jagadguru-shri-chand
  rashekharendra-sarasvati-7-aradhana
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:शबरी जयन्ती
+DTSTART;VALUE=DATE:20180207
+DTEND;VALUE=DATE:20180208
+UID:shabari-jayanti-2018-02
+DESCRIPTION:http://adyatithih.wordpress.com/shabari-jayanti
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -1092,7 +1206,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:काञ्ची जगद्गुरु श्री शङ्
  कर विजयेन्द्र सरस्वती जयन्
- ती \\#{50}
+ ती #{50}
 DTSTART;VALUE=DATE:20180213
 DTEND;VALUE=DATE:20180214
 UID:kanchi-jagadguru-shri-shankara-vijayendra-sarasvati-jayanti-2018-02
@@ -1186,7 +1300,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:काञ्ची 67 जगद्गुरु श्री मह
  ादेवेन्द्र सरस्वती 5 आराधना 
- \\#{111}
+ #{111}
 DTSTART;VALUE=DATE:20180216
 DTEND;VALUE=DATE:20180217
 UID:kanchi-67-jagadguru-shri-mahadevendra-sarasvati-5-aradhana-2018-02
@@ -1221,8 +1335,8 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:रामकृष्ण परमहंस जयन्ती \\#
- {183}
+SUMMARY:रामकृष्ण परमहंस जयन्ती #{1
+ 83}
 DTSTART;VALUE=DATE:20180217
 DTEND;VALUE=DATE:20180218
 UID:ramakrishna-paramahamsa-jayanti-2018-02
@@ -1283,7 +1397,7 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:पून्तानं जयन्ती \\#{471}
+SUMMARY:पून्तानं जयन्ती #{471}
 DTSTART;VALUE=DATE:20180221
 DTEND;VALUE=DATE:20180222
 UID:puntanam-jayanti-2018-02
@@ -1303,7 +1417,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:श्री राघवेन्द्र-स्वामी ज
- यन्ती \\#{424}
+ यन्ती #{424}
 DTSTART;VALUE=DATE:20180222
 DTEND;VALUE=DATE:20180223
 UID:shri-raghavendra-svami-jayanti-2018-02
@@ -1377,8 +1491,8 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:चैतन्य-महाप्रभु जयन्ती \\#
- {533}
+SUMMARY:चैतन्य-महाप्रभु जयन्ती #{5
+ 33}
 DTSTART;VALUE=DATE:20180301
 DTEND;VALUE=DATE:20180302
 UID:chaitanya-mahaprabhu-jayanti-2018-03
@@ -1463,8 +1577,7 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:छत्रपति शिवाजी जयन्ती \\#{38
- 9}
+SUMMARY:छत्रपति शिवाजी जयन्ती #{389}
 DTSTART;VALUE=DATE:20180304
 DTEND;VALUE=DATE:20180305
 UID:chhatrapati-shivaji-jayanti-2018-03
@@ -1558,7 +1671,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:काञ्ची जगद्गुरु श्री शङ्
  कर विजयेन्द्र सरस्वती जयन्
- ती \\#{50}
+ ती #{50}
 DTSTART;VALUE=DATE:20180313
 DTEND;VALUE=DATE:20180314
 UID:kanchi-jagadguru-shri-shankara-vijayendra-sarasvati-jayanti-2018-03
@@ -1648,7 +1761,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:काञ्ची 65 जगद्गुरु श्री सु
  दर्शन महादेवेन्द्र सरस्वती
-  आराधना \\#{128}
+  आराधना #{128}
 DTSTART;VALUE=DATE:20180317
 DTEND;VALUE=DATE:20180318
 UID:kanchi-65-jagadguru-shri-sudarshana-mahadevendra-sarasvati-aradhana-20
@@ -1694,7 +1807,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:काञ्ची 15 जगद्गुरु श्री गङ
  ्गाधरेन्द्र सरस्वती आराधना
-  \\#{1690}
+  #{1690}
 DTSTART;VALUE=DATE:20180318
 DTEND;VALUE=DATE:20180319
 UID:kanchi-15-jagadguru-shri-gangadharendra-sarasvati-aradhana-2018-03
@@ -1711,7 +1824,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:काञ्ची 27 जगद्गुरु श्री चि
  द्विलसेन्द्र सरस्वती आराधन
- ा \\#{1442}
+ ा #{1442}
 DTSTART;VALUE=DATE:20180318
 DTEND;VALUE=DATE:20180319
 UID:kanchi-27-jagadguru-shri-chidvilasendra-sarasvati-aradhana-2018-03
@@ -1728,7 +1841,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:काञ्ची 52 जगद्गुरु श्री सङ
  ्करानन्देन्द्र सरस्वती आरा
- धना \\#{602}
+ धना #{602}
 DTSTART;VALUE=DATE:20180318
 DTEND;VALUE=DATE:20180319
 UID:kanchi-52-jagadguru-shri-sankaranandendra-sarasvati-aradhana-2018-03
@@ -1805,9 +1918,23 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:झूलेलाल जयन्ती
+DTSTART;VALUE=DATE:20180319
+DTEND;VALUE=DATE:20180320
+UID:jhulelal-jayanti-2018-03
+DESCRIPTION:http://adyatithih.wordpress.com/jhulelal-jayanti
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:काञ्ची 60 जगद्गुरु श्री अद
  ्वैतात्मप्रकाशेन्द्र सरस्
- वती आराधना \\#{315}
+ वती आराधना #{315}
 DTSTART;VALUE=DATE:20180319
 DTEND;VALUE=DATE:20180320
 UID:kanchi-60-jagadguru-shri-advaitatmaprakashendra-sarasvati-aradhana-201
@@ -1882,7 +2009,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:मुत्तुस्वामी-दीक्षित जय
- न्ती \\#{244}
+ न्ती #{244}
 DTSTART;VALUE=DATE:20180322
 DTEND;VALUE=DATE:20180323
 UID:muttusvami-dikshita-jayanti-2018-03
@@ -2025,12 +2152,27 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:काञ्ची 43 जगद्गुरु श्री आन
  न्दघनेन्द्र सरस्वती आराधना
-  \\#{1005}
+  #{1005}
 DTSTART;VALUE=DATE:20180325
 DTEND;VALUE=DATE:20180326
 UID:kanchi-43-jagadguru-shri-anandaghanendra-sarasvati-aradhana-2018-03
 DESCRIPTION:http://adyatithih.wordpress.com/kanchi-43-jagadguru-shri-anand
  aghanendra-sarasvati-aradhana
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:महातारा जयन्ती
+DTSTART;VALUE=DATE:20180325
+DTEND;VALUE=DATE:20180326
+UID:mahatara-jayanti-2018-03
+DESCRIPTION:Goddess Mahatara is 2nd of the Dasha Maha Vidyas.\n\n\n\nhttp:
+ //adyatithih.wordpress.com/mahatara-jayanti
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -2472,7 +2614,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:काञ्ची 56 जगद्गुरु श्री सर
  ्वज्ञ सदाशिव बोधेन्द्र सरस
- ्वती आराधना \\#{480}
+ ्वती आराधना #{480}
 DTSTART;VALUE=DATE:20180408
 DTEND;VALUE=DATE:20180409
 UID:kanchi-56-jagadguru-shri-sarvajna-sadashiva-bodhendra-sarasvati-aradha
@@ -2531,7 +2673,7 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:वल्लभाचार्य जयन्ती \\#{540}
+SUMMARY:वल्लभाचार्य जयन्ती #{540}
 DTSTART;VALUE=DATE:20180412
 DTEND;VALUE=DATE:20180413
 UID:vallabhacharya-jayanti-2018-04
@@ -2574,7 +2716,7 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:रमण महर्षि आराधना \\#{68}
+SUMMARY:रमण महर्षि आराधना #{68}
 DTSTART;VALUE=DATE:20180414
 DTEND;VALUE=DATE:20180415
 UID:ramana-maharshi-aradhana-2018-04
@@ -2618,7 +2760,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:काञ्ची 47 जगद्गुरु श्री चन
  ्द्रशेखरेन्द्र सरस्वती 4 आर
- ाधना \\#{853}
+ ाधना #{853}
 DTSTART;VALUE=DATE:20180415
 DTEND;VALUE=DATE:20180416
 UID:kanchi-47-jagadguru-shri-chandrashekharendra-sarasvati-4-aradhana-2018
@@ -2639,6 +2781,20 @@ DTSTART;VALUE=DATE:20180416
 DTEND;VALUE=DATE:20180417
 UID:bhargava-rama-puja-2018-04
 DESCRIPTION:http://adyatithih.wordpress.com/bhargava-rama-puja
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:पराशर महर्षि जयन्ती
+DTSTART;VALUE=DATE:20180416
+DTEND;VALUE=DATE:20180417
+UID:parashara-maharshi-jayanti-2018-04
+DESCRIPTION:http://adyatithih.wordpress.com/parashara-maharshi-jayanti
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -2798,8 +2954,8 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:श्यामा-शास्त्री जयन्ती \\#
- {257}
+SUMMARY:श्यामा-शास्त्री जयन्ती #{2
+ 57}
 DTSTART;VALUE=DATE:20180418
 DTEND;VALUE=DATE:20180419
 UID:shyama-shastri-jayanti-2018-04
@@ -2843,7 +2999,7 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:सूरदास जयन्ती \\#{541}
+SUMMARY:सूरदास जयन्ती #{541}
 DTSTART;VALUE=DATE:20180420
 DTEND;VALUE=DATE:20180421
 UID:suradasa-jayanti-2018-04
@@ -2872,7 +3028,7 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:शङ्कर जयन्ती \\#{2527}
+SUMMARY:शङ्कर जयन्ती #{2527}
 DTSTART;VALUE=DATE:20180420
 DTEND;VALUE=DATE:20180421
 UID:shankara-jayanti-2018-04
@@ -2903,7 +3059,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:काञ्ची 40 जगद्गुरु श्री मह
  ादेवेन्द्र सरस्वती 2 आराधना 
- \\#{1104}
+ #{1104}
 DTSTART;VALUE=DATE:20180421
 DTEND;VALUE=DATE:20180422
 UID:kanchi-40-jagadguru-shri-mahadevendra-sarasvati-2-aradhana-2018-04
@@ -2918,7 +3074,7 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:रामानुज जयन्ती \\#{1002}
+SUMMARY:रामानुज जयन्ती #{1002}
 DTSTART;VALUE=DATE:20180421
 DTEND;VALUE=DATE:20180422
 UID:ramanuja-jayanti-2018-04
@@ -2964,12 +3120,27 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:काञ्ची 23 जगद्गुरु श्री सच
  ्चित्सुखेन्द्र सरस्वती आरा
- धना \\#{1507}
+ धना #{1507}
 DTSTART;VALUE=DATE:20180422
 DTEND;VALUE=DATE:20180423
 UID:kanchi-23-jagadguru-shri-sachchitsukhendra-sarasvati-aradhana-2018-04
 DESCRIPTION:http://adyatithih.wordpress.com/kanchi-23-jagadguru-shri-sachc
  hitsukhendra-sarasvati-aradhana
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:विद्यारण्य स्वामी जयन्त
+ ी
+DTSTART;VALUE=DATE:20180422
+DTEND;VALUE=DATE:20180423
+UID:vidyaranya-svami-jayanti-2018-04
+DESCRIPTION:http://adyatithih.wordpress.com/vidyaranya-svami-jayanti
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -3018,9 +3189,24 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:बगलामुखी जयन्ती
+DTSTART;VALUE=DATE:20180423
+DTEND;VALUE=DATE:20180424
+UID:bagalamukhi-jayanti-2018-04
+DESCRIPTION:Goddess Bagalamukhi is 8th of the Dasha Maha Vidyas.\n\n\n\nht
+ tp://adyatithih.wordpress.com/bagalamukhi-jayanti
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:काञ्ची 26 जगद्गुरु श्री प्
  रज्ञाअघनेन्द्र सरस्वती आरा
- धना \\#{1455}
+ धना #{1455}
 DTSTART;VALUE=DATE:20180423
 DTEND;VALUE=DATE:20180424
 UID:kanchi-26-jagadguru-shri-prajnaaghanendra-sarasvati-aradhana-2018-04
@@ -3036,7 +3222,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:पूर्यां गोवर्धन मठ प्रति
- ष्ठापन जयन्ती \\#{2503}
+ ष्ठापन जयन्ती #{2503}
 DTSTART;VALUE=DATE:20180424
 DTEND;VALUE=DATE:20180425
 UID:puryam-govardhana-matha-pratishthapana-jayanti-2018-04
@@ -3073,6 +3259,34 @@ DTEND;VALUE=DATE:20180425
 UID:simhachalam-chandana-mahotsavam-2018-04
 DESCRIPTION:http://adyatithih.wordpress.com/simhachalam-chandana-mahotsava
  m
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:वसिष्ठ महर्षि जयन्ती
+DTSTART;VALUE=DATE:20180424
+DTEND;VALUE=DATE:20180425
+UID:vasishtha-maharshi-jayanti-2018-04
+DESCRIPTION:http://adyatithih.wordpress.com/vasishtha-maharshi-jayanti
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:निमिषाम्बा जयन्ती
+DTSTART;VALUE=DATE:20180425
+DTEND;VALUE=DATE:20180426
+UID:nimishamba-jayanti-2018-04
+DESCRIPTION:http://adyatithih.wordpress.com/nimishamba-jayanti
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -3142,7 +3356,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:काञ्ची 39 जगद्गुरु श्री सच
  ्चिद्विलासेन्द्र सरस्वती आ
- राधना \\#{1146}
+ राधना #{1146}
 DTSTART;VALUE=DATE:20180429
 DTEND;VALUE=DATE:20180430
 UID:kanchi-39-jagadguru-shri-sachchidvilasendra-sarasvati-aradhana-2018-04
@@ -3224,8 +3438,37 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:अन्नमाचार्य जयन्ती
+DTSTART;VALUE=DATE:20180430
+DTEND;VALUE=DATE:20180501
+UID:annamacharya-jayanti-2018-04
+DESCRIPTION:http://adyatithih.wordpress.com/annamacharya-jayanti
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:छिन्नमस्ता जयन्ती
+DTSTART;VALUE=DATE:20180430
+DTEND;VALUE=DATE:20180501
+UID:chhinnamasta-jayanti-2018-04
+DESCRIPTION:Goddess Chinnmasta is 6th of the Dasha Maha Vidyas.\n\n\n\nhtt
+ p://adyatithih.wordpress.com/chhinnamasta-jayanti
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:काञ्ची कामकोटि मठ प्रतिष
- ्ठापन जयन्ती \\#{2500}
+ ्ठापन जयन्ती #{2500}
 DTSTART;VALUE=DATE:20180430
 DTEND;VALUE=DATE:20180501
 UID:kanchi-kamakoti-matha-pratishthapana-jayanti-2018-04
@@ -3304,7 +3547,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:काञ्ची 30 जगद्गुरु श्री बो
- धेन्द्र सरस्वती 2 आराधना \\#{1364}
+ धेन्द्र सरस्वती 2 आराधना #{1364}
 DTSTART;VALUE=DATE:20180503
 DTEND;VALUE=DATE:20180504
 UID:kanchi-30-jagadguru-shri-bodhendra-sarasvati-2-aradhana-2018-05
@@ -3352,11 +3595,39 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:सती अनसूया जयन्ती
+DTSTART;VALUE=DATE:20180504
+DTEND;VALUE=DATE:20180505
+UID:sati-anasuya-jayanti-2018-05
+DESCRIPTION:http://adyatithih.wordpress.com/sati-anasuya-jayanti
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:अग्निनक्षत्र-आरम्भः
 DTSTART;VALUE=DATE:20180505
 DTEND;VALUE=DATE:20180506
 UID:agninakshatra-arambha-2018-05
 DESCRIPTION:http://adyatithih.wordpress.com/agninakshatra-arambha
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:कश्यप महर्षि जयन्ती
+DTSTART;VALUE=DATE:20180505
+DTEND;VALUE=DATE:20180506
+UID:kashyapa-maharshi-jayanti-2018-05
+DESCRIPTION:http://adyatithih.wordpress.com/kashyapa-maharshi-jayanti
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -3384,7 +3655,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:काञ्ची 7 जगद्गुरु श्री आन
  न्दघनेन्द्र सरस्वती आराधना
-  \\#{2073}
+  #{2073}
 DTSTART;VALUE=DATE:20180509
 DTEND;VALUE=DATE:20180510
 UID:kanchi-7-jagadguru-shri-anandaghanendra-sarasvati-aradhana-2018-05
@@ -3406,6 +3677,20 @@ DTEND;VALUE=DATE:20180511
 UID:tirunavukkarasa-nayanar-gurupujai-2018-05
 DESCRIPTION:http://adyatithih.wordpress.com/tirunavukkarasa-nayanar-gurupu
  jai
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:भद्रकाळी जयन्ती
+DTSTART;VALUE=DATE:20180511
+DTEND;VALUE=DATE:20180512
+UID:bhadrakali-jayanti-2018-05
+DESCRIPTION:http://adyatithih.wordpress.com/bhadrakali-jayanti
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -3445,7 +3730,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:काञ्ची 3 जगद्गुरु श्री सर
  ्वज्ञात्मेन्द्र सरस्वती आर
- ाधना \\#{2382}
+ ाधना #{2382}
 DTSTART;VALUE=DATE:20180514
 DTEND;VALUE=DATE:20180515
 UID:kanchi-3-jagadguru-shri-sarvajnatmendra-sarasvati-aradhana-2018-05
@@ -3526,6 +3811,34 @@ DTEND;VALUE=DATE:20180516
 UID:vishnupadi-punyakalam-(vrishabha-sankranti)-2018-05
 DESCRIPTION:http://adyatithih.wordpress.com/vishnupadi-punyakalam-(vrishab
  ha-sankranti)
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:शनि जयन्ती
+DTSTART;VALUE=DATE:20180515
+DTEND;VALUE=DATE:20180516
+UID:shani-jayanti-2018-05
+DESCRIPTION:http://adyatithih.wordpress.com/shani-jayanti
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:शुक महर्षि जयन्ती
+DTSTART;VALUE=DATE:20180515
+DTEND;VALUE=DATE:20180516
+UID:shuka-maharshi-jayanti-2018-05
+DESCRIPTION:http://adyatithih.wordpress.com/shuka-maharshi-jayanti
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -3617,7 +3930,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:काञ्ची 1 जगद्गुरु श्री आद
- ि शङ्कर भगवत्पाद आराधना \\#{2494}
+ ि शङ्कर भगवत्पाद आराधना #{2494}
 DTSTART;VALUE=DATE:20180525
 DTEND;VALUE=DATE:20180526
 UID:kanchi-1-jagadguru-shri-adi-shankara-bhagavatpada-aradhana-2018-05
@@ -3721,7 +4034,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:काञ्ची जगद्गुरु श्री चन्
  द्रशेखरेन्द्र सरस्वती जयन्
- ती \\#{125}
+ ती #{125}
 DTSTART;VALUE=DATE:20180529
 DTEND;VALUE=DATE:20180530
 UID:kanchi-jagadguru-shri-chandrashekharendra-sarasvati-jayanti-2018-05
@@ -4108,7 +4421,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:काञ्ची 50 जगद्गुरु श्री चन
  ्द्रचूडेन्द्र सरस्वती 1 आरा
- धना \\#{722}
+ धना #{722}
 DTSTART;VALUE=DATE:20180618
 DTEND;VALUE=DATE:20180619
 UID:kanchi-50-jagadguru-shri-chandrachudendra-sarasvati-1-aradhana-2018-06
@@ -4125,7 +4438,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:काञ्ची 6 जगद्गुरु श्री शु
  द्धानन्देन्द्र सरस्वती आरा
- धना \\#{2142}
+ धना #{2142}
 DTSTART;VALUE=DATE:20180618
 DTEND;VALUE=DATE:20180619
 UID:kanchi-6-jagadguru-shri-shuddhanandendra-sarasvati-aradhana-2018-06
@@ -4276,9 +4589,24 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:धूमावती जयन्ती
+DTSTART;VALUE=DATE:20180620
+DTEND;VALUE=DATE:20180621
+UID:dhumavati-jayanti-2018-06
+DESCRIPTION:Goddess Dhumavati is 7th of the Dasha Maha Vidyas.\n\n\n\nhttp
+ ://adyatithih.wordpress.com/dhumavati-jayanti
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:काञ्ची 16 जगद्गुरु श्री उज
  ्ज्वल शङ्करेन्द्र सरस्वती 
- आराधना \\#{1652}
+ आराधना #{1652}
 DTSTART;VALUE=DATE:20180620
 DTEND;VALUE=DATE:20180621
 UID:kanchi-16-jagadguru-shri-ujjvala-shankarendra-sarasvati-aradhana-2018-
@@ -4325,7 +4653,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:काञ्ची 61 जगद्गुरु श्री मह
  ादेवेन्द्र सरस्वती 4 आराधना 
- \\#{273}
+ #{273}
 DTSTART;VALUE=DATE:20180621
 DTEND;VALUE=DATE:20180622
 UID:kanchi-61-jagadguru-shri-mahadevendra-sarasvati-4-aradhana-2018-06
@@ -4384,8 +4712,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:काञ्ची 17 जगद्गुरु श्री सद
- ाशिवेन्द्र सरस्वती आराधना \\
- #{1644}
+ ाशिवेन्द्र सरस्वती आराधना #{
+ 1644}
 DTSTART;VALUE=DATE:20180622
 DTEND;VALUE=DATE:20180623
 UID:kanchi-17-jagadguru-shri-sadashivendra-sarasvati-aradhana-2018-06
@@ -4402,7 +4730,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:काञ्ची 53 जगद्गुरु श्री पू
  र्णानन्द सदाशिवेन्द्र सरस्
- वती आराधना \\#{521}
+ वती आराधना #{521}
 DTSTART;VALUE=DATE:20180622
 DTEND;VALUE=DATE:20180623
 UID:kanchi-53-jagadguru-shri-purnananda-sadashivendra-sarasvati-aradhana-2
@@ -4433,7 +4761,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:काञ्ची 2 जगद्गुरु श्री सु
- रेश्वराचार्य आराधना \\#{2424}
+ रेश्वराचार्य आराधना #{2424}
 DTSTART;VALUE=DATE:20180623
 DTEND;VALUE=DATE:20180624
 UID:kanchi-2-jagadguru-shri-sureshvaracharya-aradhana-2018-06
@@ -4539,7 +4867,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:विद्यारण्य स्वामी आराधन
- ा \\#{627}
+ ा #{627}
 DTSTART;VALUE=DATE:20180625
 DTEND;VALUE=DATE:20180626
 UID:vidyaranya-svami-aradhana-2018-06
@@ -4747,7 +5075,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:काञ्ची 25 जगद्गुरु श्री सच
  ्चिदानन्दघनेन्द्र सरस्वती 
- आराधना \\#{1471}
+ आराधना #{1471}
 DTSTART;VALUE=DATE:20180713
 DTEND;VALUE=DATE:20180714
 UID:kanchi-25-jagadguru-shri-sachchidanandaghanendra-sarasvati-aradhana-20
@@ -4919,7 +5247,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:काञ्ची 35 जगद्गुरु श्री चि
  त्सुखेन्द्र सरस्वती आराधना
-  \\#{1282}
+  #{1282}
 DTSTART;VALUE=DATE:20180718
 DTEND;VALUE=DATE:20180719
 UID:kanchi-35-jagadguru-shri-chitsukhendra-sarasvati-aradhana-2018-07
@@ -4966,7 +5294,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:काञ्ची 12 जगद्गुरु श्री चन
  ्द्रशेखरेन्द्र सरस्वती आरा
- धना \\#{1784}
+ धना #{1784}
 DTSTART;VALUE=DATE:20180720
 DTEND;VALUE=DATE:20180721
 UID:kanchi-12-jagadguru-shri-chandrashekharendra-sarasvati-aradhana-2018-0
@@ -5174,7 +5502,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:काञ्ची 48 जगद्गुरु श्री अद
  ्वैतानन्दबोधेन्द्र सरस्वत
- ी आराधना \\#{819}
+ ी आराधना #{819}
 DTSTART;VALUE=DATE:20180722
 DTEND;VALUE=DATE:20180723
 UID:kanchi-48-jagadguru-shri-advaitanandabodhendra-sarasvati-aradhana-2018
@@ -5267,7 +5595,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:काञ्ची 31 जगद्गुरु श्री ब्
  रह्मानन्दघनेन्द्र सरस्वती 
- आराधना \\#{1351}
+ आराधना #{1351}
 DTSTART;VALUE=DATE:20180724
 DTEND;VALUE=DATE:20180725
 UID:kanchi-31-jagadguru-shri-brahmanandaghanendra-sarasvati-aradhana-2018-
@@ -5285,7 +5613,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:काञ्ची 63 जगद्गुरु श्री मह
  ादेवेन्द्र सरस्वती 5 आराधना 
- \\#{205}
+ #{205}
 DTSTART;VALUE=DATE:20180724
 DTEND;VALUE=DATE:20180725
 UID:kanchi-63-jagadguru-shri-mahadevendra-sarasvati-5-aradhana-2018-07
@@ -5403,7 +5731,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:काञ्ची 10 जगद्गुरु श्री सु
  रेश्वरेन्द्र सरस्वती आराधन
- ा \\#{1892}
+ ा #{1892}
 DTSTART;VALUE=DATE:20180727
 DTEND;VALUE=DATE:20180728
 UID:kanchi-10-jagadguru-shri-sureshvarendra-sarasvati-aradhana-2018-07
@@ -5494,7 +5822,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:काञ्ची 54 जगद्गुरु श्री व्
  यासाचल महादेवेन्द्र सरस्वत
- ी आराधना \\#{512}
+ ी आराधना #{512}
 DTSTART;VALUE=DATE:20180728
 DTEND;VALUE=DATE:20180729
 UID:kanchi-54-jagadguru-shri-vyasachala-mahadevendra-sarasvati-aradhana-20
@@ -5545,7 +5873,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:काञ्ची जगद्गुरु श्री जये
- न्द्र सरस्वती जयन्ती \\#{84}
+ न्द्र सरस्वती जयन्ती #{84}
 DTSTART;VALUE=DATE:20180729
 DTEND;VALUE=DATE:20180730
 UID:kanchi-jagadguru-shri-jayendra-sarasvati-jayanti-2018-07
@@ -5599,6 +5927,20 @@ DTSTART;VALUE=DATE:20180803
 DTEND;VALUE=DATE:20180804
 UID:adi-vellikkizhamai-2018-08
 DESCRIPTION:http://adyatithih.wordpress.com/adi-vellikkizhamai
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:चामुण्डेश्वरी जयन्ती
+DTSTART;VALUE=DATE:20180804
+DTEND;VALUE=DATE:20180805
+UID:chamundeshvari-jayanti-2018-08
+DESCRIPTION:http://adyatithih.wordpress.com/chamundeshvari-jayanti
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -5757,7 +6099,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:काञ्ची 38 जगद्गुरु श्री अभ
  िनवशङ्करेन्द्र सरस्वती आरा
- धना \\#{1179}
+ धना #{1179}
 DTSTART;VALUE=DATE:20180811
 DTEND;VALUE=DATE:20180812
 UID:kanchi-38-jagadguru-shri-abhinavashankarendra-sarasvati-aradhana-2018-
@@ -5775,7 +6117,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:काञ्ची 46 जगद्गुरु श्री सा
  न्द्रानन्दबोधेन्द्र सरस्व
- ती आराधना \\#{921}
+ ती आराधना #{921}
 DTSTART;VALUE=DATE:20180811
 DTEND;VALUE=DATE:20180812
 UID:kanchi-46-jagadguru-shri-sandranandabodhendra-sarasvati-aradhana-2018-
@@ -5813,7 +6155,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:काञ्ची 41 जगद्गुरु श्री गङ
  ्गाधरेन्द्र सरस्वती 2 आराधन
- ा \\#{1069}
+ ा #{1069}
 DTSTART;VALUE=DATE:20180812
 DTEND;VALUE=DATE:20180813
 UID:kanchi-41-jagadguru-shri-gangadharendra-sarasvati-2-aradhana-2018-08
@@ -5862,6 +6204,22 @@ DTEND;VALUE=DATE:20180814
 UID:manoratha-dvitiya-2018-08
 DESCRIPTION:VasudevaPooja\, ChandraArghya\, Naktam\n\n\n\nhttp://adyatithi
  h.wordpress.com/manoratha-dvitiya
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:सत्यनारायण जयन्ती
+DTSTART;VALUE=DATE:20180813
+DTEND;VALUE=DATE:20180814
+UID:satyanarayana-jayanti-2018-08
+DESCRIPTION:Satyanarayana Swami Jayanti is celebrated in Annavaram Satya N
+ arayana Temple\, Andhra Pradesh\n\n\n\nhttp://adyatithih.wordpress.com/sat
+ yanarayana-jayanti
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -6196,7 +6554,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:काञ्ची 57 जगद्गुरु श्री पर
  मशिवेन्द्र सरस्वती 2 आराधना 
- \\#{433}
+ #{433}
 DTSTART;VALUE=DATE:20180820
 DTEND;VALUE=DATE:20180821
 UID:kanchi-57-jagadguru-shri-paramashivendra-sarasvati-2-aradhana-2018-08
@@ -6242,7 +6600,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:काञ्ची 29 जगद्गुरु श्री पु
  र्नभोधेन्द्र सरस्वती आराधन
- ा \\#{1401}
+ ा #{1401}
 DTSTART;VALUE=DATE:20180821
 DTEND;VALUE=DATE:20180822
 UID:kanchi-29-jagadguru-shri-purnabhodhendra-sarasvati-aradhana-2018-08
@@ -6401,6 +6759,20 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:गायत्री जयन्ती
+DTSTART;VALUE=DATE:20180826
+DTEND;VALUE=DATE:20180827
+UID:gayatri-jayanti-2018-08
+DESCRIPTION:http://adyatithih.wordpress.com/gayatri-jayanti
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:हयग्रीव जयन्ती
 DTSTART;VALUE=DATE:20180826
 DTEND;VALUE=DATE:20180827
@@ -6424,7 +6796,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:काञ्ची 20 जगद्गुरु श्री मू
  कशङ्करेन्द्र सरस्वती आराधन
- ा \\#{1582}
+ ा #{1582}
 DTSTART;VALUE=DATE:20180826
 DTEND;VALUE=DATE:20180827
 UID:kanchi-20-jagadguru-shri-mukashankarendra-sarasvati-aradhana-2018-08
@@ -6469,12 +6841,41 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:संस्कृत दिवसः
+DTSTART;VALUE=DATE:20180826
+DTEND;VALUE=DATE:20180827
+UID:samskrta-divas-2018-08
+DESCRIPTION:World Sanskrit Day is celebrated on this day.\n\n\n\nhttp://ad
+ yatithih.wordpress.com/samskrta-divas
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:ஆவணி ஞாயிற்றுக்கிழமை
 DTSTART;VALUE=DATE:20180826
 DTEND;VALUE=DATE:20180827
 UID:avani-jnayirrukkizhamai-2018-08-26
 DESCRIPTION:Do puja to Surya/Suryanamaskaram.\n\n\n\nhttp://adyatithih.wor
  dpress.com/avani-jnayirrukkizhamai
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:वैखानस महर्षि जयन्ती
+DTSTART;VALUE=DATE:20180826
+DTEND;VALUE=DATE:20180827
+UID:vaikhanasa-maharshi-jayanti-2018-08
+DESCRIPTION:http://adyatithih.wordpress.com/vaikhanasa-maharshi-jayanti
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -6541,8 +6942,22 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:भीम चण्डी जयन्ती
+DTSTART;VALUE=DATE:20180828
+DTEND;VALUE=DATE:20180829
+UID:bhima-chandi-jayanti-2018-08
+DESCRIPTION:http://adyatithih.wordpress.com/bhima-chandi-jayanti
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:श्री राघवेन्द्र-स्वामी आ
- राधना \\#{347}
+ राधना #{347}
 DTSTART;VALUE=DATE:20180828
 DTEND;VALUE=DATE:20180829
 UID:shri-raghavendra-svami-aradhana-2018-08
@@ -6667,6 +7082,21 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:महाकाली जयन्ती
+DTSTART;VALUE=DATE:20180902
+DTEND;VALUE=DATE:20180903
+UID:mahakali-jayanti-2018-09
+DESCRIPTION:Goddess Mahakali is 1st of the Dasha Maha Vidyas.\n\n\n\nhttp:
+ //adyatithih.wordpress.com/mahakali-jayanti
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:ஆவணி ஞாயிற்றுக்கிழமை
 DTSTART;VALUE=DATE:20180902
 DTEND;VALUE=DATE:20180903
@@ -6698,7 +7128,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:काञ्ची 21 जगद्गुरु श्री चन
  ्द्रशेखरेन्द्र सरस्वती 2 आर
- ाधना \\#{1572}
+ ाधना #{1572}
 DTSTART;VALUE=DATE:20180903
 DTEND;VALUE=DATE:20180904
 UID:kanchi-21-jagadguru-shri-chandrashekharendra-sarasvati-2-aradhana-2018
@@ -6788,7 +7218,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:काञ्ची 24 जगद्गुरु श्री चि
  त्सुखेन्द्र सरस्वती आराधना
-  \\#{1492}
+  #{1492}
 DTSTART;VALUE=DATE:20180904
 DTEND;VALUE=DATE:20180905
 UID:kanchi-24-jagadguru-shri-chitsukhendra-sarasvati-aradhana-2018-09
@@ -7306,6 +7736,20 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:दधीचि महर्षि जयन्ति
+DTSTART;VALUE=DATE:20180917
+DTEND;VALUE=DATE:20180918
+UID:dadhichi-maharshi-jayanti-2018-09
+DESCRIPTION:http://adyatithih.wordpress.com/dadhichi-maharshi-jayanti
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:गजेन्द्र-मोक्षः
 DTSTART;VALUE=DATE:20180917
 DTEND;VALUE=DATE:20180918
@@ -7669,7 +8113,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:काञ्ची 59 जगद्गुरु श्री भग
  वन्नाम बोधेन्द्र सरस्वती आ
- राधना \\#{327}
+ राधना #{327}
 DTSTART;VALUE=DATE:20180924
 DTEND;VALUE=DATE:20180925
 UID:kanchi-59-jagadguru-shri-bhagavannama-bodhendra-sarasvati-aradhana-201
@@ -7924,8 +8368,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:काञ्ची 33 जगद्गुरु श्री सच
- ्चिदानन्द सरस्वती आराधना \\#{1
- 327}
+ ्चिदानन्द सरस्वती आराधना #{132
+ 7}
 DTSTART;VALUE=DATE:20180930
 DTEND;VALUE=DATE:20181001
 UID:kanchi-33-jagadguru-shri-sachchidananda-sarasvati-aradhana-2018-09
@@ -8232,7 +8676,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:काञ्ची 44 जगद्गुरु श्री पू
  र्नबोधेन्द्र सरस्वती 2 आराध
- ना \\#{979}
+ ना #{979}
 DTSTART;VALUE=DATE:20181007
 DTEND;VALUE=DATE:20181008
 UID:kanchi-44-jagadguru-shri-purnabodhendra-sarasvati-2-aradhana-2018-10
@@ -8281,6 +8725,20 @@ DTSTART;TZID=Asia/Calcutta;VALUE=DATE-TIME:20181008T133300
 DTEND;TZID=Asia/Calcutta;VALUE=DATE-TIME:20181009T091600
 UID:gajachchhaya-yogam-2018-10-08
 DESCRIPTION:http://adyatithih.wordpress.com/gajachchhaya-yogam
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:कात्यायनी जयन्ती
+DTSTART;VALUE=DATE:20181008
+DTEND;VALUE=DATE:20181009
+UID:katyayani-jayanti-2018-10
+DESCRIPTION:http://adyatithih.wordpress.com/katyayani-jayanti
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT4H
@@ -8381,6 +8839,20 @@ DESCRIPTION:सदाऽऽत्मध्याननिरतं वि
  स्त्रेषु निष्णातं चन्द्रशे
  खरभारतीम् ॥\n\nhttp://adyatithih.wordpress.com/shringe
  ri-34-jagadguru-shri-chandrashekhara-bharati-aradhana
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:अग्रसेन महाराज जयन्ती
+DTSTART;VALUE=DATE:20181010
+DTEND;VALUE=DATE:20181011
+UID:agrasena-maharaja-jayanti-2018-10
+DESCRIPTION:http://adyatithih.wordpress.com/agrasena-maharaja-jayanti
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -8570,7 +9042,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:काञ्ची 45 जगद्गुरु श्री पर
  मशिवेन्द्र सरस्वती 1 आराधना 
- \\#{958}
+ #{958}
 DTSTART;VALUE=DATE:20181015
 DTEND;VALUE=DATE:20181016
 UID:kanchi-45-jagadguru-shri-paramashivendra-sarasvati-1-aradhana-2018-10
@@ -8678,7 +9150,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:काञ्ची 19 जगद्गुरु श्री मा
  र्ताण्ड विद्याघनेन्द्र सरस
- ्वती आराधना \\#{1621}
+ ्वती आराधना #{1621}
 DTSTART;VALUE=DATE:20181017
 DTEND;VALUE=DATE:20181018
 UID:kanchi-19-jagadguru-shri-martanda-vidyaghanendra-sarasvati-aradhana-20
@@ -8901,7 +9373,7 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:मध्वाचार्य जयन्ती \\#{781}
+SUMMARY:मध्वाचार्य जयन्ती #{781}
 DTSTART;VALUE=DATE:20181019
 DTEND;VALUE=DATE:20181020
 UID:madhvacharya-jayanti-2018-10
@@ -9007,7 +9479,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:काञ्ची 36 जगद्गुरु श्री चि
  त्सुखनन्देन्द्र सरस्वती आर
- ाधना \\#{1261}
+ ाधना #{1261}
 DTSTART;VALUE=DATE:20181024
 DTEND;VALUE=DATE:20181025
 UID:kanchi-36-jagadguru-shri-chitsukhanandendra-sarasvati-aradhana-2018-10
@@ -9104,7 +9576,7 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:मीराबाई जयन्ती \\#{521}
+SUMMARY:मीराबाई जयन्ती #{521}
 DTSTART;VALUE=DATE:20181024
 DTEND;VALUE=DATE:20181025
 UID:mirabai-jayanti-2018-10
@@ -9327,7 +9799,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:काञ्ची 58 जगद्गुरु श्री आत
  ्मबोधेन्द्र सरस्वती आराधना
-  \\#{381}
+  #{381}
 DTSTART;VALUE=DATE:20181031
 DTEND;VALUE=DATE:20181101
 UID:kanchi-58-jagadguru-shri-atmabodhendra-sarasvati-aradhana-2018-10
@@ -9733,6 +10205,21 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:कमला जयन्ती
+DTSTART;VALUE=DATE:20181107
+DTEND;VALUE=DATE:20181108
+UID:kamala-jayanti-2018-11
+DESCRIPTION:Goddess Kamala is 10th of the Dasha Maha Vidyas.\n\n\n\nhttp:/
+ /adyatithih.wordpress.com/kamala-jayanti
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:राम-पट्टाभिषेकम्
 DTSTART;VALUE=DATE:20181107
 DTEND;VALUE=DATE:20181108
@@ -9901,12 +10388,27 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:काञ्ची 22 जगद्गुरु श्री बो
- धेन्द्र सरस्वती आराधना \\#{1538}
+ धेन्द्र सरस्वती आराधना #{1538}
 DTSTART;VALUE=DATE:20181116
 DTEND;VALUE=DATE:20181117
 UID:kanchi-22-jagadguru-shri-bodhendra-sarasvati-aradhana-2018-11
 DESCRIPTION:http://adyatithih.wordpress.com/kanchi-22-jagadguru-shri-bodhe
  ndra-sarasvati-aradhana
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:कार्तवीर्यार्जुन जयन्त
+ ी
+DTSTART;VALUE=DATE:20181116
+DTEND;VALUE=DATE:20181117
+UID:kartaviryarjuna-jayanti-2018-11
+DESCRIPTION:http://adyatithih.wordpress.com/kartaviryarjuna-jayanti
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -10238,11 +10740,39 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:பரணீ தீபம்
+DTSTART;VALUE=DATE:20181122
+DTEND;VALUE=DATE:20181123
+UID:bharani-dipam-2018-11
+DESCRIPTION:http://adyatithih.wordpress.com/bharani-dipam
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:கார்த்திகை
 DTSTART;VALUE=DATE:20181122
 DTEND;VALUE=DATE:20181123
 UID:karttigai-2018-11
 DESCRIPTION:http://adyatithih.wordpress.com/karttigai
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ஸர்வாலய தீபம்
+DTSTART;VALUE=DATE:20181122
+DTEND;VALUE=DATE:20181123
+UID:sarvalaya-dipam-2018-11
+DESCRIPTION:http://adyatithih.wordpress.com/sarvalaya-dipam
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -10302,7 +10832,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:काञ्ची 64 जगद्गुरु श्री चन
  ्द्रशेखरेन्द्र सरस्वती 6 आर
- ाधना \\#{168}
+ ाधना #{168}
 DTSTART;VALUE=DATE:20181123
 DTEND;VALUE=DATE:20181124
 UID:kanchi-64-jagadguru-shri-chandrashekharendra-sarasvati-6-aradhana-2018
@@ -10365,7 +10895,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:काञ्ची 9 जगद्गुरु श्री कृ
  पाश्ङ्करेन्द्र सरस्वती आरा
- धना \\#{1950}
+ धना #{1950}
 DTSTART;VALUE=DATE:20181125
 DTEND;VALUE=DATE:20181126
 UID:kanchi-9-jagadguru-shri-kripashnkarendra-sarasvati-aradhana-2018-11
@@ -10445,7 +10975,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:काञ्ची 42 जगद्गुरु श्री ब्
  रह्मानन्दघनेन्द्र सरस्वती 
- 2 आराधना \\#{1041}
+ 2 आराधना #{1041}
 DTSTART;VALUE=DATE:20181129
 DTEND;VALUE=DATE:20181130
 UID:kanchi-42-jagadguru-shri-brahmanandaghanendra-sarasvati-2-aradhana-201
@@ -10463,7 +10993,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:काञ्ची 49 जगद्गुरु श्री मह
  ादेवेन्द्र सरस्वती 3 आराधना 
- \\#{772}
+ #{772}
 DTSTART;VALUE=DATE:20181130
 DTEND;VALUE=DATE:20181201
 UID:kanchi-49-jagadguru-shri-mahadevendra-sarasvati-3-aradhana-2018-11
@@ -10509,7 +11039,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:काञ्ची 28 जगद्गुरु श्री मह
  ादेवेन्द्र सरस्वती 1 आराधना 
- \\#{1418}
+ #{1418}
 DTSTART;VALUE=DATE:20181202
 DTEND;VALUE=DATE:20181203
 UID:kanchi-28-jagadguru-shri-mahadevendra-sarasvati-1-aradhana-2018-12
@@ -10632,7 +11162,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:काञ्ची 18 जगद्गुरु श्री यो
  गतिलक सुरेन्द्र सरस्वती आर
- ाधना \\#{1634}
+ ाधना #{1634}
 DTSTART;VALUE=DATE:20181208
 DTEND;VALUE=DATE:20181209
 UID:kanchi-18-jagadguru-shri-yogatilaka-surendra-sarasvati-aradhana-2018-1
@@ -10751,7 +11281,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:काञ्ची 32 जगद्गुरु श्री चि
  दानन्दघनेन्द्र सरस्वती आरा
- धना \\#{1347}
+ धना #{1347}
 DTSTART;VALUE=DATE:20181213
 DTEND;VALUE=DATE:20181214
 UID:kanchi-32-jagadguru-shri-chidanandaghanendra-sarasvati-aradhana-2018-1
@@ -10808,7 +11338,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:काञ्ची 5 जगद्गुरु श्री ज्
  ञानानन्देन्द्र सरस्वती आरा
- धना \\#{2223}
+ धना #{2223}
 DTSTART;VALUE=DATE:20181214
 DTEND;VALUE=DATE:20181215
 UID:kanchi-5-jagadguru-shri-jnananandendra-sarasvati-aradhana-2018-12
@@ -11053,9 +11583,24 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:त्रिपुर भैरवी जयन्ती
+DTSTART;VALUE=DATE:20181222
+DTEND;VALUE=DATE:20181223
+UID:tripura-bhairavi-jayanti-2018-12
+DESCRIPTION:Goddess Tripura Bhairavi is 5th of the Dasha Maha Vidyas.\n\n\
+ n\nhttp://adyatithih.wordpress.com/tripura-bhairavi-jayanti
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:काञ्ची 13 जगद्गुरु श्री सच
  ्चिद्घनेन्द्र सरस्वती आराध
- ना \\#{1747}
+ ना #{1747}
 DTSTART;VALUE=DATE:20181223
 DTEND;VALUE=DATE:20181224
 UID:kanchi-13-jagadguru-shri-sachchidghanendra-sarasvati-aradhana-2018-12
@@ -11105,7 +11650,7 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:रमण महर्षि जयन्ती \\#{140}
+SUMMARY:रमण महर्षि जयन्ती #{140}
 DTSTART;VALUE=DATE:20181224
 DTEND;VALUE=DATE:20181225
 UID:ramana-maharshi-jayanti-2018-12
@@ -11140,7 +11685,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:काञ्ची 4 जगद्गुरु श्री सत
  ्यबोधेन्द्र सरस्वती आराधना
-  \\#{2286}
+  #{2286}
 DTSTART;VALUE=DATE:20181229
 DTEND;VALUE=DATE:20181230
 UID:kanchi-4-jagadguru-shri-satyabodhendra-sarasvati-aradhana-2018-12

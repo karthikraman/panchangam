@@ -2742,6 +2742,21 @@
     "Primary Reference": "",
     "Comments": ""
   },
+  "kArtavIryArjuna~jayantI": {
+    "Month Type": "lunar_month",
+    "Month Number": 8,
+    "Angam Type": "tithi",
+    "Angam Number": 8,
+    "Tags": "other-jayantis",
+    "URL": "kartaviryarjuna-jayanti",
+    "Short Description": "",
+    "Shloka": "",
+    "Other Names": "",
+    "Nirnaya": "",
+    "Secondary Reference": "http://hindupad.com/karthaveerya-arjuna-jayanthi-2011-karthaveerya-uthpatthi/",
+    "Primary Reference": "",
+    "Comments": ""
+  },
   "maNikarNikA~snAnam": {
     "Month Type": "lunar_month",
     "Month Number": 8,
@@ -5722,10 +5737,25 @@
     "URL": "shri-panchami",
     "Short Description": "Worship Mahavishnu and Mahalakshmi, Rati Devi and Manmatha with jasmine flowers.",
     "Shloka": "mAghamAsE nRpazrESTha zuklAyAM paJcamItithau.\nratikAmau tu sampUjya kartavyaH sumahOtsavaH..",
-    "Other Names": "",
+    "Other Names": "madana~paJcamI",
     "Nirnaya": "",
     "Secondary Reference": "Vaidikasri Feb 2016",
     "Primary Reference": "Smriti Kaustubham 479",
+    "Comments": ""
+  },
+  "mAghI~sarasvatI~pUjA": {
+    "Month Type": "lunar_month",
+    "Month Number": 11,
+    "Angam Type": "tithi",
+    "Angam Number": 5,
+    "Tags": "special-pujas",
+    "URL": "maghi-sarasvati-puja",
+    "Short Description": "Saraswati Puja, especially in Bengal.",
+    "Shloka": "",
+    "Other Names": "",
+    "Nirnaya": "",
+    "Secondary Reference": "http://hindupad.com/madana-panchami/",
+    "Primary Reference": "",
     "Comments": ""
   },
   "ratha~saptamI": {
