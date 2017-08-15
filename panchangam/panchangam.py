@@ -225,15 +225,18 @@ class panchangam:
         last_new_moon_start, last_new_moon_end = get_angam_span(self.jd_start -
                                                                 self.tithi_sunrise[1] - 2,
                                                                 self.jd_start -
-                                                                self.tithi_sunrise[1] + 2, TITHI,
-                                                                30)
-        this_new_moon_start, this_new_moon_end = get_angam_span(last_new_moon_start + 24,
-                                                                last_new_moon_start + 32,
+                                                                self.tithi_sunrise[1] + 2,
+                                                                TITHI, 30)
+        prev_new_moon_start, prev_new_moon_end = get_angam_span(last_new_moon_start - 32,
+                                                                last_new_moon_start - 24,
                                                                 TITHI, 30)
         # Check if current mAsa is adhika here
-        isAdhika = get_solar_rashi(last_new_moon_start) == get_solar_rashi(this_new_moon_start)
+        isAdhika = get_solar_rashi(last_new_moon_start) == get_solar_rashi(prev_new_moon_start)
 
         while last_new_moon_start < self.jd_start + 367:
+            this_new_moon_start, this_new_moon_end = get_angam_span(last_new_moon_start + 24,
+                                                                    last_new_moon_start + 32,
+                                                                    TITHI, 30)
             for i in range(last_d_assigned + 1, last_d_assigned + 32):
                 if i > 367 or self.jd_sunrise[i] > this_new_moon_end:
                     last_d_assigned = i - 1
@@ -245,9 +248,6 @@ class panchangam:
 
             isAdhika = get_solar_rashi(this_new_moon_start) == get_solar_rashi(last_new_moon_start)
             last_new_moon_start = this_new_moon_start
-            this_new_moon_start, this_new_moon_end = get_angam_span(last_new_moon_start + 24,
-                                                                    last_new_moon_start + 32,
-                                                                    TITHI, 30)
 
         # # Older code below. Major mistake was that calculation was done after checking for
         # # prathama, rather than for amavasya.
