@@ -221,30 +221,61 @@ class panchangam:
                                                     self.city.longitude, tz_off)
 
     def assignLunarMonths(self):
-        last_month_change = 1
-        last_lunar_month = None
-        for d in range(1, MAX_SZ - 1):
-            # Assign lunar_month for each day
-            if self.tithi_sunrise[d] == 1 and self.tithi_sunrise[d - 1] != 1:
-                for i in range(last_month_change, d):
-                    if (self.solar_month[d] == last_lunar_month):
-                        self.lunar_month[i] = self.solar_month[d] % 12 + 0.5
-                    else:
-                        self.lunar_month[i] = self.solar_month[d]
-                last_month_change = d
-                last_lunar_month = self.solar_month[d]
-            elif self.tithi_sunrise[d] == 2 and self.tithi_sunrise[d - 1] == 30:
-                # prathama tithi was never seen @ sunrise
-                for i in range(last_month_change, d):
-                    if (self.solar_month[d - 1] == last_lunar_month):
-                        self.lunar_month[i] = self.solar_month[d - 1] % 12 + 0.5
-                    else:
-                        self.lunar_month[i] = self.solar_month[d - 1]
-                last_month_change = d
-                last_lunar_month = self.solar_month[d - 1]
+        last_d_assigned = 0
+        last_new_moon_start, last_new_moon_end = get_angam_span(self.jd_start -
+                                                                self.tithi_sunrise[1] - 2,
+                                                                self.jd_start -
+                                                                self.tithi_sunrise[1] + 2, TITHI,
+                                                                30)
+        this_new_moon_start, this_new_moon_end = get_angam_span(last_new_moon_start + 24,
+                                                                last_new_moon_start + 32,
+                                                                TITHI, 30)
+        # Check if current mAsa is adhika here
+        isAdhika = get_solar_rashi(last_new_moon_start) == get_solar_rashi(this_new_moon_start)
 
-        for i in range(last_month_change, MAX_SZ - 1):
-            self.lunar_month[i] = self.solar_month[last_month_change - 1] + 1
+        while last_new_moon_start < self.jd_start + 367:
+            for i in range(last_d_assigned + 1, last_d_assigned + 32):
+                if i > 367 or self.jd_sunrise[i] > this_new_moon_end:
+                    last_d_assigned = i - 1
+                    break
+                if isAdhika:
+                    self.lunar_month[i] = self.solar_month[last_d_assigned] % 12 + .5
+                else:
+                    self.lunar_month[i] = self.solar_month[last_d_assigned] % 12 + 1
+
+            isAdhika = get_solar_rashi(this_new_moon_start) == get_solar_rashi(last_new_moon_start)
+            last_new_moon_start = this_new_moon_start
+            this_new_moon_start, this_new_moon_end = get_angam_span(last_new_moon_start + 24,
+                                                                    last_new_moon_start + 32,
+                                                                    TITHI, 30)
+
+        # # Older code below. Major mistake was that calculation was done after checking for
+        # # prathama, rather than for amavasya.
+        # last_month_change = 1
+        # last_lunar_month = None
+
+        # for d in range(1, MAX_SZ - 1):
+        #     # Assign lunar_month for each day
+        #     if self.tithi_sunrise[d] == 1 and self.tithi_sunrise[d - 1] != 1:
+        #         for i in range(last_month_change, d):
+        #             if (self.solar_month[d] == last_lunar_month):
+        #                 self.lunar_month[i] = self.solar_month[d] % 12 + 0.5
+        #             else:
+        #                 self.lunar_month[i] = self.solar_month[d]
+        #         last_month_change = d
+        #         last_lunar_month = self.solar_month[d]
+        #     elif self.tithi_sunrise[d] == 2 and self.tithi_sunrise[d - 1] == 30:
+        #         # prathama tithi was never seen @ sunrise
+        #         for i in range(last_month_change, d):
+        #             if (self.solar_month[d - 1] == last_lunar_month):
+        #                 self.lunar_month[i] = self.solar_month[d - 1] % 12 + 0.5
+        #             else:
+        #                 self.lunar_month[i] = self.solar_month[d - 1]
+        #         last_month_change = d
+        #         last_lunar_month = self.solar_month[d - 1]
+
+        # for i in range(last_month_change, MAX_SZ - 1):
+        #     self.lunar_month[i] = self.solar_month[last_month_change - 1] + 1
 
     def get_angams_for_kalas(self, d, get_angam_func, kala_type):
         jd_sunrise = self.jd_sunrise[d]
