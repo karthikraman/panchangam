@@ -1776,7 +1776,8 @@ class panchangam:
                         self.ics_calendar.add_component(event)
 
                     else:
-                        event.add('summary', tr(stext.replace('~', ' '), self.script))
+                        event.add('summary', tr(stext.replace('~', ' ').replace('\#','#'),
+                                  self.script))
                         fest_num_loc = stext.find('#')
                         if fest_num_loc != -1:
                             stext = stext[:fest_num_loc - 2]  # Two more chars dropped, ~\
