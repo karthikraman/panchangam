@@ -966,12 +966,13 @@ class panchangam:
                             if fday is None:
                                 if debugFestivals:
                                     print('%', angams, angam_num)
-                                sys.stderr.write('Could not assign paraviddha day for %s!' %
-                                                 festival_name +
-                                                 ' Please check for unusual cases.\n')
-                            else:
-                                sys.stderr.write('Assigned paraviddha day for %s!' %
-                                                 festival_name + ' Ignore future warnings!\n')
+                                if festival_name not in self.fest_days:
+                                    sys.stderr.write('Could not assign paraviddha day for %s!' %
+                                                     festival_name +
+                                                     ' Please check for unusual cases.\n')
+                            # else:
+                            #     sys.stderr.write('Assigned paraviddha day for %s!' %
+                            #                      festival_name + ' Ignore future warnings!\n')
                         elif priority == 'purvaviddha':
                             angams_yest = self.get_angams_for_kalas(d - 1, get_angam_func, kala)
                             if debugFestivals:
