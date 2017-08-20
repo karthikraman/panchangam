@@ -118,6 +118,20 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:अन्धकासुर-वधः
+DTSTART;VALUE=DATE:20170110
+DTEND;VALUE=DATE:20170111
+UID:andhakasura-vadha-2017-01
+DESCRIPTION:http://adyatithih.wordpress.com/andhakasura-vadha
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:प्रदोष व्रतम्
 DTSTART;VALUE=DATE:20170110
 DTEND;VALUE=DATE:20170111
@@ -1121,24 +1135,6 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:माघ पूर्णिमा स्नानम्
-DTSTART;VALUE=DATE:20170210
-DTEND;VALUE=DATE:20170211
-UID:a-ka-ma-vai-snanam-2017-02
-DESCRIPTION:Perform snana four ghatikas before sunrise (during `aruNodayam
- `\, when the Moon is still up\, on the full-moon days of `ASADha`\, `kArti
- ka`\, `mAgha` and `vaizAkha` – hence the name `A-kA-mA-vai`) bestows str
- ength\, beauty\, fame\, dharma\, knowledge\, happiness\, fortitude and hea
- lth.\n\n\n\nhttp://adyatithih.wordpress.com/a-ka-ma-vai-snanam
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT4H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:கபாலீ தெப்போத்ஸவம்
 DTSTART;VALUE=DATE:20170210
 DTEND;VALUE=DATE:20170211
@@ -1175,6 +1171,24 @@ DTEND;VALUE=DATE:20170212
 UID:kanchi-51-jagadguru-shri-vidyatirthendra-sarasvati-aradhana-2017-02
 DESCRIPTION:http://adyatithih.wordpress.com/kanchi-51-jagadguru-shri-vidya
  tirthendra-sarasvati-aradhana
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:माघ पूर्णिमा स्नानम्
+DTSTART;VALUE=DATE:20170211
+DTEND;VALUE=DATE:20170212
+UID:a-ka-ma-vai-snanam-2017-02
+DESCRIPTION:Perform snana four ghatikas before sunrise (during `aruNodayam
+ `\, when the Moon is still up\, on the full-moon days of `ASADha`\, `kArti
+ ka`\, `mAgha` and `vaizAkha` – hence the name `A-kA-mA-vai`) bestows str
+ ength\, beauty\, fame\, dharma\, knowledge\, happiness\, fortitude and hea
+ lth.\n\n\n\nhttp://adyatithih.wordpress.com/a-ka-ma-vai-snanam
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -3530,6 +3544,20 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:गिरिजा कल्याणम्
+DTSTART;VALUE=DATE:20170507
+DTEND;VALUE=DATE:20170508
+UID:girija-kalyanam-2017-05
+DESCRIPTION:http://adyatithih.wordpress.com/girija-kalyanam
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:सोम प्रदोष व्रतम्
 DTSTART;VALUE=DATE:20170508
 DTEND;VALUE=DATE:20170509
@@ -3581,27 +3609,6 @@ DTEND;VALUE=DATE:20170510
 UID:madhurakavi-azhvar-tirunakshattiram-2017-05
 DESCRIPTION:http://adyatithih.wordpress.com/madhurakavi-azhvar-tirunakshat
  tiram
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT4H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:वैशाख पूर्णिमा स्नानम्
-DTSTART;VALUE=DATE:20170509
-DTEND;VALUE=DATE:20170510
-UID:a-ka-ma-vai-snanam-2017-05
-DESCRIPTION:Perform snana four ghatikas before sunrise (during `aruNodayam
- `\, when the Moon is still up\, on the full-moon days of `ASADha`\, `kArti
- ka`\, `mAgha` and `vaizAkha` – hence the name `A-kA-mA-vai`) bestows str
- ength\, beauty\, fame\, dharma\, knowledge\, happiness\, fortitude and hea
- lth.\n\nबलं रूपं यशो धर्मं ज्ञान
- मायुः सुखं धृतिम् ।\nआरोग्यं
-  परमाप्नोति सम्यक् स्नानेन 
- मानवः ॥\n\nhttp://adyatithih.wordpress.com/a-ka-ma-vai-snanam
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -3715,6 +3722,27 @@ DTEND;VALUE=DATE:20170511
 UID:tirukkuripput-tonda-nayanar-gurupujai-2017-05
 DESCRIPTION:http://adyatithih.wordpress.com/tirukkuripput-tonda-nayanar-gu
  rupujai
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:वैशाख पूर्णिमा स्नानम्
+DTSTART;VALUE=DATE:20170510
+DTEND;VALUE=DATE:20170511
+UID:a-ka-ma-vai-snanam-2017-05
+DESCRIPTION:Perform snana four ghatikas before sunrise (during `aruNodayam
+ `\, when the Moon is still up\, on the full-moon days of `ASADha`\, `kArti
+ ka`\, `mAgha` and `vaizAkha` – hence the name `A-kA-mA-vai`) bestows str
+ ength\, beauty\, fame\, dharma\, knowledge\, happiness\, fortitude and hea
+ lth.\n\nबलं रूपं यशो धर्मं ज्ञान
+ मायुः सुखं धृतिम् ।\nआरोग्यं
+  परमाप्नोति सम्यक् स्नानेन 
+ मानवः ॥\n\nhttp://adyatithih.wordpress.com/a-ka-ma-vai-snanam
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -5657,24 +5685,6 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:आषाढ पूर्णिमा स्नानम्
-DTSTART;VALUE=DATE:20170708
-DTEND;VALUE=DATE:20170709
-UID:a-ka-ma-vai-snanam-2017-07
-DESCRIPTION:Perform snana four ghatikas before sunrise (during `aruNodayam
- `\, when the Moon is still up\, on the full-moon days of `ASADha`\, `kArti
- ka`\, `mAgha` and `vaizAkha` – hence the name `A-kA-mA-vai`) bestows str
- ength\, beauty\, fame\, dharma\, knowledge\, happiness\, fortitude and hea
- lth.\n\n\n\nhttp://adyatithih.wordpress.com/a-ka-ma-vai-snanam
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT4H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:काञ्ची 10 जगद्गुरु श्री सु
  रेश्वरेन्द्र सरस्वती आराधन
  ा #{1891}
@@ -5712,6 +5722,24 @@ DTSTART;VALUE=DATE:20170708
 DTEND;VALUE=DATE:20170709
 UID:manvadi-rudra-savarni-2017-07
 DESCRIPTION:http://adyatithih.wordpress.com/manvadi-rudra-savarni
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:आषाढ पूर्णिमा स्नानम्
+DTSTART;VALUE=DATE:20170709
+DTEND;VALUE=DATE:20170710
+UID:a-ka-ma-vai-snanam-2017-07
+DESCRIPTION:Perform snana four ghatikas before sunrise (during `aruNodayam
+ `\, when the Moon is still up\, on the full-moon days of `ASADha`\, `kArti
+ ka`\, `mAgha` and `vaizAkha` – hence the name `A-kA-mA-vai`) bestows str
+ ength\, beauty\, fame\, dharma\, knowledge\, happiness\, fortitude and hea
+ lth.\n\n\n\nhttp://adyatithih.wordpress.com/a-ka-ma-vai-snanam
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -10602,25 +10630,6 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:कार्तिक पूर्णिमा स्नानम
- ्
-DTSTART;VALUE=DATE:20171103
-DTEND;VALUE=DATE:20171104
-UID:a-ka-ma-vai-snanam-2017-11
-DESCRIPTION:Perform snana four ghatikas before sunrise (during `aruNodayam
- `\, when the Moon is still up\, on the full-moon days of `ASADha`\, `kArti
- ka`\, `mAgha` and `vaizAkha` – hence the name `A-kA-mA-vai`) bestows str
- ength\, beauty\, fame\, dharma\, knowledge\, happiness\, fortitude and hea
- lth.\n\n\n\nhttp://adyatithih.wordpress.com/a-ka-ma-vai-snanam
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT4H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:मणिकर्णिका स्नानम्
 DTSTART;VALUE=DATE:20171103
 DTEND;VALUE=DATE:20171104
@@ -10702,6 +10711,25 @@ UID:kanchi-64-jagadguru-shri-chandrashekharendra-sarasvati-6-aradhana-2017
  -11
 DESCRIPTION:http://adyatithih.wordpress.com/kanchi-64-jagadguru-shri-chand
  rashekharendra-sarasvati-6-aradhana
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:कार्तिक पूर्णिमा स्नानम
+ ्
+DTSTART;VALUE=DATE:20171104
+DTEND;VALUE=DATE:20171105
+UID:a-ka-ma-vai-snanam-2017-11
+DESCRIPTION:Perform snana four ghatikas before sunrise (during `aruNodayam
+ `\, when the Moon is still up\, on the full-moon days of `ASADha`\, `kArti
+ ka`\, `mAgha` and `vaizAkha` – hence the name `A-kA-mA-vai`) bestows str
+ ength\, beauty\, fame\, dharma\, knowledge\, happiness\, fortitude and hea
+ lth.\n\n\n\nhttp://adyatithih.wordpress.com/a-ka-ma-vai-snanam
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
