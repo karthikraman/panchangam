@@ -3954,7 +3954,9 @@ SUMMARY:करवीर व्रतम्
 DTSTART;VALUE=DATE:20170526
 DTEND;VALUE=DATE:20170527
 UID:karavira-vratam-2017-05
-DESCRIPTION:http://adyatithih.wordpress.com/karavira-vratam
+DESCRIPTION:Perform puja of `karavIra` plants/flowers and then offer them 
+ भानुवल्लभ।\nमौलिमण्डन दुर्
+ adyatithih.wordpress.com/karavira-vratam
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -4041,11 +4043,34 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:कदली-गौरी व्रतम्/पूजा
+DTSTART;VALUE=DATE:20170529
+DTEND;VALUE=DATE:20170530
+UID:kadali-gauri-vratam-2017-05
+DESCRIPTION:Perform puja of Shiva-Parvati under a banana tree or on a bana
+ na leaf\, do naivedyam of 100+ bananas and give away to small girl childre
+ भाग्यं सर्वमङ्गले।\nसौमङ्ग
+ सुन्दरि॥\n\nhttp://adyatithih.wordpress.com/kadali-gauri-v
+ ratam
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:उमा-अवतारम्
 DTSTART;VALUE=DATE:20170529
 DTEND;VALUE=DATE:20170530
 UID:uma-avataram-2017-05
-DESCRIPTION:http://adyatithih.wordpress.com/uma-avataram
+DESCRIPTION:Perform puja of Uma-Maheshvara\, on the day of Uma Devi's Avat
+ aram.\n\nज्येष्ठशुक्लचतुर्थ्या
+ ं तु जाता पूर्वमुमा सती।\nतस
+ ्मात् सा तत्र सम्पूज्या स्त
+ ्रीभिः सौभाग्यवृद्धये॥\n\nhttp:/
+ /adyatithih.wordpress.com/uma-avataram
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -4291,11 +4316,21 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:दशहरा/गङ्गावतरणम्
+SUMMARY:दशहरा/गङ्गावतरणम्/दशपाप
+ हरा दशमी
 DTSTART;VALUE=DATE:20170604
 DTEND;VALUE=DATE:20170605
 UID:dashahara-gangavataranam-2017-06
-DESCRIPTION:http://adyatithih.wordpress.com/dashahara-gangavataranam
+DESCRIPTION:Avataranam of Ganga Devi. Bathe in any river and offer arghyam
+  — destroys 10 types of sins (`dazaharA`).\n\nदशम्याम् 
+ शुक्लपक्षे तु ज्येष्ठे मास
+ े कुजे दिने।\nगङ्गाऽवतीर्णा 
+ हस्तर्क्षे सर्वपापहरा स्मृ
+ ता॥\n\nयां काञ्चित् सरितं प्र
+ ाप्य दद्यादर्घ्यं शुभोदकम।
+ \nमुच्यतॆ दशभिः पापैः स महाप
+ ातकोपमैः॥\n\nhttp://adyatithih.wordpress.com/dashahara-g
+ angavataranam
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
