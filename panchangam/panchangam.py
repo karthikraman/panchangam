@@ -2,6 +2,7 @@
 #  -*- coding: utf-8 -*-
 
 import sys
+import re
 
 from datetime import datetime, date, timedelta
 from pytz import timezone as tz
@@ -616,7 +617,7 @@ class panchangam:
                         pref = '(%s) mahAlaya ' % (
                             get_chandra_masa(self.lunar_month[d], NAMES, 'hk'))
                     elif self.solar_month[d] == 4:
-                        pref = '%s (karkaTaka) ' % (
+                        pref = '%s (kaTaka) ' % (
                             get_chandra_masa(self.lunar_month[d], NAMES, 'hk'))
                     elif self.solar_month[d] == 10:
                         pref = 'mauni (%s/makara) ' % (
@@ -662,10 +663,10 @@ class panchangam:
 
             if self.solar_month[d] == 1 and self.solar_month_day[d] > 10:
                 if self.jd_sunset[d] < agni_jd_start < self.jd_sunset[d + 1]:
-                    self.fest_days['agninakSatra-ArambhaH'] = [d + 1]
+                    self.fest_days['agninakSatram~ArambhaH'] = [d + 1]
             if self.solar_month[d] == 2 and self.solar_month_day[d] > 10:
                 if self.jd_sunset[d] < agni_jd_end < self.jd_sunset[d + 1]:
-                    self.fest_days['agninakSatra-samApanam'] = [d + 1]
+                    self.fest_days['agninakSatram~samApanam'] = [d + 1]
 
             # GAJACHHAYA YOGA
             if self.solar_month[d] == 6 and self.solar_month_day[d] == 1:
@@ -1710,7 +1711,8 @@ class panchangam:
                         self.ics_calendar.add_component(event)
                     elif stext.find('samApanam') != -1:
                         # It's an ending event
-                        event.add('summary', tr(stext.replace('~', ' '), self.script))
+                        event.add('summary', tr(re.sub('.~samApanam',
+                                                       '-samApanam', stext), self.script))
                         event.add('dtstart', date(y, m, dt))
                         event.add('dtend', (datetime(y, m, dt) + timedelta(1)).date())
 
@@ -1743,7 +1745,7 @@ class panchangam:
 
                         # Find start and add entire event as well
                         desc = ''
-                        page_id = page_id.replace('-samapanam','')
+                        page_id = page_id.replace('-samapanam', '')
                         event = Event()
                         check_d = d
                         stext_start = stext.replace('samApanam', 'ArambhaH')
@@ -1755,7 +1757,8 @@ class panchangam:
                                 start_d = check_d
                                 break
 
-                        event.add('summary', tr(stext.replace('samApanam','').replace('~', ' '), self.script))
+                        event.add('summary', tr(stext.replace(
+                                                'samApanam', '').replace('~', ' '), self.script))
                         event.add('dtstart', (datetime(y, m, dt) - timedelta(d - start_d)).date())
                         event.add('dtend', (datetime(y, m, dt) + timedelta(1)).date())
 
@@ -1776,8 +1779,7 @@ class panchangam:
                         self.ics_calendar.add_component(event)
 
                     else:
-                        event.add('summary', tr(stext.replace('~', ' ').replace('\#','#'),
-                                  self.script))
+                        event.add('summary', tr(re.sub('.~ArambhaH', '-ArambhaH', stext).replace('~', ' ').replace('\#', '#'), self.script))
                         fest_num_loc = stext.find('#')
                         if fest_num_loc != -1:
                             stext = stext[:fest_num_loc - 2]  # Two more chars dropped, ~\
@@ -1811,7 +1813,8 @@ class panchangam:
                             else:
                                 sys.stderr.write('No description found for festival %s!\n' % ekad)
                             desc += '\n' + BASE_URL + page_id
-                            pref = romanise(str(transliterate(stext.split('~')[0],
+                            pref = romanise(str(transliterate(
+                                                stext.split('~')[0],
                                                 'harvardkyoto', 'iast'), 'utf8')) + "-"
                             uid = '%s-%d-%02d' % (pref + page_id, y, m)
                         # print(page_id)
