@@ -728,22 +728,7 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:श्रीराम वनवास गमनम्
-DTSTART;VALUE=DATE:20170201
-DTEND;VALUE=DATE:20170202
-UID:shrirama-vanavasa-gamanam-2017-02
-DESCRIPTION:Afternoon Shri Raama started to go to the forests/exile.\n\n\n
- \nhttp://adyatithih.wordpress.com/shrirama-vanavasa-gamanam
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT4H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:श्री पञ्चमी
+SUMMARY:वसन्त श्री पञ्चमी
 DTSTART;VALUE=DATE:20170201
 DTEND;VALUE=DATE:20170202
 UID:shri-panchami-2017-02
@@ -753,6 +738,21 @@ DESCRIPTION:Worship Mahavishnu and Mahalakshmi\, Rati Devi and Manmatha wi
  िकामौ तु सम्पूज्य कर्तव्यः 
  सुमहोत्सवः॥\n\nhttp://adyatithih.wordpress.com/shri-
  panchami
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:श्रीराम वनवास गमनम्
+DTSTART;VALUE=DATE:20170201
+DTEND;VALUE=DATE:20170202
+UID:shrirama-vanavasa-gamanam-2017-02
+DESCRIPTION:Afternoon Shri Raama started to go to the forests/exile.\n\n\n
+ \nhttp://adyatithih.wordpress.com/shrirama-vanavasa-gamanam
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -1028,6 +1028,20 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:கபாலீ தெப்போத்ஸவம்
+DTSTART;VALUE=DATE:20170208
+DTEND;VALUE=DATE:20170209
+UID:kapali-teppotsavam-2017-02
+DESCRIPTION:http://adyatithih.wordpress.com/kapali-teppotsavam
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:तिलपद्म द्वादशी/तिलोत्प
  त्ति
 DTSTART;VALUE=DATE:20170208
@@ -1053,7 +1067,7 @@ BEGIN:VEVENT
 SUMMARY:கபாலீ தெப்போத்ஸவம்
 DTSTART;VALUE=DATE:20170209
 DTEND;VALUE=DATE:20170210
-UID:kapali-teppotsavam-2017-02
+UID:kapali-teppotsavam-2017-02-09
 DESCRIPTION:http://adyatithih.wordpress.com/kapali-teppotsavam
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -1064,15 +1078,11 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:आ-का-मा-वै स्नानम्
-DTSTART;VALUE=DATE:20170210
-DTEND;VALUE=DATE:20170211
-UID:a-ka-ma-vai-snanam-2017-02
-DESCRIPTION:Perform snana four ghatikas before sunrise (during `aruNodayam
- `\, when the Moon is still up\, on the full-moon days of `ASADha`\, `kArti
- ka`\, `mAgha` and `vaizAkha` – hence the name `A-kA-mA-vai`) bestows str
- ength\, beauty\, fame\, dharma\, knowledge\, happiness\, fortitude and hea
- lth.\n\n\n\nhttp://adyatithih.wordpress.com/a-ka-ma-vai-snanam
+SUMMARY:தைப்பூசம்
+DTSTART;VALUE=DATE:20170209
+DTEND;VALUE=DATE:20170210
+UID:taippusam-2017-02
+DESCRIPTION:http://adyatithih.wordpress.com/taippusam
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -1111,11 +1121,15 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:கபாலீ தெப்போத்ஸவம்
+SUMMARY:माघ पूर्णिमा स्नानम्
 DTSTART;VALUE=DATE:20170210
 DTEND;VALUE=DATE:20170211
-UID:kapali-teppotsavam-2017-02-10
-DESCRIPTION:http://adyatithih.wordpress.com/kapali-teppotsavam
+UID:a-ka-ma-vai-snanam-2017-02
+DESCRIPTION:Perform snana four ghatikas before sunrise (during `aruNodayam
+ `\, when the Moon is still up\, on the full-moon days of `ASADha`\, `kArti
+ ka`\, `mAgha` and `vaizAkha` – hence the name `A-kA-mA-vai`) bestows str
+ ength\, beauty\, fame\, dharma\, knowledge\, happiness\, fortitude and hea
+ lth.\n\n\n\nhttp://adyatithih.wordpress.com/a-ka-ma-vai-snanam
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -1125,11 +1139,11 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:தைப்பூசம்
+SUMMARY:கபாலீ தெப்போத்ஸவம்
 DTSTART;VALUE=DATE:20170210
 DTEND;VALUE=DATE:20170211
-UID:taippusam-2017-02
-DESCRIPTION:http://adyatithih.wordpress.com/taippusam
+UID:kapali-teppotsavam-2017-02-10
+DESCRIPTION:http://adyatithih.wordpress.com/kapali-teppotsavam
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -1170,20 +1184,6 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:கபாலீ தெப்போத்ஸவம்
-DTSTART;VALUE=DATE:20170211
-DTEND;VALUE=DATE:20170212
-UID:kapali-teppotsavam-2017-02-11
-DESCRIPTION:http://adyatithih.wordpress.com/kapali-teppotsavam
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT4H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:திருமழிசையாழ்வார் திரு
  நக்ஷத்திரம்
 DTSTART;VALUE=DATE:20170212
@@ -1200,15 +1200,14 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:विष्णुपदी पुण्यकालम् (कु
- म्भ-सङ्क्रान्तिः)
+SUMMARY:विष्णुपदी कुम्भरवि
 DTSTART;VALUE=DATE:20170213
 DTEND;VALUE=DATE:20170214
-UID:vishnupadi-punyakalam-(kumbha-sankranti)-2017-02
+UID:vishnupadi-kumbha-ravi-2017-02
 DESCRIPTION:Perform danam of hay\, grass\, food and pure water to cows.\n\
  nकुम्भप्रवेशे दानं तु गवं अम
  ्बु तृणस्य च\n\nhttp://adyatithih.wordpress.com/vishnu
- padi-punyakalam-(kumbha-sankranti)
+ padi-kumbha-ravi
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -1440,6 +1439,20 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:माघ-स्नानपूर्तिः
+DTSTART;VALUE=DATE:20170226
+DTEND;VALUE=DATE:20170227
+UID:magha-snanapurti-2017-02
+DESCRIPTION:http://adyatithih.wordpress.com/magha-snanapurti
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:माघ अमावस्या
 DTSTART;VALUE=DATE:20170226
 DTEND;VALUE=DATE:20170227
@@ -1647,6 +1660,34 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:काम-दहनम्
+DTSTART;VALUE=DATE:20170311
+DTEND;VALUE=DATE:20170312
+UID:kama-dahanam-2017-03
+DESCRIPTION:http://adyatithih.wordpress.com/kama-dahanam
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:மாசி மகம்
+DTSTART;VALUE=DATE:20170311
+DTEND;VALUE=DATE:20170312
+UID:masi-magham-2017-03
+DESCRIPTION:http://adyatithih.wordpress.com/masi-magham
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:நடராஜர் மஹாபிஷேகம்
 DTSTART;VALUE=DATE:20170311
 DTEND;VALUE=DATE:20170312
@@ -1690,20 +1731,6 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:काम-दहनम्
-DTSTART;VALUE=DATE:20170312
-DTEND;VALUE=DATE:20170313
-UID:kama-dahanam-2017-03
-DESCRIPTION:http://adyatithih.wordpress.com/kama-dahanam
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT4H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:मन्वादि (धर्म सावर्णि)
 DTSTART;VALUE=DATE:20170312
 DTEND;VALUE=DATE:20170313
@@ -1724,6 +1751,20 @@ DTEND;VALUE=DATE:20170314
 UID:holi-2017-03
 DESCRIPTION:Festival of colours is celebrated today.\n\n\n\nhttp://adyatit
  hih.wordpress.com/holi
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:षडशीति मीनरवि
+DTSTART;VALUE=DATE:20170314
+DTEND;VALUE=DATE:20170315
+UID:shadashiti-mina-ravi-2017-03
+DESCRIPTION:http://adyatithih.wordpress.com/shadashiti-mina-ravi
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -2582,12 +2623,12 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:चित्रा पूर्णिमा
+SUMMARY:चैत्र पूर्णिमा
 DTSTART;VALUE=DATE:20170411
 DTEND;VALUE=DATE:20170412
-UID:chitra-purnima-2017-04
+UID:chaitra-purnima-2017-04
 DESCRIPTION:Daanam of Varaha Puran\n\n\n\nhttp://adyatithih.wordpress.com/
- chitra-purnima
+ chaitra-purnima
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -3272,6 +3313,20 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:त्यागराज जयन्ती #{251}
+DTSTART;VALUE=DATE:20170502
+DTEND;VALUE=DATE:20170503
+UID:tyagaraja-jayanti-2017-05
+DESCRIPTION:http://adyatithih.wordpress.com/tyagaraja-jayanti
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:विद्यारण्य स्वामी जयन्त
  ी
 DTSTART;VALUE=DATE:20170502
@@ -3341,8 +3396,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:काञ्ची 26 जगद्गुरु श्री प्
- रज्ञाअघनेन्द्र सरस्वती आरा
- धना #{1454}
+ रज्ञाघनेन्द्र सरस्वती आराध
+ ना #{1454}
 DTSTART;VALUE=DATE:20170503
 DTEND;VALUE=DATE:20170504
 UID:kanchi-26-jagadguru-shri-prajnaaghanendra-sarasvati-aradhana-2017-05
@@ -3535,9 +3590,9 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:आ-का-मा-वै स्नानम्
-DTSTART;VALUE=DATE:20170510
-DTEND;VALUE=DATE:20170511
+SUMMARY:वैशाख पूर्णिमा स्नानम्
+DTSTART;VALUE=DATE:20170509
+DTEND;VALUE=DATE:20170510
 UID:a-ka-ma-vai-snanam-2017-05
 DESCRIPTION:Perform snana four ghatikas before sunrise (during `aruNodayam
  `\, when the Moon is still up\, on the full-moon days of `ASADha`\, `kArti
@@ -3625,6 +3680,25 @@ DTEND;VALUE=DATE:20170511
 UID:kurma-jayanti-2017-05
 DESCRIPTION:Danam of Brahma puranam\n\n\n\nhttp://adyatithih.wordpress.com
  /kurma-jayanti
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:சித்ரா பௌர்ணமீ/சித்ரகுப
+ ்த பூஜை
+DTSTART;VALUE=DATE:20170510
+DTEND;VALUE=DATE:20170511
+UID:chitra-purnima-2017-05
+DESCRIPTION:चित्रगुप्तं महाप्राज्
+ ञ्यं लॆखनीपत्रधारिणम् ।\nचि
+ त्ररत्नाम्बरधरं मध्यस्थं स
+ र्वदेहिनाम् ॥\n\nhttp://adyatithih.wordpress.com/c
+ hitra-purnima
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -3742,13 +3816,11 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:विष्णुपदी पुण्यकालम् (वृ
- षभ-सङ्क्रान्तिः)
+SUMMARY:विष्णुपदी वृषभरवि
 DTSTART;VALUE=DATE:20170515
 DTEND;VALUE=DATE:20170516
-UID:vishnupadi-punyakalam-(vrishabha-sankranti)-2017-05
-DESCRIPTION:http://adyatithih.wordpress.com/vishnupadi-punyakalam-(vrishab
- ha-sankranti)
+UID:vishnupadi-vrishabha-ravi-2017-05
+DESCRIPTION:http://adyatithih.wordpress.com/vishnupadi-vrishabha-ravi
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -4746,15 +4818,14 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:षडशीति पुण्यकालम् (मिथुन
- -सङ्क्रान्तिः)
+SUMMARY:षडशीति मिथुनरवि
 DTSTART;VALUE=DATE:20170615
 DTEND;VALUE=DATE:20170616
-UID:shadashiti-punyakalam-(mithuna-sankranti)-2017-06
+UID:shadashiti-mithuna-ravi-2017-06
 DESCRIPTION:Perform danam of clothes\, food and water.\n\nवस्त्
  रान्नपानदानानि मिथुने विहि
- तानि तु॥\n\nhttp://adyatithih.wordpress.com/shadashiti-punya
- kalam-(mithuna-sankranti)
+ तानि तु॥\n\nhttp://adyatithih.wordpress.com/shadashiti-mithu
+ na-ravi
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -5586,6 +5657,24 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:आषाढ पूर्णिमा स्नानम्
+DTSTART;VALUE=DATE:20170708
+DTEND;VALUE=DATE:20170709
+UID:a-ka-ma-vai-snanam-2017-07
+DESCRIPTION:Perform snana four ghatikas before sunrise (during `aruNodayam
+ `\, when the Moon is still up\, on the full-moon days of `ASADha`\, `kArti
+ ka`\, `mAgha` and `vaizAkha` – hence the name `A-kA-mA-vai`) bestows str
+ ength\, beauty\, fame\, dharma\, knowledge\, happiness\, fortitude and hea
+ lth.\n\n\n\nhttp://adyatithih.wordpress.com/a-ka-ma-vai-snanam
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:काञ्ची 10 जगद्गुरु श्री सु
  रेश्वरेन्द्र सरस्वती आराधन
  ा #{1891}
@@ -5623,24 +5712,6 @@ DTSTART;VALUE=DATE:20170708
 DTEND;VALUE=DATE:20170709
 UID:manvadi-rudra-savarni-2017-07
 DESCRIPTION:http://adyatithih.wordpress.com/manvadi-rudra-savarni
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT4H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:आ-का-मा-वै स्नानम्
-DTSTART;VALUE=DATE:20170709
-DTEND;VALUE=DATE:20170710
-UID:a-ka-ma-vai-snanam-2017-07
-DESCRIPTION:Perform snana four ghatikas before sunrise (during `aruNodayam
- `\, when the Moon is still up\, on the full-moon days of `ASADha`\, `kArti
- ka`\, `mAgha` and `vaizAkha` – hence the name `A-kA-mA-vai`) bestows str
- ength\, beauty\, fame\, dharma\, knowledge\, happiness\, fortitude and hea
- lth.\n\n\n\nhttp://adyatithih.wordpress.com/a-ka-ma-vai-snanam
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -5957,6 +6028,20 @@ DTSTART;VALUE=DATE:20170723
 DTEND;VALUE=DATE:20170724
 UID:ashadha-(karkataka)-amavasya-2017-07
 DESCRIPTION:http://adyatithih.wordpress.com/ashadha-(karkataka)-amavasya
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:आषाढ-स्नानपूर्तिः
+DTSTART;VALUE=DATE:20170723
+DTEND;VALUE=DATE:20170724
+UID:ashadha-snanapurti-2017-07
+DESCRIPTION:http://adyatithih.wordpress.com/ashadha-snanapurti
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -8462,15 +8547,14 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:षडशीति पुण्यकालम् (कन्या
- -सङ्क्रान्तिः)
+SUMMARY:षडशीति कन्यारवि
 DTSTART;VALUE=DATE:20170917
 DTEND;VALUE=DATE:20170918
-UID:shadashiti-punyakalam-(kanya-sankranti)-2017-09
+UID:shadashiti-kanya-ravi-2017-09
 DESCRIPTION:Perform danam of clothes/place to live.\n\nकन्याप
  ्रवेशे वस्त्राणां वेश्मनां
-  दानमेव च\n\nhttp://adyatithih.wordpress.com/shadashiti-puny
- akalam-(kanya-sankranti)
+  दानमेव च\n\nhttp://adyatithih.wordpress.com/shadashiti-kany
+ a-ravi
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -10518,6 +10602,25 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:कार्तिक पूर्णिमा स्नानम
+ ्
+DTSTART;VALUE=DATE:20171103
+DTEND;VALUE=DATE:20171104
+UID:a-ka-ma-vai-snanam-2017-11
+DESCRIPTION:Perform snana four ghatikas before sunrise (during `aruNodayam
+ `\, when the Moon is still up\, on the full-moon days of `ASADha`\, `kArti
+ ka`\, `mAgha` and `vaizAkha` – hence the name `A-kA-mA-vai`) bestows str
+ ength\, beauty\, fame\, dharma\, knowledge\, happiness\, fortitude and hea
+ lth.\n\n\n\nhttp://adyatithih.wordpress.com/a-ka-ma-vai-snanam
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:मणिकर्णिका स्नानम्
 DTSTART;VALUE=DATE:20171103
 DTEND;VALUE=DATE:20171104
@@ -10581,24 +10684,6 @@ DTSTART;VALUE=DATE:20171103
 DTEND;VALUE=DATE:20171104
 UID:tripurotsava-2017-11
 DESCRIPTION:http://adyatithih.wordpress.com/tripurotsava
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT4H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:आ-का-मा-वै स्नानम्
-DTSTART;VALUE=DATE:20171104
-DTEND;VALUE=DATE:20171105
-UID:a-ka-ma-vai-snanam-2017-11
-DESCRIPTION:Perform snana four ghatikas before sunrise (during `aruNodayam
- `\, when the Moon is still up\, on the full-moon days of `ASADha`\, `kArti
- ka`\, `mAgha` and `vaizAkha` – hence the name `A-kA-mA-vai`) bestows str
- ength\, beauty\, fame\, dharma\, knowledge\, happiness\, fortitude and hea
- lth.\n\n\n\nhttp://adyatithih.wordpress.com/a-ka-ma-vai-snanam
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -10881,13 +10966,26 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:विष्णुपदी पुण्यकालम् (वृ
- श्चिक-सङ्क्रान्तिः)
+SUMMARY:विष्णुपदी वृश्चिकरवि
 DTSTART;VALUE=DATE:20171116
 DTEND;VALUE=DATE:20171117
-UID:vishnupadi-punyakalam-(vrishchika-sankranti)-2017-11
+UID:vishnupadi-vrishchika-ravi-2017-11
 DESCRIPTION:Do danam of deepam.\n\n\n\nhttp://adyatithih.wordpress.com/vis
- hnupadi-punyakalam-(vrishchika-sankranti)
+ hnupadi-vrishchika-ravi
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:कार्तिक-स्नानपूर्तिः
+DTSTART;VALUE=DATE:20171118
+DTEND;VALUE=DATE:20171119
+UID:vaishakha-snanapurti-2017-11
+DESCRIPTION:http://adyatithih.wordpress.com/vaishakha-snanapurti
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -11263,6 +11361,20 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:ஸர்வாலய தீபம்
+DTSTART;VALUE=DATE:20171202
+DTEND;VALUE=DATE:20171203
+UID:sarvalaya-dipam-2017-12
+DESCRIPTION:http://adyatithih.wordpress.com/sarvalaya-dipam
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:अन्नपूर्णा जयन्ती
 DTSTART;VALUE=DATE:20171203
 DTEND;VALUE=DATE:20171204
@@ -11332,20 +11444,6 @@ DTSTART;VALUE=DATE:20171203
 DTEND;VALUE=DATE:20171204
 UID:kanampulla-nayanar-gurupujai-2017-12
 DESCRIPTION:http://adyatithih.wordpress.com/kanampulla-nayanar-gurupujai
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT4H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ஸர்வாலய தீபம்
-DTSTART;VALUE=DATE:20171203
-DTEND;VALUE=DATE:20171204
-UID:sarvalaya-dipam-2017-12
-DESCRIPTION:http://adyatithih.wordpress.com/sarvalaya-dipam
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -11592,15 +11690,14 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:षडशीति पुण्यकालम् (धनुस्
- सङ्क्रान्तिः)
+SUMMARY:षडशीति धनुर्रवि
 DTSTART;VALUE=DATE:20171216
 DTEND;VALUE=DATE:20171217
-UID:shadashiti-punyakalam-(dhanussankranti)-2017-12
+UID:shadashiti-dhanur-ravi-2017-12
 DESCRIPTION:Perform danam of clothes/vehicle (e.g. bullock cart).\n\nध
  नुःप्रवेशे वस्त्राणां याना
  नां च महाफलम्\n\nhttp://adyatithih.wordpress.com/sha
- dashiti-punyakalam-(dhanussankranti)
+ dashiti-dhanur-ravi
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE

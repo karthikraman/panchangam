@@ -348,6 +348,20 @@ class panchangam:
                                      (jd_sunrise_datmrw - jd_sunset_tmrw) * (7.0 / 15.0)),
                       get_angam_func(jd_sunset_tmrw +
                                      (jd_sunrise_datmrw - jd_sunset_tmrw) * (8.0 / 15.0))]
+        elif kala_type == 'ratrimana':
+            angams = [get_angam_func(jd_sunset + (jd_sunrise_tmrw - jd_sunset) * (0.0 / 15.0)),
+                      get_angam_func(jd_sunset + (jd_sunrise_tmrw - jd_sunset) * (15.0 / 15.0)),
+                      get_angam_func(jd_sunset_tmrw +
+                                     (jd_sunrise_datmrw - jd_sunset_tmrw) * (0.0 / 15.0)),
+                      get_angam_func(jd_sunset_tmrw +
+                                     (jd_sunrise_datmrw - jd_sunset_tmrw) * (15.0 / 15.0))]
+        elif kala_type == 'arunodaya':  # deliberately not simplifying expressions involving 15/15
+            angams = [get_angam_func(jd_sunset + (jd_sunrise_tmrw - jd_sunset) * (13.0 / 15.0)),
+                      get_angam_func(jd_sunset + (jd_sunrise_tmrw - jd_sunset) * (15.0 / 15.0)),
+                      get_angam_func(jd_sunset_tmrw +
+                                     (jd_sunrise_datmrw - jd_sunset_tmrw) * (13.0 / 15.0)),
+                      get_angam_func(jd_sunset_tmrw +
+                                     (jd_sunrise_datmrw - jd_sunset_tmrw) * (15.0 / 15.0))]
         elif kala_type == 'moonrise':
             angams = [get_angam_func(jd_moonrise), get_angam_func(jd_moonrise),
                       get_angam_func(jd_moonrise_tmrw), get_angam_func(jd_moonrise_tmrw)]
@@ -958,8 +972,14 @@ class panchangam:
                             # Some error, e.g. weird kala, so skip festival
                         if debugFestivals:
                             print('%' * 80)
-                            print('%', festival_name, ': ', festival_rules[festival_name])
-                            print("%%angams today & tmrw:", angams)
+                            try:
+                                print('%', festival_name, ': ', festival_rules[festival_name])
+                                print("%%angams today & tmrw:", angams)
+                            except KeyError:
+                                print('%', festival_name, ': ',
+                                      festival_rules[festival_name.split('\\')[0][:-1]])
+                                print("%%angams today & tmrw:", angams)
+
                         if priority == 'paraviddha':
                             if angams[0] == angam_num or angams[1] == angam_num:
                                 fday = d
@@ -1011,6 +1031,8 @@ class panchangam:
                                              (priority, festival_name))
                     # print (self.fest_days)
                     if fday is not None:
+                        # if festival_rules[festival_name]['kala'] == 'arunodaya':
+                        #     fday += 1
                         self.addFestival(festival_name, fday, debugFestivals)
 
             # distance from prabhava
