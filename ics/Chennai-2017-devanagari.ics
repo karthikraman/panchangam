@@ -600,7 +600,8 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:श्यामळानवरात्रि आरम्भः
+SUMMARY:श्यामळानवरात्रिः आरम्भ
+ ः
 DTSTART;VALUE=DATE:20170128
 DTEND;VALUE=DATE:20170129
 UID:shyamalanavaratri-arambha-2017-01
@@ -909,8 +910,8 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:श्यामळानवरात्रि समापनम
- ्
+SUMMARY:श्यामळानवरात्रिः~समापन
+ म्
 DTSTART;VALUE=DATE:20170205
 DTEND;VALUE=DATE:20170206
 UID:shyamalanavaratri-samapanam-2017-02
@@ -924,7 +925,7 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:श्यामळानवरात्रि
+SUMMARY:श्यामळानवरात्रिः
 DTSTART;VALUE=DATE:20170128
 DTEND;VALUE=DATE:20170206
 UID:shyamalanavaratri-2017-02
@@ -1984,7 +1985,7 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:वसन्तनवरात्रि आरम्भः
+SUMMARY:वसन्तनवरात्रिः आरम्भः
 DTSTART;VALUE=DATE:20170328
 DTEND;VALUE=DATE:20170329
 UID:vasantanavaratri-arambha-2017-03
@@ -2012,7 +2013,7 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:अरुन्धती व्रत आरम्भः
+SUMMARY:अरुन्धती व्रतम् आरम्भः
 DTSTART;VALUE=DATE:20170329
 DTEND;VALUE=DATE:20170330
 UID:arundhati-vrata-arambha-2017-03
@@ -2178,7 +2179,7 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:शालिहोत्र व्रत आरम्भः
+SUMMARY:शालिहोत्र व्रतम् आरम्भः
 DTSTART;VALUE=DATE:20170401
 DTEND;VALUE=DATE:20170402
 UID:shalihotra-vrata-arambha-2017-04
@@ -2379,7 +2380,7 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:वसन्तनवरात्रि समापनम्
+SUMMARY:वसन्तनवरात्रिः~समापनम्
 DTSTART;VALUE=DATE:20170405
 DTEND;VALUE=DATE:20170406
 UID:vasantanavaratri-samapanam-2017-04
@@ -2393,7 +2394,7 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:वसन्तनवरात्रि
+SUMMARY:वसन्तनवरात्रिः
 DTSTART;VALUE=DATE:20170328
 DTEND;VALUE=DATE:20170406
 UID:vasantanavaratri-2017-04
@@ -2480,8 +2481,8 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:भ्रातृप्राप्ति व्रत आरम
- ्भः
+SUMMARY:भ्रातृप्राप्ति व्रतम् आ
+ रम्भः
 DTSTART;VALUE=DATE:20170408
 DTEND;VALUE=DATE:20170409
 UID:bhratriprapti-vrata-arambha-2017-04
@@ -3357,7 +3358,7 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:अग्निनक्षत्र-आरम्भः
+SUMMARY:अग्निनक्षत्रम् आरम्भः
 DTSTART;VALUE=DATE:20170504
 DTEND;VALUE=DATE:20170505
 UID:agninakshatra-arambha-2017-05
@@ -4042,12 +4043,23 @@ SUMMARY:रम्भा-तृतीया
 DTSTART;VALUE=DATE:20170528
 DTEND;VALUE=DATE:20170529
 UID:rambha-tritiya-2017-05
-DESCRIPTION:Rambha Vratam\; perform Savitri pooja near Banana tree\n\nप
- ुष्पमण्डपिका कार्या रम्भास
- ्तम्भोपशोभिता।\nतत्र सम्पू
- जयेद्देवीं शक्त्या स्वर्णा
- दिनिर्मिताम् ॥\n\nhttp://adyatithih.wordpress.co
- m/rambha-tritiya
+DESCRIPTION:Rambha Vratam\; perform Savitri pooja near Banana tree. Offer 
+ naivedyam of bananas prepared with ghee.\n\nपुष्पमण्डप
+ िका कार्या रम्भास्तम्भोपशो
+ भिता।\nतत्र सम्पूजयेद्देवी
+ ं शक्त्या स्वर्णादिनिर्मित
+ ाम् ॥\n\nवेदेषु सर्वशास्त्रे
+ षु दिवि भूमौ रसातले।\nश्रुतो
+  दृष्टश्च बहुशो न शक्त्या रह
+ ितः शिवः।\nत्वं शक्स्तिस्त्
+ वं स्वधा स्वाहा त्वं सावित्
+ री सरस्वती।\nपतिं देहि सुतान
+ ्देहि गृहं देवि नमोऽस्तु ते
+ ॥\n\n योषितः पुरुषो वाऽपि ख्या
+ तं रम्भाव्रतं भुवि।\nभार्या
+ ं पुत्रं गृहं भोगान् कुलवृद
+ ्धिमवाप्नुयुः॥\n\nhttp://adyatithih.wordpress.
+ com/rambha-tritiya
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -4057,7 +4069,7 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:अग्निनक्षत्र-समापनम्
+SUMMARY:अग्निनक्षत्रम्~समापनम्
 DTSTART;VALUE=DATE:20170529
 DTEND;VALUE=DATE:20170530
 UID:agninakshatra-samapanam-2017-05
@@ -4071,7 +4083,7 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:अग्निनक्षत्र-
+SUMMARY:अग्निनक्षत्रम्
 DTSTART;VALUE=DATE:20170504
 DTEND;VALUE=DATE:20170530
 UID:agninakshatra-2017-05
@@ -4439,7 +4451,7 @@ DESCRIPTION:Perform puja of Lord Trivikrama (Sahasranamarchana)\, do naive
  dyam of mangoes and offer annadanam to needy.\n\nअहोरात्र
  ेण द्वादश्यां ज्येष्ठे मास
  ि त्रिविक्रमम् ।\nगवामयनमाप
- ्नोति अप्सरॊभिश्च मोदते॥\n\nht
+ ्नोति अप्सरोभिश्च मोदते॥\n\nht
  tp://adyatithih.wordpress.com/gavamayana-dvadashi
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -4965,7 +4977,7 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:वाराही नवरात्रि आरम्भः
+SUMMARY:वाराही नवरात्रिः आरम्भः
 DTSTART;VALUE=DATE:20170624
 DTEND;VALUE=DATE:20170625
 UID:varahi-navaratri-arambha-2017-06
@@ -5154,7 +5166,11 @@ DTSTART;VALUE=DATE:20170629
 DTEND;VALUE=DATE:20170630
 UID:kumara-shashthi-vratam-2017-06
 DESCRIPTION:`upavAsam` with only water and next day `pAraNa` gives `Arogya
- m`\n\n\n\nhttp://adyatithih.wordpress.com/kumara-shashthi-vratam
+ m`\n\nआषाढ शुक्लषष्ठी तु तिथिः 
+ कौमारिला स्मृता।\nकुमारमर्
+ चयेत्तत्र पूर्वत्रोपेष्य व
+ ै दिनम॥\n\nhttp://adyatithih.wordpress.com/kumara-shashthi-vra
+ tam
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -5311,7 +5327,8 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:वाराही नवरात्रि समापनम्
+SUMMARY:वाराही~नवरात्रिः~समापनम
+ ्
 DTSTART;VALUE=DATE:20170702
 DTEND;VALUE=DATE:20170703
 UID:varahi-navaratri-samapanam-2017-07
@@ -5325,7 +5342,7 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:वाराही नवरात्रि
+SUMMARY:वाराही नवरात्रिः
 DTSTART;VALUE=DATE:20170624
 DTEND;VALUE=DATE:20170703
 UID:varahi-navaratri-2017-07
@@ -5445,23 +5462,6 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:चातुर्मास्य आरम्भः
-DTSTART;VALUE=DATE:20170704
-DTEND;VALUE=DATE:20170705
-UID:chaturmasya-arambha-2017-07
-DESCRIPTION:Chaaturmasya begins\; 4 months\; Pradakshina to Pippala\; Deep
- aradhana in temple\; Saraswati Pooja\;1st month no vegetables\; 2nd month 
- no curds\; 3rd month no milk\; 4th month no dals\;\n\n\n\nhttp://adyatithi
- h.wordpress.com/chaturmasya-arambha
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT4H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:गोपद्म व्रतम्
 DTSTART;VALUE=DATE:20170704
 DTEND;VALUE=DATE:20170705
@@ -5522,6 +5522,24 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:चातुर्मास्यव्रतम् आरम्
+ भः
+DTSTART;VALUE=DATE:20170705
+DTEND;VALUE=DATE:20170706
+UID:chaturmasya-arambha-2017-07
+DESCRIPTION:Chaaturmasya begins\; 4 months\; Pradakshina to Pippala\; Deep
+ aradhana in temple\; Saraswati Pooja\; 1st month no vegetables\; 2nd month
+  no curds\; 3rd month no milk\; 4th month no dals\;\n\n\n\nhttp://adyatith
+ ih.wordpress.com/chaturmasya-arambha
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:काञ्ची 31 जगद्गुरु श्री ब्
  रह्मानन्दघनेन्द्र सरस्वती 
  आराधना #{1350}
@@ -5571,21 +5589,6 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:गुरु पूर्णिमा
-DTSTART;VALUE=DATE:20170708
-DTEND;VALUE=DATE:20170709
-UID:guru-purnima-2017-07
-DESCRIPTION:Puja of Veda Vyasa / Gurus\; Danam of Vishnu Puran is good on 
- this day.\n\n\n\nhttp://adyatithih.wordpress.com/guru-purnima
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT4H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:काञ्ची 10 जगद्गुरु श्री सु
  रेश्वरेन्द्र सरस्वती आराधन
  ा #{1891}
@@ -5603,11 +5606,12 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:मन्वादि (रुद्र सावर्णि)
+SUMMARY:कोकिल व्रतम्
 DTSTART;VALUE=DATE:20170708
 DTEND;VALUE=DATE:20170709
-UID:manvadi-rudra-savarni-2017-07
-DESCRIPTION:http://adyatithih.wordpress.com/manvadi-rudra-savarni
+UID:kokila-vratam-2017-07
+DESCRIPTION:Pooja of Kokila for getting good husband/wife.\n\n\n\nhttp://a
+ dyatithih.wordpress.com/kokila-vratam
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -5617,14 +5621,11 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:व्यास पूजा
+SUMMARY:मन्वादि (रुद्र सावर्णि)
 DTSTART;VALUE=DATE:20170708
 DTEND;VALUE=DATE:20170709
-UID:vyasa-puja-2017-07
-DESCRIPTION:Puja of Veda Vyasa / Gurus\n\nअचतुर्वदनो 
- ब्रह्मा द्विबाहुरपरो हरिः।
-  अफाललोचनो शम्भुर्भगवान् ब
- ादारायणः॥\n\nhttp://adyatithih.wordpress.com/vyasa-puja
+UID:manvadi-rudra-savarni-2017-07
+DESCRIPTION:http://adyatithih.wordpress.com/manvadi-rudra-savarni
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -5652,11 +5653,15 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:चातुर्मास्यव्रत आरम्भः
+SUMMARY:गुरु पूर्णिमा/व्यास पूजा
 DTSTART;VALUE=DATE:20170709
 DTEND;VALUE=DATE:20170710
-UID:chaturmasyavrata-arambha-2017-07
-DESCRIPTION:http://adyatithih.wordpress.com/chaturmasyavrata-arambha
+UID:guru-purnima-2017-07
+DESCRIPTION:Puja of Veda Vyasa / Gurus\; Danam of Vishnu Puran is good on 
+ this day.\n\nअचतुर्वदनो ब्रह्मा द्
+ विबाहुरपरो हरिः। अफाललोचनो
+  शम्भुर्भगवान् बादारायणः॥\n\
+ nhttp://adyatithih.wordpress.com/guru-purnima
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -5684,12 +5689,12 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:कोकिल व्रतम्
+SUMMARY:यतिचातुर्मास्यव्रतम् आ
+ रम्भः
 DTSTART;VALUE=DATE:20170709
 DTEND;VALUE=DATE:20170710
-UID:kokila-vratam-2017-07
-DESCRIPTION:Pooja of Kokila for getting good husband/wife.\n\n\n\nhttp://a
- dyatithih.wordpress.com/kokila-vratam
+UID:chaturmasyavrata-arambha-2017-07
+DESCRIPTION:http://adyatithih.wordpress.com/chaturmasyavrata-arambha
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -5950,7 +5955,7 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:आषाढ (कर्कटक) अमावस्या
+SUMMARY:आषाढ (कटक) अमावस्या
 DTSTART;VALUE=DATE:20170723
 DTEND;VALUE=DATE:20170724
 UID:ashadha-(karkataka)-amavasya-2017-07
@@ -6346,7 +6351,7 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:दुर्गा व्रत आरम्भः
+SUMMARY:दुर्गा व्रतम् आरम्भः
 DTSTART;VALUE=DATE:20170731
 DTEND;VALUE=DATE:20170801
 UID:durga-vrata-arambha-2017-07
@@ -6455,7 +6460,7 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:वेद/दधि व्रत आरम्भः
+SUMMARY:वेद/दधि व्रतम् आरम्भः
 DTSTART;VALUE=DATE:20170802
 DTEND;VALUE=DATE:20170803
 UID:veda-dadhi-vrata-arambha-2017-08
@@ -7636,7 +7641,8 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:महालक्ष्मी व्रत आरम्भः
+SUMMARY:महालक्ष्मी व्रतम् आरम्भ
+ ः
 DTSTART;VALUE=DATE:20170829
 DTEND;VALUE=DATE:20170830
 UID:mahalakshmi-vrata-arambha-2017-08
@@ -8012,35 +8018,6 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:चातुर्मास्यव्रत समापनम
- ्
-DTSTART;VALUE=DATE:20170906
-DTEND;VALUE=DATE:20170907
-UID:chaturmasyavrata-samapanam-2017-09
-DESCRIPTION:http://adyatithih.wordpress.com/chaturmasyavrata-samapanam
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT4H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:चातुर्मास्यव्रत
-DTSTART;VALUE=DATE:20170709
-DTEND;VALUE=DATE:20170907
-UID:chaturmasyavrata-2017-09
-DESCRIPTION:http://adyatithih.wordpress.com/chaturmasyavrata
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT4H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:दिक्पाल पूजा
 DTSTART;VALUE=DATE:20170906
 DTEND;VALUE=DATE:20170907
@@ -8086,6 +8063,35 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:यतिचातुर्मास्यव्रतम्~स
+ मापनम्
+DTSTART;VALUE=DATE:20170906
+DTEND;VALUE=DATE:20170907
+UID:chaturmasyavrata-samapanam-2017-09
+DESCRIPTION:http://adyatithih.wordpress.com/chaturmasyavrata-samapanam
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:यतिचातुर्मास्यव्रतम्
+DTSTART;VALUE=DATE:20170709
+DTEND;VALUE=DATE:20170907
+UID:chaturmasyavrata-2017-09
+DESCRIPTION:http://adyatithih.wordpress.com/chaturmasyavrata
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:अशून्यशयन व्रतम्
 DTSTART;VALUE=DATE:20170907
 DTEND;VALUE=DATE:20170908
@@ -8100,7 +8106,7 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:महालय-पक्ष आरम्भः
+SUMMARY:महालय-पक्षम् आरम्भः
 DTSTART;VALUE=DATE:20170907
 DTEND;VALUE=DATE:20170908
 UID:mahalaya-paksha-arambha-2017-09
@@ -8268,7 +8274,8 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:महालक्ष्मी व्रत समापनम्
+SUMMARY:महालक्ष्मी~व्रतम्~समापन
+ म्
 DTSTART;VALUE=DATE:20170912
 DTEND;VALUE=DATE:20170913
 UID:mahalakshmi-vrata-samapanam-2017-09
@@ -8282,7 +8289,7 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:महालक्ष्मी व्रत
+SUMMARY:महालक्ष्मी व्रतम्
 DTSTART;VALUE=DATE:20170829
 DTEND;VALUE=DATE:20170913
 UID:mahalakshmi-vrata-2017-09
@@ -8317,7 +8324,8 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:अशोक अष्टमी व्रत आरम्भः
+SUMMARY:अशोक अष्टमी व्रतम् आरम्भ
+ ः
 DTSTART;VALUE=DATE:20170913
 DTEND;VALUE=DATE:20170914
 UID:ashoka-ashtami-vrata-arambha-2017-09
@@ -8653,7 +8661,7 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:महालय-पक्ष समापनम्
+SUMMARY:महालय-पक्षम्~समापनम्
 DTSTART;VALUE=DATE:20170920
 DTEND;VALUE=DATE:20170921
 UID:mahalaya-paksha-samapanam-2017-09
@@ -8667,7 +8675,7 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:महालय-पक्ष
+SUMMARY:महालय-पक्षम्
 DTSTART;VALUE=DATE:20170907
 DTEND;VALUE=DATE:20170921
 UID:mahalaya-paksha-2017-09
@@ -8791,7 +8799,7 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:शरन्नवरात्रि आरम्भः
+SUMMARY:शरन्नवरात्रिः आरम्भः
 DTSTART;VALUE=DATE:20170921
 DTEND;VALUE=DATE:20170922
 UID:sharannavaratri-arambha-2017-09
@@ -9071,7 +9079,7 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:शरन्नवरात्रि समापनम्
+SUMMARY:शरन्नवरात्रिः~समापनम्
 DTSTART;VALUE=DATE:20170929
 DTEND;VALUE=DATE:20170930
 UID:sharannavaratri-samapanam-2017-09
@@ -9085,7 +9093,7 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:शरन्नवरात्रि
+SUMMARY:शरन्नवरात्रिः
 DTSTART;VALUE=DATE:20170921
 DTEND;VALUE=DATE:20170930
 UID:sharannavaratri-2017-09
@@ -10417,7 +10425,8 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:चातुर्मास्य समापनम्
+SUMMARY:चातुर्मास्यव्रतम्~समाप
+ नम्
 DTSTART;VALUE=DATE:20171101
 DTEND;VALUE=DATE:20171102
 UID:chaturmasya-samapanam-2017-11
@@ -10431,8 +10440,8 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:चातुर्मास्य
-DTSTART;VALUE=DATE:20170704
+SUMMARY:चातुर्मास्यव्रतम्
+DTSTART;VALUE=DATE:20170705
 DTEND;VALUE=DATE:20171102
 UID:chaturmasya-2017-11
 DESCRIPTION:http://adyatithih.wordpress.com/chaturmasya
