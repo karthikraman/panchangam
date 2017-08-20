@@ -2,6 +2,7 @@
 #  -*- coding: utf-8 -*-
 
 import sys
+import json
 
 from datetime import datetime, date, timedelta
 from pytz import timezone as tz
@@ -905,7 +906,8 @@ class panchangam:
                                     (d >= self.lunar_month.index(1)) - fest_start_year + 1
 
                         if fest_num is not None and fest_num < 0:
-                            sys.stderr.write('Festival %s is only in the future!\n' % festival_name)
+                            sys.stderr.write('Festival %s is only in the future!\n' %
+                                             festival_name)
                             return
 
                         if fest_num is not None:

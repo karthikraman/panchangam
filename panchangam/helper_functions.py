@@ -3,7 +3,6 @@
 
 from math import floor
 import swisseph as swe
-import json
 import sys
 import re
 from scipy.optimize import brentq
