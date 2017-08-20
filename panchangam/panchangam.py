@@ -1031,8 +1031,10 @@ class panchangam:
                                              (priority, festival_name))
                     # print (self.fest_days)
                     if fday is not None:
-                        # if festival_rules[festival_name]['kala'] == 'arunodaya':
-                        #     fday += 1
+                        if festival_name.find('\\') == -1 and\
+                           'kala' in festival_rules[festival_name] and\
+                           festival_rules[festival_name]['kala'] == 'arunodaya':
+                            fday += 1
                         self.addFestival(festival_name, fday, debugFestivals)
 
             # distance from prabhava
