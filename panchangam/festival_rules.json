@@ -661,6 +661,21 @@
     "Primary Reference": "",
     "Comments": ""
   },
+  "girijA~kalyANam": {
+    "Month Type": "lunar_month",
+    "Month Number": 2,
+    "Angam Type": "tithi",
+    "Angam Number": 12,
+    "Tags": "sringeri-festivals",
+    "URL": "girija-kalyanam",
+    "Short Description": "",
+    "Shloka": "",
+    "Other Names": "",
+    "Nirnaya": "",
+    "Secondary Reference": "",
+    "Primary Reference": "",
+    "Comments": ""
+  },
   "kUrma~jayantI": {
     "Month Type": "lunar_month",
     "Month Number": 2,
@@ -6473,6 +6488,21 @@
     "URL": "arudra-darisanam-natarajar-mahabhishekam",
     "Short Description": "Visit Chidambaram to have darshan of Nataraja, or pray to Nataraja",
     "Shloka": "kRpAsamudram sumukhaM trinEtraM sadAzivaM rudramanantarUpam .\njaTAdharaM pArvativAmabhAgaM cidambarEzaM hRdi bhAvayAmi ..",
+    "Other Names": "",
+    "Nirnaya": "",
+    "Secondary Reference": "",
+    "Primary Reference": "",
+    "Comments": ""
+  },
+  "andhakAsura-vadhaH": {
+    "Month Type": "solar_month",
+    "Month Number": 9,
+    "Angam Type": "nakshatram",
+    "Angam Number": 5,
+    "Tags": "sringeri-festivals",
+    "URL": "andhakasura-vadha",
+    "Short Description": "",
+    "Shloka": "",
     "Other Names": "",
     "Nirnaya": "",
     "Secondary Reference": "",
