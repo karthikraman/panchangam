@@ -621,12 +621,12 @@ DTSTART;VALUE=DATE:20170129
 DTEND;VALUE=DATE:20170130
 UID:chandra-darshanam-2017-01
 DESCRIPTION:Have darshan of Moon today\, chanting the following shloka\n\n
- स्श्वेताम्बरः श्वेतविभूषण
- श्च श्वेतद्युतिर्दण्डधरो द
- ्विबाहुः।\nचन्द्रोऽमृतात्म
- ा वरदः किरीटी मयि प्रसादं वि
- दधातु देवः॥\n\nhttp://adyatithih.wordpress.com/chandra
- -darshanam
+ श्वेताम्बरः श्वेतविभूषणश्
+ च श्वेतद्युतिर्दण्डधरो द्व
+ िबाहुः।\nचन्द्रोऽमृतात्मा 
+ वरदः किरीटी मयि प्रसादं विद
+ धातु देवः॥\n\nhttp://adyatithih.wordpress.com/chandra-da
+ rshanam
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -1037,10 +1037,10 @@ DESCRIPTION:Mahavishnu created black til by extreme `tapas` on this day\;
  light til deepam and offer `tilAnnam naivedyam`.\n\nमाघे तु 
  शुक्लद्वादश्यां यतो हि भगव
  ान् पुर।\nतिलान् उत्पादयामा
- स तपः कृत्वा सुदारुणम॥\nतिलत
- ैलेन दीपाश्छ देयाह् देव गृह
- ेषु च।\nनिवेदयेत् तिलानेव\n\nhtt
- p://adyatithih.wordpress.com/tilapadma-dvadashi-tilotpatti
+ स तपः कृत्वा सुदारुणम् ॥\nति
+ लतैलेन दीपाश्छ देयाह् देव ग
+ ृहेषु च।\nनिवेदयेत् तिलानेव\
+ n\nhttp://adyatithih.wordpress.com/tilapadma-dvadashi-tilotpatti
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -1492,12 +1492,12 @@ DTSTART;VALUE=DATE:20170228
 DTEND;VALUE=DATE:20170301
 UID:chandra-darshanam-2017-02
 DESCRIPTION:Have darshan of Moon today\, chanting the following shloka\n\n
- स्श्वेताम्बरः श्वेतविभूषण
- श्च श्वेतद्युतिर्दण्डधरो द
- ्विबाहुः।\nचन्द्रोऽमृतात्म
- ा वरदः किरीटी मयि प्रसादं वि
- दधातु देवः॥\n\nhttp://adyatithih.wordpress.com/chandra
- -darshanam
+ श्वेताम्बरः श्वेतविभूषणश्
+ च श्वेतद्युतिर्दण्डधरो द्व
+ िबाहुः।\nचन्द्रोऽमृतात्मा 
+ वरदः किरीटी मयि प्रसादं विद
+ धातु देवः॥\n\nhttp://adyatithih.wordpress.com/chandra-da
+ rshanam
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -2031,12 +2031,12 @@ DTSTART;VALUE=DATE:20170329
 DTEND;VALUE=DATE:20170330
 UID:chandra-darshanam-2017-03
 DESCRIPTION:Have darshan of Moon today\, chanting the following shloka\n\n
- स्श्वेताम्बरः श्वेतविभूषण
- श्च श्वेतद्युतिर्दण्डधरो द
- ्विबाहुः।\nचन्द्रोऽमृतात्म
- ा वरदः किरीटी मयि प्रसादं वि
- दधातु देवः॥\n\nhttp://adyatithih.wordpress.com/chandra
- -darshanam
+ श्वेताम्बरः श्वेतविभूषणश्
+ च श्वेतद्युतिर्दण्डधरो द्व
+ िबाहुः।\nचन्द्रोऽमृतात्मा 
+ वरदः किरीटी मयि प्रसादं विद
+ धातु देवः॥\n\nhttp://adyatithih.wordpress.com/chandra-da
+ rshanam
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -2973,12 +2973,12 @@ DTSTART;VALUE=DATE:20170427
 DTEND;VALUE=DATE:20170428
 UID:chandra-darshanam-2017-04
 DESCRIPTION:Have darshan of Moon today\, chanting the following shloka\n\n
- स्श्वेताम्बरः श्वेतविभूषण
- श्च श्वेतद्युतिर्दण्डधरो द
- ्विबाहुः।\nचन्द्रोऽमृतात्म
- ा वरदः किरीटी मयि प्रसादं वि
- दधातु देवः॥\n\nhttp://adyatithih.wordpress.com/chandra
- -darshanam
+ श्वेताम्बरः श्वेतविभूषणश्
+ च श्वेतद्युतिर्दण्डधरो द्व
+ िबाहुः।\nचन्द्रोऽमृतात्मा 
+ वरदः किरीटी मयि प्रसादं विद
+ धातु देवः॥\n\nhttp://adyatithih.wordpress.com/chandra-da
+ rshanam
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -3894,6 +3894,23 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:वैशाख-स्नानपूर्तिः
+DTSTART;VALUE=DATE:20170525
+DTEND;VALUE=DATE:20170526
+UID:vaishakha-snanapurti-2017-05
+DESCRIPTION:माधवे मेषगे भानौ मुरार
+ े मधुसूदन।\nप्रातः स्नानेन म
+ े नाथ फलदो भव पापहन् ॥\n\nhttp://adyatit
+ hih.wordpress.com/vaishakha-snanapurti
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:वैशाख अमावस्या
 DTSTART;VALUE=DATE:20170525
 DTEND;VALUE=DATE:20170526
@@ -3987,12 +4004,31 @@ DTSTART;VALUE=DATE:20170527
 DTEND;VALUE=DATE:20170528
 UID:chandra-darshanam-2017-05
 DESCRIPTION:Have darshan of Moon today\, chanting the following shloka\n\n
- स्श्वेताम्बरः श्वेतविभूषण
- श्च श्वेतद्युतिर्दण्डधरो द
- ्विबाहुः।\nचन्द्रोऽमृतात्म
- ा वरदः किरीटी मयि प्रसादं वि
- दधातु देवः॥\n\nhttp://adyatithih.wordpress.com/chandra
- -darshanam
+ श्वेताम्बरः श्वेतविभूषणश्
+ च श्वेतद्युतिर्दण्डधरो द्व
+ िबाहुः।\nचन्द्रोऽमृतात्मा 
+ वरदः किरीटी मयि प्रसादं विद
+ धातु देवः॥\n\nhttp://adyatithih.wordpress.com/chandra-da
+ rshanam
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:शृङ्गेरी 32 जगद्गुरु श्री 
+ नृसिंह भारती आराधना
+DTSTART;VALUE=DATE:20170527
+DTEND;VALUE=DATE:20170528
+UID:shringeri-32-jagadguru-shri-nrisimha-bharati-aradhana-2017-05
+DESCRIPTION:प्रह्लादवरदो देवो यो न
+ ृसिंहः परो हरिः।\nनृसिंहोपा
+ सकं नित्यं तं नृसिंहः गुरुं 
+ भजे॥\n\nhttp://adyatithih.wordpress.com/shringeri-32-jagadguru-shr
+ i-nrisimha-bharati-aradhana
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -4006,8 +4042,12 @@ SUMMARY:रम्भा-तृतीया
 DTSTART;VALUE=DATE:20170528
 DTEND;VALUE=DATE:20170529
 UID:rambha-tritiya-2017-05
-DESCRIPTION:Rambha Vratam\; perform Savitri pooja near Banana tree\n\n\n\n
- http://adyatithih.wordpress.com/rambha-tritiya
+DESCRIPTION:Rambha Vratam\; perform Savitri pooja near Banana tree\n\nप
+ ुष्पमण्डपिका कार्या रम्भास
+ ्तम्भोपशोभिता।\nतत्र सम्पू
+ जयेद्देवीं शक्त्या स्वर्णा
+ दिनिर्मिताम् ॥\n\nhttp://adyatithih.wordpress.co
+ m/rambha-tritiya
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -4331,10 +4371,10 @@ DESCRIPTION:Avataranam of Ganga Devi. Bathe in any river and offer arghyam
  कुजे दिने।\nगङ्गाऽवतीर्णा ह
  स्तर्क्षे सर्वपापहरा स्मृत
  ा॥\n\nयां काञ्चित् सरितं प्रा
- प्य दद्यादर्घ्यं शुभोदकम।\n
- मुच्यते दशभिः पापैः स महापा
- तकोपमैः॥\n\nhttp://adyatithih.wordpress.com/dashahara-gang
- avataranam
+ प्य दद्यादर्घ्यं शुभोदकम् 
+ ।\nमुच्यते दशभिः पापैः स महा
+ पातकोपमैः॥\n\nhttp://adyatithih.wordpress.com/dashahar
+ a-gangavataranam
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -4395,7 +4435,12 @@ SUMMARY:गवामयन द्वादशी
 DTSTART;VALUE=DATE:20170606
 DTEND;VALUE=DATE:20170607
 UID:gavamayana-dvadashi-2017-06
-DESCRIPTION:http://adyatithih.wordpress.com/gavamayana-dvadashi
+DESCRIPTION:Perform puja of Lord Trivikrama (Sahasranamarchana)\, do naive
+ dyam of mangoes and offer annadanam to needy.\n\nअहोरात्र
+ ेण द्वादश्यां ज्येष्ठे मास
+ ि त्रिविक्रमम् ।\nगवामयनमाप
+ ्नोति अप्सरॊभिश्च मोदते॥\n\nht
+ tp://adyatithih.wordpress.com/gavamayana-dvadashi
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -4576,8 +4621,9 @@ SUMMARY:वट पूर्णिमा/वट-सावित्री
 DTSTART;VALUE=DATE:20170609
 DTEND;VALUE=DATE:20170610
 UID:vata-purnima-vata-savitri-vratam-2017-06
-DESCRIPTION:http://adyatithih.wordpress.com/vata-purnima-vata-savitri-vrat
- am
+DESCRIPTION:Perform puja of banyan tree\; begets `saumaGgalyam` and `saubh
+ Agyam`.\n\n\n\nhttp://adyatithih.wordpress.com/vata-purnima-vata-savitri-v
+ ratam
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -4694,8 +4740,10 @@ SUMMARY:षडशीति पुण्यकालम् (मिथुन
 DTSTART;VALUE=DATE:20170615
 DTEND;VALUE=DATE:20170616
 UID:shadashiti-punyakalam-(mithuna-sankranti)-2017-06
-DESCRIPTION:http://adyatithih.wordpress.com/shadashiti-punyakalam-(mithuna
- -sankranti)
+DESCRIPTION:Perform danam of clothes\, food and water.\n\nवस्त्
+ रान्नपानदानानि मिथुने विहि
+ तानि तु॥\n\nhttp://adyatithih.wordpress.com/shadashiti-punya
+ kalam-(mithuna-sankranti)
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -4936,12 +4984,12 @@ DTSTART;VALUE=DATE:20170625
 DTEND;VALUE=DATE:20170626
 UID:chandra-darshanam-2017-06
 DESCRIPTION:Have darshan of Moon today\, chanting the following shloka\n\n
- स्श्वेताम्बरः श्वेतविभूषण
- श्च श्वेतद्युतिर्दण्डधरो द
- ्विबाहुः।\nचन्द्रोऽमृतात्म
- ा वरदः किरीटी मयि प्रसादं वि
- दधातु देवः॥\n\nhttp://adyatithih.wordpress.com/chandra
- -darshanam
+ श्वेताम्बरः श्वेतविभूषणश्
+ च श्वेतद्युतिर्दण्डधरो द्व
+ िबाहुः।\nचन्द्रोऽमृतात्मा 
+ वरदः किरीटी मयि प्रसादं विद
+ धातु देवः॥\n\nhttp://adyatithih.wordpress.com/chandra-da
+ rshanam
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -5971,12 +6019,12 @@ DTSTART;VALUE=DATE:20170724
 DTEND;VALUE=DATE:20170725
 UID:chandra-darshanam-2017-07
 DESCRIPTION:Have darshan of Moon today\, chanting the following shloka\n\n
- स्श्वेताम्बरः श्वेतविभूषण
- श्च श्वेतद्युतिर्दण्डधरो द
- ्विबाहुः।\nचन्द्रोऽमृतात्म
- ा वरदः किरीटी मयि प्रसादं वि
- दधातु देवः॥\n\nhttp://adyatithih.wordpress.com/chandra
- -darshanam
+ श्वेताम्बरः श्वेतविभूषणश्
+ च श्वेतद्युतिर्दण्डधरो द्व
+ िबाहुः।\nचन्द्रोऽमृतात्मा 
+ वरदः किरीटी मयि प्रसादं विद
+ धातु देवः॥\n\nhttp://adyatithih.wordpress.com/chandra-da
+ rshanam
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -7319,12 +7367,12 @@ DTSTART;VALUE=DATE:20170823
 DTEND;VALUE=DATE:20170824
 UID:chandra-darshanam-2017-08
 DESCRIPTION:Have darshan of Moon today\, chanting the following shloka\n\n
- स्श्वेताम्बरः श्वेतविभूषण
- श्च श्वेतद्युतिर्दण्डधरो द
- ्विबाहुः।\nचन्द्रोऽमृतात्म
- ा वरदः किरीटी मयि प्रसादं वि
- दधातु देवः॥\n\nhttp://adyatithih.wordpress.com/chandra
- -darshanam
+ श्वेताम्बरः श्वेतविभूषणश्
+ च श्वेतद्युतिर्दण्डधरो द्व
+ िबाहुः।\nचन्द्रोऽमृतात्मा 
+ वरदः किरीटी मयि प्रसादं विद
+ धातु देवः॥\n\nhttp://adyatithih.wordpress.com/chandra-da
+ rshanam
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -8685,12 +8733,12 @@ DTSTART;VALUE=DATE:20170921
 DTEND;VALUE=DATE:20170922
 UID:chandra-darshanam-2017-09
 DESCRIPTION:Have darshan of Moon today\, chanting the following shloka\n\n
- स्श्वेताम्बरः श्वेतविभूषण
- श्च श्वेतद्युतिर्दण्डधरो द
- ्विबाहुः।\nचन्द्रोऽमृतात्म
- ा वरदः किरीटी मयि प्रसादं वि
- दधातु देवः॥\n\nhttp://adyatithih.wordpress.com/chandra
- -darshanam
+ श्वेताम्बरः श्वेतविभूषणश्
+ च श्वेतद्युतिर्दण्डधरो द्व
+ िबाहुः।\nचन्द्रोऽमृतात्मा 
+ वरदः किरीटी मयि प्रसादं विद
+ धातु देवः॥\n\nhttp://adyatithih.wordpress.com/chandra-da
+ rshanam
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -10086,12 +10134,12 @@ DTSTART;VALUE=DATE:20171021
 DTEND;VALUE=DATE:20171022
 UID:chandra-darshanam-2017-10
 DESCRIPTION:Have darshan of Moon today\, chanting the following shloka\n\n
- स्श्वेताम्बरः श्वेतविभूषण
- श्च श्वेतद्युतिर्दण्डधरो द
- ्विबाहुः।\nचन्द्रोऽमृतात्म
- ा वरदः किरीटी मयि प्रसादं वि
- दधातु देवः॥\n\nhttp://adyatithih.wordpress.com/chandra
- -darshanam
+ श्वेताम्बरः श्वेतविभूषणश्
+ च श्वेतद्युतिर्दण्डधरो द्व
+ िबाहुः।\nचन्द्रोऽमृतात्मा 
+ वरदः किरीटी मयि प्रसादं विद
+ धातु देवः॥\n\nhttp://adyatithih.wordpress.com/chandra-da
+ rshanam
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -10899,12 +10947,12 @@ DTSTART;VALUE=DATE:20171120
 DTEND;VALUE=DATE:20171121
 UID:chandra-darshanam-2017-11
 DESCRIPTION:Have darshan of Moon today\, chanting the following shloka\n\n
- स्श्वेताम्बरः श्वेतविभूषण
- श्च श्वेतद्युतिर्दण्डधरो द
- ्विबाहुः।\nचन्द्रोऽमृतात्म
- ा वरदः किरीटी मयि प्रसादं वि
- दधातु देवः॥\n\nhttp://adyatithih.wordpress.com/chandra
- -darshanam
+ श्वेताम्बरः श्वेतविभूषणश्
+ च श्वेतद्युतिर्दण्डधरो द्व
+ िबाहुः।\nचन्द्रोऽमृतात्मा 
+ वरदः किरीटी मयि प्रसादं विद
+ धातु देवः॥\n\nhttp://adyatithih.wordpress.com/chandra-da
+ rshanam
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -11670,12 +11718,12 @@ DTSTART;VALUE=DATE:20171219
 DTEND;VALUE=DATE:20171220
 UID:chandra-darshanam-2017-12
 DESCRIPTION:Have darshan of Moon today\, chanting the following shloka\n\n
- स्श्वेताम्बरः श्वेतविभूषण
- श्च श्वेतद्युतिर्दण्डधरो द
- ्विबाहुः।\nचन्द्रोऽमृतात्म
- ा वरदः किरीटी मयि प्रसादं वि
- दधातु देवः॥\n\nhttp://adyatithih.wordpress.com/chandra
- -darshanam
+ श्वेताम्बरः श्वेतविभूषणश्
+ च श्वेतद्युतिर्दण्डधरो द्व
+ िबाहुः।\nचन्द्रोऽमृतात्मा 
+ वरदः किरीटी मयि प्रसादं विद
+ धातु देवः॥\n\nhttp://adyatithih.wordpress.com/chandra-da
+ rshanam
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
