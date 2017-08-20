@@ -5,6 +5,7 @@ from math import floor
 import swisseph as swe
 import json
 import sys
+import re
 from scipy.optimize import brentq
 from init_names_auto import init_names_auto
 from transliterator import transliterate
@@ -131,6 +132,9 @@ def tr(text, scr, titled=True, fontize=False):
         scr = 'harvardkyoto'
     if text == '':
         return ''
+
+    text = re.sub('.~samApanam', '-samApanam', text)
+    text = re.sub('.~ArambhaH', '-ArambhaH', text)
 
     text_bits = text.split('|')
     transliterated_text = []

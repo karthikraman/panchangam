@@ -2,7 +2,6 @@
 #  -*- coding: utf-8 -*-
 
 import sys
-import re
 
 from datetime import datetime, date, timedelta
 from pytz import timezone as tz
