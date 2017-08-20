@@ -709,11 +709,13 @@
     "Primary Reference": "",
     "Comments": ""
   },
-  "A-kA-mA-vai~snAnam~1": {
+  "vaizAkha~pUrNimA~snAnam": {
     "Month Type": "lunar_month",
     "Month Number": 2,
     "Angam Type": "tithi",
     "Angam Number": 15,
+    "kala": "arunodaya",
+    "priority": "paraviddha",
     "Tags": "special-snanam",
     "URL": "a-ka-ma-vai-snanam",
     "Short Description": "Perform snana four ghatikas before sunrise (during `aruNodayam`, when the Moon is still up, on the full-moon days of `ASADha`, `kArtika`, `mAgha` and `vaizAkha` \u2013 hence the name `A-kA-mA-vai`) bestows strength, beauty, fame, dharma, knowledge, happiness, fortitude and health.",
@@ -1501,11 +1503,13 @@
     "Primary Reference": "",
     "Comments": ""
   },
-  "A-kA-mA-vai~snAnam~2": {
+  "ASADha~pUrNimA~snAnam": {
     "Month Type": "lunar_month",
     "Month Number": 4,
     "Angam Type": "tithi",
     "Angam Number": 15,
+    "kala": "arunodaya",
+    "priority": "paraviddha",
     "Tags": "special-snanam",
     "URL": "a-ka-ma-vai-snanam",
     "Short Description": "Perform snana four ghatikas before sunrise (during `aruNodayam`, when the Moon is still up, on the full-moon days of `ASADha`, `kArtika`, `mAgha` and `vaizAkha` \u2013 hence the name `A-kA-mA-vai`) bestows strength, beauty, fame, dharma, knowledge, happiness, fortitude and health.",
@@ -4100,11 +4104,13 @@
     "Primary Reference": "",
     "Comments": ""
   },
-  "A-kA-mA-vai~snAnam~3": {
+  "kArtika~pUrNimA~snAnam": {
     "Month Type": "lunar_month",
     "Month Number": 8,
     "Angam Type": "tithi",
     "Angam Number": 15,
+    "kala": "arunodaya",
+    "priority": "paraviddha",
     "Tags": "special-snanam",
     "URL": "a-ka-ma-vai-snanam",
     "Short Description": "Perform snana four ghatikas before sunrise (during `aruNodayam`, when the Moon is still up, on the full-moon days of `ASADha`, `kArtika`, `mAgha` and `vaizAkha` \u2013 hence the name `A-kA-mA-vai`) bestows strength, beauty, fame, dharma, knowledge, happiness, fortitude and health.",
@@ -5756,7 +5762,7 @@
     "Primary Reference": "",
     "Comments": ""
   },
-  "zrI~paJcamI": {
+  "vasanta~zrI~paJcamI": {
     "Month Type": "lunar_month",
     "Month Number": 11,
     "Angam Type": "tithi",
@@ -5939,11 +5945,13 @@
     "Primary Reference": "",
     "Comments": ""
   },
-  "A-kA-mA-vai~snAnam~4": {
+  "mAgha~pUrNimA~snAnam": {
     "Month Type": "lunar_month",
     "Month Number": 11,
     "Angam Type": "tithi",
     "Angam Number": 15,
+    "kala": "arunodaya",
+    "priority": "paraviddha",
     "Tags": "special-snanam",
     "URL": "a-ka-ma-vai-snanam",
     "Short Description": "Perform snana four ghatikas before sunrise (during `aruNodayam`, when the Moon is still up, on the full-moon days of `ASADha`, `kArtika`, `mAgha` and `vaizAkha` \u2013 hence the name `A-kA-mA-vai`) bestows strength, beauty, fame, dharma, knowledge, happiness, fortitude and health.",
@@ -6230,7 +6238,7 @@
     "Month Number": 8,
     "Angam Type": "tithi",
     "Angam Number": 15,
-    "kala": "sunset",
+    "kala": "ratrimana",
     "priority": "purvaviddha",
     "Tags": "common-festivals",
     "URL": "sarvalaya-dipam",
@@ -6247,7 +6255,7 @@
     "Month Number": 8,
     "Angam Type": "nakshatram",
     "Angam Number": 3,
-    "kala": "sunset",
+    "kala": "ratrimana",
     "priority": "purvaviddha",
     "Tags": "common-festivals",
     "URL": "karttigai",
@@ -6602,6 +6610,8 @@
     "Month Number": 10,
     "Angam Type": "nakshatram",
     "Angam Number": 8,
+    "kala": "ratrimana",
+    "priority": "purvaviddha",
     "Tags": "tamilnadu-temple-festivals",
     "URL": "taippusam",
     "Short Description": "",
@@ -6748,13 +6758,13 @@
     "Primary Reference": "",
     "Comments": ""
   },
-  "viSNupadI~puNyakAlam (vRSabha-saGkrAntiH)": {
+  "viSNupadI~vRSabharavi": {
     "Month Type": "solar_month",
     "Month Number": 2,
     "Angam Type": "day",
     "Angam Number": 1,
     "Tags": "sun-sankranti",
-    "URL": "vishnupadi-punyakalam-(vrishabha-sankranti)",
+    "URL": "vishnupadi-vrishabha-ravi",
     "Short Description": "",
     "Shloka": "",
     "Other Names": "",
@@ -6763,13 +6773,13 @@
     "Primary Reference": "",
     "Comments": ""
   },
-  "SaDazIti~puNyakAlam (mithuna-saGkrAntiH)": {
+  "SaDazIti~mithunaravi": {
     "Month Type": "solar_month",
     "Month Number": 3,
     "Angam Type": "day",
     "Angam Number": 1,
     "Tags": "sun-sankranti",
-    "URL": "shadashiti-punyakalam-(mithuna-sankranti)",
+    "URL": "shadashiti-mithuna-ravi",
     "Short Description": "Perform danam of clothes, food and water.",
     "Shloka": "vastrAnnapAnadAnAni mithunE vihitAni tu..",
     "Other Names": "",
@@ -6808,13 +6818,13 @@
     "Primary Reference": "",
     "Comments": ""
   },
-  "SaDazIti~puNyakAlam (kanyA-saGkrAntiH)": {
+  "SaDazIti~kanyAravi": {
     "Month Type": "solar_month",
     "Month Number": 6,
     "Angam Type": "day",
     "Angam Number": 1,
     "Tags": "sun-sankranti",
-    "URL": "shadashiti-punyakalam-(kanya-sankranti)",
+    "URL": "shadashiti-kanya-ravi",
     "Short Description": "Perform danam of clothes/place to live.",
     "Shloka": "kanyApravEzE vastrANAM vEzmanAM dAnamEva ca",
     "Other Names": "",
@@ -6838,13 +6848,13 @@
     "Primary Reference": "",
     "Comments": ""
   },
-  "viSNupadI~puNyakAlam (vRzcika-saGkrAntiH)": {
+  "viSNupadI~vRzcikaravi": {
     "Month Type": "solar_month",
     "Month Number": 8,
     "Angam Type": "day",
     "Angam Number": 1,
     "Tags": "sun-sankranti",
-    "URL": "vishnupadi-punyakalam-(vrishchika-sankranti)",
+    "URL": "vishnupadi-vrishchika-ravi",
     "Short Description": "Do danam of deepam.",
     "Shloka": "",
     "Other Names": "",
@@ -6853,13 +6863,13 @@
     "Primary Reference": "",
     "Comments": ""
   },
-  "SaDazIti~puNyakAlam (dhanussaGkrAntiH)": {
+  "SaDazIti~dhanurravi": {
     "Month Type": "solar_month",
     "Month Number": 9,
     "Angam Type": "day",
     "Angam Number": 1,
     "Tags": "sun-sankranti",
-    "URL": "shadashiti-punyakalam-(dhanussankranti)",
+    "URL": "shadashiti-dhanur-ravi",
     "Short Description": "Perform danam of clothes/vehicle (e.g. bullock cart).",
     "Shloka": "dhanuHpravEzE vastrANAM yAnAnAM ca mahAphalam ",
     "Other Names": "",
@@ -6883,13 +6893,13 @@
     "Primary Reference": "",
     "Comments": ""
   },
-  "viSNupadI~puNyakAlam (kumbha-saGkrAntiH)": {
+  "viSNupadI~kumbharavi": {
     "Month Type": "solar_month",
     "Month Number": 11,
     "Angam Type": "day",
     "Angam Number": 1,
     "Tags": "sun-sankranti",
-    "URL": "vishnupadi-punyakalam-(kumbha-sankranti)",
+    "URL": "vishnupadi-kumbha-ravi",
     "Short Description": "Perform danam of hay, grass, food and pure water to cows.",
     "Shloka": "kumbhapravEzE dAnaM tu gavaM ambu tRNasya ca",
     "Other Names": "",
@@ -6898,13 +6908,13 @@
     "Primary Reference": "",
     "Comments": ""
   },
-  "SaDazIti~puNyakAlam (mInasaGkrAntiH)": {
+  "SaDazIti~mInaravi": {
     "Month Type": "solar_month",
     "Month Number": 12,
     "Angam Type": "day",
     "Angam Number": 1,
     "Tags": "sun-sankranti",
-    "URL": "shadashiti-punyakalam-(mina-sankranti)",
+    "URL": "shadashiti-mina-ravi",
     "Short Description": "",
     "Shloka": "",
     "Other Names": "",
@@ -9634,6 +9644,51 @@
     "Other Names": "",
     "Nirnaya": "",
     "Secondary Reference": "Vaidikasri June 2017",
+    "Primary Reference": "",
+    "Comments": ""
+  },
+  "ASADha-snAnapUrtiH": {
+    "Month Type": "lunar_month",
+    "Month Number": 4,
+    "Angam Type": "tithi",
+    "Angam Number": 30,
+    "Tags": "special-snanam",
+    "URL": "ashadha-snanapurti",
+    "Short Description": "",
+    "Shloka": "",
+    "Other Names": "",
+    "Nirnaya": "",
+    "Secondary Reference": "",
+    "Primary Reference": "",
+    "Comments": ""
+  },
+  "kArtika-snAnapUrtiH": {
+    "Month Type": "lunar_month",
+    "Month Number": 8,
+    "Angam Type": "tithi",
+    "Angam Number": 30,
+    "Tags": "special-snanam",
+    "URL": "vaishakha-snanapurti",
+    "Short Description": "",
+    "Shloka": "",
+    "Other Names": "",
+    "Nirnaya": "",
+    "Secondary Reference": "",
+    "Primary Reference": "",
+    "Comments": ""
+  },
+  "mAgha-snAnapUrtiH": {
+    "Month Type": "lunar_month",
+    "Month Number": 11,
+    "Angam Type": "tithi",
+    "Angam Number": 30,
+    "Tags": "special-snanam",
+    "URL": "magha-snanapurti",
+    "Short Description": "",
+    "Shloka": "",
+    "Other Names": "",
+    "Nirnaya": "",
+    "Secondary Reference": "Vaidikasri Feb 2017",
     "Primary Reference": "",
     "Comments": ""
   },
