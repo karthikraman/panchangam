@@ -1143,13 +1143,11 @@ class panchangam:
                     continue
                 if eclipse_solar_end < eclipse_solar_start:
                     eclipse_solar_end += 24
-                sunrise_eclipse_day = swe.revjul(self.jd_sunrise[fday])[3]
-                sunset_eclipse_day = swe.revjul(self.jd_sunset[fday])[3]
-                jd_sunrise_eclipse_day = self.jd_sunrise[fday]
-                jd_sunset_eclipse_day = self.jd_sunset[fday]
-                if jd_eclipse_solar_start < jd_sunrise_eclipse_day:
+                sunrise_eclipse_day = swe.revjul(self.jd_sunrise[fday] + (tz_off / 24.0))[3]
+                sunset_eclipse_day = swe.revjul(self.jd_sunset[fday] + (tz_off / 24.0))[3]
+                if eclipse_solar_start < sunrise_eclipse_day:
                     eclipse_solar_start = sunrise_eclipse_day
-                if jd_eclipse_solar_end > jd_sunset_eclipse_day:
+                if eclipse_solar_end > sunset_eclipse_day:
                     eclipse_solar_end = sunset_eclipse_day
                 solar_eclipse_str = 'sUrya-grahaNam' +\
                     '~\\textsf{' + time(eclipse_solar_start).toString() +\
