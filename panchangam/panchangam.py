@@ -807,6 +807,11 @@ class panchangam:
                     festival_name = 'sukhA' + '~' + festival_name
                 self.addFestival(festival_name, d, debugFestivals)
 
+            # KRISHNA ANGARAKA CHATURDASHI
+            if self.weekday[d] == 2 and self.tithi_sunrise[d] == 29:
+                self.addFestival('kRSNAGgAraka-caturdazI~puNyakAlam/yamatarpaNam', d, debugFestivals)
+                festival_name = 'budhASTamI'
+
             # BUDHASHTAMI
             if self.weekday[d] == 3 and (self.tithi_sunrise[d] % 15) == 8:
                 self.addFestival('budhASTamI', d, debugFestivals)
