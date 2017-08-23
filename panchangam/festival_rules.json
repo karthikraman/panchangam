@@ -2581,6 +2581,8 @@
     "Month Number": 6,
     "Angam Type": "tithi",
     "Angam Number": 16,
+    "kala": "madhyahna",
+    "priority": "purvaviddha",
     "Tags": "special-period-start",
     "URL": "mahalaya-paksha-arambha",
     "Short Description": "",
@@ -2897,10 +2899,6 @@
     "Comments": ""
   },
   "mahAlaya-pakSam~samApanam": {
-    "Month Type": "lunar_month",
-    "Month Number": 6,
-    "Angam Type": "tithi",
-    "Angam Number": 30,
     "Tags": "special-period-end,common-festivals",
     "URL": "mahalaya-paksha-samapanam",
     "Short Description": "",
