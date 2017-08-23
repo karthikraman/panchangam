@@ -642,13 +642,13 @@ class panchangam:
                         # Amavasya is there on both aparahnas
                         if t30_end - t29_end < 1:
                             # But not longer than 60 ghatikas
-                            self.festivals[d].append(pref + 'amAvasyA')
+                            self.addFestival(pref + 'amAvasyA', d, debugFestivals)
                         else:
                             # And longer than 60 ghatikas
-                            self.festivals[d + 1].append(pref + 'amAvasyA')
+                            self.addFestival(pref + 'amAvasyA', d + 1, debugFestivals)
                     else:
                         # No Amavasya in aparahna tomorrow, so it's today
-                        self.festivals[d].append(pref + 'amAvasyA')
+                        self.addFestival(pref + 'amAvasyA', d, debugFestivals)
 
             # MAKARAYANAM
             if self.solar_month[d] == 9 and self.solar_month_day[d] == 1:
@@ -1070,6 +1070,9 @@ class panchangam:
             [self.fest_days['makara~saGkrAnti/uttarAyaNa-puNyakAlam'][0] + 1]
         self.fest_days['ta:kan2up~poGgal'] =\
             [self.fest_days['makara~saGkrAnti/uttarAyaNa-puNyakAlam'][0] + 1]
+
+        self.fest_days['mahAlaya-pakSam~samApanam'] =\
+            [self.fest_days['(bhAdrapada) mahAlaya amAvasyA'][0]]
 
         # KAPALI FESTIVALS
         panguni_uttaram = self.fest_days['ta:paGgun2i~uttiram'][-1]
