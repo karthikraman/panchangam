@@ -102,7 +102,7 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:உந்து மதக்களிற்றன்{}
+SUMMARY:உந்து மதக்களிற்றன்
 DTSTART;VALUE=DATE:20180102
 DTEND;VALUE=DATE:20180103
 UID:undu-madakkalirran-2018-01
@@ -1491,8 +1491,9 @@ BEGIN:VEVENT
 SUMMARY:जया महाद्वादशी
 DTSTART;VALUE=DATE:20180227
 DTEND;VALUE=DATE:20180228
-UID:-2018-02
-DESCRIPTION:http://adyatithih.wordpress.com/
+UID:jaya-mahadvadashi-2018-02
+DESCRIPTION:Dvadashi tithi\, combined with Pushya nakshatram.\n\n\n\nhttp:
+ //adyatithih.wordpress.com/jaya-mahadvadashi
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -1802,8 +1803,9 @@ BEGIN:VEVENT
 SUMMARY:विजया/श्रवण महाद्वादशी
 DTSTART;VALUE=DATE:20180314
 DTEND;VALUE=DATE:20180315
-UID:-2018-03
-DESCRIPTION:http://adyatithih.wordpress.com/
+UID:vijaya-shravana-mahadvadashi-2018-03
+DESCRIPTION:Dvadashi tithi\, combined with Shravana nakshatram.\n\n\n\nhtt
+ p://adyatithih.wordpress.com/vijaya-shravana-mahadvadashi
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -5259,8 +5261,9 @@ BEGIN:VEVENT
 SUMMARY:पापनाशिनी महाद्वादशी
 DTSTART;VALUE=DATE:20180710
 DTEND;VALUE=DATE:20180711
-UID:-2018-07
-DESCRIPTION:http://adyatithih.wordpress.com/
+UID:papanashini-mahadvadashi-2018-07
+DESCRIPTION:Dvadashi tithi\, combined with Rohini nakshatram.\n\n\n\nhttp:
+ //adyatithih.wordpress.com/papanashini-mahadvadashi
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -6302,8 +6305,8 @@ BEGIN:VEVENT
 SUMMARY:आषाढ (कटक) अमावस्या
 DTSTART;VALUE=DATE:20180811
 DTEND;VALUE=DATE:20180812
-UID:ashadha-(karkataka)-amavasya-2018-08
-DESCRIPTION:http://adyatithih.wordpress.com/ashadha-(karkataka)-amavasya
+UID:ashadha-(kataka)-amavasya-2018-08
+DESCRIPTION:http://adyatithih.wordpress.com/ashadha-(kataka)-amavasya
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -6649,8 +6652,9 @@ BEGIN:VEVENT
 SUMMARY:महाजया सप्तमी
 DTSTART;VALUE=DATE:20180817
 DTEND;VALUE=DATE:20180818
-UID:-2018-08
-DESCRIPTION:http://adyatithih.wordpress.com/
+UID:mahajaya-saptami-2018-08
+DESCRIPTION:Saptami tithi\, combined with a sankranti.\n\n\n\nhttp://adyat
+ ithih.wordpress.com/mahajaya-saptami
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -7523,8 +7527,9 @@ BEGIN:VEVENT
 SUMMARY:जया महाद्वादशी
 DTSTART;VALUE=DATE:20180907
 DTEND;VALUE=DATE:20180908
-UID:-2018-09
-DESCRIPTION:http://adyatithih.wordpress.com/
+UID:jaya-mahadvadashi-2018-09
+DESCRIPTION:Dvadashi tithi\, combined with Pushya nakshatram.\n\n\n\nhttp:
+ //adyatithih.wordpress.com/jaya-mahadvadashi
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -8266,8 +8271,9 @@ BEGIN:VEVENT
 SUMMARY:विजया/श्रवण महाद्वादशी
 DTSTART;VALUE=DATE:20180921
 DTEND;VALUE=DATE:20180922
-UID:-2018-09-21
-DESCRIPTION:http://adyatithih.wordpress.com/
+UID:vijaya-shravana-mahadvadashi-2018-09
+DESCRIPTION:Dvadashi tithi\, combined with Shravana nakshatram.\n\n\n\nhtt
+ p://adyatithih.wordpress.com/vijaya-shravana-mahadvadashi
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE

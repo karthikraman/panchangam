@@ -1,6 +1,6 @@
 BEGIN:VCALENDAR
 BEGIN:VEVENT
-SUMMARY:உந்து மதக்களிற்றன்{}
+SUMMARY:உந்து மதக்களிற்றன்
 DTSTART;VALUE=DATE:20170102
 DTEND;VALUE=DATE:20170103
 UID:undu-madakkalirran-2017-01
@@ -1663,8 +1663,9 @@ BEGIN:VEVENT
 SUMMARY:जया महाद्वादशी
 DTSTART;VALUE=DATE:20170309
 DTEND;VALUE=DATE:20170310
-UID:-2017-03
-DESCRIPTION:http://adyatithih.wordpress.com/
+UID:jaya-mahadvadashi-2017-03
+DESCRIPTION:Dvadashi tithi\, combined with Pushya nakshatram.\n\n\n\nhttp:
+ //adyatithih.wordpress.com/jaya-mahadvadashi
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -1959,8 +1960,9 @@ BEGIN:VEVENT
 SUMMARY:वारुणी त्रयोदशी
 DTSTART;VALUE=DATE:20170326
 DTEND;VALUE=DATE:20170327
-UID:-2017-03-26
-DESCRIPTION:http://adyatithih.wordpress.com/
+UID:varuni-trayodashi-2017-03
+DESCRIPTION:Phalguna Krishna Chaturdashi\, combined with Shatabhishak Naks
+ hatram.\n\n\n\nhttp://adyatithih.wordpress.com/varuni-trayodashi
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -6026,8 +6028,9 @@ BEGIN:VEVENT
 SUMMARY:पापनाशिनी महाद्वादशी
 DTSTART;VALUE=DATE:20170720
 DTEND;VALUE=DATE:20170721
-UID:-2017-07
-DESCRIPTION:http://adyatithih.wordpress.com/
+UID:papanashini-mahadvadashi-2017-07
+DESCRIPTION:Dvadashi tithi\, combined with Rohini nakshatram.\n\n\n\nhttp:
+ //adyatithih.wordpress.com/papanashini-mahadvadashi
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -6113,8 +6116,8 @@ BEGIN:VEVENT
 SUMMARY:आषाढ (कटक) अमावस्या
 DTSTART;VALUE=DATE:20170723
 DTEND;VALUE=DATE:20170724
-UID:ashadha-(karkataka)-amavasya-2017-07
-DESCRIPTION:http://adyatithih.wordpress.com/ashadha-(karkataka)-amavasya
+UID:ashadha-(kataka)-amavasya-2017-07
+DESCRIPTION:http://adyatithih.wordpress.com/ashadha-(kataka)-amavasya
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -6778,8 +6781,10 @@ BEGIN:VEVENT
 SUMMARY:*चूडामणि~चन्द्र-ग्रहणम्
 DTSTART;TZID=Asia/Calcutta;VALUE=DATE-TIME:20170807T225200
 DTEND;TZID=Asia/Calcutta;VALUE=DATE-TIME:20170808T004800
-UID:-2017-08
-DESCRIPTION:http://adyatithih.wordpress.com/
+UID:*chudamani-chandra-grahanam-2017-08
+DESCRIPTION:When a lunar eclipse occurs on a Monday\, it is even more spec
+ ial: `cUDAmaNi`\, i.e. crest jewel.\n\n\n\nhttp://adyatithih.wordpress.com
+ /*chudamani-chandra-grahanam
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT4H
@@ -7352,8 +7357,9 @@ BEGIN:VEVENT
 SUMMARY:जयन्ती महाद्वादशी
 DTSTART;VALUE=DATE:20170819
 DTEND;VALUE=DATE:20170820
-UID:-2017-08-19
-DESCRIPTION:http://adyatithih.wordpress.com/
+UID:jayanti-mahadvadashi-2017-08
+DESCRIPTION:Dvadashi tithi\, combined with Punarvasu nakshatram.\n\n\n\nht
+ tp://adyatithih.wordpress.com/jayanti-mahadvadashi
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
