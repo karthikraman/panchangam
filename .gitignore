@@ -6,7 +6,12 @@
 *.sublime-workspace
 *old*
 panchangam/data/*.log
-panchangam/pdf/*old*.pdf
+pdf/daily-cal-19*.pdf
+pdf/daily-cal-200*
+precomputed/*-19*.pickle
+precomputed/*-200*.pickle
+tex/data/*-19*.tex
+tex/data/*-200*.tex
 panchangam/debug_logs/
 *.log
 *.fdb_latexmk

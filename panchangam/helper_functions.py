@@ -3,8 +3,8 @@
 
 from math import floor
 import swisseph as swe
-import json
 import sys
+import re
 from scipy.optimize import brentq
 from init_names_auto import init_names_auto
 from transliterator import transliterate
@@ -17,14 +17,15 @@ MAX_SZ = MAX_DAYS + 3  # plus one and minus one are usually necessary
 MIN_DAYS_NEXT_ECL = 25
 # next new/full moon from current one is at least 27.3 days away
 
-TITHI       = {'arc_len': 360.0 / 30.0, 'w_moon': 1, 'w_sun': -1}
-TITHI_PADA  = {'arc_len': 360.0 / 120.0, 'w_moon': 1, 'w_sun': -1}
-NAKSHATRAM  = {'arc_len': 360.0 / 27.0, 'w_moon': 1, 'w_sun':  0}
-RASHI       = {'arc_len': 360.0 / 12.0, 'w_moon': 1, 'w_sun':  0}
-YOGAM       = {'arc_len': 360.0 / 27.0, 'w_moon': 1, 'w_sun':  1}
-KARANAM     = {'arc_len': 360.0 / 60.0, 'w_moon': 1, 'w_sun': -1}
-SOLAR_MONTH = {'arc_len': 360.0 / 12.0, 'w_moon': 0, 'w_sun':  1}
-SOLAR_NAKSH = {'arc_len': 360.0 / 27.0, 'w_moon': 0, 'w_sun':  1}
+TITHI          = {'arc_len': 360.0 / 30.0,  'w_moon': 1, 'w_sun': -1}
+TITHI_PADA     = {'arc_len': 360.0 / 120.0, 'w_moon': 1, 'w_sun': -1}
+NAKSHATRAM     = {'arc_len': 360.0 / 27.0,  'w_moon': 1, 'w_sun':  0}
+NAKSHATRA_PADA = {'arc_len': 360.0 / 108.0, 'w_moon': 1, 'w_sun':  0}
+RASHI          = {'arc_len': 360.0 / 12.0,  'w_moon': 1, 'w_sun':  0}
+YOGAM          = {'arc_len': 360.0 / 27.0,  'w_moon': 1, 'w_sun':  1}
+KARANAM        = {'arc_len': 360.0 / 60.0,  'w_moon': 1, 'w_sun': -1}
+SOLAR_MONTH    = {'arc_len': 360.0 / 12.0,  'w_moon': 0, 'w_sun':  1}
+SOLAR_NAKSH    = {'arc_len': 360.0 / 27.0,  'w_moon': 0, 'w_sun':  1}
 
 
 class city:
@@ -131,6 +132,9 @@ def tr(text, scr, titled=True, fontize=False):
         scr = 'harvardkyoto'
     if text == '':
         return ''
+
+    text = re.sub('.~samApanam', '-samApanam', text)
+    text = re.sub('.~ArambhaH', '-ArambhaH', text)
 
     text_bits = text.split('|')
     transliterated_text = []
@@ -373,6 +377,27 @@ def get_nakshatram(jd):
     return get_angam(jd, NAKSHATRAM)
 
 
+def get_solar_rashi(jd):
+    """Returns the solar rashi prevailing at a given moment
+
+    Solar month is computed based on the longitude of the sun; in
+    addition, to obtain the absolute value of the longitude, the
+    ayanamsa is required to be subtracted.
+
+    Args:
+      float jd, the Julian day
+
+    Returns:
+      int rashi, where 1 stands for mESa, ..., 12 stands for mIna
+
+    Examples:
+      >>> get_solar_rashi(2444961.7125)
+      9
+    """
+
+    return get_angam(jd, SOLAR_MONTH)
+
+
 def get_angam_float(jd, angam_type, offset=0, debug=False):
     """Returns the angam
 
@@ -545,7 +570,7 @@ def get_angam_span(jd1, jd2, angam_type, target, debug=False):
         angam_end = brentq(get_angam_float, angam_start, jd_bracket_R,
                            args=(angam_type, -target, False))
     except:
-        sys.stderr.write('Unable to compute angam_end; possibly could not bracket correctly!\n')
+        sys.stderr.write('Unable to compute angam_end (%s->%d); possibly could not bracket correctly!\n' % (str(angam_type), target))
 
     if debug:
         print('%% angam_end', angam_end)

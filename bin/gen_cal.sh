@@ -44,9 +44,9 @@ cd ../../panchangam/
 
 echo -ne "Computing $y daily panchangam for $city_name ($lat,$lon) - $tz in $script script... "
 ./write_daily_panchangam_tex.py $city_name $lat $lon $tz $y $script > ../tex/data/daily-cal-$y-$city_name-$scr.tex
-mv cal-*-log* debug_logs/
 if [[ $? -eq 0 ]]
 then
+  mv cal-*-log* debug_logs/
   cd ../tex/data/
   echo "done. "
   echo -ne "Generating PDF (log --> /tmp/cal-$y-$city_name-$scr.texlog)... "

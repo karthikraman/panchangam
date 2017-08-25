@@ -2,6 +2,7 @@
 #  -*- coding: utf-8 -*-
 
 import sys
+import json
 
 from datetime import datetime, date, timedelta
 from pytz import timezone as tz
@@ -221,30 +222,61 @@ class panchangam:
                                                     self.city.longitude, tz_off)
 
     def assignLunarMonths(self):
-        last_month_change = 1
-        last_lunar_month = None
-        for d in range(1, MAX_SZ - 1):
-            # Assign lunar_month for each day
-            if self.tithi_sunrise[d] == 1:
-                for i in range(last_month_change, d):
-                    if (self.solar_month[d] == last_lunar_month):
-                        self.lunar_month[i] = self.solar_month[d] % 12 + 0.5
-                    else:
-                        self.lunar_month[i] = self.solar_month[d]
-                last_month_change = d
-                last_lunar_month = self.solar_month[d]
-            elif self.tithi_sunrise[d] == 2 and self.tithi_sunrise[d - 1] == 30:
-                # prathama tithi was never seen @ sunrise
-                for i in range(last_month_change, d):
-                    if (self.solar_month[d - 1] == last_lunar_month):
-                        self.lunar_month[i] = self.solar_month[d - 1] % 12 + 0.5
-                    else:
-                        self.lunar_month[i] = self.solar_month[d - 1]
-                last_month_change = d
-                last_lunar_month = self.solar_month[d - 1]
+        last_d_assigned = 0
+        last_new_moon_start, last_new_moon_end = get_angam_span(self.jd_start -
+                                                                self.tithi_sunrise[1] - 2,
+                                                                self.jd_start -
+                                                                self.tithi_sunrise[1] + 2,
+                                                                TITHI, 30)
+        prev_new_moon_start, prev_new_moon_end = get_angam_span(last_new_moon_start - 32,
+                                                                last_new_moon_start - 24,
+                                                                TITHI, 30)
+        # Check if current mAsa is adhika here
+        isAdhika = get_solar_rashi(last_new_moon_start) == get_solar_rashi(prev_new_moon_start)
 
-        for i in range(last_month_change, MAX_SZ - 1):
-            self.lunar_month[i] = self.solar_month[last_month_change - 1] + 1
+        while last_new_moon_start < self.jd_start + 367:
+            this_new_moon_start, this_new_moon_end = get_angam_span(last_new_moon_start + 24,
+                                                                    last_new_moon_start + 32,
+                                                                    TITHI, 30)
+            for i in range(last_d_assigned + 1, last_d_assigned + 32):
+                if i > 367 or self.jd_sunrise[i] > this_new_moon_end:
+                    last_d_assigned = i - 1
+                    break
+                if isAdhika:
+                    self.lunar_month[i] = self.solar_month[last_d_assigned] % 12 + .5
+                else:
+                    self.lunar_month[i] = self.solar_month[last_d_assigned] % 12 + 1
+
+            isAdhika = get_solar_rashi(this_new_moon_start) == get_solar_rashi(last_new_moon_start)
+            last_new_moon_start = this_new_moon_start
+
+        # # Older code below. Major mistake was that calculation was done after checking for
+        # # prathama, rather than for amavasya.
+        # last_month_change = 1
+        # last_lunar_month = None
+
+        # for d in range(1, MAX_SZ - 1):
+        #     # Assign lunar_month for each day
+        #     if self.tithi_sunrise[d] == 1 and self.tithi_sunrise[d - 1] != 1:
+        #         for i in range(last_month_change, d):
+        #             if (self.solar_month[d] == last_lunar_month):
+        #                 self.lunar_month[i] = self.solar_month[d] % 12 + 0.5
+        #             else:
+        #                 self.lunar_month[i] = self.solar_month[d]
+        #         last_month_change = d
+        #         last_lunar_month = self.solar_month[d]
+        #     elif self.tithi_sunrise[d] == 2 and self.tithi_sunrise[d - 1] == 30:
+        #         # prathama tithi was never seen @ sunrise
+        #         for i in range(last_month_change, d):
+        #             if (self.solar_month[d - 1] == last_lunar_month):
+        #                 self.lunar_month[i] = self.solar_month[d - 1] % 12 + 0.5
+        #             else:
+        #                 self.lunar_month[i] = self.solar_month[d - 1]
+        #         last_month_change = d
+        #         last_lunar_month = self.solar_month[d - 1]
+
+        # for i in range(last_month_change, MAX_SZ - 1):
+        #     self.lunar_month[i] = self.solar_month[last_month_change - 1] + 1
 
     def get_angams_for_kalas(self, d, get_angam_func, kala_type):
         jd_sunrise = self.jd_sunrise[d]
@@ -316,6 +348,20 @@ class panchangam:
                                      (jd_sunrise_datmrw - jd_sunset_tmrw) * (7.0 / 15.0)),
                       get_angam_func(jd_sunset_tmrw +
                                      (jd_sunrise_datmrw - jd_sunset_tmrw) * (8.0 / 15.0))]
+        elif kala_type == 'ratrimana':
+            angams = [get_angam_func(jd_sunset + (jd_sunrise_tmrw - jd_sunset) * (0.0 / 15.0)),
+                      get_angam_func(jd_sunset + (jd_sunrise_tmrw - jd_sunset) * (15.0 / 15.0)),
+                      get_angam_func(jd_sunset_tmrw +
+                                     (jd_sunrise_datmrw - jd_sunset_tmrw) * (0.0 / 15.0)),
+                      get_angam_func(jd_sunset_tmrw +
+                                     (jd_sunrise_datmrw - jd_sunset_tmrw) * (15.0 / 15.0))]
+        elif kala_type == 'arunodaya':  # deliberately not simplifying expressions involving 15/15
+            angams = [get_angam_func(jd_sunset + (jd_sunrise_tmrw - jd_sunset) * (13.0 / 15.0)),
+                      get_angam_func(jd_sunset + (jd_sunrise_tmrw - jd_sunset) * (15.0 / 15.0)),
+                      get_angam_func(jd_sunset_tmrw +
+                                     (jd_sunrise_datmrw - jd_sunset_tmrw) * (13.0 / 15.0)),
+                      get_angam_func(jd_sunset_tmrw +
+                                     (jd_sunrise_datmrw - jd_sunset_tmrw) * (15.0 / 15.0))]
         elif kala_type == 'moonrise':
             angams = [get_angam_func(jd_moonrise), get_angam_func(jd_moonrise),
                       get_angam_func(jd_moonrise_tmrw), get_angam_func(jd_moonrise_tmrw)]
@@ -337,6 +383,9 @@ class panchangam:
             self.fest_days[festival_name] = [d]
 
     def computeFestivals(self):
+        # debugFestivals = True
+        debugFestivals = False
+
         for d in range(1, MAX_DAYS + 1):
             [y, m, dt, t] = swe.revjul(self.jd_start + d - 1)
 
@@ -404,8 +453,8 @@ class panchangam:
                         self.festivals[d].append('sarva~guruvAyupura~EkAdazI')
 
                 # Harivasara Computation
-                harivasara_end = brentq(get_angam_float, self.jd_sunrise[d - 2],
-                                        self.jd_sunrise[d - 2] + 4, args=(TITHI_PADA, -45, False))
+                harivasara_end = brentq(get_angam_float, self.jd_sunrise[d] - 2,
+                                        self.jd_sunrise[d] + 2, args=(TITHI_PADA, -45, False))
                 [_y, _m, _d, _t] = swe.revjul(harivasara_end + (tz_off / 24.0))
                 hariv_end_time = time(swe.revjul(harivasara_end + (tz_off / 24.0))[3]).toString()
 
@@ -585,7 +634,7 @@ class panchangam:
                         pref = '(%s) mahAlaya ' % (
                             get_chandra_masa(self.lunar_month[d], NAMES, 'hk'))
                     elif self.solar_month[d] == 4:
-                        pref = '%s (karkaTaka) ' % (
+                        pref = '%s (kaTaka) ' % (
                             get_chandra_masa(self.lunar_month[d], NAMES, 'hk'))
                     elif self.solar_month[d] == 10:
                         pref = 'mauni (%s/makara) ' % (
@@ -596,13 +645,13 @@ class panchangam:
                         # Amavasya is there on both aparahnas
                         if t30_end - t29_end < 1:
                             # But not longer than 60 ghatikas
-                            self.festivals[d].append(pref + 'amAvasyA')
+                            self.addFestival(pref + 'amAvasyA', d, debugFestivals)
                         else:
                             # And longer than 60 ghatikas
-                            self.festivals[d + 1].append(pref + 'amAvasyA')
+                            self.addFestival(pref + 'amAvasyA', d + 1, debugFestivals)
                     else:
                         # No Amavasya in aparahna tomorrow, so it's today
-                        self.festivals[d].append(pref + 'amAvasyA')
+                        self.addFestival(pref + 'amAvasyA', d, debugFestivals)
 
             # MAKARAYANAM
             if self.solar_month[d] == 9 and self.solar_month_day[d] == 1:
@@ -631,10 +680,10 @@ class panchangam:
 
             if self.solar_month[d] == 1 and self.solar_month_day[d] > 10:
                 if self.jd_sunset[d] < agni_jd_start < self.jd_sunset[d + 1]:
-                    self.fest_days['agninakSatra-ArambhaH'] = [d + 1]
+                    self.fest_days['agninakSatram~ArambhaH'] = [d + 1]
             if self.solar_month[d] == 2 and self.solar_month_day[d] > 10:
                 if self.jd_sunset[d] < agni_jd_end < self.jd_sunset[d + 1]:
-                    self.fest_days['agninakSatra-samApanam'] = [d + 1]
+                    self.fest_days['agninakSatram~samApanam'] = [d + 1]
 
             # GAJACHHAYA YOGA
             if self.solar_month[d] == 6 and self.solar_month_day[d] == 1:
@@ -720,16 +769,46 @@ class panchangam:
                 if get_angam(self.jd_sunrise[d], KARANAM) in list(range(2, 52, 7)):
                     self.addFestival('AyuSmAn-bava-saumya', d, debugFestivals)
 
-            # debugFestivals = True
-            debugFestivals = False
-
+            # VYATIPATAM
             if get_angam(self.jd_sunrise[d], YOGAM) == 17 and self.solar_month[d] == 9:
                 self.addFestival('mahAdhanurvyatIpAtam', d, debugFestivals)
 
             if get_angam(self.jd_sunrise[d], YOGAM) == 17 and self.solar_month[d] == 6:
                 self.addFestival('mahAvyatIpAtam', d, debugFestivals)
 
-            # BHANU SAPTAMI
+
+            # 8 MAHA DWADASHIS
+            if (self.jd_sunrise[d] % 15) == 11 and (self.jd_sunrise[d + 1] % 15) == 11:
+                self.addFestival('unmIlanI~mahAdvAdazI', d + 1, debugFestivals)
+
+            if (self.jd_sunrise[d] % 15) == 12 and (self.jd_sunrise[d + 1] % 15) == 12:
+                self.addFestival('vyaJjulI~mahAdvAdazI', d, debugFestivals)
+
+            if (self.jd_sunrise[d] % 15) == 11 and (self.jd_sunrise[d + 1] % 15) == 13:
+                self.addFestival('trispRzA~mahAdvAdazI', d, debugFestivals)
+
+            if (self.jd_sunrise[d] % 15) == 0 and (self.jd_sunrise[d + 1] % 15) == 0:
+                if (d - 3) > 0:
+                    self.addFestival('pakSavardhinI~mahAdvAdazI', d - 3, debugFestivals)
+
+            if get_angam(self.jd_sunrise[d], NAKSHATRAM) == 4 and\
+               (self.tithi_sunrise[d] % 15) == 12:
+                self.addFestival('pApanAzinI~mahAdvAdazI', d, debugFestivals)
+
+            if get_angam(self.jd_sunrise[d], NAKSHATRAM) == 7 and\
+               (self.tithi_sunrise[d] % 15) == 12:
+                self.addFestival('jayantI~mahAdvAdazI', d, debugFestivals)
+
+            if get_angam(self.jd_sunrise[d], NAKSHATRAM) == 8 and\
+               (self.tithi_sunrise[d] % 15) == 12:
+                self.addFestival('jayA~mahAdvAdazI', d, debugFestivals)
+
+            if get_angam(self.jd_sunrise[d], NAKSHATRAM) == 22 and\
+               (self.tithi_sunrise[d] % 15) == 12:
+                self.addFestival('vijayA/zravaNa~mahAdvAdazI', d, debugFestivals)
+
+
+            # SPECIAL SAPTAMIs
             if self.weekday[d] == 0 and (self.tithi_sunrise[d] % 15) == 7:
                 festival_name = 'bhAnusaptamI'
                 if self.tithi_sunrise[d] == 7:
@@ -738,6 +817,26 @@ class panchangam:
                     # Even more auspicious!
                     festival_name += '*'
                 self.addFestival(festival_name, d, debugFestivals)
+
+            if get_angam(self.jd_sunrise[d], NAKSHATRA_PADA) == 49 and\
+               self.tithi_sunrise[d] == 7:
+                self.addFestival('bhadrA~saptamI', d, debugFestivals)
+
+            if self.month_data[d].find('RIGHTarrow') != -1:
+                # we have a Sankranti!
+                if self.tithi_sunrise[d] == 7:
+                    self.addFestival('mahAjayA~saptamI', d, debugFestivals)
+
+            # VARUNI TRAYODASHI
+            if self.lunar_month[d] == 12 and self.tithi_sunrise[d] == 28:
+                if get_angam(self.jd_sunrise[d], NAKSHATRAM) == 24:
+                    vtr_name = 'vAruNI~trayOdazI'
+                    if self.weekday[d] == 6:
+                        vtr_name = 'mahA' + vtr_name
+                        if get_angam(self.jd_sunrise[d], YOGAM) == 23:
+                            pref = 'mahA' + vtr_name
+                    self.addFestival(vtr_name, d, debugFestivals)
+
 
             # SOMAMAVASYA
             if self.weekday[d] == 1 and self.tithi_sunrise[d] == 30:
@@ -760,6 +859,11 @@ class panchangam:
                 if self.tithi_sunrise[d] == 4:
                     festival_name = 'sukhA' + '~' + festival_name
                 self.addFestival(festival_name, d, debugFestivals)
+
+            # KRISHNA ANGARAKA CHATURDASHI
+            if self.weekday[d] == 2 and self.tithi_sunrise[d] == 29:
+                self.addFestival('kRSNAGgAraka-caturdazI~puNyakAlam/yamatarpaNam', d, debugFestivals)
+                festival_name = 'budhASTamI'
 
             # BUDHASHTAMI
             if self.weekday[d] == 3 and (self.tithi_sunrise[d] % 15) == 8:
@@ -839,7 +943,7 @@ class panchangam:
                 if 'kala' in festival_rules[festival_name]:
                     kala = festival_rules[festival_name]['kala']
                 else:
-                    kala = 'sunrise'
+                    kala = 'sunrise'  # default!
                 if 'priority' in festival_rules[festival_name]:
                     priority = festival_rules[festival_name]['priority']
                 else:
@@ -874,7 +978,8 @@ class panchangam:
                                     (d >= self.lunar_month.index(1)) - fest_start_year + 1
 
                         if fest_num is not None and fest_num < 0:
-                            print('Festival %s is only in the future!' % festival_name)
+                            sys.stderr.write('Festival %s is only in the future!\n' %
+                                             festival_name)
                             return
 
                         if fest_num is not None:
@@ -910,7 +1015,7 @@ class panchangam:
                                 (d >= self.lunar_month.index(1)) - fest_start_year + 1
 
                     if fest_num is not None and fest_num < 0:
-                        print('Festival %s is only in the future!' % festival_name)
+                        sys.stderr.write('Festival %s is only in the future!\n' % festival_name)
                         return
 
                     if fest_num is not None:
@@ -925,22 +1030,39 @@ class panchangam:
                             # Some error, e.g. weird kala, so skip festival
                         if debugFestivals:
                             print('%' * 80)
-                            print('%', festival_name, ': ', festival_rules[festival_name])
-                            print("%%angams today & tmrw:", angams)
+                            try:
+                                print('%', festival_name, ': ', festival_rules[festival_name])
+                                print("%%angams today & tmrw:", angams)
+                            except KeyError:
+                                print('%', festival_name, ': ',
+                                      festival_rules[festival_name.split('\\')[0][:-1]])
+                                print("%%angams today & tmrw:", angams)
+
                         if priority == 'paraviddha':
                             if angams[0] == angam_num or angams[1] == angam_num:
                                 fday = d
                             if angams[2] == angam_num or angams[3] == angam_num:
                                 fday = d + 1
+
+                            if fday is None:
+                                if festival_name not in self.fest_days:
+                                    sys.stderr.write('%d: %s\n' % (d, angams))
+                                    if angams[1] == angam_num + 1:
+                                        # This can fail for "boundary" angam_nums like 1 and 30!
+                                        fday = d  # Should be d - 1?
+                                        sys.stderr.write('Assigned paraviddha day for %s as %d with difficulty!' %
+                                                         (festival_name, fday) + ' Please check for unusual cases.\n')
+
                             if fday is None:
                                 if debugFestivals:
                                     print('%', angams, angam_num)
-                                sys.stderr.write('Could not assign paraviddha day for %s!' %
-                                                 festival_name +
-                                                 ' Please check for unusual cases.\n')
-                            else:
-                                sys.stderr.write('Assigned paraviddha day for %s!' %
-                                                 festival_name + ' Ignore future warnings!\n')
+                                if festival_name not in self.fest_days:
+                                    sys.stderr.write('Could not assign paraviddha day for %s!' %
+                                                     festival_name +
+                                                     ' Please check for unusual cases.\n')
+                            # else:
+                            #     sys.stderr.write('Assigned paraviddha day for %s!' %
+                            #                      festival_name + ' Ignore future warnings!\n')
                         elif priority == 'purvaviddha':
                             angams_yest = self.get_angams_for_kalas(d - 1, get_angam_func, kala)
                             if debugFestivals:
@@ -977,6 +1099,10 @@ class panchangam:
                                              (priority, festival_name))
                     # print (self.fest_days)
                     if fday is not None:
+                        if festival_name.find('\\') == -1 and\
+                           'kala' in festival_rules[festival_name] and\
+                           festival_rules[festival_name]['kala'] == 'arunodaya':
+                            fday += 1
                         self.addFestival(festival_name, fday, debugFestivals)
 
             # distance from prabhava
@@ -1007,6 +1133,9 @@ class panchangam:
             [self.fest_days['makara~saGkrAnti/uttarAyaNa-puNyakAlam'][0] + 1]
         self.fest_days['ta:kan2up~poGgal'] =\
             [self.fest_days['makara~saGkrAnti/uttarAyaNa-puNyakAlam'][0] + 1]
+
+        self.fest_days['mahAlaya-pakSam~samApanam'] =\
+            [self.fest_days['(bhAdrapada) mahAlaya amAvasyA'][0]]
 
         # KAPALI FESTIVALS
         panguni_uttaram = self.fest_days['ta:paGgun2i~uttiram'][-1]
@@ -1085,17 +1214,17 @@ class panchangam:
                     continue
                 if eclipse_solar_end < eclipse_solar_start:
                     eclipse_solar_end += 24
-                sunrise_eclipse_day = swe.revjul(self.jd_sunrise[fday])[3]
-                sunset_eclipse_day = swe.revjul(self.jd_sunset[fday])[3]
-                jd_sunrise_eclipse_day = self.jd_sunrise[fday]
-                jd_sunset_eclipse_day = self.jd_sunset[fday]
-                if jd_eclipse_solar_start < jd_sunrise_eclipse_day:
+                sunrise_eclipse_day = swe.revjul(self.jd_sunrise[fday] + (tz_off / 24.0))[3]
+                sunset_eclipse_day = swe.revjul(self.jd_sunset[fday] + (tz_off / 24.0))[3]
+                if eclipse_solar_start < sunrise_eclipse_day:
                     eclipse_solar_start = sunrise_eclipse_day
-                if jd_eclipse_solar_end > jd_sunset_eclipse_day:
+                if eclipse_solar_end > sunset_eclipse_day:
                     eclipse_solar_end = sunset_eclipse_day
                 solar_eclipse_str = 'sUrya-grahaNam' +\
                     '~\\textsf{' + time(eclipse_solar_start).toString() +\
                     '}{\\RIGHTarrow}\\textsf{' + time(eclipse_solar_end).toString() + '}'
+                if self.weekday[fday] == 0:
+                    solar_eclipse_str = '*cUDAmaNi~' + solar_eclipse_str
                 self.festivals[fday].append(solar_eclipse_str)
             jd = jd + MIN_DAYS_NEXT_ECL
 
@@ -1171,6 +1300,8 @@ class panchangam:
                 lunar_eclipse_str = 'candra-grahaNam' +\
                     '~\\textsf{' + time(eclipse_lunar_start).toString() +\
                     '}{\\RIGHTarrow}\\textsf{' + time(eclipse_lunar_end).toString() + '}'
+                if self.weekday[fday] == 1:
+                    lunar_eclipse_str = '*cUDAmaNi~' + lunar_eclipse_str
 
                 self.festivals[fday].append(lunar_eclipse_str)
             jd += MIN_DAYS_NEXT_ECL
@@ -1583,41 +1714,89 @@ class panchangam:
 
         self.ics_calendar = Calendar()
         uid_list = []
+
+        alarm = Alarm()
+        alarm.add('action', 'DISPLAY')
+        alarm.add('trigger', timedelta(hours=-4))  # default alarm, with a 4 hour reminder
+
+        BASE_URL = "http://adyatithih.wordpress.com/"
+
         for d in range(1, MAX_SZ - 1):
             [y, m, dt, t] = swe.revjul(self.jd_start + d - 1)
 
             if len(self.festivals[d]) > 0:
                 # Eliminate repeat festivals on the same day, and keep the list arbitrarily sorted
                 self.festivals[d] = sorted(list(set(self.festivals[d])))
-
                 summary_text = self.festivals[d]
                 # this will work whether we have one or more events on the same day
                 for stext in sorted(summary_text):
-                    if not stext.find('RIGHTarrow') == -1:
+                    desc = ''
+                    page_id = ''
+                    event = Event()
+                    if stext == 'kRttikA~maNDala~pArAyaNam':
+                        event.add('summary', tr(stext.replace('~', ' '), self.script))
+                        fest_num_loc = stext.find('#')
+                        if fest_num_loc != -1:
+                            stext = stext[:fest_num_loc - 2]  # Two more chars dropped, ~\
+                        event.add('dtstart', date(y, m, dt))
+                        event.add('dtend', (datetime(y, m, dt) + timedelta(48)).date())
+
+                        if stext in festival_rules:
+                            desc = festival_rules[stext]['Short Description'] + '\n\n' +\
+                                tr(festival_rules[stext]['Shloka'], self.script, False) +\
+                                '\n\n'
+                            if 'URL' in festival_rules[stext]:
+                                page_id = festival_rules[stext]['URL']
+                            else:
+                                sys.stderr.write('No URL found for festival %s!\n' % stext)
+                        else:
+                            sys.stderr.write('No description found for festival %s!\n' % stext)
+                        desc += BASE_URL +\
+                            page_id.rstrip('-1234567890').rstrip('0123456789{}\\#')
+                        uid = '%s-%d' % (page_id, y)
+
+                        event.add_component(alarm)
+                        event.add('description', desc.strip())
+                        uid_list.append(uid)
+                        event.add('uid', uid)
+                        event['X-MICROSOFT-CDO-ALLDAYEVENT'] = 'TRUE'
+                        event['TRANSP'] = 'TRANSPARENT'
+                        event['X-MICROSOFT-CDO-BUSYSTATUS'] = 'FREE'
+                        self.ics_calendar.add_component(event)
+                    elif stext.find('RIGHTarrow') != -1:
                         # It's a grahanam/yogam, with a start and end time
                         if stext.find('{}') != -1:
                             # Starting or ending time is empty, e.g. harivasara, so no ICS entry
                             continue
-                        event = Event()
                         [stext, t1, arrow, t2] = stext.split('\\')
                         stext = stext.strip('~')
                         event.add('summary', tr(stext, self.script))
-                        # we know that t1 is something like 'textsf{14:44}{'
+                        # we know that t1 is something like 'textsf{hh:mm(+1)}{'
                         # so we know the exact positions of min and hour
-                        event.add('dtstart', datetime(y, m, dt, int(t1[7:9]), int(
-                            t1[10:12]), tzinfo=tz(self.city.timezone)))
-                        event.add('dtend', datetime(y, m, dt, int(t2[7:9]), int(
-                            t2[10:12]), tzinfo=tz(self.city.timezone)))
+                        if t1[12] == '(':  # (+1), next day
+                            event.add('dtstart', datetime(y, m, dt, int(t1[7:9]), int(t1[10:12]),
+                                      tzinfo=tz(self.city.timezone)) + timedelta(1))
+                        else:
+                            event.add('dtstart', datetime(y, m, dt, int(t1[7:9]), int(t1[10:12]),
+                                      tzinfo=tz(self.city.timezone)))
+                        if t2[12] == '(':  # (+1), next day
+                            event.add('dtend', datetime(y, m, dt, int(t2[7:9]), int(t2[10:12]),
+                                      tzinfo=tz(self.city.timezone)) + timedelta(1))
+                        else:
+                            event.add('dtend', datetime(y, m, dt, int(t2[7:9]), int(t2[10:12]),
+                                      tzinfo=tz(self.city.timezone)))
 
-                        stext_iast = str(transliterate(stext, 'harvardkyoto', 'iast'), 'utf8')
-                        page_id = romanise(stext_iast).strip('-')
-                        desc = ''
                         if stext in festival_rules:
                             desc = festival_rules[stext]['Short Description'] + '\n\n' +\
                                 tr(festival_rules[stext]['Shloka'], self.script, False) + '\n\n'
+                            if 'URL' in festival_rules[stext]:
+                                page_id = festival_rules[stext]['URL']
+                            else:
+                                sys.stderr.write('No URL found for festival %s!\n' % stext)
                         else:
                             sys.stderr.write('No description found for festival %s!\n' % stext)
-                        desc += "http://adyatithi.wordpress.com/" + page_id
+
+                        desc += BASE_URL + page_id
                         event.add('description', desc.strip())
                         uid = '%s-%d-%02d' % (page_id, y, m)
                         if uid not in uid_list:
@@ -1626,51 +1805,119 @@ class panchangam:
                             uid = '%s-%d-%02d-%02d' % (page_id, y, m, dt)
                             uid_list.append(uid)
                         event.add('uid', uid)
+                        event.add_component(alarm)
                         self.ics_calendar.add_component(event)
-                    else:
-                        event = Event()
-                        event.add('summary', tr(stext.replace('~', ' '), self.script))
-                        fest_num_loc = stext.find('#')
-                        if not fest_num_loc == -1:
-                            stext = stext[:fest_num_loc - 2] # Two more chars dropped, ~\
+                    elif stext.find('samApanam') != -1:
+                        # It's an ending event
+                        event.add('summary', tr(re.sub('.~samApanam',
+                                                       '-samApanam', stext), self.script))
                         event.add('dtstart', date(y, m, dt))
                         event.add('dtend', (datetime(y, m, dt) + timedelta(1)).date())
 
-                        stext_iast = str(transliterate(stext, 'harvardkyoto', 'iast'), 'utf8')
-                        page_id = romanise(stext_iast).replace('/', '-').strip('-')
+                        if stext in festival_rules:
+                            desc = festival_rules[stext]['Short Description'] + '\n\n' +\
+                                tr(festival_rules[stext]['Shloka'], self.script, False) +\
+                                '\n\n'
+                            if 'URL' in festival_rules[stext]:
+                                page_id = festival_rules[stext]['URL']
+                            else:
+                                sys.stderr.write('No URL found for festival %s!\n' % stext)
+                        else:
+                            sys.stderr.write('No description found for festival %s!\n' % stext)
 
+                        desc += BASE_URL + page_id.rstrip('-1234567890').rstrip('0123456789{}\\#')
+                        # print(event)
+                        event.add_component(alarm)
+                        event.add('description', desc.strip())
+                        uid = '%s-%d-%02d' % (page_id, y, m)
+                        if uid not in uid_list:
+                            uid_list.append(uid)
+                        else:
+                            uid = '%s-%d-%02d-%02d' % (page_id, y, m, dt)
+                            uid_list.append(uid)
+                        event.add('uid', uid)
+                        event['X-MICROSOFT-CDO-ALLDAYEVENT'] = 'TRUE'
+                        event['TRANSP'] = 'TRANSPARENT'
+                        event['X-MICROSOFT-CDO-BUSYSTATUS'] = 'FREE'
+                        self.ics_calendar.add_component(event)
+
+                        # Find start and add entire event as well
                         desc = ''
+                        page_id = page_id.replace('-samapanam', '')
+                        event = Event()
+                        check_d = d
+                        stext_start = stext.replace('samApanam', 'ArambhaH')
+                        # print(stext_start)
+                        while check_d > 1:
+                            check_d -= 1
+                            if stext_start in self.festivals[check_d]:
+                                # print(self.festivals[check_d])
+                                start_d = check_d
+                                break
+
+                        event.add('summary', tr(stext.replace(
+                                                'samApanam', '').replace('~', ' '), self.script))
+                        event.add('dtstart', (datetime(y, m, dt) - timedelta(d - start_d)).date())
+                        event.add('dtend', (datetime(y, m, dt) + timedelta(1)).date())
+
+                        desc += BASE_URL + page_id.rstrip('-1234567890').rstrip('0123456789{}\\#')
+                        # print(event)
+                        event.add_component(alarm)
+                        event.add('description', desc.strip())
+                        uid = '%s-%d-%02d' % (page_id, y, m)
+                        if uid not in uid_list:
+                            uid_list.append(uid)
+                        else:
+                            uid = '%s-%d-%02d-%02d' % (page_id, y, m, dt)
+                            uid_list.append(uid)
+                        event.add('uid', uid)
+                        event['X-MICROSOFT-CDO-ALLDAYEVENT'] = 'TRUE'
+                        event['TRANSP'] = 'TRANSPARENT'
+                        event['X-MICROSOFT-CDO-BUSYSTATUS'] = 'FREE'
+                        self.ics_calendar.add_component(event)
+
+                    else:
+                        event.add('summary', tr(re.sub('.~ArambhaH', '-ArambhaH', stext).replace('~', ' ').replace('\#', '#'), self.script))
+                        fest_num_loc = stext.find('#')
+                        if fest_num_loc != -1:
+                            stext = stext[:fest_num_loc - 2]  # Two more chars dropped, ~\
+                        event.add('dtstart', date(y, m, dt))
+                        event.add('dtend', (datetime(y, m, dt) + timedelta(1)).date())
+
                         if stext.find('EkAdazI') == -1:
                             if stext in festival_rules:
                                 desc = festival_rules[stext]['Short Description'] + '\n\n' +\
                                     tr(festival_rules[stext]['Shloka'], self.script, False) +\
                                     '\n\n'
+                                if 'URL' in festival_rules[stext]:
+                                    page_id = festival_rules[stext]['URL']
+                                else:
+                                    sys.stderr.write('No URL found for festival %s!\n' % stext)
                             else:
                                 sys.stderr.write('No description found for festival %s!\n' % stext)
-                            desc += "http://adyatithi.wordpress.com/" +\
+                            desc += BASE_URL +\
                                 page_id.rstrip('-1234567890').rstrip('0123456789{}\\#')
+                            uid = '%s-%d-%02d' % (page_id, y, m)
                         else:
                             # Handle ekadashi descriptions differently
                             ekad = '~'.join(stext.split('~')[1:])  # get rid of sarva etc. prefix!
                             if ekad in festival_rules:
                                 desc = festival_rules[ekad]['Short Description'] + '\n\n' +\
                                     tr(festival_rules[ekad]['Shloka'], self.script) + '\n\n'
+                                if 'URL' in festival_rules[ekad]:
+                                    page_id = festival_rules[ekad]['URL']
+                                else:
+                                    sys.stderr.write('No URL found for festival %s!\n' % stext)
                             else:
                                 sys.stderr.write('No description found for festival %s!\n' % ekad)
-                            desc += '\n'
-
-                        if page_id.find('ekadashi') != -1:
-                            ekad = '-'.join(page_id.split('-')[1:-1])
-                            # Skipping first split, which must be sarva/smarta/vaishnava
-                            # Also skipping last, which is "ekadashi"
-                            desc += "http://adyatithi.wordpress.com/" + ekad + "-ekadashi"
+                            desc += '\n' + BASE_URL + page_id
+                            pref = romanise(str(transliterate(
+                                                stext.split('~')[0],
+                                                'harvardkyoto', 'iast'), 'utf8')) + "-"
+                            uid = '%s-%d-%02d' % (pref + page_id, y, m)
                         # print(page_id)
-                        alarm = Alarm()
-                        alarm.add('action', 'DISPLAY')
-                        alarm.add('trigger', timedelta(hours=-4))
                         event.add_component(alarm)
                         event.add('description', desc.strip())
-                        uid = '%s-%d-%02d' % (page_id, y, m)
                         if uid not in uid_list:
                             uid_list.append(uid)
                         else:
