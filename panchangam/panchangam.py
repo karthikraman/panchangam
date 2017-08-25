@@ -847,10 +847,10 @@ class panchangam:
                 if get_angam(self.jd_sunrise[d], YOGAM) == 17 and\
                    get_angam(self.jd_sunrise[d], NAKSHATRAM) == 22:
                     if self.weekday[d] == 1:
-                        festival_name = 'mahodaya~puNyakAlam'
+                        festival_name = 'mahOdaya~puNyakAlam'
                         self.addFestival(festival_name, d, debugFestivals)
                     elif self.weekday[d] == 0:
-                        festival_name = 'ardhodaya~puNyakAlam'
+                        festival_name = 'ardhOdaya~puNyakAlam'
                         self.addFestival(festival_name, d, debugFestivals)
 
             # MANGALA-CHATURTHI
