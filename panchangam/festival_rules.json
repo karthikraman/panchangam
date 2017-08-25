@@ -6701,7 +6701,7 @@
     "Primary Reference": "",
     "Comments": ""
   },
-  "ta:undu~madakkaLir2r2an2": {
+  "ta:undu~madakkaLir2r2an2{}": {
     "Month Type": "solar_month",
     "Month Number": 9,
     "Angam Type": "day",
@@ -9216,7 +9216,18 @@
   },
   "ASADha (kaTaka) amAvasyA": {
     "Tags": "amavasya-days",
-    "URL": "ashadha-(karkataka)-amavasya",
+    "URL": "ashadha-(kataka)-amavasya",
+    "Short Description": "",
+    "Shloka": "",
+    "Other Names": "",
+    "Nirnaya": "",
+    "Secondary Reference": "",
+    "Primary Reference": "",
+    "Comments": ""
+  },
+  "zravaNa (kaTaka) amAvasyA": {
+    "Tags": "amavasya-days",
+    "URL": "shravana-(kataka)-amavasya",
     "Short Description": "",
     "Shloka": "",
     "Other Names": "",
