@@ -17,14 +17,15 @@ MAX_SZ = MAX_DAYS + 3  # plus one and minus one are usually necessary
 MIN_DAYS_NEXT_ECL = 25
 # next new/full moon from current one is at least 27.3 days away
 
-TITHI       = {'arc_len': 360.0 / 30.0, 'w_moon': 1, 'w_sun': -1}
-TITHI_PADA  = {'arc_len': 360.0 / 120.0, 'w_moon': 1, 'w_sun': -1}
-NAKSHATRAM  = {'arc_len': 360.0 / 27.0, 'w_moon': 1, 'w_sun':  0}
-RASHI       = {'arc_len': 360.0 / 12.0, 'w_moon': 1, 'w_sun':  0}
-YOGAM       = {'arc_len': 360.0 / 27.0, 'w_moon': 1, 'w_sun':  1}
-KARANAM     = {'arc_len': 360.0 / 60.0, 'w_moon': 1, 'w_sun': -1}
-SOLAR_MONTH = {'arc_len': 360.0 / 12.0, 'w_moon': 0, 'w_sun':  1}
-SOLAR_NAKSH = {'arc_len': 360.0 / 27.0, 'w_moon': 0, 'w_sun':  1}
+TITHI          = {'arc_len': 360.0 / 30.0,  'w_moon': 1, 'w_sun': -1}
+TITHI_PADA     = {'arc_len': 360.0 / 120.0, 'w_moon': 1, 'w_sun': -1}
+NAKSHATRAM     = {'arc_len': 360.0 / 27.0,  'w_moon': 1, 'w_sun':  0}
+NAKSHATRA_PADA = {'arc_len': 360.0 / 108.0, 'w_moon': 1, 'w_sun':  0}
+RASHI          = {'arc_len': 360.0 / 12.0,  'w_moon': 1, 'w_sun':  0}
+YOGAM          = {'arc_len': 360.0 / 27.0,  'w_moon': 1, 'w_sun':  1}
+KARANAM        = {'arc_len': 360.0 / 60.0,  'w_moon': 1, 'w_sun': -1}
+SOLAR_MONTH    = {'arc_len': 360.0 / 12.0,  'w_moon': 0, 'w_sun':  1}
+SOLAR_NAKSH    = {'arc_len': 360.0 / 27.0,  'w_moon': 0, 'w_sun':  1}
 
 
 class city:
@@ -569,7 +570,7 @@ def get_angam_span(jd1, jd2, angam_type, target, debug=False):
         angam_end = brentq(get_angam_float, angam_start, jd_bracket_R,
                            args=(angam_type, -target, False))
     except:
-        sys.stderr.write('Unable to compute angam_end; possibly could not bracket correctly!\n')
+        sys.stderr.write('Unable to compute angam_end (%s->%d); possibly could not bracket correctly!\n' % (str(angam_type), target))
 
     if debug:
         print('%% angam_end', angam_end)
