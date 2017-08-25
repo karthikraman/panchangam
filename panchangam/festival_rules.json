@@ -9126,6 +9126,17 @@
     "Primary Reference": "",
     "Comments": ""
   },
+  "vijayA~bhAnusaptamI*": {
+    "Tags": "rare-days",
+    "URL": "vijaya-bhanusaptami",
+    "Short Description": "`saptamI tithi` on a Sunday is as sacred as a solar eclipse. Particularly good for worshipping Surya. When `zukla saptamI` is present at sunrise, it is called `vijayA`.",
+    "Shloka": "amAvasyA tu sOmEna saptamI bhAnunA saha.\ncaturthI bhUmiputrENa sOmaputrENa cASTamI.\n catasrastithayastvEtAH sUryagrahaNasannibhAH..",
+    "Other Names": "",
+    "Nirnaya": "",
+    "Secondary Reference": "",
+    "Primary Reference": "",
+    "Comments": ""
+  },
   "vijayA~EkAdazI": {
     "Tags": "monthly-vratams,ekadashi-vratam-days",
     "URL": "vijaya-ekadashi",
@@ -9170,28 +9181,6 @@
     "Primary Reference": "",
     "Comments": ""
   },
-  "mahOdaya~puNyakAlam": {
-    "Tags": "rare-days",
-    "URL": "mahodaya-punyakalam",
-    "Short Description": "",
-    "Shloka": "",
-    "Other Names": "",
-    "Nirnaya": "",
-    "Secondary Reference": "",
-    "Primary Reference": "",
-    "Comments": ""
-  },
-  "ardhOdaya~puNyakAlam": {
-    "Tags": "rare-days",
-    "URL": "ardhodaya-punyakalam",
-    "Short Description": "",
-    "Shloka": "",
-    "Other Names": "",
-    "Nirnaya": "",
-    "Secondary Reference": "",
-    "Primary Reference": "",
-    "Comments": ""
-  },
   "pauSa (makara) amAvasyA": {
     "Tags": "amavasya-days",
     "URL": "pausha-(makara)-amavasya",
@@ -9227,7 +9216,18 @@
   },
   "ASADha (kaTaka) amAvasyA": {
     "Tags": "amavasya-days",
-    "URL": "ashadha-(karkataka)-amavasya",
+    "URL": "ashadha-(kataka)-amavasya",
+    "Short Description": "",
+    "Shloka": "",
+    "Other Names": "",
+    "Nirnaya": "",
+    "Secondary Reference": "",
+    "Primary Reference": "",
+    "Comments": ""
+  },
+  "zravaNa (kaTaka) amAvasyA": {
+    "Tags": "amavasya-days",
+    "URL": "shravana-(kataka)-amavasya",
     "Short Description": "",
     "Shloka": "",
     "Other Names": "",
@@ -10129,5 +10129,170 @@
     "Secondary Reference": "",
     "Primary Reference": "",
     "Comments": ""
-  }  
+  },
+  "*cUDAmaNi~candra-grahaNam": {
+    "Tags": "rare-days",
+    "URL": "*chudamani-chandra-grahanam",
+    "Short Description": "When a lunar eclipse occurs on a Monday, it is even more special: `cUDAmaNi`, i.e. crest jewel.",
+    "Shloka": "",
+    "Other Names": "",
+    "Nirnaya": "",
+    "Secondary Reference": "Kielhorn, 1897",
+    "Primary Reference": "",
+    "Comments": ""
+  },
+  "*cUDAmaNi~sUrya-grahaNam": {
+    "Tags": "rare-days",
+    "URL": "*chudamani-chandra-grahanam",
+    "Short Description": "When a solar eclipse occurs on a Sunday, it is even more special: `cUDAmaNi`, i.e. crest jewel.",
+    "Shloka": "",
+    "Other Names": "",
+    "Nirnaya": "",
+    "Secondary Reference": "Kielhorn, 1897",
+    "Primary Reference": "",
+    "Comments": ""
+  },
+  "ASADha~amAvasyA": {
+    "Tags": "amavasya-days",
+    "URL": "ashadha-amavasya",
+    "Short Description": "",
+    "Shloka": "",
+    "Other Names": "",
+    "Nirnaya": "",
+    "Secondary Reference": "",
+    "Primary Reference": "",
+    "Comments": ""
+  },
+  "AyuSmAn-bava-saumya": {
+    "Tags": "rare-days",
+    "URL": "ayushman-bava-saumya",
+    "Short Description": "A rare combination of `AyuSmAn yOga, bava karaNa` and `saumyavAsara`. Also a source of the normal blessing 'AyuSmAn bava saumya'!",
+    "Shloka": "",
+    "Other Names": "",
+    "Nirnaya": "",
+    "Secondary Reference": "Maha Periva / Deivattin Kural",
+    "Primary Reference": "",
+    "Comments": ""
+  },
+  "jayantI~mahAdvAdazI": {
+    "Tags": "rare-days",
+    "URL": "jayanti-mahadvadashi",
+    "Short Description": "Dvadashi tithi, combined with Punarvasu nakshatram.",
+    "Shloka": "",
+    "Other Names": "",
+    "Nirnaya": "",
+    "Secondary Reference": "",
+    "Primary Reference": "",
+    "Comments": ""
+  },
+  "jayA~mahAdvAdazI": {
+    "Tags": "rare-days",
+    "URL": "jaya-mahadvadashi",
+    "Short Description": "Dvadashi tithi, combined with Pushya nakshatram.",
+    "Shloka": "",
+    "Other Names": "",
+    "Nirnaya": "",
+    "Secondary Reference": "",
+    "Primary Reference": "",
+    "Comments": ""
+  },
+  "mahAjayA~saptamI": {
+    "Tags": "rare-days",
+    "URL": "mahajaya-saptami",
+    "Short Description": "Saptami tithi, combined with a sankranti.",
+    "Shloka": "",
+    "Other Names": "",
+    "Nirnaya": "",
+    "Secondary Reference": "",
+    "Primary Reference": "",
+    "Comments": ""
+  },
+  "mahOdaya~puNyakAlam": {
+    "Tags": "rare-days",
+    "URL": "mahodaya-punyakalam",
+    "Short Description": "A rare combination of Pausha masam, Shravana nakshatram, Vyatipata yogam and Monday.",
+    "Shloka": "",
+    "Other Names": "",
+    "Nirnaya": "",
+    "Secondary Reference": "",
+    "Primary Reference": "",
+    "Comments": ""
+  },
+  "ardhOdaya~puNyakAlam": {
+    "Tags": "rare-days",
+    "URL": "ardhodaya-punyakalam",
+    "Short Description": "A rare combination of Pausha masam, Shravana nakshatram, Vyatipata yogam and Sunday.",
+    "Shloka": "",
+    "Other Names": "",
+    "Nirnaya": "",
+    "Secondary Reference": "",
+    "Primary Reference": "",
+    "Comments": ""
+  },
+  "pApanAzinI~mahAdvAdazI": {
+    "Tags": "rare-days",
+    "URL": "papanashini-mahadvadashi",
+    "Short Description": "Dvadashi tithi, combined with Rohini nakshatram.",
+    "Shloka": "",
+    "Other Names": "",
+    "Nirnaya": "",
+    "Secondary Reference": "",
+    "Primary Reference": "",
+    "Comments": ""
+  },
+  "pauSa~amAvasyA": {
+    "Tags": "amavasya-days",
+    "URL": "pausha-amavasya",
+    "Short Description": "",
+    "Shloka": "",
+    "Other Names": "",
+    "Nirnaya": "",
+    "Secondary Reference": "",
+    "Primary Reference": "",
+    "Comments": ""
+  },
+  "vAruNI~trayOdazI": {
+    "Tags": "rare-days",
+    "URL": "varuni-trayodashi",
+    "Short Description": "Phalguna Krishna Chaturdashi, combined with Shatabhishak Nakshatram.",
+    "Shloka": "",
+    "Other Names": "",
+    "Nirnaya": "",
+    "Secondary Reference": "",
+    "Primary Reference": "",
+    "Comments": ""
+  },
+  "mahAvAruNI~trayOdazI": {
+    "Tags": "rare-days",
+    "URL": "varuni-trayodashi",
+    "Short Description": "Phalguna Krishna Chaturdashi, combined with Shatabhishak Nakshatram and Saturday.",
+    "Shloka": "",
+    "Other Names": "",
+    "Nirnaya": "",
+    "Secondary Reference": "",
+    "Primary Reference": "",
+    "Comments": ""
+  },
+  "mahAmahAvAruNI~trayOdazI": {
+    "Tags": "rare-days",
+    "URL": "varuni-trayodashi",
+    "Short Description": "Phalguna Krishna Chaturdashi, combined with Shatabhishak Nakshatram, Saturday and Shubha Yogam.",
+    "Shloka": "",
+    "Other Names": "",
+    "Nirnaya": "",
+    "Secondary Reference": "",
+    "Primary Reference": "",
+    "Comments": ""
+  },
+  "vijayA/zravaNa~mahAdvAdazI": {
+    "Tags": "rare-days,special-vratams",
+    "URL": "vijaya-shravana-mahadvadashi",
+    "Short Description": "Dvadashi tithi, combined with Shravana nakshatram.",
+    "Shloka": "",
+    "Other Names": "",
+    "Nirnaya": "",
+    "Secondary Reference": "",
+    "Primary Reference": "",
+    "Comments": ""
+  }
 }

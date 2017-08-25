@@ -29,7 +29,7 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:உந்து மதக்களிற்றன்{}
+SUMMARY:உந்து மதக்களிற்றன்
 DTSTART;VALUE=DATE:20160102
 DTEND;VALUE=DATE:20160103
 UID:undu-madakkalirran-2016-01
@@ -120,8 +120,8 @@ BEGIN:VEVENT
 SUMMARY:पौष अमावस्या
 DTSTART;VALUE=DATE:20160109
 DTEND;VALUE=DATE:20160110
-UID:-2016-01
-DESCRIPTION:http://adyatithih.wordpress.com/
+UID:pausha-amavasya-2016-01
+DESCRIPTION:http://adyatithih.wordpress.com/pausha-amavasya
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -853,11 +853,13 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:महॊदय पुण्यकालम्
+SUMMARY:महोदय पुण्यकालम्
 DTSTART;VALUE=DATE:20160208
 DTEND;VALUE=DATE:20160209
-UID:-2016-02
-DESCRIPTION:http://adyatithih.wordpress.com/
+UID:mahodaya-punyakalam-2016-02
+DESCRIPTION:A rare combination of Pausha masam\, Shravana nakshatram\, Vya
+ tipata yogam and Monday.\n\n\n\nhttp://adyatithih.wordpress.com/mahodaya-p
+ unyakalam
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -1335,8 +1337,9 @@ BEGIN:VEVENT
 SUMMARY:जयन्ती महाद्वादशी
 DTSTART;VALUE=DATE:20160219
 DTEND;VALUE=DATE:20160220
-UID:-2016-02-19
-DESCRIPTION:http://adyatithih.wordpress.com/
+UID:jayanti-mahadvadashi-2016-02
+DESCRIPTION:Dvadashi tithi\, combined with Punarvasu nakshatram.\n\n\n\nht
+ tp://adyatithih.wordpress.com/jayanti-mahadvadashi
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -1699,8 +1702,9 @@ BEGIN:VEVENT
 SUMMARY:विजया/श्रवण महाद्वादशी
 DTSTART;VALUE=DATE:20160306
 DTEND;VALUE=DATE:20160307
-UID:-2016-03
-DESCRIPTION:http://adyatithih.wordpress.com/
+UID:vijaya-shravana-mahadvadashi-2016-03
+DESCRIPTION:Dvadashi tithi\, combined with Shravana nakshatram.\n\n\n\nhtt
+ p://adyatithih.wordpress.com/vijaya-shravana-mahadvadashi
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -2003,8 +2007,10 @@ BEGIN:VEVENT
 SUMMARY:आयुष्मान्-बव-सौम्य
 DTSTART;VALUE=DATE:20160316
 DTEND;VALUE=DATE:20160317
-UID:-2016-03-16
-DESCRIPTION:http://adyatithih.wordpress.com/
+UID:ayushman-bava-saumya-2016-03
+DESCRIPTION:A rare combination of `AyuSmAn yOga\, bava karaNa` and `saumya
+ vAsara`. Also a source of the normal blessing 'AyuSmAn bava saumya'!\n\n\n
+ \nhttp://adyatithih.wordpress.com/ayushman-bava-saumya
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -2428,8 +2434,9 @@ BEGIN:VEVENT
 SUMMARY:वारुणी त्रयोदशी
 DTSTART;VALUE=DATE:20160405
 DTEND;VALUE=DATE:20160406
-UID:-2016-04
-DESCRIPTION:http://adyatithih.wordpress.com/
+UID:varuni-trayodashi-2016-04
+DESCRIPTION:Phalguna Krishna Chaturdashi\, combined with Shatabhishak Naks
+ hatram.\n\n\n\nhttp://adyatithih.wordpress.com/varuni-trayodashi
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -2746,8 +2753,9 @@ BEGIN:VEVENT
 SUMMARY:महाजया सप्तमी
 DTSTART;VALUE=DATE:20160413
 DTEND;VALUE=DATE:20160414
-UID:-2016-04-13
-DESCRIPTION:http://adyatithih.wordpress.com/
+UID:mahajaya-saptami-2016-04
+DESCRIPTION:Saptami tithi\, combined with a sankranti.\n\n\n\nhttp://adyat
+ ithih.wordpress.com/mahajaya-saptami
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -2789,7 +2797,7 @@ SUMMARY:मेष सङ्क्रान्ति (दुर्मुख
  ी-संवत्सरः)
 DTSTART;VALUE=DATE:20160414
 DTEND;VALUE=DATE:20160415
-UID:-2016-04-14
+UID:-2016-04
 DESCRIPTION:http://adyatithih.wordpress.com/
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -4357,8 +4365,10 @@ BEGIN:VEVENT
 SUMMARY:आयुष्मान्-बव-सौम्य
 DTSTART;VALUE=DATE:20160601
 DTEND;VALUE=DATE:20160602
-UID:-2016-06
-DESCRIPTION:http://adyatithih.wordpress.com/
+UID:ayushman-bava-saumya-2016-06
+DESCRIPTION:A rare combination of `AyuSmAn yOga\, bava karaNa` and `saumya
+ vAsara`. Also a source of the normal blessing 'AyuSmAn bava saumya'!\n\n\n
+ \nhttp://adyatithih.wordpress.com/ayushman-bava-saumya
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -6393,8 +6403,8 @@ BEGIN:VEVENT
 SUMMARY:आषाढ (कटक) अमावस्या
 DTSTART;VALUE=DATE:20160802
 DTEND;VALUE=DATE:20160803
-UID:ashadha-(karkataka)-amavasya-2016-08
-DESCRIPTION:http://adyatithih.wordpress.com/ashadha-(karkataka)-amavasya
+UID:ashadha-(kataka)-amavasya-2016-08
+DESCRIPTION:http://adyatithih.wordpress.com/ashadha-(kataka)-amavasya
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -7579,8 +7589,9 @@ BEGIN:VEVENT
 SUMMARY:जयन्ती महाद्वादशी
 DTSTART;VALUE=DATE:20160829
 DTEND;VALUE=DATE:20160830
-UID:-2016-08
-DESCRIPTION:http://adyatithih.wordpress.com/
+UID:jayanti-mahadvadashi-2016-08
+DESCRIPTION:Dvadashi tithi\, combined with Punarvasu nakshatram.\n\n\n\nht
+ tp://adyatithih.wordpress.com/jayanti-mahadvadashi
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -8312,8 +8323,9 @@ BEGIN:VEVENT
 SUMMARY:विजया/श्रवण महाद्वादशी
 DTSTART;VALUE=DATE:20160914
 DTEND;VALUE=DATE:20160915
-UID:-2016-09
-DESCRIPTION:http://adyatithih.wordpress.com/
+UID:vijaya-shravana-mahadvadashi-2016-09
+DESCRIPTION:Dvadashi tithi\, combined with Shravana nakshatram.\n\n\n\nhtt
+ p://adyatithih.wordpress.com/vijaya-shravana-mahadvadashi
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE

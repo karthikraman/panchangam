@@ -46,8 +46,9 @@ BEGIN:VEVENT
 SUMMARY:पापनाशिनी महाद्वादशी
 DTSTART;VALUE=DATE:20150102
 DTEND;VALUE=DATE:20150103
-UID:-2015-01
-DESCRIPTION:http://adyatithih.wordpress.com/
+UID:papanashini-mahadvadashi-2015-01
+DESCRIPTION:Dvadashi tithi\, combined with Rohini nakshatram.\n\n\n\nhttp:
+ //adyatithih.wordpress.com/papanashini-mahadvadashi
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -71,7 +72,7 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:உந்து மதக்களிற்றன்{}
+SUMMARY:உந்து மதக்களிற்றந்
 DTSTART;VALUE=DATE:20150102
 DTEND;VALUE=DATE:20150103
 UID:undu-madakkalirran-2015-01
@@ -1581,8 +1582,9 @@ BEGIN:VEVENT
 SUMMARY:जया महाद्वादशी
 DTSTART;VALUE=DATE:20150302
 DTEND;VALUE=DATE:20150303
-UID:-2015-03
-DESCRIPTION:http://adyatithih.wordpress.com/
+UID:jaya-mahadvadashi-2015-03
+DESCRIPTION:Dvadashi tithi\, combined with Pushya nakshatram.\n\n\n\nhttp:
+ //adyatithih.wordpress.com/jaya-mahadvadashi
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -1880,8 +1882,9 @@ BEGIN:VEVENT
 SUMMARY:विजया/श्रवण महाद्वादशी
 DTSTART;VALUE=DATE:20150317
 DTEND;VALUE=DATE:20150318
-UID:-2015-03-17
-DESCRIPTION:http://adyatithih.wordpress.com/
+UID:vijaya-shravana-mahadvadashi-2015-03
+DESCRIPTION:Dvadashi tithi\, combined with Shravana nakshatram.\n\n\n\nhtt
+ p://adyatithih.wordpress.com/vijaya-shravana-mahadvadashi
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -4425,13 +4428,13 @@ DTSTART;VALUE=DATE:20150528
 DTEND;VALUE=DATE:20150529
 UID:dashahara-gangavataranam-2015-05
 DESCRIPTION:Avataranam of Ganga Devi. Bathe in any river and offer arghyam
-  â€” destroys 10 types of sins (`dazaharA`).\n\nदशम्यां
-  शुक्लपक्षे तु ज्येष्ठे मास
- े कुजे दिने।\nगङ्गाऽवतीर्णा 
- हस्तर्क्षे सर्वपापहरा स्मृ
- ता॥\n\nयां काञ्चित् सरितं प्र
- ाप्य दद्यादर्घ्यं शुभोदकम्
-  ।\nमुच्यते दशभिः पापैः स महा
+  — destroys 10 types of sins (`dazaharA`).\n\nदशम्यां श
+ ुक्लपक्षे तु ज्येष्ठे मासे 
+ कुजे दिने।\nगङ्गाऽवतीर्णा ह
+ स्तर्क्षे सर्वपापहरा स्मृत
+ ा॥\n\nयां काञ्चित् सरितं प्रा
+ प्य दद्यादर्घ्यं शुभोदकम् 
+ ।\nमुच्यते दशभिः पापैः स महा
  पातकोपमैः॥\n\nhttp://adyatithih.wordpress.com/dashahar
  a-gangavataranam
 TRANSP:TRANSPARENT
@@ -5896,8 +5899,9 @@ BEGIN:VEVENT
 SUMMARY:पापनाशिनी महाद्वादशी
 DTSTART;VALUE=DATE:20150713
 DTEND;VALUE=DATE:20150714
-UID:-2015-07
-DESCRIPTION:http://adyatithih.wordpress.com/
+UID:papanashini-mahadvadashi-2015-07
+DESCRIPTION:Dvadashi tithi\, combined with Rohini nakshatram.\n\n\n\nhttp:
+ //adyatithih.wordpress.com/papanashini-mahadvadashi
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -5924,8 +5928,8 @@ BEGIN:VEVENT
 SUMMARY:आषाढ अमावस्या
 DTSTART;VALUE=DATE:20150715
 DTEND;VALUE=DATE:20150716
-UID:-2015-07-15
-DESCRIPTION:http://adyatithih.wordpress.com/
+UID:ashadha-amavasya-2015-07
+DESCRIPTION:http://adyatithih.wordpress.com/ashadha-amavasya
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -7489,8 +7493,9 @@ BEGIN:VEVENT
 SUMMARY:जया महाद्वादशी
 DTSTART;VALUE=DATE:20150909
 DTEND;VALUE=DATE:20150910
-UID:-2015-09
-DESCRIPTION:http://adyatithih.wordpress.com/
+UID:jaya-mahadvadashi-2015-09
+DESCRIPTION:Dvadashi tithi\, combined with Pushya nakshatram.\n\n\n\nhttp:
+ //adyatithih.wordpress.com/jaya-mahadvadashi
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -11080,6 +11085,25 @@ UID:kanchi-64-jagadguru-shri-chandrashekharendra-sarasvati-6-aradhana-2015
  -11
 DESCRIPTION:http://adyatithih.wordpress.com/kanchi-64-jagadguru-shri-chand
  rashekharendra-sarasvati-6-aradhana
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:कार्तिक पूर्णिमा स्नानम
+ ्
+DTSTART;VALUE=DATE:20151126
+DTEND;VALUE=DATE:20151127
+UID:a-ka-ma-vai-snanam-2015-11
+DESCRIPTION:Perform snana four ghatikas before sunrise (during `aruNodayam
+ `\, when the Moon is still up\, on the full-moon days of `ASADha`\, `kArti
+ ka`\, `mAgha` and `vaizAkha` – hence the name `A-kA-mA-vai`) bestows str
+ ength\, beauty\, fame\, dharma\, knowledge\, happiness\, fortitude and hea
+ lth.\n\n\n\nhttp://adyatithih.wordpress.com/a-ka-ma-vai-snanam
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE

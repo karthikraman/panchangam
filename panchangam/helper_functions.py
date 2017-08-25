@@ -124,7 +124,7 @@ def dn2tam(dn_text):
         else:
             tam_text += '!'  # Noting errors with !
             sys.stderr.write('Unknown character in input! %s\n' % char)
-    return tam_text  # .replace(' ன', ' ந').replace('-ன', 'ந')
+    return tam_text.strip('{}')  # .replace(' ன', ' ந').replace('-ன', 'ந')
 
 
 def tr(text, scr, titled=True, fontize=False):
