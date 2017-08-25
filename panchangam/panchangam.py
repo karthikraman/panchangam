@@ -383,6 +383,9 @@ class panchangam:
             self.fest_days[festival_name] = [d]
 
     def computeFestivals(self):
+        # debugFestivals = True
+        debugFestivals = False
+
         for d in range(1, MAX_DAYS + 1):
             [y, m, dt, t] = swe.revjul(self.jd_start + d - 1)
 
@@ -450,8 +453,8 @@ class panchangam:
                         self.festivals[d].append('sarva~guruvAyupura~EkAdazI')
 
                 # Harivasara Computation
-                harivasara_end = brentq(get_angam_float, self.jd_sunrise[d - 2],
-                                        self.jd_sunrise[d - 2] + 4, args=(TITHI_PADA, -45, False))
+                harivasara_end = brentq(get_angam_float, self.jd_sunrise[d] - 2,
+                                        self.jd_sunrise[d] + 2, args=(TITHI_PADA, -45, False))
                 [_y, _m, _d, _t] = swe.revjul(harivasara_end + (tz_off / 24.0))
                 hariv_end_time = time(swe.revjul(harivasara_end + (tz_off / 24.0))[3]).toString()
 
@@ -766,16 +769,46 @@ class panchangam:
                 if get_angam(self.jd_sunrise[d], KARANAM) in list(range(2, 52, 7)):
                     self.addFestival('AyuSmAn-bava-saumya', d, debugFestivals)
 
-            # debugFestivals = True
-            debugFestivals = False
-
+            # VYATIPATAM
             if get_angam(self.jd_sunrise[d], YOGAM) == 17 and self.solar_month[d] == 9:
                 self.addFestival('mahAdhanurvyatIpAtam', d, debugFestivals)
 
             if get_angam(self.jd_sunrise[d], YOGAM) == 17 and self.solar_month[d] == 6:
                 self.addFestival('mahAvyatIpAtam', d, debugFestivals)
 
-            # BHANU SAPTAMI
+
+            # 8 MAHA DWADASHIS
+            if (self.jd_sunrise[d] % 15) == 11 and (self.jd_sunrise[d + 1] % 15) == 11:
+                self.addFestival('unmIlanI~mahAdvAdazI', d + 1, debugFestivals)
+
+            if (self.jd_sunrise[d] % 15) == 12 and (self.jd_sunrise[d + 1] % 15) == 12:
+                self.addFestival('vyaJjulI~mahAdvAdazI', d, debugFestivals)
+
+            if (self.jd_sunrise[d] % 15) == 11 and (self.jd_sunrise[d + 1] % 15) == 13:
+                self.addFestival('trispRzA~mahAdvAdazI', d, debugFestivals)
+
+            if (self.jd_sunrise[d] % 15) == 0 and (self.jd_sunrise[d + 1] % 15) == 0:
+                if (d - 3) > 0:
+                    self.addFestival('pakSavardhinI~mahAdvAdazI', d - 3, debugFestivals)
+
+            if get_angam(self.jd_sunrise[d], NAKSHATRAM) == 4 and\
+               (self.tithi_sunrise[d] % 15) == 12:
+                self.addFestival('pApanAzinI~mahAdvAdazI', d, debugFestivals)
+
+            if get_angam(self.jd_sunrise[d], NAKSHATRAM) == 7 and\
+               (self.tithi_sunrise[d] % 15) == 12:
+                self.addFestival('jayantI~mahAdvAdazI', d, debugFestivals)
+
+            if get_angam(self.jd_sunrise[d], NAKSHATRAM) == 8 and\
+               (self.tithi_sunrise[d] % 15) == 12:
+                self.addFestival('jayA~mahAdvAdazI', d, debugFestivals)
+
+            if get_angam(self.jd_sunrise[d], NAKSHATRAM) == 22 and\
+               (self.tithi_sunrise[d] % 15) == 12:
+                self.addFestival('vijayA/zravaNa~mahAdvAdazI', d, debugFestivals)
+
+
+            # SPECIAL SAPTAMIs
             if self.weekday[d] == 0 and (self.tithi_sunrise[d] % 15) == 7:
                 festival_name = 'bhAnusaptamI'
                 if self.tithi_sunrise[d] == 7:
@@ -784,6 +817,26 @@ class panchangam:
                     # Even more auspicious!
                     festival_name += '*'
                 self.addFestival(festival_name, d, debugFestivals)
+
+            if get_angam(self.jd_sunrise[d], NAKSHATRA_PADA) == 49 and\
+               self.tithi_sunrise[d] == 7:
+                self.addFestival('bhadrA~saptamI', d, debugFestivals)
+
+            if self.month_data[d].find('RIGHTarrow') != -1:
+                # we have a Sankranti!
+                if self.tithi_sunrise[d] == 7:
+                    self.addFestival('mahAjayA~saptamI', d, debugFestivals)
+
+            # VARUNI TRAYODASHI
+            if self.lunar_month[d] == 12 and self.tithi_sunrise[d] == 28:
+                if get_angam(self.jd_sunrise[d], NAKSHATRAM) == 24:
+                    vtr_name = 'vAruNI~trayOdazI'
+                    if self.weekday[d] == 6:
+                        vtr_name = 'mahA' + vtr_name
+                        if get_angam(self.jd_sunrise[d], YOGAM) == 23:
+                            pref = 'mahA' + vtr_name
+                    self.addFestival(vtr_name, d, debugFestivals)
+
 
             # SOMAMAVASYA
             if self.weekday[d] == 1 and self.tithi_sunrise[d] == 30:
@@ -890,7 +943,7 @@ class panchangam:
                 if 'kala' in festival_rules[festival_name]:
                     kala = festival_rules[festival_name]['kala']
                 else:
-                    kala = 'sunrise'
+                    kala = 'sunrise'  # default!
                 if 'priority' in festival_rules[festival_name]:
                     priority = festival_rules[festival_name]['priority']
                 else:
@@ -990,6 +1043,16 @@ class panchangam:
                                 fday = d
                             if angams[2] == angam_num or angams[3] == angam_num:
                                 fday = d + 1
+
+                            if fday is None:
+                                if festival_name not in self.fest_days:
+                                    sys.stderr.write('%d: %s\n' % (d, angams))
+                                    if angams[1] == angam_num + 1:
+                                        # This can fail for "boundary" angam_nums like 1 and 30!
+                                        fday = d  # Should be d - 1?
+                                        sys.stderr.write('Assigned paraviddha day for %s as %d with difficulty!' %
+                                                         (festival_name, fday) + ' Please check for unusual cases.\n')
+
                             if fday is None:
                                 if debugFestivals:
                                     print('%', angams, angam_num)
@@ -1160,6 +1223,8 @@ class panchangam:
                 solar_eclipse_str = 'sUrya-grahaNam' +\
                     '~\\textsf{' + time(eclipse_solar_start).toString() +\
                     '}{\\RIGHTarrow}\\textsf{' + time(eclipse_solar_end).toString() + '}'
+                if self.weekday[fday] == 0:
+                    solar_eclipse_str = '*cUDAmaNi~' + solar_eclipse_str
                 self.festivals[fday].append(solar_eclipse_str)
             jd = jd + MIN_DAYS_NEXT_ECL
 
@@ -1235,6 +1300,8 @@ class panchangam:
                 lunar_eclipse_str = 'candra-grahaNam' +\
                     '~\\textsf{' + time(eclipse_lunar_start).toString() +\
                     '}{\\RIGHTarrow}\\textsf{' + time(eclipse_lunar_end).toString() + '}'
+                if self.weekday[fday] == 1:
+                    lunar_eclipse_str = '*cUDAmaNi~' + lunar_eclipse_str
 
                 self.festivals[fday].append(lunar_eclipse_str)
             jd += MIN_DAYS_NEXT_ECL
