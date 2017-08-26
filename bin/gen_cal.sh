@@ -43,7 +43,7 @@ fi
 cd ../../panchangam/
 
 echo -ne "Computing $y daily panchangam for $city_name ($lat,$lon) - $tz in $script script... "
-./write_daily_panchangam_tex.py $city_name $lat $lon $tz $y $script > ../tex/data/daily-cal-$y-$city_name-$scr.tex
+python3 -m jyotisha.panchangam.scripts.write_daily_panchangam_tex $city_name $lat $lon $tz $y $script > ../tex/data/daily-cal-$y-$city_name-$scr.tex
 if [[ $? -eq 0 ]]
 then
   mv cal-*-log* debug_logs/
