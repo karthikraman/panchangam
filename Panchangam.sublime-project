@@ -12,7 +12,15 @@
 	[
 		{
 			"path": "."
+		},
+		{
+			"path": "D:\\Karthik\\GitHub\\jyotisha"
 		}
 	],
-	"rulers": [72,79,99]
+	"rulers":
+	[
+		72,
+		79,
+		99
+	]
 }
