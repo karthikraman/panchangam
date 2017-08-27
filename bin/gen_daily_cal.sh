@@ -35,7 +35,7 @@ scr=${script:0:4}
 echo "Computing $y daily panchangam for $city_name ($lat,$lon) - $tz in $script script... "
 echo "***"
 cd ../panchangam/
-python3 -m jyotisha.panchangam.scripts.write_daily_panchangam_tex $city_name $lat $lon $tz $y $script $lagna > ../tex/data/daily-cal-$y-$city_name-$scr.tex
+python3 -m jyotisha.panchangam.scripts.write_daily_panchangam_tex $city_name $lat $lon $tz $y $script $lagna > /tmp/daily-cal-$y-$city_name-$scr.tex
 # mv -f cal-*-log* debug_logs/
 
 if [[ $? -eq 0 ]]
@@ -43,11 +43,11 @@ then
   echo "***"
   echo "Completed panchangam computation successfully!"
   echo -ne "Generating PDF (log --> /tmp/cal-$y-$city_name-$scr.texlog)... "
-  cd ../tex/data/
+  cd /tmp
   xelatex -halt-on-error daily-cal-$y-$city_name-$scr.tex > /tmp/cal-$y-$city_name-$scr.texlog
   if [[ $? -eq 0 ]]
     then
-    mv daily-cal-$y-$city_name-$scr.pdf ../../pdf/
+    mv daily-cal-$y-$city_name-$scr.pdf ~/Documents/
     echo "done! Check out ../pdf/daily-cal-$y-$city_name-$scr.pdf."
   else
     echo
