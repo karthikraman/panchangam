@@ -46,7 +46,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:काञ्ची 55 जगद्गुरु श्री चन
  ्द्रचूडेन्द्र सरस्वती 2 आरा
- धना-#{493}
+ धना #{493}
 DTSTART;VALUE=DATE:20170108
 DTEND;VALUE=DATE:20170109
 UID:kanchi-55-jagadguru-shri-chandrachudendra-sarasvati-2-aradhana-2017-01
@@ -61,7 +61,7 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:मन्वादि-(चाक्षुष)-
+SUMMARY:मन्वादि-(चाक्षुष)
 DTSTART;VALUE=DATE:20170108
 DTEND;VALUE=DATE:20170109
 UID:manvadi-chakshusha-2017-01
@@ -148,7 +148,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:काञ्ची 8 जगद्गुरु श्री कै
  वल्यानन्दयोगेन्द्र सरस्वत
- ी आराधना-#{1988}
+ ी आराधना #{1988}
 DTSTART;VALUE=DATE:20170111
 DTEND;VALUE=DATE:20170112
 UID:kanchi-8-jagadguru-shri-kaivalyanandayogendra-sarasvati-aradhana-2017-
@@ -215,7 +215,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:बदर्यां-ज्योतिर्मठ-प्रत
- िष्ठापन-जयन्ती-#{2502}
+ िष्ठापन-जयन्ती #{2502}
 DTSTART;VALUE=DATE:20170112
 DTEND;VALUE=DATE:20170113
 UID:badaryam-jyotirmatha-pratishthapana-jayanti-2017-01
@@ -231,7 +231,7 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:रमण-महर्षि-जयन्ती-#{138}
+SUMMARY:रमण-महर्षि-जयन्ती #{138}
 DTSTART;VALUE=DATE:20170112
 DTEND;VALUE=DATE:20170113
 UID:ramana-maharshi-jayanti-2017-01
@@ -275,7 +275,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:शृङ्गेर्यां-शारदा-मठ-प्र
- तिष्ठापन-जयन्ती-#{2500}
+ तिष्ठापन-जयन्ती #{2500}
 DTSTART;VALUE=DATE:20170112
 DTEND;VALUE=DATE:20170113
 UID:shringeryam-sharada-matha-pratishthapana-jayanti-2017-01
@@ -307,7 +307,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:काञ्ची 62 जगद्गुरु श्री चन
  ्द्रशेखरेन्द्र सरस्वती 5 आर
- ाधना-#{234}
+ ाधना #{234}
 DTSTART;VALUE=DATE:20170113
 DTEND;VALUE=DATE:20170114
 UID:kanchi-62-jagadguru-shri-chandrashekharendra-sarasvati-5-aradhana-2017
@@ -325,7 +325,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:काञ्ची 37 जगद्गुरु श्री वि
  द्याघनेन्द्र सरस्वती 3 आराध
- ना-#{1229}
+ ना #{1229}
 DTSTART;VALUE=DATE:20170114
 DTEND;VALUE=DATE:20170115
 UID:kanchi-37-jagadguru-shri-vidyaghanendra-sarasvati-3-aradhana-2017-01
@@ -463,7 +463,7 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:त्यागराज-आराधना-#{170}
+SUMMARY:त्यागराज-आराधना #{170}
 DTSTART;VALUE=DATE:20170117
 DTEND;VALUE=DATE:20170118
 UID:tyagaraja-aradhana-2017-01
@@ -482,7 +482,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:श्री-शेषाद्रि-स्वामी-जयन
- ्ती-#{148}
+ ्ती #{148}
 DTSTART;VALUE=DATE:20170118
 DTEND;VALUE=DATE:20170119
 UID:shri-sheshadri-svami-jayanti-2017-01
@@ -500,7 +500,7 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:विवेकानन्द-जयन्ती-#{155}
+SUMMARY:विवेकानन्द-जयन्ती #{155}
 DTSTART;VALUE=DATE:20170119
 DTEND;VALUE=DATE:20170120
 UID:vivekananda-jayanti-2017-01
@@ -806,7 +806,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:द्वारका-मठ-प्रतिष्ठापन-ज
- यन्ती-#{2507}
+ यन्ती #{2507}
 DTSTART;VALUE=DATE:20170203
 DTEND;VALUE=DATE:20170204
 UID:dvaraka-matha-pratishthapana-jayanti-2017-02
@@ -954,7 +954,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:काञ्ची 11 जगद्गुरु श्री शि
  वानन्द चिद्घनेन्द्र सरस्वत
- ी आराधना-#{1845}
+ ी आराधना #{1845}
 DTSTART;VALUE=DATE:20170206
 DTEND;VALUE=DATE:20170207
 UID:kanchi-11-jagadguru-shri-shivananda-chidghanendra-sarasvati-aradhana-2
@@ -1165,7 +1165,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:काञ्ची 51 जगद्गुरु श्री वि
  द्यातीर्थेन्द्र सरस्वती आर
- ाधना-#{632}
+ ाधना #{632}
 DTSTART;VALUE=DATE:20170211
 DTEND;VALUE=DATE:20170212
 UID:kanchi-51-jagadguru-shri-vidyatirthendra-sarasvati-aradhana-2017-02
@@ -1318,7 +1318,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:काञ्ची 66 जगद्गुरु श्री चन
  ्द्रशेखरेन्द्र सरस्वती 7 आर
- ाधना-#{110}
+ ाधना #{110}
 DTSTART;VALUE=DATE:20170218
 DTEND;VALUE=DATE:20170219
 UID:kanchi-66-jagadguru-shri-chandrashekharendra-sarasvati-7-aradhana-2017
@@ -1394,7 +1394,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:काञ्ची जगद्गुरु श्री शङ्
  कर विजयेन्द्र सरस्वती जयन्
- ती-#{49}
+ ती #{49}
 DTSTART;VALUE=DATE:20170223
 DTEND;VALUE=DATE:20170224
 UID:kanchi-jagadguru-shri-shankara-vijayendra-sarasvati-jayanti-2017-02
@@ -1482,7 +1482,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:काञ्ची 67 जगद्गुरु श्री मह
- ादेवेन्द्र सरस्वती 5 आराधना-
+ ादेवेन्द्र सरस्वती 5 आराधना 
  #{110}
 DTSTART;VALUE=DATE:20170227
 DTEND;VALUE=DATE:20170228
@@ -1534,7 +1534,7 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:रामकृष्ण-परमहंस-जयन्ती-#{1
+SUMMARY:रामकृष्ण-परमहंस-जयन्ती #{1
  82}
 DTSTART;VALUE=DATE:20170228
 DTEND;VALUE=DATE:20170301
@@ -1566,7 +1566,7 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:पून्तानं-जयन्ती-#{470}
+SUMMARY:पून्तानं-जयन्ती #{470}
 DTSTART;VALUE=DATE:20170302
 DTEND;VALUE=DATE:20170303
 UID:puntanam-jayanti-2017-03
@@ -1600,7 +1600,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:श्री-राघवेन्द्र-स्वामी-ज
- यन्ती-#{423}
+ यन्ती #{423}
 DTSTART;VALUE=DATE:20170304
 DTEND;VALUE=DATE:20170305
 UID:shri-raghavendra-svami-jayanti-2017-03
@@ -1717,7 +1717,7 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:நடராஜர் மஹாபிஷேகம்-
+SUMMARY:நடராஜர் மஹாபிஷேகம்
 DTSTART;VALUE=DATE:20170311
 DTEND;VALUE=DATE:20170312
 UID:natarajar-mahabhishekam-2017-03
@@ -1731,7 +1731,7 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:चैतन्य-महाप्रभु-जयन्ती-#{5
+SUMMARY:चैतन्य-महाप्रभु-जयन्ती #{5
  32}
 DTSTART;VALUE=DATE:20170312
 DTEND;VALUE=DATE:20170313
@@ -1832,7 +1832,7 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:छत्रपति-शिवाजी-जयन्ती-#{388}
+SUMMARY:छत्रपति-शिवाजी-जयन्ती #{388}
 DTSTART;VALUE=DATE:20170315
 DTEND;VALUE=DATE:20170316
 UID:chhatrapati-shivaji-jayanti-2017-03
@@ -1974,7 +1974,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:काञ्ची 65 जगद्गुरु श्री सु
  दर्शन महादेवेन्द्र सरस्वती
-  आराधना-#{127}
+  आराधना #{127}
 DTSTART;VALUE=DATE:20170327
 DTEND;VALUE=DATE:20170328
 UID:kanchi-65-jagadguru-shri-sudarshana-mahadevendra-sarasvati-aradhana-20
@@ -2006,7 +2006,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:काञ्ची 15 जगद्गुरु श्री गङ
  ्गाधरेन्द्र सरस्वती आराधना
- -#{1688}
+  #{1688}
 DTSTART;VALUE=DATE:20170328
 DTEND;VALUE=DATE:20170329
 UID:kanchi-15-jagadguru-shri-gangadharendra-sarasvati-aradhana-2017-03
@@ -2023,7 +2023,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:काञ्ची 27 जगद्गुरु श्री चि
  द्विलसेन्द्र सरस्वती आराधन
- ा-#{1440}
+ ा #{1440}
 DTSTART;VALUE=DATE:20170328
 DTEND;VALUE=DATE:20170329
 UID:kanchi-27-jagadguru-shri-chidvilasendra-sarasvati-aradhana-2017-03
@@ -2040,7 +2040,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:काञ्ची 52 जगद्गुरु श्री सङ
  ्करानन्देन्द्र सरस्वती आरा
- धना-#{600}
+ धना #{600}
 DTSTART;VALUE=DATE:20170328
 DTEND;VALUE=DATE:20170329
 UID:kanchi-52-jagadguru-shri-sankaranandendra-sarasvati-aradhana-2017-03
@@ -2055,7 +2055,7 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:मन्वादि-(तामस)-
+SUMMARY:मन्वादि-(तामस)
 DTSTART;VALUE=DATE:20170328
 DTEND;VALUE=DATE:20170329
 UID:manvadi-tamasa-2017-03
@@ -2147,7 +2147,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:काञ्ची 60 जगद्गुरु श्री अद
  ्वैतात्मप्रकाशेन्द्र सरस्
- वती आराधना-#{314}
+ वती आराधना #{314}
 DTSTART;VALUE=DATE:20170329
 DTEND;VALUE=DATE:20170330
 UID:kanchi-60-jagadguru-shri-advaitatmaprakashendra-sarasvati-aradhana-201
@@ -2177,7 +2177,7 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:मन्वादि-(उत्तम)-
+SUMMARY:मन्वादि-(उत्तम)
 DTSTART;VALUE=DATE:20170330
 DTEND;VALUE=DATE:20170331
 UID:manvadi-uttama-2017-03
@@ -2206,7 +2206,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:मुत्तुस्वामी-दीक्षित-जय
- न्ती-#{243}
+ न्ती #{243}
 DTSTART;VALUE=DATE:20170331
 DTEND;VALUE=DATE:20170401
 UID:muttusvami-dikshita-jayanti-2017-03
@@ -2363,7 +2363,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:काञ्ची 43 जगद्गुरु श्री आन
  न्दघनेन्द्र सरस्वती आराधना
- -#{1004}
+  #{1004}
 DTSTART;VALUE=DATE:20170404
 DTEND;VALUE=DATE:20170405
 UID:kanchi-43-jagadguru-shri-anandaghanendra-sarasvati-aradhana-2017-04
@@ -2636,7 +2636,7 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:கபாலீ உமா-மஹெஶ்வர தரிசனம
+SUMMARY:கபாலீ உமா-மஹேஶ்வர தரிசனம
  ்
 DTSTART;VALUE=DATE:20170410
 DTEND;VALUE=DATE:20170411
@@ -2696,7 +2696,7 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:गजेन्द्र-मोक्षः-
+SUMMARY:गजेन्द्र-मोक्षः
 DTSTART;VALUE=DATE:20170411
 DTEND;VALUE=DATE:20170412
 UID:gajendra-moksha-2017-04
@@ -2724,7 +2724,7 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:मन्वादि-(स्वारोचिष)-
+SUMMARY:मन्वादि-(स्वारोचिष)
 DTSTART;VALUE=DATE:20170411
 DTEND;VALUE=DATE:20170412
 UID:manvadi-svarochisha-2017-04
@@ -2738,13 +2738,13 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:श्री-हनूमत्-जयन्ती-
+SUMMARY:श्री-हनूमत्-जयन्ती
 DTSTART;VALUE=DATE:20170411
 DTEND;VALUE=DATE:20170412
-UID:shri-hanumat-jayanti-2-2017-04
+UID:shri-hanumat-jayanti~2-2017-04
 DESCRIPTION:Hanuman born from Kaikeyi part of Payasam taken by Vulture and
   eaten by Anjana Devi\n\n\n\nhttp://adyatithih.wordpress.com/shri-hanumat-
- jayanti
+ jayanti~
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -2847,7 +2847,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:काञ्ची 56 जगद्गुरु श्री सर
  ्वज्ञ सदाशिव बोधेन्द्र सरस
- ्वती आराधना-#{479}
+ ्वती आराधना #{479}
 DTSTART;VALUE=DATE:20170419
 DTEND;VALUE=DATE:20170420
 UID:kanchi-56-jagadguru-shri-sarvajna-sadashiva-bodhendra-sarasvati-aradha
@@ -2923,7 +2923,7 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:वल्लभाचार्य-जयन्ती-#{539}
+SUMMARY:वल्लभाचार्य-जयन्ती #{539}
 DTSTART;VALUE=DATE:20170422
 DTEND;VALUE=DATE:20170423
 UID:vallabhacharya-jayanti-2017-04
@@ -2951,7 +2951,7 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:रमण-महर्षि-आराधना-#{67}
+SUMMARY:रमण-महर्षि-आराधना #{67}
 DTSTART;VALUE=DATE:20170424
 DTEND;VALUE=DATE:20170425
 UID:ramana-maharshi-aradhana-2017-04
@@ -3040,7 +3040,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:काञ्ची 47 जगद्गुरु श्री चन
  ्द्रशेखरेन्द्र सरस्वती 4 आर
- ाधना-#{852}
+ ाधना #{852}
 DTSTART;VALUE=DATE:20170426
 DTEND;VALUE=DATE:20170427
 UID:kanchi-47-jagadguru-shri-chandrashekharendra-sarasvati-4-aradhana-2017
@@ -3119,7 +3119,7 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:परशुराम-जयन्ती-
+SUMMARY:परशुराम-जयन्ती
 DTSTART;VALUE=DATE:20170428
 DTEND;VALUE=DATE:20170429
 UID:parashurama-jayanti-2017-04
@@ -3148,7 +3148,7 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:श्यामा-शास्त्री-जयन्ती-#{2
+SUMMARY:श्यामा-शास्त्री-जयन्ती #{2
  56}
 DTSTART;VALUE=DATE:20170428
 DTEND;VALUE=DATE:20170429
@@ -3238,7 +3238,7 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:सूरदास-जयन्ती-#{540}
+SUMMARY:सूरदास-जयन्ती #{540}
 DTSTART;VALUE=DATE:20170430
 DTEND;VALUE=DATE:20170501
 UID:suradasa-jayanti-2017-04
@@ -3252,7 +3252,7 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:सर्प-पूजा-
+SUMMARY:सर्प-पूजा
 DTSTART;VALUE=DATE:20170430
 DTEND;VALUE=DATE:20170501
 UID:sarpa-puja-2017-04
@@ -3267,7 +3267,7 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:शङ्कर-जयन्ती-#{2526}
+SUMMARY:शङ्कर-जयन्ती #{2526}
 DTSTART;VALUE=DATE:20170430
 DTEND;VALUE=DATE:20170501
 UID:shankara-jayanti-2017-04
@@ -3297,7 +3297,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:काञ्ची 40 जगद्गुरु श्री मह
- ादेवेन्द्र सरस्वती 2 आराधना-
+ ादेवेन्द्र सरस्वती 2 आराधना 
  #{1103}
 DTSTART;VALUE=DATE:20170501
 DTEND;VALUE=DATE:20170502
@@ -3313,7 +3313,7 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:रामानुज-जयन्ती-#{1001}
+SUMMARY:रामानुज-जयन्ती #{1001}
 DTSTART;VALUE=DATE:20170501
 DTEND;VALUE=DATE:20170502
 UID:ramanuja-jayanti-2017-05
@@ -3359,7 +3359,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:काञ्ची 23 जगद्गुरु श्री सच
  ्चित्सुखेन्द्र सरस्वती आरा
- धना-#{1506}
+ धना #{1506}
 DTSTART;VALUE=DATE:20170502
 DTEND;VALUE=DATE:20170503
 UID:kanchi-23-jagadguru-shri-sachchitsukhendra-sarasvati-aradhana-2017-05
@@ -3374,7 +3374,7 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:त्यागराज-जयन्ती-#{251}
+SUMMARY:त्यागराज-जयन्ती #{251}
 DTSTART;VALUE=DATE:20170502
 DTEND;VALUE=DATE:20170503
 UID:tyagaraja-jayanti-2017-05
@@ -3458,7 +3458,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:काञ्ची 26 जगद्गुरु श्री प्
  रज्ञाघनेन्द्र सरस्वती आराध
- ना-#{1454}
+ ना #{1454}
 DTSTART;VALUE=DATE:20170503
 DTEND;VALUE=DATE:20170504
 UID:kanchi-26-jagadguru-shri-prajnaaghanendra-sarasvati-aradhana-2017-05
@@ -3488,7 +3488,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:पूर्यां-गोवर्धन-मठ-प्रति
- ष्ठापन-जयन्ती-#{2502}
+ ष्ठापन-जयन्ती #{2502}
 DTSTART;VALUE=DATE:20170504
 DTEND;VALUE=DATE:20170505
 UID:puryam-govardhana-matha-pratishthapana-jayanti-2017-05
@@ -3694,7 +3694,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:काञ्ची 39 जगद्गुरु श्री सच
  ्चिद्विलासेन्द्र सरस्वती आ
- राधना-#{1145}
+ राधना #{1145}
 DTSTART;VALUE=DATE:20170510
 DTEND;VALUE=DATE:20170511
 UID:kanchi-39-jagadguru-shri-sachchidvilasendra-sarasvati-aradhana-2017-05
@@ -3710,7 +3710,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:काञ्ची-कामकोटि-मठ-प्रतिष
- ्ठापन-जयन्ती-#{2499}
+ ्ठापन-जयन्ती #{2499}
 DTSTART;VALUE=DATE:20170510
 DTEND;VALUE=DATE:20170511
 UID:kanchi-kamakoti-matha-pratishthapana-jayanti-2017-05
@@ -3827,7 +3827,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:काञ्ची 30 जगद्गुरु श्री बो
- धेन्द्र सरस्वती 2 आराधना-#{1363}
+ धेन्द्र सरस्वती 2 आराधना #{1363}
 DTSTART;VALUE=DATE:20170514
 DTEND;VALUE=DATE:20170515
 UID:kanchi-30-jagadguru-shri-bodhendra-sarasvati-2-aradhana-2017-05
@@ -3919,7 +3919,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:काञ्ची 7 जगद्गुरु श्री आन
  न्दघनेन्द्र सरस्वती आराधना
- -#{2072}
+  #{2072}
 DTSTART;VALUE=DATE:20170520
 DTEND;VALUE=DATE:20170521
 UID:kanchi-7-jagadguru-shri-anandaghanendra-sarasvati-aradhana-2017-05
@@ -3994,7 +3994,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:काञ्ची 3 जगद्गुरु श्री सर
  ्वज्ञात्मेन्द्र सरस्वती आर
- ाधना-#{2381}
+ ाधना #{2381}
 DTSTART;VALUE=DATE:20170524
 DTEND;VALUE=DATE:20170525
 UID:kanchi-3-jagadguru-shri-sarvajnatmendra-sarasvati-aradhana-2017-05
@@ -4282,7 +4282,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:काञ्ची 50 जगद्गुरु श्री चन
  ्द्रचूडेन्द्र सरस्वती 1 आरा
- धना-#{721}
+ धना #{721}
 DTSTART;VALUE=DATE:20170530
 DTEND;VALUE=DATE:20170531
 UID:kanchi-50-jagadguru-shri-chandrachudendra-sarasvati-1-aradhana-2017-05
@@ -4299,7 +4299,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:काञ्ची 6 जगद्गुरु श्री शु
  द्धानन्देन्द्र सरस्वती आरा
- धना-#{2141}
+ धना #{2141}
 DTSTART;VALUE=DATE:20170530
 DTEND;VALUE=DATE:20170531
 UID:kanchi-6-jagadguru-shri-shuddhanandendra-sarasvati-aradhana-2017-05
@@ -4390,7 +4390,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:काञ्ची 16 जगद्गुरु श्री उज
  ्ज्वल शङ्करेन्द्र सरस्वती 
- आराधना-#{1651}
+ आराधना #{1651}
 DTSTART;VALUE=DATE:20170601
 DTEND;VALUE=DATE:20170602
 UID:kanchi-16-jagadguru-shri-ujjvala-shankarendra-sarasvati-aradhana-2017-
@@ -4436,7 +4436,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:काञ्ची 61 जगद्गुरु श्री मह
- ादेवेन्द्र सरस्वती 4 आराधना-
+ ादेवेन्द्र सरस्वती 4 आराधना 
  #{272}
 DTSTART;VALUE=DATE:20170602
 DTEND;VALUE=DATE:20170603
@@ -4468,7 +4468,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:काञ्ची 17 जगद्गुरु श्री सद
- ाशिवेन्द्र सरस्वती आराधना-#{
+ ाशिवेन्द्र सरस्वती आराधना #{
  1643}
 DTSTART;VALUE=DATE:20170603
 DTEND;VALUE=DATE:20170604
@@ -4486,7 +4486,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:काञ्ची 53 जगद्गुरु श्री पू
  र्णानन्द सदाशिवेन्द्र सरस्
- वती आराधना-#{520}
+ वती आराधना #{520}
 DTSTART;VALUE=DATE:20170603
 DTEND;VALUE=DATE:20170604
 UID:kanchi-53-jagadguru-shri-purnananda-sadashivendra-sarasvati-aradhana-2
@@ -4541,7 +4541,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:काञ्ची 1 जगद्गुरु श्री आद
- ि-शङ्कर भगवत्पाद आराधना-#{2493}
+ ि-शङ्कर भगवत्पाद आराधना #{2493}
 DTSTART;VALUE=DATE:20170604
 DTEND;VALUE=DATE:20170605
 UID:kanchi-1-jagadguru-shri-adi-shankara-bhagavatpada-aradhana-2017-06
@@ -4557,7 +4557,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:काञ्ची 2 जगद्गुरु श्री सु
- रेश्वराचार्य आराधना-#{2423}
+ रेश्वराचार्य आराधना #{2423}
 DTSTART;VALUE=DATE:20170604
 DTEND;VALUE=DATE:20170605
 UID:kanchi-2-jagadguru-shri-sureshvaracharya-aradhana-2017-06
@@ -4684,7 +4684,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:विद्यारण्य-स्वामी-आराधन
- ा-#{626}
+ ा #{626}
 DTSTART;VALUE=DATE:20170607
 DTEND;VALUE=DATE:20170608
 UID:vidyaranya-svami-aradhana-2017-06
@@ -4700,7 +4700,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:काञ्ची जगद्गुरु श्री चन्
  द्रशेखरेन्द्र सरस्वती जयन्
- ती-#{124}
+ ती #{124}
 DTSTART;VALUE=DATE:20170608
 DTEND;VALUE=DATE:20170609
 UID:kanchi-jagadguru-shri-chandrashekharendra-sarasvati-jayanti-2017-06
@@ -4758,7 +4758,7 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:मन्वादि-(तामस)-
+SUMMARY:मन्वादि-(तामस)
 DTSTART;VALUE=DATE:20170609
 DTEND;VALUE=DATE:20170610
 UID:manvadi-tamasa-2017-06
@@ -5074,7 +5074,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:काञ्ची 25 जगद्गुरु श्री सच
  ्चिदानन्दघनेन्द्र सरस्वती 
- आराधना-#{1470}
+ आराधना #{1470}
 DTSTART;VALUE=DATE:20170624
 DTEND;VALUE=DATE:20170625
 UID:kanchi-25-jagadguru-shri-sachchidanandaghanendra-sarasvati-aradhana-20
@@ -5289,7 +5289,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:काञ्ची 35 जगद्गुरु श्री चि
  त्सुखेन्द्र सरस्वती आराधना
- -#{1281}
+  #{1281}
 DTSTART;VALUE=DATE:20170629
 DTEND;VALUE=DATE:20170630
 UID:kanchi-35-jagadguru-shri-chitsukhendra-sarasvati-aradhana-2017-06
@@ -5426,7 +5426,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:काञ्ची 12 जगद्गुरु श्री चन
  ्द्रशेखरेन्द्र सरस्वती आरा
- धना-#{1783}
+ धना #{1783}
 DTSTART;VALUE=DATE:20170702
 DTEND;VALUE=DATE:20170703
 UID:kanchi-12-jagadguru-shri-chandrashekharendra-sarasvati-aradhana-2017-0
@@ -5484,7 +5484,7 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:वाराही नवरात्रिः
+SUMMARY:वाराही-नवरात्रिः
 DTSTART;VALUE=DATE:20170624
 DTEND;VALUE=DATE:20170703
 UID:varahi-navaratri-2017-07
@@ -5530,7 +5530,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:काञ्ची 48 जगद्गुरु श्री अद
  ्वैतानन्दबोधेन्द्र सरस्वत
- ी आराधना-#{818}
+ ी आराधना #{818}
 DTSTART;VALUE=DATE:20170703
 DTEND;VALUE=DATE:20170704
 UID:kanchi-48-jagadguru-shri-advaitanandabodhendra-sarasvati-aradhana-2017
@@ -5546,7 +5546,7 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:मन्वादि-(चाक्षुष)-
+SUMMARY:मन्वादि-(चाक्षुष)
 DTSTART;VALUE=DATE:20170703
 DTEND;VALUE=DATE:20170704
 UID:manvadi-chakshusha-2017-07
@@ -5683,7 +5683,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:काञ्ची 31 जगद्गुरु श्री ब्
  रह्मानन्दघनेन्द्र सरस्वती 
- आराधना-#{1350}
+ आराधना #{1350}
 DTSTART;VALUE=DATE:20170705
 DTEND;VALUE=DATE:20170706
 UID:kanchi-31-jagadguru-shri-brahmanandaghanendra-sarasvati-aradhana-2017-
@@ -5700,7 +5700,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:काञ्ची 63 जगद्गुरु श्री मह
- ादेवेन्द्र सरस्वती 5 आराधना-
+ ादेवेन्द्र सरस्वती 5 आराधना 
  #{204}
 DTSTART;VALUE=DATE:20170705
 DTEND;VALUE=DATE:20170706
@@ -5732,7 +5732,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:काञ्ची 10 जगद्गुरु श्री सु
  रेश्वरेन्द्र सरस्वती आराधन
- ा-#{1891}
+ ा #{1891}
 DTSTART;VALUE=DATE:20170708
 DTEND;VALUE=DATE:20170709
 UID:kanchi-10-jagadguru-shri-sureshvarendra-sarasvati-aradhana-2017-07
@@ -5814,7 +5814,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:काञ्ची 54 जगद्गुरु श्री व्
  यासाचल महादेवेन्द्र सरस्वत
- ी आराधना-#{511}
+ ी आराधना #{511}
 DTSTART;VALUE=DATE:20170709
 DTEND;VALUE=DATE:20170710
 UID:kanchi-54-jagadguru-shri-vyasachala-mahadevendra-sarasvati-aradhana-20
@@ -5859,7 +5859,7 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:अशून्यशयन-व्रतम्-
+SUMMARY:अशून्यशयन-व्रतम्
 DTSTART;VALUE=DATE:20170710
 DTEND;VALUE=DATE:20170711
 UID:ashunyashayana-vratam-2017-07
@@ -6155,7 +6155,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:काञ्ची 38 जगद्गुरु श्री अभ
  िनवशङ्करेन्द्र सरस्वती आरा
- धना-#{1178}
+ धना #{1178}
 DTSTART;VALUE=DATE:20170723
 DTEND;VALUE=DATE:20170724
 UID:kanchi-38-jagadguru-shri-abhinavashankarendra-sarasvati-aradhana-2017-
@@ -6173,7 +6173,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:काञ्ची 46 जगद्गुरु श्री सा
  न्द्रानन्दबोधेन्द्र सरस्व
- ती आराधना-#{920}
+ ती आराधना #{920}
 DTSTART;VALUE=DATE:20170723
 DTEND;VALUE=DATE:20170724
 UID:kanchi-46-jagadguru-shri-sandranandabodhendra-sarasvati-aradhana-2017-
@@ -6211,7 +6211,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:काञ्ची 41 जगद्गुरु श्री गङ
  ्गाधरेन्द्र सरस्वती 2 आराधन
- ा-#{1068}
+ ा #{1068}
 DTSTART;VALUE=DATE:20170724
 DTEND;VALUE=DATE:20170725
 UID:kanchi-41-jagadguru-shri-gangadharendra-sarasvati-2-aradhana-2017-07
@@ -6568,7 +6568,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:काञ्ची 57 जगद्गुरु श्री पर
- मशिवेन्द्र सरस्वती 2 आराधना-
+ मशिवेन्द्र सरस्वती 2 आराधना 
  #{432}
 DTSTART;VALUE=DATE:20170801
 DTEND;VALUE=DATE:20170802
@@ -6647,7 +6647,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:काञ्ची 29 जगद्गुरु श्री पू
  र्णबोधेन्द्र सरस्वती आराधन
- ा-#{1400}
+ ा #{1400}
 DTSTART;VALUE=DATE:20170803
 DTEND;VALUE=DATE:20170804
 UID:kanchi-29-jagadguru-shri-purnabodhendra-sarasvati-aradhana-2017-08
@@ -6840,7 +6840,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:काञ्ची 20 जगद्गुरु श्री मू
  कशङ्करेन्द्र सरस्वती आराधन
- ा-#{1581}
+ ा #{1581}
 DTSTART;VALUE=DATE:20170807
 DTEND;VALUE=DATE:20170808
 UID:kanchi-20-jagadguru-shri-mukashankarendra-sarasvati-aradhana-2017-08
@@ -6943,7 +6943,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:काञ्ची जगद्गुरु श्री जये
- न्द्र सरस्वती जयन्ती-#{83}
+ न्द्र सरस्वती जयन्ती #{83}
 DTSTART;VALUE=DATE:20170808
 DTEND;VALUE=DATE:20170809
 UID:kanchi-jagadguru-shri-jayendra-sarasvati-jayanti-2017-08
@@ -6958,7 +6958,7 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:अशून्यशयन-व्रतम्-
+SUMMARY:अशून्यशयन-व्रतम्
 DTSTART;VALUE=DATE:20170809
 DTEND;VALUE=DATE:20170810
 UID:ashunyashayana-vratam-2017-08
@@ -7002,7 +7002,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:श्री-राघवेन्द्र-स्वामी-आ
- राधना-#{346}
+ राधना #{346}
 DTSTART;VALUE=DATE:20170809
 DTEND;VALUE=DATE:20170810
 UID:shri-raghavendra-svami-aradhana-2017-08
@@ -7152,7 +7152,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:काञ्ची 21 जगद्गुरु श्री चन
  ्द्रशेखरेन्द्र सरस्वती 2 आर
- ाधना-#{1571}
+ ाधना #{1571}
 DTSTART;VALUE=DATE:20170815
 DTEND;VALUE=DATE:20170816
 UID:kanchi-21-jagadguru-shri-chandrashekharendra-sarasvati-2-aradhana-2017
@@ -7228,6 +7228,20 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:வரகூர் உறியடி உத்ஸவம்
+DTSTART;VALUE=DATE:20170815
+DTEND;VALUE=DATE:20170816
+UID:-2017-08
+DESCRIPTION:http://adyatithih.wordpress.com/
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:श्रीकृष्णदेवराय-राज्या
  भिषेकः
 DTSTART;VALUE=DATE:20170815
@@ -7274,7 +7288,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:काञ्ची 24 जगद्गुरु श्री चि
  त्सुखेन्द्र सरस्वती आराधना
- -#{1491}
+  #{1491}
 DTSTART;VALUE=DATE:20170816
 DTEND;VALUE=DATE:20170817
 UID:kanchi-24-jagadguru-shri-chitsukhendra-sarasvati-aradhana-2017-08
@@ -7928,7 +7942,7 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:गजेन्द्र-मोक्षः-
+SUMMARY:गजेन्द्र-मोक्षः
 DTSTART;VALUE=DATE:20170831
 DTEND;VALUE=DATE:20170901
 UID:gajendra-moksha-2017-08
@@ -8113,7 +8127,7 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:गो-त्रिरात्रि-व्रतम्-
+SUMMARY:गो-त्रिरात्रि-व्रतम्
 DTSTART;VALUE=DATE:20170904
 DTEND;VALUE=DATE:20170905
 UID:go-triratri-vratam-2017-09
@@ -8160,7 +8174,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:काञ्ची 59 जगद्गुरु श्री भग
  वन्नाम बोधेन्द्र सरस्वती आ
- राधना-#{326}
+ राधना #{326}
 DTSTART;VALUE=DATE:20170905
 DTEND;VALUE=DATE:20170906
 UID:kanchi-59-jagadguru-shri-bhagavannama-bodhendra-sarasvati-aradhana-201
@@ -8176,7 +8190,7 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:நடராஜர் மஹாபிஷேகம்-
+SUMMARY:நடராஜர் மஹாபிஷேகம்
 DTSTART;VALUE=DATE:20170905
 DTEND;VALUE=DATE:20170906
 UID:natarajar-mahabhishekam-2017-09
@@ -8190,7 +8204,7 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:दिक्पाल-पूजा-
+SUMMARY:दिक्पाल-पूजा
 DTSTART;VALUE=DATE:20170906
 DTEND;VALUE=DATE:20170907
 UID:dikpala-puja-2017-09
@@ -8278,7 +8292,7 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:यतिचातुर्मास्यव्रतम्
+SUMMARY:यतिचातुर्मास्यव्रत-
 DTSTART;VALUE=DATE:20170709
 DTEND;VALUE=DATE:20170907
 UID:chaturmasyavrata-2017-09
@@ -8292,7 +8306,7 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:अशून्यशयन-व्रतम्-
+SUMMARY:अशून्यशयन-व्रतम्
 DTSTART;VALUE=DATE:20170907
 DTEND;VALUE=DATE:20170908
 UID:ashunyashayana-vratam-2017-09
@@ -8354,7 +8368,7 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:दिक्पाल-पूजा-
+SUMMARY:दिक्पाल-पूजा
 DTSTART;VALUE=DATE:20170910
 DTEND;VALUE=DATE:20170911
 UID:dikpala-puja-2017-09-10
@@ -8440,7 +8454,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:काञ्ची 33 जगद्गुरु श्री सच
- ्चिदानन्द सरस्वती आराधना-#{132
+ ्चिदानन्द सरस्वती आराधना #{132
  6}
 DTSTART;VALUE=DATE:20170911
 DTEND;VALUE=DATE:20170912
@@ -8488,7 +8502,7 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:महालक्ष्मी व्रतम्
+SUMMARY:महालक्ष्मी-व्रत-
 DTSTART;VALUE=DATE:20170830
 DTEND;VALUE=DATE:20170913
 UID:mahalakshmi-vrata-2017-09
@@ -8557,7 +8571,7 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:जीमूतवाहन-पूजा-
+SUMMARY:जीमूतवाहन-पूजा
 DTSTART;VALUE=DATE:20170913
 DTEND;VALUE=DATE:20170914
 UID:jimutavahana-puja-2017-09
@@ -8758,7 +8772,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:काञ्ची 44 जगद्गुरु श्री पू
  र्णबोधेन्द्र सरस्वती 2 आराध
- ना-#{978}
+ ना #{978}
 DTSTART;VALUE=DATE:20170918
 DTEND;VALUE=DATE:20170919
 UID:kanchi-44-jagadguru-shri-purnabodhendra-sarasvati-2-aradhana-2017-09
@@ -8861,7 +8875,7 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:महालय पक्षम्
+SUMMARY:महालय-पक्षम्
 DTSTART;VALUE=DATE:20170906
 DTEND;VALUE=DATE:20170920
 UID:mahalaya-paksha-2017-09
@@ -9129,7 +9143,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:काञ्ची 45 जगद्गुरु श्री पर
- मशिवेन्द्र सरस्वती 1 आराधना-
+ मशिवेन्द्र सरस्वती 1 आराधना 
  #{957}
 DTSTART;VALUE=DATE:20170927
 DTEND;VALUE=DATE:20170928
@@ -9246,7 +9260,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:काञ्ची 19 जगद्गुरु श्री मा
  र्ताण्ड विद्याघनेन्द्र सरस
- ्वती आराधना-#{1620}
+ ्वती आराधना #{1620}
 DTSTART;VALUE=DATE:20170929
 DTEND;VALUE=DATE:20170930
 UID:kanchi-19-jagadguru-shri-martanda-vidyaghanendra-sarasvati-aradhana-20
@@ -9394,7 +9408,7 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:मध्वाचार्य-जयन्ती-#{780}
+SUMMARY:मध्वाचार्य-जयन्ती #{780}
 DTSTART;VALUE=DATE:20170930
 DTEND;VALUE=DATE:20171001
 UID:madhvacharya-jayanti-2017-09
@@ -9515,7 +9529,7 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:நடராஜர் மஹாபிஷேகம்-
+SUMMARY:நடராஜர் மஹாபிஷேகம்
 DTSTART;VALUE=DATE:20171004
 DTEND;VALUE=DATE:20171005
 UID:natarajar-mahabhishekam-2017-10
@@ -9531,7 +9545,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:काञ्ची 36 जगद्गुरु श्री चि
  त्सुखनन्देन्द्र सरस्वती आर
- ाधना-#{1260}
+ ाधना #{1260}
 DTSTART;VALUE=DATE:20171005
 DTEND;VALUE=DATE:20171006
 UID:kanchi-36-jagadguru-shri-chitsukhanandendra-sarasvati-aradhana-2017-10
@@ -9628,7 +9642,7 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:मीराबाई-जयन्ती-#{520}
+SUMMARY:मीराबाई-जयन्ती #{520}
 DTSTART;VALUE=DATE:20171005
 DTEND;VALUE=DATE:20171006
 UID:mirabai-jayanti-2017-10
@@ -9684,7 +9698,7 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:अशून्यशयन-व्रतम्-
+SUMMARY:अशून्यशयन-व्रतम्
 DTSTART;VALUE=DATE:20171007
 DTEND;VALUE=DATE:20171008
 UID:ashunyashayana-vratam-2017-10
@@ -9851,7 +9865,7 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:जीमूतवाहन-पूजा-
+SUMMARY:जीमूतवाहन-पूजा
 DTSTART;VALUE=DATE:20171012
 DTEND;VALUE=DATE:20171013
 UID:jimutavahana-puja-2017-10
@@ -9882,7 +9896,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:काञ्ची 58 जगद्गुरु श्री आत
  ्मबोधेन्द्र सरस्वती आराधना
- -#{380}
+  #{380}
 DTSTART;VALUE=DATE:20171012
 DTEND;VALUE=DATE:20171013
 UID:kanchi-58-jagadguru-shri-atmabodhendra-sarasvati-aradhana-2017-10
@@ -10099,7 +10113,7 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:गो-त्रिरात्रि-व्रतम्-
+SUMMARY:गो-त्रिरात्रि-व्रतम्
 DTSTART;VALUE=DATE:20171017
 DTEND;VALUE=DATE:20171018
 UID:go-triratri-vratam-2017-10
@@ -10400,7 +10414,7 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:सर्प-पूजा-
+SUMMARY:सर्प-पूजा
 DTSTART;VALUE=DATE:20171025
 DTEND;VALUE=DATE:20171026
 UID:sarpa-puja-2017-10
@@ -10504,7 +10518,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:काञ्ची 22 जगद्गुरु श्री बो
- धेन्द्र सरस्वती आराधना-#{1537}
+ धेन्द्र सरस्वती आराधना #{1537}
 DTSTART;VALUE=DATE:20171029
 DTEND;VALUE=DATE:20171030
 UID:kanchi-22-jagadguru-shri-bodhendra-sarasvati-aradhana-2017-10
@@ -10640,7 +10654,7 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:चातुर्मास्यव्रतम्
+SUMMARY:चातुर्मास्यव्रत-
 DTSTART;VALUE=DATE:20170705
 DTEND;VALUE=DATE:20171102
 UID:chaturmasya-2017-11
@@ -10654,7 +10668,7 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:मन्वादि-(स्वारोचिष)-
+SUMMARY:मन्वादि-(स्वारोचिष)
 DTSTART;VALUE=DATE:20171101
 DTEND;VALUE=DATE:20171102
 UID:manvadi-svarochisha-2017-11
@@ -10753,7 +10767,7 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:मन्वादि-(उत्तम)-
+SUMMARY:मन्वादि-(उत्तम)
 DTSTART;VALUE=DATE:20171103
 DTEND;VALUE=DATE:20171104
 UID:manvadi-uttama-2017-11
@@ -10798,7 +10812,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:काञ्ची 64 जगद्गुरु श्री चन
  ्द्रशेखरेन्द्र सरस्वती 6 आर
- ाधना-#{167}
+ ाधना #{167}
 DTSTART;VALUE=DATE:20171104
 DTEND;VALUE=DATE:20171105
 UID:kanchi-64-jagadguru-shri-chandrashekharendra-sarasvati-6-aradhana-2017
@@ -10896,7 +10910,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:काञ्ची 9 जगद्गुरु श्री कृ
  पाश्ङ्करेन्द्र सरस्वती आरा
- धना-#{1949}
+ धना #{1949}
 DTSTART;VALUE=DATE:20171106
 DTEND;VALUE=DATE:20171107
 UID:kanchi-9-jagadguru-shri-kripashnkarendra-sarasvati-aradhana-2017-11
@@ -10967,7 +10981,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:काञ्ची 42 जगद्गुरु श्री ब्
  रह्मानन्दघनेन्द्र सरस्वती 
- 2 आराधना-#{1040}
+ 2 आराधना #{1040}
 DTSTART;VALUE=DATE:20171110
 DTEND;VALUE=DATE:20171111
 UID:kanchi-42-jagadguru-shri-brahmanandaghanendra-sarasvati-2-aradhana-201
@@ -10984,7 +10998,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:काञ्ची 49 जगद्गुरु श्री मह
- ादेवेन्द्र सरस्वती 3 आराधना-
+ ादेवेन्द्र सरस्वती 3 आराधना 
  #{771}
 DTSTART;VALUE=DATE:20171111
 DTEND;VALUE=DATE:20171112
@@ -11015,7 +11029,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:काञ्ची 28 जगद्गुरु श्री मह
- ादेवेन्द्र सरस्वती 1 आराधना-
+ ादेवेन्द्र सरस्वती 1 आराधना 
  #{1417}
 DTSTART;VALUE=DATE:20171112
 DTEND;VALUE=DATE:20171113
@@ -11133,7 +11147,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:काञ्ची 18 जगद्गुरु श्री यो
  गतिलक सुरेन्द्र सरस्वती आर
- ाधना-#{1633}
+ ाधना #{1633}
 DTSTART;VALUE=DATE:20171119
 DTEND;VALUE=DATE:20171120
 UID:kanchi-18-jagadguru-shri-yogatilaka-surendra-sarasvati-aradhana-2017-1
@@ -11258,7 +11272,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:काञ्ची 32 जगद्गुरु श्री चि
  दानन्दघनेन्द्र सरस्वती आरा
- धना-#{1346}
+ धना #{1346}
 DTSTART;VALUE=DATE:20171124
 DTEND;VALUE=DATE:20171125
 UID:kanchi-32-jagadguru-shri-chidanandaghanendra-sarasvati-aradhana-2017-1
@@ -11315,7 +11329,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:काञ्ची 5 जगद्गुरु श्री ज्
  ञानानन्देन्द्र सरस्वती आरा
- धना-#{2222}
+ धना #{2222}
 DTSTART;VALUE=DATE:20171125
 DTEND;VALUE=DATE:20171126
 UID:kanchi-5-jagadguru-shri-jnananandendra-sarasvati-aradhana-2017-11
@@ -11608,7 +11622,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:काञ्ची 13 जगद्गुरु श्री सच
  ्चिद्घनेन्द्र सरस्वती आराध
- ना-#{1746}
+ ना #{1746}
 DTSTART;VALUE=DATE:20171204
 DTEND;VALUE=DATE:20171205
 UID:kanchi-13-jagadguru-shri-sachchidghanendra-sarasvati-aradhana-2017-12
@@ -11658,7 +11672,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:काञ्ची 4 जगद्गुरु श्री सत
  ्यबोधेन्द्र सरस्वती आराधना
- -#{2285}
+  #{2285}
 DTSTART;VALUE=DATE:20171210
 DTEND;VALUE=DATE:20171211
 UID:kanchi-4-jagadguru-shri-satyabodhendra-sarasvati-aradhana-2017-12
@@ -11782,7 +11796,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:काञ्ची 68 जगद्गुरु श्री चन
  ्द्रशेखरेन्द्र सरस्वती आरा
- धना-#{24}
+ धना #{24}
 DTSTART;VALUE=DATE:20171214
 DTEND;VALUE=DATE:20171215
 UID:kanchi-68-jagadguru-shri-chandrashekharendra-sarasvati-aradhana-2017-1
@@ -11831,7 +11845,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:काञ्ची 14 जगद्गुरु श्री वि
  द्यघनेन्द्र सरस्वती आराधना
- -#{1701}
+  #{1701}
 DTSTART;VALUE=DATE:20171217
 DTEND;VALUE=DATE:20171218
 UID:kanchi-14-jagadguru-shri-vidyaghanendra-sarasvati-aradhana-2017-12
@@ -11848,7 +11862,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:काञ्ची 34 जगद्गुरु श्री चन
  ्द्रशेखरेन्द्र सरस्वती 3 आर
- ाधना-#{1308}
+ ाधना #{1308}
 DTSTART;VALUE=DATE:20171217
 DTEND;VALUE=DATE:20171218
 UID:kanchi-34-jagadguru-shri-chandrashekharendra-sarasvati-3-aradhana-2017
@@ -11921,11 +11935,11 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:श्री-हनूमत्-जयन्ती-
+SUMMARY:श्री-हनूमत्-जयन्ती
 DTSTART;VALUE=DATE:20171218
 DTEND;VALUE=DATE:20171219
-UID:shri-hanumat-jayanti-1-2017-12
-DESCRIPTION:http://adyatithih.wordpress.com/shri-hanumat-jayanti
+UID:shri-hanumat-jayanti~1-2017-12
+DESCRIPTION:http://adyatithih.wordpress.com/shri-hanumat-jayanti~
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -12046,7 +12060,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:काञ्ची 55 जगद्गुरु श्री चन
  ्द्रचूडेन्द्र सरस्वती 2 आरा
- धना-#{494}
+ धना #{494}
 DTSTART;VALUE=DATE:20171229
 DTEND;VALUE=DATE:20171230
 UID:kanchi-55-jagadguru-shri-chandrachudendra-sarasvati-2-aradhana-2017-12
@@ -12061,7 +12075,7 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:मन्वादि-(चाक्षुष)-
+SUMMARY:मन्वादि-(चाक्षुष)
 DTSTART;VALUE=DATE:20171229
 DTEND;VALUE=DATE:20171230
 UID:manvadi-chakshusha-2017-12
