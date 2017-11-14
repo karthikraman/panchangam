@@ -575,7 +575,7 @@ BEGIN:VEVENT
 SUMMARY:प्रदोष-व्रतम्
 DTSTART;VALUE=DATE:20170125
 DTEND;VALUE=DATE:20170126
-UID:pradosha-vratam-2017-01-25
+UID:pradosha-vratam-2017-01-25-0
 DESCRIPTION:http://adyatithih.wordpress.com/pradosha-vratam
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -603,7 +603,7 @@ BEGIN:VEVENT
 SUMMARY:தை வெள்ளிக்கிழமை
 DTSTART;VALUE=DATE:20170127
 DTEND;VALUE=DATE:20170128
-UID:tai-vellikkizhamai-2017-01-27
+UID:tai-vellikkizhamai-2017-01-27-0
 DESCRIPTION:http://adyatithih.wordpress.com/tai-vellikkizhamai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -1081,7 +1081,7 @@ BEGIN:VEVENT
 SUMMARY:கபாலீ தெப்போத்ஸவம்
 DTSTART;VALUE=DATE:20170209
 DTEND;VALUE=DATE:20170210
-UID:kapali-teppotsavam-2017-02-09
+UID:kapali-teppotsavam-2017-02-09-0
 DESCRIPTION:http://adyatithih.wordpress.com/kapali-teppotsavam
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -1138,7 +1138,7 @@ BEGIN:VEVENT
 SUMMARY:கபாலீ தெப்போத்ஸவம்
 DTSTART;VALUE=DATE:20170210
 DTEND;VALUE=DATE:20170211
-UID:kapali-teppotsavam-2017-02-10
+UID:kapali-teppotsavam-2017-02-10-0
 DESCRIPTION:http://adyatithih.wordpress.com/kapali-teppotsavam
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -1152,7 +1152,7 @@ BEGIN:VEVENT
 SUMMARY:தை வெள்ளிக்கிழமை
 DTSTART;VALUE=DATE:20170210
 DTEND;VALUE=DATE:20170211
-UID:tai-vellikkizhamai-2017-02-10
+UID:tai-vellikkizhamai-2017-02-10-0
 DESCRIPTION:http://adyatithih.wordpress.com/tai-vellikkizhamai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -1351,7 +1351,7 @@ BEGIN:VEVENT
 SUMMARY:மாசி செவ்வாய்
 DTSTART;VALUE=DATE:20170221
 DTEND;VALUE=DATE:20170222
-UID:masi-chevvay-2017-02-21
+UID:masi-chevvay-2017-02-21-0
 DESCRIPTION:Do `upavAsam` (at least do not take salt) and pray to Lord Shi
  va (Vaidyanatha Swami).\n\n\n\nhttp://adyatithih.wordpress.com/masi-chevva
  y
@@ -1442,7 +1442,7 @@ BEGIN:VEVENT
 SUMMARY:प्रदोष-व्रतम्
 DTSTART;VALUE=DATE:20170224
 DTEND;VALUE=DATE:20170225
-UID:pradosha-vratam-2017-02-24
+UID:pradosha-vratam-2017-02-24-0
 DESCRIPTION:http://adyatithih.wordpress.com/pradosha-vratam
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -1553,7 +1553,7 @@ BEGIN:VEVENT
 SUMMARY:மாசி செவ்வாய்
 DTSTART;VALUE=DATE:20170228
 DTEND;VALUE=DATE:20170301
-UID:masi-chevvay-2017-02-28
+UID:masi-chevvay-2017-02-28-0
 DESCRIPTION:Do `upavAsam` (at least do not take salt) and pray to Lord Shi
  va (Vaidyanatha Swami).\n\n\n\nhttp://adyatithih.wordpress.com/masi-chevva
  y
@@ -2769,12 +2769,13 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:मेष-सङ्क्रान्ति-(हेविलम्
- बी-संवत्सरः)
+SUMMARY:मेष-सङ्क्रान्तिः (हेविलम
+ ्बी-संवत्सरः)
 DTSTART;VALUE=DATE:20170414
 DTEND;VALUE=DATE:20170415
-UID:-2017-04
-DESCRIPTION:http://adyatithih.wordpress.com/
+UID:mesha-sankranti-2017-04
+DESCRIPTION:Tamil New Year.\n\n\n\n\nhttp://adyatithih.wordpress.com/mesha
+ -sankranti
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -4346,7 +4347,7 @@ BEGIN:VEVENT
 SUMMARY:षष्ठी-व्रतम्
 DTSTART;VALUE=DATE:20170531
 DTEND;VALUE=DATE:20170601
-UID:shashthi-vratam-2017-05-31
+UID:shashthi-vratam-2017-05-31-0
 DESCRIPTION:http://adyatithih.wordpress.com/shashthi-vratam
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -4984,7 +4985,7 @@ BEGIN:VEVENT
 SUMMARY:प्रदोष-व्रतम्
 DTSTART;VALUE=DATE:20170621
 DTEND;VALUE=DATE:20170622
-UID:pradosha-vratam-2017-06-21
+UID:pradosha-vratam-2017-06-21-0
 DESCRIPTION:http://adyatithih.wordpress.com/pradosha-vratam
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -6070,7 +6071,7 @@ BEGIN:VEVENT
 SUMMARY:प्रदोष-व्रतम्
 DTSTART;VALUE=DATE:20170721
 DTEND;VALUE=DATE:20170722
-UID:pradosha-vratam-2017-07-21
+UID:pradosha-vratam-2017-07-21-0
 DESCRIPTION:http://adyatithih.wordpress.com/pradosha-vratam
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -6372,7 +6373,7 @@ BEGIN:VEVENT
 SUMMARY:ஆடி வெள்ளிக்கிழமை
 DTSTART;VALUE=DATE:20170728
 DTEND;VALUE=DATE:20170729
-UID:adi-vellikkizhamai-2017-07-28
+UID:adi-vellikkizhamai-2017-07-28-0
 DESCRIPTION:http://adyatithih.wordpress.com/adi-vellikkizhamai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -7079,7 +7080,7 @@ BEGIN:VEVENT
 SUMMARY:ஆடி வெள்ளிக்கிழமை
 DTSTART;VALUE=DATE:20170811
 DTEND;VALUE=DATE:20170812
-UID:adi-vellikkizhamai-2017-08-11
+UID:adi-vellikkizhamai-2017-08-11-0
 DESCRIPTION:http://adyatithih.wordpress.com/adi-vellikkizhamai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -7230,8 +7231,8 @@ BEGIN:VEVENT
 SUMMARY:வரகூர் உறியடி உத்ஸவம்
 DTSTART;VALUE=DATE:20170815
 DTEND;VALUE=DATE:20170816
-UID:-2017-08
-DESCRIPTION:http://adyatithih.wordpress.com/
+UID:varagur-uriyadi-utsavam-2017-08
+DESCRIPTION:http://adyatithih.wordpress.com/varagur-uriyadi-utsavam
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -7397,7 +7398,7 @@ BEGIN:VEVENT
 SUMMARY:शनि-प्रदोष-व्रतम्
 DTSTART;VALUE=DATE:20170819
 DTEND;VALUE=DATE:20170820
-UID:shani-pradosha-vratam-2017-08-19
+UID:shani-pradosha-vratam-2017-08-19-0
 DESCRIPTION:http://adyatithih.wordpress.com/shani-pradosha-vratam
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -7757,7 +7758,7 @@ BEGIN:VEVENT
 SUMMARY:ஆவணி ஞாயிற்றுக்கிழமை
 DTSTART;VALUE=DATE:20170827
 DTEND;VALUE=DATE:20170828
-UID:avani-jnayirrukkizhamai-2017-08-27
+UID:avani-jnayirrukkizhamai-2017-08-27-0
 DESCRIPTION:Do puja to Surya/Suryanamaskaram.\n\n\n\nhttp://adyatithih.wor
  dpress.com/avani-jnayirrukkizhamai
 TRANSP:TRANSPARENT
@@ -7946,6 +7947,21 @@ DTSTART;VALUE=DATE:20170831
 DTEND;VALUE=DATE:20170901
 UID:gajendra-moksha-2017-08
 DESCRIPTION:http://adyatithih.wordpress.com/gajendra-moksha
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:कृष्णा-अन्त्य-पुष्कर-आरम
+ ्भः
+DTSTART;VALUE=DATE:20170831
+DTEND;VALUE=DATE:20170901
+UID:krishna-antya-pushkara-2017-08
+DESCRIPTION:http://adyatithih.wordpress.com/krishna-antya-pushkara
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -8370,7 +8386,7 @@ BEGIN:VEVENT
 SUMMARY:दिक्पाल-पूजा
 DTSTART;VALUE=DATE:20170910
 DTEND;VALUE=DATE:20170911
-UID:dikpala-puja-2017-09-10
+UID:dikpala-puja-2017-09-10-0
 DESCRIPTION:http://adyatithih.wordpress.com/dikpala-puja
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -8426,7 +8442,7 @@ BEGIN:VEVENT
 SUMMARY:ஆவணி ஞாயிற்றுக்கிழமை
 DTSTART;VALUE=DATE:20170910
 DTEND;VALUE=DATE:20170911
-UID:avani-jnayirrukkizhamai-2017-09-10
+UID:avani-jnayirrukkizhamai-2017-09-10-0
 DESCRIPTION:Do puja to Surya/Suryanamaskaram.\n\n\n\nhttp://adyatithih.wor
  dpress.com/avani-jnayirrukkizhamai
 TRANSP:TRANSPARENT
@@ -8469,6 +8485,35 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:कृष्णा-अन्त्य-पुष्कर-समा
+ पनम्
+DTSTART;VALUE=DATE:20170911
+DTEND;VALUE=DATE:20170912
+UID:krishna-antya-pushkara-2017-09
+DESCRIPTION:http://adyatithih.wordpress.com/krishna-antya-pushkara
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:कृष्णा-अन्त्य-पुष्करम्
+DTSTART;VALUE=DATE:20170831
+DTEND;VALUE=DATE:20170912
+UID:krishna-antya-pushkara-2017-09-11-0
+DESCRIPTION:http://adyatithih.wordpress.com/krishna-antya-pushkara
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:कपिल-षष्ठी
 DTSTART;VALUE=DATE:20170911
 DTEND;VALUE=DATE:20170912
@@ -8478,6 +8523,35 @@ DESCRIPTION:प्रभाकर नमस्तुभ्यं संस
  ुक्तिप्रदो यस्मात् तस्माच्
  छान्तिं प्रयच्छ मे॥\n\nhttp://adyatithih
  .wordpress.com/kapila-shashthi
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:गुरु-सङ्क्रान्तिः (कन्या
+ ▶तुला)
+DTSTART;VALUE=DATE:20170912
+DTEND;VALUE=DATE:20170913
+UID:guru-sankranti-2017-09
+DESCRIPTION:http://adyatithih.wordpress.com/guru-sankranti
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:कावेरी-आदि-पुष्कर-आरम्भः
+DTSTART;VALUE=DATE:20170912
+DTEND;VALUE=DATE:20170913
+UID:kaveri-adi-pushkara-2017-09
+DESCRIPTION:http://adyatithih.wordpress.com/kaveri-adi-pushkara
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -8699,7 +8773,7 @@ BEGIN:VEVENT
 SUMMARY:प्रदोष-व्रतम्
 DTSTART;VALUE=DATE:20170917
 DTEND;VALUE=DATE:20170918
-UID:pradosha-vratam-2017-09-17
+UID:pradosha-vratam-2017-09-17-0
 DESCRIPTION:http://adyatithih.wordpress.com/pradosha-vratam
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -8874,7 +8948,7 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:महालय-पक्षम्
+SUMMARY:महालय-पक्षः
 DTSTART;VALUE=DATE:20170906
 DTEND;VALUE=DATE:20170920
 UID:mahalaya-paksha-2017-09
@@ -9031,6 +9105,35 @@ DTSTART;VALUE=DATE:20170921
 DTEND;VALUE=DATE:20170922
 UID:sharannavaratri-arambha-2017-09
 DESCRIPTION:http://adyatithih.wordpress.com/sharannavaratri-arambha
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:कावेरी-आदि-पुष्कर-समापनम
+ ्
+DTSTART;VALUE=DATE:20170923
+DTEND;VALUE=DATE:20170924
+UID:kaveri-adi-pushkara-2017-09-23
+DESCRIPTION:http://adyatithih.wordpress.com/kaveri-adi-pushkara
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:कावेरी-आदि-पुष्करम्
+DTSTART;VALUE=DATE:20170912
+DTEND;VALUE=DATE:20170924
+UID:kaveri-adi-pushkara-2017-09-23-0
+DESCRIPTION:http://adyatithih.wordpress.com/kaveri-adi-pushkara
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -9422,6 +9525,22 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:ஆயுத பூஜை
+DTSTART;VALUE=DATE:20170930
+DTEND;VALUE=DATE:20171001
+UID:ayudha-puja-2017-09
+DESCRIPTION:Arjuna wins over all Kauravas and Karna. Worship of all weapon
+ s\, or rather\, tools related to one's profession.\n\n\n\nhttp://adyatithi
+ h.wordpress.com/ayudha-puja
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:ஏனாதிநாத நாயனார் குருபூ
  ஜை
 DTSTART;VALUE=DATE:20170930
@@ -9440,7 +9559,7 @@ BEGIN:VEVENT
 SUMMARY:புரட்டாசி சனிக்கிழமை
 DTSTART;VALUE=DATE:20170930
 DTEND;VALUE=DATE:20171001
-UID:purattachi-chanikkizhamai-2017-09-30
+UID:purattachi-chanikkizhamai-2017-09-30-0
 DESCRIPTION:Perform special puja and naivedyam (e.g. `tilAnnam`) to Lord V
  enkateshwara.\n\n\n\nhttp://adyatithih.wordpress.com/purattachi-chanikkizh
  amai
@@ -9697,11 +9816,41 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:सप्तम-अपरपक्ष-आरम्भः
+DTSTART;VALUE=DATE:20171006
+DTEND;VALUE=DATE:20171007
+UID:saptama-apara-paksha-arambha-2017-10
+DESCRIPTION:http://adyatithih.wordpress.com/saptama-apara-paksha-arambha
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:अशून्यशयन-व्रतम्
 DTSTART;VALUE=DATE:20171007
 DTEND;VALUE=DATE:20171008
 UID:ashunyashayana-vratam-2017-10
 DESCRIPTION:http://adyatithih.wordpress.com/ashunyashayana-vratam
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:चन्द्रोदय-गौरी-व्रतम्
+DTSTART;VALUE=DATE:20171007
+DTEND;VALUE=DATE:20171008
+UID:chandrodaya-uma-vratam-2017-10
+DESCRIPTION:Attla-Taddi (Telugu). After moonrise\, Uma devi pooja\; From t
+ his day to Deepaavali eat more Urad dal\n\n\n\nhttp://adyatithih.wordpress
+ .com/chandrodaya-uma-vratam
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -9734,22 +9883,6 @@ DTEND;VALUE=DATE:20171008
 UID:rudra-pashupati-nayanar-gurupujai-2017-10
 DESCRIPTION:http://adyatithih.wordpress.com/rudra-pashupati-nayanar-gurupu
  jai
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT4H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:चन्द्रोदय-उमा-व्रतम्
-DTSTART;VALUE=DATE:20171008
-DTEND;VALUE=DATE:20171009
-UID:chandrodaya-uma-vratam-2017-10
-DESCRIPTION:Attla-Taddi (Telugu). After moonrise\, Uma devi pooja\; From t
- his day to Deepaavali eat more Urad dal\n\n\n\nhttp://adyatithih.wordpress
- .com/chandrodaya-uma-vratam
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -9970,7 +10103,7 @@ BEGIN:VEVENT
 SUMMARY:புரட்டாசி சனிக்கிழமை
 DTSTART;VALUE=DATE:20171014
 DTEND;VALUE=DATE:20171015
-UID:purattachi-chanikkizhamai-2017-10-14
+UID:purattachi-chanikkizhamai-2017-10-14-0
 DESCRIPTION:Perform special puja and naivedyam (e.g. `tilAnnam`) to Lord V
  enkateshwara.\n\n\n\nhttp://adyatithih.wordpress.com/purattachi-chanikkizh
  amai
@@ -10129,7 +10262,7 @@ BEGIN:VEVENT
 SUMMARY:प्रदोष-व्रतम्
 DTSTART;VALUE=DATE:20171017
 DTEND;VALUE=DATE:20171018
-UID:pradosha-vratam-2017-10-17
+UID:pradosha-vratam-2017-10-17-0
 DESCRIPTION:http://adyatithih.wordpress.com/pradosha-vratam
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -10246,6 +10379,21 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:आग्रयण होमः
+DTSTART;VALUE=DATE:20171019
+DTEND;VALUE=DATE:20171020
+UID:agrayana-homa-2017-10
+DESCRIPTION:Perform `homa' with fresh rice from paddy.\n\n\n\nhttp://adyat
+ ithih.wordpress.com/agrayana-homa
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:आश्वयुज-अमावस्या
 DTSTART;VALUE=DATE:20171019
 DTEND;VALUE=DATE:20171020
@@ -10297,6 +10445,34 @@ DTEND;VALUE=DATE:20171020
 UID:kamala-jayanti-2017-10
 DESCRIPTION:Goddess Kamala is 10th of the Dasha Maha Vidyas.\n\n\n\nhttp:/
  /adyatithih.wordpress.com/kamala-jayanti
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:सप्तम-अपरपक्ष-समापनम्
+DTSTART;VALUE=DATE:20171019
+DTEND;VALUE=DATE:20171020
+UID:saptama-aparapaksha-2017-10
+DESCRIPTION:http://adyatithih.wordpress.com/saptama-aparapaksha
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:सप्तम-अपरपक्षः
+DTSTART;VALUE=DATE:20171006
+DTEND;VALUE=DATE:20171020
+UID:saptama-aparapaksha-2017-10-19-0
+DESCRIPTION:http://adyatithih.wordpress.com/saptama-aparapaksha
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -10809,6 +10985,21 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:आग्रयण होमः
+DTSTART;VALUE=DATE:20171104
+DTEND;VALUE=DATE:20171105
+UID:agrayana-homa-2017-11
+DESCRIPTION:Perform `homa' with fresh rice from paddy.\n\n\n\nhttp://adyat
+ ithih.wordpress.com/agrayana-homa
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:काञ्ची 64 जगद्गुरु श्री चन
  ्द्रशेखरेन्द्र सरस्वती 6 आर
  ाधना #{167}
@@ -10851,6 +11042,20 @@ DTSTART;VALUE=DATE:20171104
 DTEND;VALUE=DATE:20171105
 UID:manvadi-daksha-savarni-2017-11
 DESCRIPTION:http://adyatithih.wordpress.com/manvadi-daksha-savarni
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:नवम-अपरपक्ष-आरम्भः
+DTSTART;VALUE=DATE:20171104
+DTEND;VALUE=DATE:20171105
+UID:navama-apara-paksha-arambha-2017-11
+DESCRIPTION:http://adyatithih.wordpress.com/navama-apara-paksha-arambha
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -10978,6 +11183,39 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:सेङ्गालिपुरम् अनन्तराम-
+ दीक्षित-आराधना #{48}
+DTSTART;VALUE=DATE:20171109
+DTEND;VALUE=DATE:20171110
+UID:anantarama-dikshita-aradhana-2017-11
+DESCRIPTION:Aradhana Day of Sri Anantarama Dikshitar.\n\n\n\nhttp://adyati
+ thih.wordpress.com/anantarama-dikshita-aradhana
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:तिरुविशलूर् गङ्गाकर्षण-
+ महोत्सव-आरम्भः
+DTSTART;VALUE=DATE:20171109
+DTEND;VALUE=DATE:20171110
+UID:gangakarshana-mahotsava-2017-11
+DESCRIPTION:Beginning of Gangakarshana Mahotsava in Thiruvisanallur. See a
+ lso http://www.sriayyaval.org/ .  \n\n\n\nhttp://adyatithih.wordpress.com/
+ gangakarshana-mahotsava
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:काञ्ची 42 जगद्गुरु श्री ब्
  रह्मानन्दघनेन्द्र सरस्वती 
  2 आराधना #{1040}
@@ -11075,7 +11313,7 @@ BEGIN:VEVENT
 SUMMARY:प्रदोष-व्रतम्
 DTSTART;VALUE=DATE:20171115
 DTEND;VALUE=DATE:20171116
-UID:pradosha-vratam-2017-11-15
+UID:pradosha-vratam-2017-11-15-0
 DESCRIPTION:http://adyatithih.wordpress.com/pradosha-vratam
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -11116,6 +11354,21 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:आग्रयण होमः
+DTSTART;VALUE=DATE:20171118
+DTEND;VALUE=DATE:20171119
+UID:agrayana-homa-2017-11-18-0
+DESCRIPTION:Perform `homa' with fresh rice from paddy.\n\n\n\nhttp://adyat
+ ithih.wordpress.com/agrayana-homa
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:कार्तिक-अमावस्या
 DTSTART;VALUE=DATE:20171118
 DTEND;VALUE=DATE:20171119
@@ -11135,6 +11388,73 @@ DTSTART;VALUE=DATE:20171118
 DTEND;VALUE=DATE:20171119
 UID:vaishakha-snanapurti-2017-11
 DESCRIPTION:http://adyatithih.wordpress.com/vaishakha-snanapurti
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:नवम-अपरपक्ष-समापनम्
+DTSTART;VALUE=DATE:20171118
+DTEND;VALUE=DATE:20171119
+UID:navama-aparapaksha-2017-11
+DESCRIPTION:http://adyatithih.wordpress.com/navama-aparapaksha
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:नवम-अपरपक्षः
+DTSTART;VALUE=DATE:20171104
+DTEND;VALUE=DATE:20171119
+UID:navama-aparapaksha-2017-11-18-0
+DESCRIPTION:http://adyatithih.wordpress.com/navama-aparapaksha
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:तिरुविशलूर् गङ्गाकर्षण-
+ महोत्सव-समापनम्
+DTSTART;VALUE=DATE:20171118
+DTEND;VALUE=DATE:20171119
+UID:gangakarshana-mahotsava-2017-11-18
+DESCRIPTION:Thiruvisanallur Sridhara Aiyyaval brought Ganga to his house w
+ ell on this day! See also http://www.sriayyaval.org/ .  \n\nईशे त
+ स्य च नामनि प्रविमलं ज्ञानं 
+ तयोरूर्जितम्\nप्रेम प्रेम च 
+ तत्परेषु विरतिश्चान्यत्र स
+ र्वत्र च।\nईशेक्षा करुणा च य
+ स्य नियता वृत्तिः श्रितस्य
+ ापि यम्\nतं वन्दे नररूपमन्तक
+ रिपुं श्रीवेङ्कटेशं गुरुम्
+ ॥\n\nhttp://adyatithih.wordpress.com/gangakarshana-mahotsava
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:तिरुविशलूर् गङ्गाकर्षण-
+ महोत्सवः
+DTSTART;VALUE=DATE:20171109
+DTEND;VALUE=DATE:20171119
+UID:gangakarshana-mahotsava-2017-11-18-0
+DESCRIPTION:http://adyatithih.wordpress.com/gangakarshana-mahotsava
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -11344,8 +11664,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:मित्र-सप्तमी
-DTSTART;VALUE=DATE:20171126
-DTEND;VALUE=DATE:20171127
+DTSTART;VALUE=DATE:20171125
+DTEND;VALUE=DATE:20171126
 UID:mitra-saptami-2017-11
 DESCRIPTION:Birth of Surya to Aditya-Kashyapa on this day.\n\nअदित
  ्यां कश्यपाज्जज्ञे मित्रो 
@@ -11365,7 +11685,7 @@ SUMMARY:கார்த்திகை ஞாயிற்றுக்க
  ிழமை
 DTSTART;VALUE=DATE:20171126
 DTEND;VALUE=DATE:20171127
-UID:karttigai-jnayirrukkizhamai-2017-11-26
+UID:karttigai-jnayirrukkizhamai-2017-11-26-0
 DESCRIPTION:Do puja to Surya/Suryanamaskaram.\n\n\n\nhttp://adyatithih.wor
  dpress.com/karttigai-jnayirrukkizhamai
 TRANSP:TRANSPARENT
@@ -11401,7 +11721,7 @@ BEGIN:VEVENT
 SUMMARY:கார்த்திகை ஸோமவாரம்
 DTSTART;VALUE=DATE:20171127
 DTEND;VALUE=DATE:20171128
-UID:karttigai-somavaram-2017-11-27
+UID:karttigai-somavaram-2017-11-27-0
 DESCRIPTION:http://adyatithih.wordpress.com/karttigai-somavaram
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -11501,6 +11821,21 @@ DTSTART;VALUE=DATE:20171202
 DTEND;VALUE=DATE:20171203
 UID:sarvalaya-dipam-2017-12
 DESCRIPTION:http://adyatithih.wordpress.com/sarvalaya-dipam
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:आग्रयण होमः
+DTSTART;VALUE=DATE:20171203
+DTEND;VALUE=DATE:20171204
+UID:agrayana-homa-2017-12
+DESCRIPTION:Perform `homa' with fresh rice from paddy.\n\n\n\nhttp://adyat
+ ithih.wordpress.com/agrayana-homa
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -11690,7 +12025,7 @@ SUMMARY:கார்த்திகை ஞாயிற்றுக்க
  ிழமை
 DTSTART;VALUE=DATE:20171210
 DTEND;VALUE=DATE:20171211
-UID:karttigai-jnayirrukkizhamai-2017-12-10
+UID:karttigai-jnayirrukkizhamai-2017-12-10-0
 DESCRIPTION:Do puja to Surya/Suryanamaskaram.\n\n\n\nhttp://adyatithih.wor
  dpress.com/karttigai-jnayirrukkizhamai
 TRANSP:TRANSPARENT
@@ -11705,7 +12040,7 @@ BEGIN:VEVENT
 SUMMARY:கார்த்திகை ஸோமவாரம்
 DTSTART;VALUE=DATE:20171211
 DTEND;VALUE=DATE:20171212
-UID:karttigai-somavaram-2017-12-11
+UID:karttigai-somavaram-2017-12-11-0
 DESCRIPTION:http://adyatithih.wordpress.com/karttigai-somavaram
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -11814,7 +12149,7 @@ BEGIN:VEVENT
 SUMMARY:प्रदोष-व्रतम्
 DTSTART;VALUE=DATE:20171215
 DTEND;VALUE=DATE:20171216
-UID:pradosha-vratam-2017-12-15
+UID:pradosha-vratam-2017-12-15-0
 DESCRIPTION:http://adyatithih.wordpress.com/pradosha-vratam
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
