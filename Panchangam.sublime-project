@@ -12,7 +12,18 @@
 	[
 		{
 			"path": "."
+		},
+		{
+			"path": "D:\\Karthik\\GitHub\\jyotisha"
+		},
+		{
+			"path": "D:\\Karthik\\GitHub\\indic_transliteration"
 		}
 	],
-	"rulers": [72,79,99]
+	"rulers":
+	[
+		72,
+		79,
+		99
+	]
 }
