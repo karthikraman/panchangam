@@ -10,11 +10,7 @@ This project computes a _Pañcāṅgam_ for a given location and given year. It 
 The PDFs and ICS are best generated using a Devanagari (and Tamil) scripts, though IAST works as well (mostly).
 
 ## Installation
-Just clone this repository, and install the dependencies below:
-````
-$ git clone https://github.com/karthikraman/panchangam.git panchangam
-````
-Alternatively, download a ZIP file [here](https://github.com/karthikraman/panchangam/archive/master.zip).
+See [this issue](https://github.com/sanskrit-coders/jyotisha/issues/10).
 
 **Make sure you have the necessary Python/TeX packages installed, as mentioned below.**
 
@@ -28,7 +24,10 @@ Alternatively, download a ZIP file [here](https://github.com/karthikraman/pancha
 ### Organisation
 There are helpful scripts in the `bin` folder, while the Python codes are in the https://github.com/sanskrit-coders/jyotisha repository. Generated PDFs will go to the `pdf` folder and `.ics` files will go to the `ics` folder, from which they can be imported into any calendaring application.
 
+There is a web interface to the same library - please see https://github.com/sanskrit-coders/jyotisha repository for details.
+
 ### Examples
+Please refer to required setup above.
 ````
 cd panchangam/bin
 ./gen_daily_cal.sh Chennai 13:05:24 80:16:12 'Asia/Calcutta' 2017 devanagari lagna

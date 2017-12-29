@@ -28,11 +28,11 @@ tz=$4
 scr=${script:0:4}
 
 echo -ne "Computing $y monthly panchangam for $city_name ($lat,$lon) - $tz in $script script... "
-cd ../panchangam/
-./write_monthly_panchangam_tex.py $city_name $lat $lon $tz $y $script > ../tex/data/cal-$y-$city_name-$scr.tex
+/
+./write_monthly_panchangam_tex.py $city_name $lat $lon $tz $y $script > /tmp/cal-$y-$city_name-$scr.tex
 if [[ $? -eq 0 ]]
 then
-  cd ../tex/data/
+  cd /tmp/
   echo "done. "
   echo -ne "Generating PDF (log --> /tmp/cal-$y-$city_name-$scr.texlog)... "
   xelatex -halt-on-error cal-$y-$city_name-$scr.tex > /tmp/cal-$y-$city_name-$scr.texlog
@@ -43,18 +43,18 @@ fi
 cd ../../panchangam/
 
 echo -ne "Computing $y daily panchangam for $city_name ($lat,$lon) - $tz in $script script... "
-python3 -m jyotisha.panchangam.scripts.write_daily_panchangam_tex $city_name $lat $lon $tz $y $script > ../tex/data/daily-cal-$y-$city_name-$scr.tex
+python3 -m jyotisha.panchangam.scripts.write_daily_panchangam_tex $city_name $lat $lon $tz $y $script > /tmp/daily-cal-$y-$city_name-$scr.tex
 if [[ $? -eq 0 ]]
 then
   mv cal-*-log* debug_logs/
-  cd ../tex/data/
+  cd /tmp/
   echo "done. "
   echo -ne "Generating PDF (log --> /tmp/cal-$y-$city_name-$scr.texlog)... "
   xelatex -halt-on-error daily-cal-$y-$city_name-$scr.tex > /tmp/cal-$y-$city_name-$scr.texlog
   echo done
   
-  mv cal-$y-$city_name-$scr.pdf ../../pdf/
-  mv daily-cal-$y-$city_name-$scr.pdf ../../pdf/
+  mv cal-$y-$city_name-$scr.pdf ~/Documents/
+  mv daily-cal-$y-$city_name-$scr.pdf ~/Documents/
 else
   echo "error!"
 fi
