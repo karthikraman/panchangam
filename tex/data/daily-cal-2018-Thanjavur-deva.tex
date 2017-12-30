@@ -70,8 +70,9 @@
 % PDF SETUP
 % ---- FILL IN HERE THE DOC TITLE AND AUTHOR
 \defaultfontfeatures{Scale=MatchLowercase,Mapping=tex-text}
-\setmainfont{Siddhanta}[Script=Devanagari]
-\setsansfont[Scale=0.75]{Noto Sans UI}
+\setmainfont{siddhanta.ttf}[Path=../fonts/,Script=Devanagari]
+\setsansfont[Path=../fonts/,Scale=0.75]{NotoSansUI-Regular.ttf}
+% \newfontfamily\noto[Path=../fonts/, Ligatures=TeX]{NotoSansUI-Regular}
 %%%%%%% Numbers and counters %%%%%%%
 \newcount\num
 \newcount\tempone \newcount\temptwo
@@ -111,17 +112,17 @@
 \end{minipage}
 \begin{minipage}[c][30mm]{\linewidth}
 \centering
- \mbox{\font\x="Siddhanta:script=deva" at 80 pt\x \devanumber{#2}}\mbox{}\\[2ex]%Solar month date
+ \mbox{\fontsize{96}{96}\selectfont \devanumber{#2}}\mbox{}\\[2ex]%Solar month date
  \end{minipage}
  \begin{minipage}[b][14mm]{\linewidth}
  \centering
-\mbox{\font\x="Siddhanta:script=deva" at 24 pt\x {#5}}\\%Vara name
+\mbox{\fontsize{28}{28}\selectfont {#5}}\\%Vara name
 \mbox{}
 \end{minipage}
 \end{minipage}%
 }
 \newcommand{\tamil}[1]{%
-{\fontspec[Scale=0.9,FakeStretch=0.9]{Noto Sans Tamil} \footnotesize #1}}
+{\fontspec[Scale=0.9,FakeStretch=0.9,Path=../fonts/]{NotoSansTamil-Regular.ttf} \footnotesize #1}}
 \newcommand{\kalas}[6]{%
 \centerline{\small{\mbox{प्रातः सन्ध्या \textsf{#1} सङ्गव \textsf{#2}\hspace{2ex}मध्याह्न \textsf{#3}{\scriptsize\RIGHTarrow}\textsf{#4}\hspace{2ex} सायाह्न \textsf{#5} सायं सन्ध्या \textsf{#6}}}}%Sangava kala etc
 }
@@ -148,9 +149,9 @@
 \begin{minipage}[t]{56mm}
 \centering
 \large \textsf{\yearname}\\[1ex]%YYYY
- \mbox{\font\x="Ubuntu" at 16 pt\x {\uppercase{#1}}}\\[9ex]%mmm
- \mbox{\font\x="Ubuntu" at 80 pt\x #2}\\[3ex]%DD
-\mbox{\font\x="Ubuntu" at 24 pt\x \uppercase{#8}}\\%Day of the week
+\mbox{\sffamily\fontsize{20}{25}\selectfont {\uppercase{#1}}}\\[9ex]%mmm
+\mbox{\sffamily\fontsize{108}{130}\selectfont #2}\\[3ex]%DD
+\mbox{\sffamily\fontsize{32}{38}\selectfont\uppercase{#8}}\\%Day of the week
 \mbox{}
 \end{minipage}
 \vline
@@ -171,12 +172,14 @@
 \mbox{}
 \renewcommand{\yearname}{2018}
 \begin{center}
-{\font\x="Noto Sans UI" at 60 pt\x 2018\\[0.5cm]}
-\mbox{\font\x="Siddhanta:script=deva" at 48 pt\x हेविलम्बी–विलम्बी}\\[0.5cm]
-\mbox{\font\x="Siddhanta:script=deva" at 32 pt\x कलि } %
-{\font\x="Noto Sans UI" at 32 pt\x 5118–5119\\[0.5cm]}
-{\font\x="Noto Sans UI" at 48 pt\x \uppercase{Thanjavur}\\[0.2cm]}
-{\font\x="Noto Sans UI" at 16 pt\x {10°46'59''N, 79°07'51''E}\\[0.5cm]}
+{\sffamily \fontsize{80}{80}\selectfont  2018\\[0.5cm]}
+\mbox{\fontsize{48}{48}\selectfont हेविलम्बी–विलम्बी}\\
+\mbox{\fontsize{32}{32}\selectfont कलि } %
+{\sffamily \fontsize{43}{43}\selectfont  5118–5119\\[0.5cm]}
+\hrule
+\vspace{0.2cm}
+{\sffamily \fontsize{50}{50}\selectfont  \uppercase{Thanjavur}\\[0.2cm]}
+{\sffamily \fontsize{23}{23}\selectfont  {10°46'59''N, 79°07'51''E}\\[0.2cm]}
 \hrule
 \end{center}
 \clearpage

@@ -70,8 +70,9 @@
 % PDF SETUP
 % ---- FILL IN HERE THE DOC TITLE AND AUTHOR
 \defaultfontfeatures{Scale=MatchLowercase,Mapping=tex-text}
-\setmainfont{Siddhanta}[Script=Devanagari]
-\setsansfont[Scale=0.75]{Noto Sans UI}
+\setmainfont{siddhanta.ttf}[Path=../fonts/,Script=Devanagari]
+\setsansfont[Path=../fonts/,Scale=0.75]{NotoSansUI-Regular.ttf}
+% \newfontfamily\noto[Path=../fonts/, Ligatures=TeX]{NotoSansUI-Regular}
 %%%%%%% Numbers and counters %%%%%%%
 \newcount\num
 \newcount\tempone \newcount\temptwo
@@ -111,17 +112,17 @@
 \end{minipage}
 \begin{minipage}[c][30mm]{\linewidth}
 \centering
- \mbox{\font\x="Siddhanta:script=deva" at 80 pt\x \devanumber{#2}}\mbox{}\\[2ex]%Solar month date
+ \mbox{\fontsize{96}{96}\selectfont \devanumber{#2}}\mbox{}\\[2ex]%Solar month date
  \end{minipage}
  \begin{minipage}[b][14mm]{\linewidth}
  \centering
-\mbox{\font\x="Siddhanta:script=deva" at 24 pt\x {#5}}\\%Vara name
+\mbox{\fontsize{28}{28}\selectfont {#5}}\\%Vara name
 \mbox{}
 \end{minipage}
 \end{minipage}%
 }
 \newcommand{\tamil}[1]{%
-{\fontspec[Scale=0.9,FakeStretch=0.9]{Noto Sans Tamil} \footnotesize #1}}
+{\fontspec[Scale=0.9,FakeStretch=0.9,Path=../fonts/]{NotoSansTamil-Regular.ttf} \footnotesize #1}}
 \newcommand{\kalas}[6]{%
 \centerline{\small{\mbox{प्रातः सन्ध्या \textsf{#1} सङ्गव \textsf{#2}\hspace{2ex}मध्याह्न \textsf{#3}{\scriptsize\RIGHTarrow}\textsf{#4}\hspace{2ex} सायाह्न \textsf{#5} सायं सन्ध्या \textsf{#6}}}}%Sangava kala etc
 }
@@ -148,9 +149,9 @@
 \begin{minipage}[t]{56mm}
 \centering
 \large \textsf{\yearname}\\[1ex]%YYYY
- \mbox{\font\x="Ubuntu" at 16 pt\x {\uppercase{#1}}}\\[9ex]%mmm
- \mbox{\font\x="Ubuntu" at 80 pt\x #2}\\[3ex]%DD
-\mbox{\font\x="Ubuntu" at 24 pt\x \uppercase{#8}}\\%Day of the week
+\mbox{\sffamily\fontsize{20}{25}\selectfont {\uppercase{#1}}}\\[9ex]%mmm
+\mbox{\sffamily\fontsize{108}{130}\selectfont #2}\\[3ex]%DD
+\mbox{\sffamily\fontsize{32}{38}\selectfont\uppercase{#8}}\\%Day of the week
 \mbox{}
 \end{minipage}
 \vline
@@ -171,12 +172,14 @@
 \mbox{}
 \renewcommand{\yearname}{2017}
 \begin{center}
-{\font\x="Noto Sans UI" at 60 pt\x 2017\\[0.5cm]}
-\mbox{\font\x="Siddhanta:script=deva" at 48 pt\x दुर्मुखी–हेविलम्बी}\\[0.5cm]
-\mbox{\font\x="Siddhanta:script=deva" at 32 pt\x कलि } %
-{\font\x="Noto Sans UI" at 32 pt\x 5117–5118\\[0.5cm]}
-{\font\x="Noto Sans UI" at 48 pt\x \uppercase{Chennai}\\[0.2cm]}
-{\font\x="Noto Sans UI" at 16 pt\x {13°05'24''N, 80°16'12''E}\\[0.5cm]}
+{\sffamily \fontsize{80}{80}\selectfont  2017\\[0.5cm]}
+\mbox{\fontsize{48}{48}\selectfont दुर्मुखी–हेविलम्बी}\\
+\mbox{\fontsize{32}{32}\selectfont कलि } %
+{\sffamily \fontsize{43}{43}\selectfont  5117–5118\\[0.5cm]}
+\hrule
+\vspace{0.2cm}
+{\sffamily \fontsize{50}{50}\selectfont  \uppercase{Chennai}\\[0.2cm]}
+{\sffamily \fontsize{23}{23}\selectfont  {13°05'24''N, 80°16'12''E}\\[0.2cm]}
 \hrule
 \end{center}
 \clearpage
@@ -673,7 +676,7 @@
 {\mbox{बव\To{}\textsf{17:19\hspace{2ex}}}\mbox{बालव\To{}\textsf{05:51(+1)\hspace{2ex}}}}{\tiny }
 }
 {\rygdata{15:18--16:45}{09:27--10:55}{12:23--13:50}}
-{अङ्गारक-चतुर्थी\eventsep निक्षुभार्क-सप्तमी\eventsep सङ्कटहर-चतुर्थी-व्रतम्\eventsep \tamil{மாசி~செவ்வாய்}}
+{अङ्गारक-चतुर्थी\eventsep सङ्कटहर-चतुर्थी-व्रतम्\eventsep \tamil{மாசி~செவ்வாய்}}
 {Tue} 
 \caldata{FEBRUARY}{15}{\sunmonth{कुम्भ}{3}{}{माघ}{सौम्य}{दुर्मुखी}}
 {\sunmoondata{06:32}{18:13}{22:01}{10:09(+1)}
@@ -706,7 +709,7 @@
 {\mbox{वणिज\To{}\textsf{09:25\hspace{2ex}}}\mbox{भद्र\To{}\textsf{22:35\hspace{2ex}}}}{\tiny }
 }
 {\rygdata{10:55--12:22}{15:18--16:46}{07:59--09:27}}
-{यशोदा~जयन्ती}
+{निक्षुभार्क-सप्तमी\eventsep यशोदा~जयन्ती}
 {Fri} 
 \caldata{FEBRUARY}{18}{\sunmonth{कुम्भ}{6}{}{माघ}{स्थिर}{दुर्मुखी}}
 {\sunmoondata{06:31}{18:14}{00:24(+1)}{12:14(+1)}
@@ -4039,7 +4042,7 @@
 {\mbox{शकुनि\To{}\textsf{09:29\hspace{2ex}}}\mbox{चतुष्पात्\To{}\textsf{22:43\hspace{2ex}}}}{\tiny }
 }
 {\rygdata{16:19--17:44}{12:05--13:29}{14:54--16:19}}
-{काञ्ची १४ जगद्गुरु श्री विद्यघनेन्द्र सरस्वती आराधना~\#{१७०१}\eventsep काञ्ची ३४ जगद्गुरु श्री चन्द्रशेखरेन्द्र सरस्वती ३ आराधना~\#{१३०८}\eventsep मार्गशीर्ष-अमावस्या\eventsep \tamil{தொண்டரடிப்பொடியாழ்வார் திருநக்ஷத்திரம்}}
+{काञ्ची १४ जगद्गुरु श्री विद्याघनेन्द्र सरस्वती आराधना~\#{१७०१}\eventsep काञ्ची ३४ जगद्गुरु श्री चन्द्रशेखरेन्द्र सरस्वती ३ आराधना~\#{१३०८}\eventsep मार्गशीर्ष-अमावस्या\eventsep \tamil{தொண்டரடிப்பொடியாழ்வார் திருநக்ஷத்திரம்}}
 {Sun} 
 \caldata{DECEMBER}{18}{\sunmonth{धनुः}{3}{}{मार्गशीर्ष}{इन्दु}{हेविलम्बी}}
 {\sunmoondata{06:25}{17:45}{07:03(+1)}{18:44(+1)}
