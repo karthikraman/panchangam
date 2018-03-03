@@ -76,7 +76,7 @@ UID:arudra-darisanam-natarajar-mahabhishekam-2018-01
 DESCRIPTION:Visit Chidambaram to have darshan of Nataraja\, or pray to Nat
  araja\n\nकृपासमुद्रम् सुमुखं त्र
  िनेत्रं सदाशिवं रुद्रमनन्त
- रूपम् ।\nजटाधरं पार्वतिवामभ
+ रूपम्।\nजटाधरं पार्वतिवामभ
  ागं चिदम्बरेशं हृदि भावयाम
  ि ॥\n\nhttp://karthikraman.github.io/adyatithih/posts/arudra-darisanam
  -natarajar-mahabhishekam
@@ -221,10 +221,10 @@ DTSTART;VALUE=DATE:20180106
 DTEND;VALUE=DATE:20180107
 UID:tyagaraja-aradhana-2018-01
 DESCRIPTION:कामक्रोधादिरहितं रामभ
- क्तशिरोमणिम् ।\nत्यागराजगु
- रुं वन्दे सङ्गीताब्धिं कला
- निधिम् ॥\n\nhttp://karthikraman.github.io/adyatithih/posts/t
- yagaraja-aradhana
+ क्तशिरोमणिम्।\nत्यागराजगुर
+ ुं वन्दे सङ्गीताब्धिं कलान
+ िधिम्॥\n\nhttp://karthikraman.github.io/adyatithih/posts/tyaga
+ raja-aradhana
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -566,7 +566,7 @@ DTSTART;VALUE=DATE:20180120
 DTEND;VALUE=DATE:20180121
 UID:varakunda-chaturthi-2018-01
 DESCRIPTION:माघशुक्लचतुर्थ्यां तु 
- कुन्दपुष्पैः सदाशिवम् ।\nसम
+ कुन्दपुष्पैः सदाशिवम्।\nसम
  ्पूज्य यो हि नक्ताऽऽशी सम्प
  ्राप्नोति श्रियं नरः ॥\n\nhttp://kar
  thikraman.github.io/adyatithih/posts/varakunda-chaturthi
@@ -942,11 +942,11 @@ DESCRIPTION:Mahavishnu created black til by extreme `tapas` on this day\;
  light til deepam and offer `tilAnnam naivedyam`.\n\nमाघे तु 
  शुक्लद्वादश्यां यतो हि भगव
  ान् पुर।\nतिलान् उत्पादयामा
- स तपः कृत्वा सुदारुणम् ॥\nति
- लतैलेन दीपाश्छ देयाह् देव ग
- ृहेषु च।\nनिवेदयेत् तिलानेव\
- n\nhttp://karthikraman.github.io/adyatithih/posts/tilapadma-dvadashi-tilot
- patti
+ स तपः कृत्वा सुदारुणम्॥\nतिल
+ तैलेन दीपाश्छ देयाह् देव गृ
+ हेषु च।\nनिवेदयेत् तिलानेव\n\n
+ http://karthikraman.github.io/adyatithih/posts/tilapadma-dvadashi-tilotpat
+ ti
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -1224,10 +1224,10 @@ DTSTART;VALUE=DATE:20180205
 DTEND;VALUE=DATE:20180206
 UID:shri-sheshadri-svami-jayanti-2018-02
 DESCRIPTION:करुणासागरं शान्तम् अरु
- णाचलवासिनम् ।\nश्रीशेषाद्र
- िगुरुं वन्दे ब्रह्मीभूतं त
- पोनिधिम् ॥\n\nhttp://karthikraman.github.io/adyatithih/p
- osts/shri-sheshadri-svami-jayanti
+ णाचलवासिनम्।\nश्रीशेषाद्रि
+ गुरुं वन्दे ब्रह्मीभूतं तप
+ ोनिधिम्॥\n\nhttp://karthikraman.github.io/adyatithih/posts
+ /shri-sheshadri-svami-jayanti
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -1457,6 +1457,24 @@ DTEND;VALUE=DATE:20180216
 UID:magha-snanapurti-2018-02
 DESCRIPTION:http://karthikraman.github.io/adyatithih/posts/magha-snanapurt
  i
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:पुरन्दरदास-आराधना #४५४
+DTSTART;VALUE=DATE:20180215
+DTEND;VALUE=DATE:20180216
+UID:purandaradasa-aradhana-2018-02
+DESCRIPTION:मन्मनोभीष्टवरदं सर्वा
+ भीष्टफलप्रदम्।\nपुरन्दरगुर
+ ुं वन्दे दासशृएष्ठं दयानिध
+ िम्॥\n\nhttp://karthikraman.github.io/adyatithih/posts/purandarada
+ sa-aradhana
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -2514,9 +2532,9 @@ DTSTART;VALUE=DATE:20180322
 DTEND;VALUE=DATE:20180323
 UID:shalihotra-vrata-arambha-2018-03
 DESCRIPTION:शुक्लायांअथ पञ्चम्यां 
- चैत्रे मासि शुभानना।\n श्रीर
+ चैत्रे मासि शुभानना।\nश्रीर
  ्विष्णुलोकान्मानुष्यं सम्
- प्राप्ता केशवाज्ञया॥\n तस्म
+ प्राप्ता केशवाज्ञया॥\nतस्म
  ात् तां पूजयेत् तत्र यस्तं ल
  क्ष्मीर्न मुञ्चति॥\n\nhttp://karthikrama
  n.github.io/adyatithih/posts/shalihotra-vrata-arambha
@@ -4188,10 +4206,10 @@ DTSTART;VALUE=DATE:20180430
 DTEND;VALUE=DATE:20180501
 UID:chitra-purnima-2018-04
 DESCRIPTION:चित्रगुप्तं महाप्राज्
- ञ्यं लेखनीपत्रधारिणम् ।\nचि
+ ञ्यं लेखनीपत्रधारिणम्।\nचि
  त्ररत्नाम्बरधरं मध्यस्थं स
- र्वदेहिनाम् ॥\n\nhttp://karthikraman.github.io/ady
- atithih/posts/chitra-purnima
+ र्वदेहिनाम्॥\n\nhttp://karthikraman.github.io/adya
+ tithih/posts/chitra-purnima
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -4226,8 +4244,8 @@ DESCRIPTION:Perform snana four ghatikas before sunrise (during `aruNodayam
  ka`\, `mAgha` and `vaizAkha` – hence the name `A-kA-mA-vai`) bestows str
  ength\, beauty\, fame\, dharma\, knowledge\, happiness\, fortitude and hea
  lth.\n\nबलं रूपं यशो धर्मं ज्ञान
- मायुः सुखं धृतिम् ।\nआरोग्यं
-  परमाप्नोति सम्यक् स्नानेन 
+ मायुः सुखं धृतिम्।\nआरोग्यं 
+ परमाप्नोति सम्यक् स्नानेन 
  मानवः ॥\n\nhttp://karthikraman.github.io/adyatithih/posts/a-ka
  -ma-vai-snanam
 TRANSP:TRANSPARENT
@@ -5155,14 +5173,14 @@ DESCRIPTION:Rambha Vratam\; perform Savitri pooja near Banana tree. Offer
  िका कार्या रम्भास्तम्भोपशो
  भिता।\nतत्र सम्पूजयेद्देवी
  ं शक्त्या स्वर्णादिनिर्मित
- ाम् ॥\n\nवेदेषु सर्वशास्त्रे
- षु दिवि भूमौ रसातले।\nश्रुतो
-  दृष्टश्च बहुशो न शक्त्या रह
+ ाम्॥\n\nवेदेषु सर्वशास्त्रेष
+ ु दिवि भूमौ रसातले।\nश्रुतो 
+ दृष्टश्च बहुशो न शक्त्या रह
  ितः शिवः।\nत्वं शक्स्तिस्त्
  वं स्वधा स्वाहा त्वं सावित्
  री सरस्वती।\nपतिं देहि सुतान
  ्देहि गृहं देवि नमोऽस्तु ते
- ॥\n\n योषितः पुरुषो वाऽपि ख्या
+ ॥\n\nयोषितः पुरुषो वाऽपि ख्या
  तं रम्भाव्रतं भुवि।\nभार्या
  ं पुत्रं गृहं भोगान् कुलवृद
  ्धिमवाप्नुयुः॥\n\nhttp://karthikraman.github.i
@@ -5586,10 +5604,10 @@ DESCRIPTION:Avataranam of Ganga Devi. Bathe in any river and offer arghyam
  कुजे दिने।\nगङ्गाऽवतीर्णा ह
  स्तर्क्षे सर्वपापहरा स्मृत
  ा॥\n\nयां काञ्चित् सरितं प्रा
- प्य दद्यादर्घ्यं शुभोदकम् 
- ।\nमुच्यते दशभिः पापैः स महा
- पातकोपमैः॥\n\nhttp://karthikraman.github.io/adyatithih
- /posts/dashahara-gangavataranam
+ प्य दद्यादर्घ्यं शुभोदकम्।
+ \nमुच्यते दशभिः पापैः स महाप
+ ातकोपमैः॥\n\nhttp://karthikraman.github.io/adyatithih/po
+ sts/dashahara-gangavataranam
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -5704,7 +5722,7 @@ UID:gavamayana-dvadashi-2018-06
 DESCRIPTION:Perform puja of Lord Trivikrama (Sahasranamarchana)\, do naive
  dyam of mangoes and offer annadanam to needy.\n\nअहोरात्र
  ेण द्वादश्यां ज्येष्ठे मास
- ि त्रिविक्रमम् ।\nगवामयनमाप
+ ि त्रिविक्रमम्।\nगवामयनमाप
  ्नोति अप्सरोभिश्च मोदते॥\n\nht
  tp://karthikraman.github.io/adyatithih/posts/gavamayana-dvadashi
 TRANSP:TRANSPARENT
@@ -6233,8 +6251,8 @@ DTEND;VALUE=DATE:20180718
 UID:tiruvadippuram-2018-07
 DESCRIPTION:श्रीविष्णुचित्त-कुलकल
  ्पकनन्दवल्लीम्\nश्रीरङ्गरा
- ज-हरि-चन्दन-योग-द्र्श्याम् ।
- \nसाक्षात् क्षमां करुणया कमल
+ ज-हरि-चन्दन-योग-द्र्श्याम्।\
+ nसाक्षात् क्षमां करुणया कमल
  ामिवान्यां\nगोदाम् अनन्यशर
  णः शरणं प्रपद्ये॥\n\nhttp://karthikraman.git
  hub.io/adyatithih/posts/tiruvadippuram
@@ -6603,11 +6621,11 @@ DTEND;VALUE=DATE:20180724
 UID:gopadma-vratam-2018-07
 DESCRIPTION:Perform puja of Mahalakshmi-Mahavishnu\n\nगोपद्म
  मिति विख्यातं सर्वपापहरं प
- रम् ।\nसर्वदुःखोपशमनं सर्वस
- म्पत्प्रदायकम् ।\nसुवासिन्
- यास्तु सौभाग्यपुत्रपौत्रप
- ्रवर्धनम् ॥\n\nhttp://karthikraman.github.io/adyatithi
- h/posts/gopadma-vratam
+ रम्।\nसर्वदुःखोपशमनं सर्वस
+ म्पत्प्रदायकम्।\nसुवासिन्य
+ ास्तु सौभाग्यपुत्रपौत्रप्
+ रवर्धनम्॥\n\nhttp://karthikraman.github.io/adyatithih/po
+ sts/gopadma-vratam
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -6918,8 +6936,8 @@ DESCRIPTION:Lord Mahavishnu sleeps with Goddess Mahalakshmi on this day. D
  am of same after puja.\n\nलक्ष्म्या वियुज्
  यते देव न कदाचित् यतो भवान् 
  ।\nतथा कलत्रसम्बन्धो देव मा 
- मे वियुज्यताम् ॥\n\nhttp://karthikraman.github
- .io/adyatithih/posts/ashunyashayana-vratam
+ मे वियुज्यताम्॥\n\nhttp://karthikraman.github.
+ io/adyatithih/posts/ashunyashayana-vratam
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -7315,8 +7333,8 @@ DTEND;VALUE=DATE:20180814
 UID:tiruvadippuram-2018-08
 DESCRIPTION:श्रीविष्णुचित्त-कुलकल
  ्पकनन्दवल्लीम्\nश्रीरङ्गरा
- ज-हरि-चन्दन-योग-द्र्श्याम् ।
- \nसाक्षात् क्षमां करुणया कमल
+ ज-हरि-चन्दन-योग-द्र्श्याम्।\
+ nसाक्षात् क्षमां करुणया कमल
  ामिवान्यां\nगोदाम् अनन्यशर
  णः शरणं प्रपद्ये॥\n\nhttp://karthikraman.git
  hub.io/adyatithih/posts/tiruvadippuram
@@ -9039,9 +9057,9 @@ UID:surya-shashthi-2018-09
 DESCRIPTION:Perform puja of Surya\, eat Panchagavya -- brings merits great
  er than Ashvamedha!\n\nशुक्ले भाद्रपदे षष
  ्ठ्यां स्नानं भास्करपूजनम्
-  ।\n प्राशनं पञ्चगव्यस्य अश्
- वमेधफलाधिकम् ॥\n\nhttp://karthikraman.github.io/
- adyatithih/posts/surya-shashthi
+ ।\nप्राशनं पञ्चगव्यस्य अश्व
+ मेधफलाधिकम्॥\n\nhttp://karthikraman.github.io/adya
+ tithih/posts/surya-shashthi
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -9449,13 +9467,13 @@ DTSTART;VALUE=DATE:20180921
 DTEND;VALUE=DATE:20180922
 UID:chaturmasya-vratam-2018-09
 DESCRIPTION:सङ्कर्षण नमस्तुभ्यं श्
- रवणे मत्कृतेन च।\n दधिव्रतेन
-  देवेश तुष्टो भव जनार्दन॥\nइ
- दं व्रतं मया देव कृतं प्रीत्
- यै तव प्रभो।\nन्यूनं सम्पूर्
- णतां यातु त्वत्प्रसादज्जना
- र्दन॥\n\nhttp://karthikraman.github.io/adyatithih/posts/chaturma
- sya-vratam
+ रवणे मत्कृतेन च।\nदधिव्रतेन 
+ देवेश तुष्टो भव जनार्दन॥\nइद
+ ं व्रतं मया देव कृतं प्रीत्य
+ ै तव प्रभो।\nन्यूनं सम्पूर्ण
+ तां यातु त्वत्प्रसादज्जनार
+ ्दन॥\n\nhttp://karthikraman.github.io/adyatithih/posts/chaturmasya
+ -vratam
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -9950,7 +9968,7 @@ DTSTART;VALUE=DATE:20180930
 DTEND;VALUE=DATE:20181001
 UID:kapila-shashthi-2018-09
 DESCRIPTION:प्रभाकर नमस्तुभ्यं संस
- ारान्मां समुद्धर।\n भुक्तिम
+ ारान्मां समुद्धर।\nभुक्तिम
  ुक्तिप्रदो यस्मात् तस्माच्
  छान्तिं प्रयच्छ मे॥\n\nhttp://karthikram
  an.github.io/adyatithih/posts/kapila-shashthi
@@ -10060,8 +10078,8 @@ DTEND;VALUE=DATE:20181002
 UID:shringeri-35-jagadguru-shri-abhinava-vidyatirtha-mahasvami-aradhana-20
  18-10
 DESCRIPTION:विवेकिनं महाप्राज्ञ्य
- ं धैर्यौदार्यक्षमानिधिम् ।
- \nसदाऽभिनवपूर्वं तं विद्यात
+ ं धैर्यौदार्यक्षमानिधिम्।\
+ nसदाऽभिनवपूर्वं तं विद्यात
  ीर्थगुरुं भजे ॥\n\nhttp://karthikraman.github.io
  /adyatithih/posts/shringeri-35-jagadguru-shri-abhinava-vidyatirtha-mahasva
  mi-aradhana
@@ -10141,10 +10159,10 @@ DTEND;VALUE=DATE:20181004
 UID:sumangali-navami-2018-10
 DESCRIPTION:In honour of Sumangalis (in the family)\, by holding a feast f
  or Suvasinis and Kanyas.\n\nभर्तुरग्रे मृता 
- नारी सहदाहेन वा मृता ।\n तस्य
+ नारी सहदाहेन वा मृता ।\nतस्य
  ाः स्थाने नियुञ्जीत विप्रै
- ः सह सुवासिनीम् ॥\n\nhttp://karthikraman.githu
- b.io/adyatithih/posts/sumangali-navami
+ ः सह सुवासिनीम्॥\n\nhttp://karthikraman.github
+ .io/adyatithih/posts/sumangali-navami
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -10410,10 +10428,10 @@ DTSTART;VALUE=DATE:20181009
 DTEND;VALUE=DATE:20181010
 UID:shringeri-34-jagadguru-shri-chandrashekhara-bharati-aradhana-2018-10
 DESCRIPTION:सदाऽऽत्मध्याननिरतं वि
- षयेभ्यः परङ्मुखम् ।\nनौमि शा
+ षयेभ्यः परङ्मुखम्।\nनौमि शा
  स्त्रेषु निष्णातं चन्द्रशे
- खरभारतीम् ॥\n\nhttp://karthikraman.github.io/adyatithi
- h/posts/shringeri-34-jagadguru-shri-chandrashekhara-bharati-aradhana
+ खरभारतीम्॥\n\nhttp://karthikraman.github.io/adyatithih
+ /posts/shringeri-34-jagadguru-shri-chandrashekhara-bharati-aradhana
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -11748,10 +11766,10 @@ DTSTART;VALUE=DATE:20181103
 DTEND;VALUE=DATE:20181104
 UID:shringeri-34-jagadguru-shri-chandrashekhara-bharati-jayanti-2018-11
 DESCRIPTION:सदाऽऽत्मध्याननिरतं वि
- षयेभ्यः परङ्मुखम् ।\nनौमि शा
+ षयेभ्यः परङ्मुखम्।\nनौमि शा
  स्त्रेषु निष्णातं चन्द्रशे
- खरभारतीम् ॥\n\nhttp://karthikraman.github.io/adyatithi
- h/posts/shringeri-34-jagadguru-shri-chandrashekhara-bharati-jayanti
+ खरभारतीम्॥\n\nhttp://karthikraman.github.io/adyatithih
+ /posts/shringeri-34-jagadguru-shri-chandrashekhara-bharati-jayanti
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -11981,8 +11999,8 @@ DTEND;VALUE=DATE:20181107
 UID:shringeri-35-jagadguru-shri-abhinava-vidyatirtha-mahasvami-jayanti-201
  8-11
 DESCRIPTION:विवेकिनं महाप्राज्ञ्य
- ं धैर्यौदार्यक्षमानिधिम् ।
- \nसदाऽभिनवपूर्वं तं विद्यात
+ ं धैर्यौदार्यक्षमानिधिम्।\
+ nसदाऽभिनवपूर्वं तं विद्यात
  ीर्थगुरुं भजे ॥\n\nhttp://karthikraman.github.io
  /adyatithih/posts/shringeri-35-jagadguru-shri-abhinava-vidyatirtha-mahasva
  mi-jayanti
@@ -13513,8 +13531,8 @@ DESCRIPTION:Have darshan of Shivalingam today\; removes Shivapachara dosha
  s in the family.\n\nमार्गशीर्षेऽमले पक
  ्षे षष्ठ्यां वारेंऽशुमालिन
  ः ।\nशततारागते चन्द्रे लिङ्ग
- ं स्याद्दृष्टिगोचरम् ।\n\nhttp://k
- arthikraman.github.io/adyatithih/posts/margashirsha-shivalinga-shashthi
+ ं स्याद्दृष्टिगोचरम्।\n\nhttp://ka
+ rthikraman.github.io/adyatithih/posts/margashirsha-shivalinga-shashthi
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -13912,7 +13930,7 @@ UID:arudra-darisanam-natarajar-mahabhishekam-2018-12
 DESCRIPTION:Visit Chidambaram to have darshan of Nataraja\, or pray to Nat
  araja\n\nकृपासमुद्रम् सुमुखं त्र
  िनेत्रं सदाशिवं रुद्रमनन्त
- रूपम् ।\nजटाधरं पार्वतिवामभ
+ रूपम्।\nजटाधरं पार्वतिवामभ
  ागं चिदम्बरेशं हृदि भावयाम
  ि ॥\n\nhttp://karthikraman.github.io/adyatithih/posts/arudra-darisanam
  -natarajar-mahabhishekam
@@ -14013,10 +14031,10 @@ DTSTART;VALUE=DATE:20181230
 DTEND;VALUE=DATE:20181231
 UID:shri-sheshadri-svami-aradhana-2018-12
 DESCRIPTION:करुणासागरं शान्तम् अरु
- णाचलवासिनम् ।\nश्रीशेषाद्र
- िगुरुं वन्दे ब्रह्मीभूतं त
- पोनिधिम् ॥\n\nhttp://karthikraman.github.io/adyatithih/p
- osts/shri-sheshadri-svami-aradhana
+ णाचलवासिनम्।\nश्रीशेषाद्रि
+ गुरुं वन्दे ब्रह्मीभूतं तप
+ ोनिधिम्॥\n\nhttp://karthikraman.github.io/adyatithih/posts
+ /shri-sheshadri-svami-aradhana
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
