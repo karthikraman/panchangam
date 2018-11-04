@@ -1,6 +1,6 @@
-% !Tex program = XeLaTeX
+% !Tex program = XeLaTeX 
 \documentclass[a3paper,12pt,landscape]{article}
-\usepackage[dvipsnames]{xcolor}
+\usepackage[dvipsnames]{xcolor} 
 \usepackage[a3paper,margin=1cm]{geometry}
 \addtolength{\topmargin}{1cm}
 \usepackage[xetex]{graphicx}
@@ -8,12 +8,12 @@
 \usepackage{multirow}
 \usepackage{pxfonts}
 \usepackage{bbding}
-\usepackage{wasysym}
+\usepackage{wasysym} 
 \usepackage{fontspec}
 \usepackage{multicol}
 \usepackage{supertabular}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%% MOONPHASE CODE
+%% MOONPHASE CODE 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %Credits: http://tex.stackexchange.com/questions/34785/how-to-typeset-moon-phase-symbols (Jake!)
 \usepackage{tikz}
@@ -81,7 +81,7 @@
 \newcommand{\devanumberrecurse}{%
 {\tempone=\num
 %  \showthe\tempone\ %
-\ifnum\num > 0
+\ifnum\num > 0 
 	\divide \num by 10%
 	\temptwo=\num \multiply\temptwo by -10%
 	\devanumberrecurse%
