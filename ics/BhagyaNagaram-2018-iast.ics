@@ -32,6 +32,23 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Veṅkaṭāchale Paurṇamī Garuḍa-Sevā
+DTSTART;VALUE=DATE:20180101
+DTEND;VALUE=DATE:20180102
+UID:tirupati-paurnami-garuda-seva-2018-01
+DESCRIPTION:Lord Malayappa rides on Garuda Vahanam in all four mada street
+ s. This usually happens during Brahmotsavams\, but since 2006\, this has b
+ een happening on every `paurNamI`.\n\n\n\nhttp://karthikraman.github.io/ad
+ yatithih/posts/tirupati-paurnami-garuda-seva
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Badarī Jyotirmaṭha-Pratiṣṭhāpana Jayantī #2503
 DTSTART;VALUE=DATE:20180102
 DTEND;VALUE=DATE:20180103
@@ -858,6 +875,22 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Sāmba-Daśamī (Sūryapūjā)
+DTSTART;VALUE=DATE:20180127
+DTEND;VALUE=DATE:20180128
+UID:shyamalanavaratri-arambha-2018-01-27-0
+DESCRIPTION:Samba\, the son of Sri Krishna\, was cured of leprosy after pe
+ rforming tapas to propitiate Surya Bhagavan.\n\n\n\nhttp://karthikraman.gi
+ thub.io/adyatithih/posts/shyamalanavaratri-arambha
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Bhīṣma-Dvādaśī
 DTSTART;VALUE=DATE:20180128
 DTEND;VALUE=DATE:20180129
@@ -1024,12 +1057,11 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Chandra-Grahaṇam
+SUMMARY:Chandra-Grahaṇam~(Rāhugrasta)
 DTSTART;TZID=Asia/Calcutta;VALUE=DATE-TIME:20180131T180600
 DTEND;TZID=Asia/Calcutta;VALUE=DATE-TIME:20180131T204100
-UID:chandra-grahanam-2018-01
-DESCRIPTION:http://karthikraman.github.io/adyatithih/posts/chandra-grahana
- m
+UID:-2018-01
+DESCRIPTION:http://karthikraman.github.io/adyatithih/posts/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT4H
@@ -1090,6 +1122,23 @@ DTEND;VALUE=DATE:20180201
 UID:kapali-teppotsavam-2018-01-31-0
 DESCRIPTION:http://karthikraman.github.io/adyatithih/posts/kapali-teppotsa
  vam
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Veṅkaṭāchale Paurṇamī Garuḍa-Sevā
+DTSTART;VALUE=DATE:20180131
+DTEND;VALUE=DATE:20180201
+UID:tirupati-paurnami-garuda-seva-2018-01-31-0
+DESCRIPTION:Lord Malayappa rides on Garuda Vahanam in all four mada street
+ s. This usually happens during Brahmotsavams\, but since 2006\, this has b
+ een happening on every `paurNamI`.\n\n\n\nhttp://karthikraman.github.io/ad
+ yatithih/posts/tirupati-paurnami-garuda-seva
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -1289,6 +1338,21 @@ DTSTART;VALUE=DATE:20180211
 DTEND;VALUE=DATE:20180212
 UID:sarva-vijaya-ekadashi-2018-02
 DESCRIPTION:http://karthikraman.github.io/adyatithih/posts/vijaya-ekadashi
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seṅgālipuram Muttaṇṇāvāḻ Ārādhanā #125
+DTSTART;VALUE=DATE:20180212
+DTEND;VALUE=DATE:20180213
+UID:ramana-maharshi-aradhana-2018-02
+DESCRIPTION:http://karthikraman.github.io/adyatithih/posts/ramana-maharshi
+ -aradhana
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -1701,10 +1765,25 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Raṃgabharī-Ekādaśī
+SUMMARY:Veṅkaṭāchale Plavotsava-Ārambhaḥ
+DTSTART;VALUE=DATE:20180225
+DTEND;VALUE=DATE:20180226
+UID:tirupati-teppotsavam-2018-02
+DESCRIPTION:http://karthikraman.github.io/adyatithih/posts/tirupati-teppot
+ savam
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Raṃgabharī Ekādaśī
 DTSTART;VALUE=DATE:20180226
 DTEND;VALUE=DATE:20180227
-UID:ramgabhari--2018-02
+UID:ramgabhari-ekadashi--2018-02
 DESCRIPTION:http://karthikraman.github.io/adyatithih/posts/
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -1752,6 +1831,21 @@ DTEND;VALUE=DATE:20180227
 UID:tiruchendur-masi-tiruvizha-2018-02-26-0
 DESCRIPTION:http://karthikraman.github.io/adyatithih/posts/tiruchendur-mas
  i-tiruvizha
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Veṅkaṭāchale Plavotsavaḥ
+DTSTART;VALUE=DATE:20180226
+DTEND;VALUE=DATE:20180227
+UID:tirupati-teppotsavam-2018-02-26-0
+DESCRIPTION:http://karthikraman.github.io/adyatithih/posts/tirupati-teppot
+ savam
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -1836,6 +1930,21 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Veṅkaṭāchale Plavotsavaḥ
+DTSTART;VALUE=DATE:20180227
+DTEND;VALUE=DATE:20180228
+UID:tirupati-teppotsavam-2018-02-27-0
+DESCRIPTION:http://karthikraman.github.io/adyatithih/posts/tirupati-teppot
+ savam
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Kāñchī 69 Jagadguru Śrī Jayendra Sarasvatī Ārādhanā #0
 DTSTART;VALUE=DATE:20180228
 DTEND;VALUE=DATE:20180301
@@ -1857,6 +1966,21 @@ DTEND;VALUE=DATE:20180301
 UID:tiruchendur-murugan-teppam-2018-02
 DESCRIPTION:http://karthikraman.github.io/adyatithih/posts/tiruchendur-mur
  ugan-teppam
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Veṅkaṭāchale Plavotsavaḥ
+DTSTART;VALUE=DATE:20180228
+DTEND;VALUE=DATE:20180301
+UID:tirupati-teppotsavam-2018-02-28-0
+DESCRIPTION:http://karthikraman.github.io/adyatithih/posts/tirupati-teppot
+ savam
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -1959,6 +2083,61 @@ DTEND;VALUE=DATE:20180302
 UID:tiruchendur-masi-tiruvizha-2018-03
 DESCRIPTION:http://karthikraman.github.io/adyatithih/posts/tiruchendur-mas
  i-tiruvizha
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Veṅkaṭāchale Paurṇamī Garuḍa-Sevā
+DTSTART;VALUE=DATE:20180301
+DTEND;VALUE=DATE:20180302
+UID:tirupati-paurnami-garuda-seva-2018-03
+DESCRIPTION:Lord Malayappa rides on Garuda Vahanam in all four mada street
+ s. This usually happens during Brahmotsavams\, but since 2006\, this has b
+ een happening on every `paurNamI`.\n\n\n\nhttp://karthikraman.github.io/ad
+ yatithih/posts/tirupati-paurnami-garuda-seva
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Veṅkaṭāchale Plavotsava~Samāpanam
+DTSTART;VALUE=DATE:20180301
+DTEND;VALUE=DATE:20180302
+UID:tirupati-teppotsavam-2018-03
+DESCRIPTION:On the first day\, Lord Rama with Sita and Lakshmana is offere
+ d worship and taken out for a celestial ride on the finely decked float in
+  Swamy Pushkarini. On the second day\, Lord Sri Krishna and Rukmini are of
+ fered puja and taken for pleasure ride on float. During the remaining thre
+ e days beginning with Trayodasi and ending with Pournami\, Sri Malayappa S
+ wami along with Sridevi and Bhudevi are taken out for a ride in the temple
+  tank. On the third day\, there will be three rounds followed by five roun
+ ds and on the final day\, the utsava murtis will be taken out for pleasure
+  ride on the impressively decorated float for seven rounds.\n\n\n\nhttp://
+ karthikraman.github.io/adyatithih/posts/tirupati-teppotsavam
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Veṅkaṭāchale Plavotsava
+DTSTART;VALUE=DATE:20180118
+DTEND;VALUE=DATE:20180302
+UID:tirupati-teppotsavam-2018-03-01-0
+DESCRIPTION:http://karthikraman.github.io/adyatithih/posts/tirupati-teppot
+ savam
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -2340,6 +2519,21 @@ DTSTART;VALUE=DATE:20180318
 DTEND;VALUE=DATE:20180319
 UID:yugadi-2018-03
 DESCRIPTION:http://karthikraman.github.io/adyatithih/posts/yugadi
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Āndolana Tṛtīyā
+DTSTART;VALUE=DATE:20180319
+DTEND;VALUE=DATE:20180320
+UID:andolana-tritiya-2018-03
+DESCRIPTION:http://karthikraman.github.io/adyatithih/posts/andolana-tritiy
+ a
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -2937,6 +3131,27 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Veṅkaṭāchale Vasantotsava-Ārambhaḥ
+DTSTART;VALUE=DATE:20180328
+DTEND;VALUE=DATE:20180329
+UID:tirupati-vasantotsava-2018-03
+DESCRIPTION:Vasantotsava is an annual festival conducted for three days (T
+ rayodashi\, Chaturdashi and Pournami in the month of Chaitra). During this
+  period\, Lord Sri Venkateshwara and His Consorts Sridevi and Bhudevi are 
+ taken out in a procession and brought to the Vasanta Mandapam for abhishek
+ am. On the third day\, idols of Sri Rama\, Sita\, Lakshmana\, Anjaneya and
+  Sri Krishna (with Rukmini and Satyabhama) are brought to Vasanta Mandapam
+  in procession.\n\n\n\nhttp://karthikraman.github.io/adyatithih/posts/tiru
+ pati-vasantotsava
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Damanaka-Chorī-Utsavaḥ
 DTSTART;VALUE=DATE:20180329
 DTEND;VALUE=DATE:20180330
@@ -2997,6 +3212,27 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Veṅkaṭāchale Vasantotsavaḥ
+DTSTART;VALUE=DATE:20180329
+DTEND;VALUE=DATE:20180330
+UID:tirupati-vasantotsava-2018-03-29-0
+DESCRIPTION:Vasantotsava is an annual festival conducted for three days (T
+ rayodashi\, Chaturdashi and Pournami in the month of Chaitra). During this
+  period\, Lord Sri Venkateshwara and His Consorts Sridevi and Bhudevi are 
+ taken out in a procession and brought to the Vasanta Mandapam for abhishek
+ am. On the third day\, idols of Sri Rama\, Sita\, Lakshmana\, Anjaneya and
+  Sri Krishna (with Rukmini and Satyabhama) are brought to Vasanta Mandapam
+  in procession.\n\n\n\nhttp://karthikraman.github.io/adyatithih/posts/tiru
+ pati-vasantotsava
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Damanaka-Chaturdaśī
 DTSTART;VALUE=DATE:20180330
 DTEND;VALUE=DATE:20180331
@@ -3019,6 +3255,59 @@ DTEND;VALUE=DATE:20180331
 UID:madana-chaturdashi-2018-03
 DESCRIPTION:http://karthikraman.github.io/adyatithih/posts/madana-chaturda
  shi
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Veṅkaṭāchale Paurṇamī Garuḍa-Sevā
+DTSTART;VALUE=DATE:20180330
+DTEND;VALUE=DATE:20180331
+UID:tirupati-paurnami-garuda-seva-2018-03-30-0
+DESCRIPTION:Lord Malayappa rides on Garuda Vahanam in all four mada street
+ s. This usually happens during Brahmotsavams\, but since 2006\, this has b
+ een happening on every `paurNamI`.\n\n\n\nhttp://karthikraman.github.io/ad
+ yatithih/posts/tirupati-paurnami-garuda-seva
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Veṅkaṭāchale Vasantotsava-Samāpanam
+DTSTART;VALUE=DATE:20180330
+DTEND;VALUE=DATE:20180331
+UID:tirupati-vasantotsava-2018-03-30
+DESCRIPTION:Vasantotsava is an annual festival conducted for three days (T
+ rayodashi\, Chaturdashi and Pournami in the month of Chaitra). During this
+  period\, Lord Sri Venkateshwara and His Consorts Sridevi and Bhudevi are 
+ taken out in a procession and brought to the Vasanta Mandapam for abhishek
+ am. On the third day\, idols of Sri Rama\, Sita\, Lakshmana\, Anjaneya and
+  Sri Krishna (with Rukmini and Satyabhama) are brought to Vasanta Mandapam
+  in procession.\n\n\n\nhttp://karthikraman.github.io/adyatithih/posts/tiru
+ pati-vasantotsava
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Veṅkaṭāchale Vasantotsavaḥ
+DTSTART;VALUE=DATE:20180328
+DTEND;VALUE=DATE:20180331
+UID:tirupati-vasantotsava-2018-03-30-0
+DESCRIPTION:http://karthikraman.github.io/adyatithih/posts/tirupati-vasant
+ otsava
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -3318,12 +3607,11 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ramaṇa Maharṣi Ārādhanā #68
+SUMMARY:Viṣukkani
 DTSTART;VALUE=DATE:20180414
 DTEND;VALUE=DATE:20180415
-UID:ramana-maharshi-aradhana-2018-04
-DESCRIPTION:http://karthikraman.github.io/adyatithih/posts/ramana-maharshi
- -aradhana
+UID:vishukkani-2018-04
+DESCRIPTION:http://karthikraman.github.io/adyatithih/posts/vishukkani
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -3832,6 +4120,21 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Nêrūr Śrī Sadāśiva Brahmendra Ārādhanā #104
+DTSTART;VALUE=DATE:20180424
+DTEND;VALUE=DATE:20180425
+UID:nerur-sri-sadashiva-brahmendra-aradhana-2018-04
+DESCRIPTION:http://karthikraman.github.io/adyatithih/posts/nerur-sri-sadas
+ hiva-brahmendra-aradhana
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Purī Govardhana-Maṭha-Pratiṣṭhāpana Jayantī #2503
 DTSTART;VALUE=DATE:20180424
 DTEND;VALUE=DATE:20180425
@@ -3877,6 +4180,24 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Veṅkaṭāchale Padmāvatī-Pariṇayotsava-Ārambhaḥ (Gaja-V
+ āhanam)
+DTSTART;VALUE=DATE:20180424
+DTEND;VALUE=DATE:20180425
+UID:tirupati-padmavati-parinayam-2018-04
+DESCRIPTION:Sri Venkateshwara Swami mounts Gaja Vahana and Sri devi and Bh
+ u Devi take to Palanquins and a procession is taken to Narayanagiri garden
+  where the marriage festivities take place on a grand scale.\n\n\n\nhttp:/
+ /karthikraman.github.io/adyatithih/posts/tirupati-padmavati-parinayam
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Vasiṣṭha Maharṣi Jayantī
 DTSTART;VALUE=DATE:20180424
 DTEND;VALUE=DATE:20180425
@@ -3907,11 +4228,58 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Veṅkaṭāchale Padmāvatī-Pariṇayam (Aśva-Vāhanam)
+DTSTART;VALUE=DATE:20180425
+DTEND;VALUE=DATE:20180426
+UID:tirupati-padmavati-parinayam-2018-04-25-0
+DESCRIPTION:http://karthikraman.github.io/adyatithih/posts/tirupati-padmav
+ ati-parinayam
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Sarva-Mohinī-Ekādaśī
 DTSTART;VALUE=DATE:20180426
 DTEND;VALUE=DATE:20180427
 UID:sarva-mohini-ekadashi-2018-04
 DESCRIPTION:http://karthikraman.github.io/adyatithih/posts/mohini-ekadashi
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Veṅkaṭāchale Padmāvatī-Pariṇayotsava-Samāpanam (Garuḍa
+ -Vāhanam)
+DTSTART;VALUE=DATE:20180426
+DTEND;VALUE=DATE:20180427
+UID:tirupati-padmavati-parinayam-2018-04-26
+DESCRIPTION:http://karthikraman.github.io/adyatithih/posts/tirupati-padmav
+ ati-parinayam
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Veṅkaṭāchale Padmāvatī-Pariṇayotsavaḥ (Garuḍa-Vāhana
+ m)
+DTSTART;VALUE=DATE:20180328
+DTEND;VALUE=DATE:20180427
+UID:tirupati-padmavati-parinayam-2018-04-26-0
+DESCRIPTION:http://karthikraman.github.io/adyatithih/posts/tirupati-padmav
+ ati-parinayam
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -4040,6 +4408,22 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Chitrā Paurṇamī/Chitragupta Pūjai
+DTSTART;VALUE=DATE:20180429
+DTEND;VALUE=DATE:20180430
+UID:chitra-purnima-2018-04
+DESCRIPTION:citraguptaṃ mahāprājñyaṃ lekhanīpatradhāriṇam।\nc
+ itraratnāmbaradharaṃ madhyasthaṃ sarvadehinām॥\n\nhttp://karthikra
+ man.github.io/adyatithih/posts/chitra-purnima
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Ichaiñāniyār Nāyanār Gurupūjai
 DTSTART;VALUE=DATE:20180429
 DTEND;VALUE=DATE:20180430
@@ -4061,6 +4445,23 @@ DTEND;VALUE=DATE:20180430
 UID:madhurakavi-azhvar-tirunakshattiram-2018-04
 DESCRIPTION:http://karthikraman.github.io/adyatithih/posts/madhurakavi-azh
  var-tirunakshattiram
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Veṅkaṭāchale Paurṇamī Garuḍa-Sevā
+DTSTART;VALUE=DATE:20180429
+DTEND;VALUE=DATE:20180430
+UID:tirupati-paurnami-garuda-seva-2018-04
+DESCRIPTION:Lord Malayappa rides on Garuda Vahanam in all four mada street
+ s. This usually happens during Brahmotsavams\, but since 2006\, this has b
+ een happening on every `paurNamI`.\n\n\n\nhttp://karthikraman.github.io/ad
+ yatithih/posts/tirupati-paurnami-garuda-seva
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -4107,22 +4508,6 @@ UID:kanchi-kamakoti-matha-pratishthapana-jayanti-2018-04
 DESCRIPTION:Adi Shankara founded Kamakoti Mutt\, Kanchi in Siddharthi year
   with himself as first\n\n\n\nhttp://karthikraman.github.io/adyatithih/pos
  ts/kanchi-kamakoti-matha-pratishthapana-jayanti
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT4H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Chitrā Paurṇamī/Chitragupta Pūjai
-DTSTART;VALUE=DATE:20180430
-DTEND;VALUE=DATE:20180501
-UID:chitra-purnima-2018-04
-DESCRIPTION:citraguptaṃ mahāprājñyaṃ lekhanīpatradhāriṇam।\nc
- itraratnāmbaradharaṃ madhyasthaṃ sarvadehinām॥\n\nhttp://karthikra
- man.github.io/adyatithih/posts/chitra-purnima
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -4387,6 +4772,21 @@ DTSTART;VALUE=DATE:20180513
 DTEND;VALUE=DATE:20180514
 UID:pradosha-vratam-2018-05
 DESCRIPTION:http://karthikraman.github.io/adyatithih/posts/pradosha-vratam
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ramaṇa Maharṣi Ārādhanā #68
+DTSTART;VALUE=DATE:20180513
+DTEND;VALUE=DATE:20180514
+UID:ramana-maharshi-aradhana-2018-05
+DESCRIPTION:http://karthikraman.github.io/adyatithih/posts/ramana-maharshi
+ -aradhana
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -4765,6 +5165,23 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Veṅkaṭāchale Paurṇamī Garuḍa-Sevā
+DTSTART;VALUE=DATE:20180529
+DTEND;VALUE=DATE:20180530
+UID:tirupati-paurnami-garuda-seva-2018-05
+DESCRIPTION:Lord Malayappa rides on Garuda Vahanam in all four mada street
+ s. This usually happens during Brahmotsavams\, but since 2006\, this has b
+ een happening on every `paurNamI`.\n\n\n\nhttp://karthikraman.github.io/ad
+ yatithih/posts/tirupati-paurnami-garuda-seva
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Muruga Nāyanār Gurupūjai
 DTSTART;VALUE=DATE:20180531
 DTEND;VALUE=DATE:20180601
@@ -4857,12 +5274,12 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Soma-Pradoṣa-Vratam
+SUMMARY:Chidambare Dhvajārohaṇam/Pañchamūrti Rathotsavaḥ
 DTSTART;VALUE=DATE:20180611
 DTEND;VALUE=DATE:20180612
-UID:soma-pradosha-vratam-2018-06
-DESCRIPTION:http://karthikraman.github.io/adyatithih/posts/soma-pradosha-v
- ratam
+UID:chidambaram-dvhajarohanam-panchamurti-rathotsava-2018-06
+DESCRIPTION:http://karthikraman.github.io/adyatithih/posts/chidambaram-dvh
+ ajarohanam-panchamurti-rathotsava
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -4872,12 +5289,12 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Chidambaram Dvajārohaṇam/Pañchamūrtti Bhavani
+SUMMARY:Soma-Pradoṣa-Vratam
 DTSTART;VALUE=DATE:20180611
 DTEND;VALUE=DATE:20180612
-UID:chidambaram-dvajarohanam-panchamurtti-bhavani-2018-06
-DESCRIPTION:http://karthikraman.github.io/adyatithih/posts/chidambaram-dva
- jarohanam-panchamurtti-bhavani
+UID:soma-pradosha-vratam-2018-06
+DESCRIPTION:http://karthikraman.github.io/adyatithih/posts/soma-pradosha-v
+ ratam
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -4902,12 +5319,27 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Chidambaram Vêḻḻi Chandraprabha Vāhanam
+SUMMARY:Chidambare Rajata Chandraprabha Vāhanam
 DTSTART;VALUE=DATE:20180612
 DTEND;VALUE=DATE:20180613
-UID:chidambaram-velli-chandraprabha-vahanam-2018-06
-DESCRIPTION:http://karthikraman.github.io/adyatithih/posts/chidambaram-vel
- li-chandraprabha-vahanam
+UID:chidambaram-rajata-chandraprabha-vahanam-2018-06
+DESCRIPTION:http://karthikraman.github.io/adyatithih/posts/chidambaram-raj
+ ata-chandraprabha-vahanam
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chidambare Svarṇa-Sūryaprabha Vāhanam
+DTSTART;VALUE=DATE:20180613
+DTEND;VALUE=DATE:20180614
+UID:chidambaram-svarna-suryaprabha-vahanam-2018-06
+DESCRIPTION:http://karthikraman.github.io/adyatithih/posts/chidambaram-sva
+ rna-suryaprabha-vahanam
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -4931,12 +5363,12 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Chidambaram Taṅga Sūryaprabha Vāhanam
-DTSTART;VALUE=DATE:20180613
-DTEND;VALUE=DATE:20180614
-UID:chidambaram-tanga-suryaprabha-vahanam-2018-06
-DESCRIPTION:http://karthikraman.github.io/adyatithih/posts/chidambaram-tan
- ga-suryaprabha-vahanam
+SUMMARY:Bhadra-Chatuṣṭaya-Vratam
+DTSTART;VALUE=DATE:20180614
+DTEND;VALUE=DATE:20180615
+UID:bhadra-chatushtaya-vratam-2018-06
+DESCRIPTION:http://karthikraman.github.io/adyatithih/posts/bhadra-chatusht
+ aya-vratam
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -4946,12 +5378,12 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Bhadra-Chatuṣṭaya-Vratam
+SUMMARY:Chidambare Rajata Bhūta Vāhanam
 DTSTART;VALUE=DATE:20180614
 DTEND;VALUE=DATE:20180615
-UID:bhadra-chatushtaya-vratam-2018-06
-DESCRIPTION:http://karthikraman.github.io/adyatithih/posts/bhadra-chatusht
- aya-vratam
+UID:chidambaram-rajata-bhuta-vahanam-2018-06
+DESCRIPTION:http://karthikraman.github.io/adyatithih/posts/chidambaram-raj
+ ata-bhuta-vahanam
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -4984,21 +5416,6 @@ DTEND;VALUE=DATE:20180615
 UID:punnaga-gauri-vratam-2018-06
 DESCRIPTION:http://karthikraman.github.io/adyatithih/posts/punnaga-gauri-v
  ratam
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT4H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Chidambaram Vêḻḻi Bhūta Vāhanam
-DTSTART;VALUE=DATE:20180614
-DTEND;VALUE=DATE:20180615
-UID:chidambaram-velli-bhuta-vahanam-2018-06
-DESCRIPTION:http://karthikraman.github.io/adyatithih/posts/chidambaram-vel
- li-bhuta-vahanam
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -5042,12 +5459,12 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Chidambaram Vêḻḻi Riṣabha Vāhanam
+SUMMARY:Chidambare Rajata Ṛṣabha Vāhanam
 DTSTART;VALUE=DATE:20180615
 DTEND;VALUE=DATE:20180616
-UID:chidambaram-velli-rishabha-vahanam-2018-06
-DESCRIPTION:http://karthikraman.github.io/adyatithih/posts/chidambaram-vel
- li-rishabha-vahanam
+UID:chidambaram-rajata-rishabha-vahanam-2018-06
+DESCRIPTION:http://karthikraman.github.io/adyatithih/posts/chidambaram-raj
+ ata-rishabha-vahanam
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -5065,6 +5482,21 @@ DESCRIPTION:prahlādavarado devo yo nṛsiṃhaḥ paro hariḥ।\nnṛsi
  ṃhopāsakaṃ nityaṃ taṃ nṛsiṃhaḥ guruṃ bhaje॥\n\nhttp://k
  arthikraman.github.io/adyatithih/posts/shringeri-32-jagadguru-shri-nrisimh
  a-bharati-aradhana
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chidambare Rajata-Gajavāhanam
+DTSTART;VALUE=DATE:20180616
+DTEND;VALUE=DATE:20180617
+UID:chidambaram-rajata-gajavahanam-2018-06
+DESCRIPTION:http://karthikraman.github.io/adyatithih/posts/chidambaram-raj
+ ata-gajavahanam
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -5097,12 +5529,12 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Chidambaram Vêḻḻi Yānai Vāhanam
-DTSTART;VALUE=DATE:20180616
-DTEND;VALUE=DATE:20180617
-UID:chidambaram-velli-yanai-vahanam-2018-06
-DESCRIPTION:http://karthikraman.github.io/adyatithih/posts/chidambaram-vel
- li-yanai-vahanam
+SUMMARY:Chidambare Kailāsa Vāhanam
+DTSTART;VALUE=DATE:20180617
+DTEND;VALUE=DATE:20180618
+UID:chidambaram-kailasa-vahanam-2018-06
+DESCRIPTION:http://karthikraman.github.io/adyatithih/posts/chidambaram-kai
+ lasa-vahanam
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -5121,21 +5553,6 @@ DESCRIPTION:Perform puja of Shiva-Parvati under a banana tree or on a bana
  n.\n\nputrān dehi dhanaṃ dehi saubhāgyaṃ sarvamaṅgale।\nsaumaṅ
  galyaṃ sukhaṃ jñānaṃ dehi me śivasundari॥\n\nhttp://karthikrama
  n.github.io/adyatithih/posts/kadali-gauri-vratam
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT4H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Chidambaram Kailācha Vāhanam
-DTSTART;VALUE=DATE:20180617
-DTEND;VALUE=DATE:20180618
-UID:chidambaram-kailasa-vahanam-2018-06
-DESCRIPTION:http://karthikraman.github.io/adyatithih/posts/chidambaram-kai
- lasa-vahanam
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -5191,6 +5608,21 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Chidambare Bhikṣāṭana Svarṇarathaḥ
+DTSTART;VALUE=DATE:20180618
+DTEND;VALUE=DATE:20180619
+UID:chidambaram-bhikshatanar-svarna-ratha-2018-06
+DESCRIPTION:http://karthikraman.github.io/adyatithih/posts/chidambaram-bhi
+ kshatanar-svarna-ratha
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Kāñchī 50 Jagadguru Śrī Chandrachūḍendra Sarasvatī 1 Ār
  ādhanā #722
 DTSTART;VALUE=DATE:20180618
@@ -5223,12 +5655,12 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Chidambaram Bhikṣāṭanar Taṅga Ratham
+SUMMARY:Māṇikkavāchakar Gurupūjai
 DTSTART;VALUE=DATE:20180618
 DTEND;VALUE=DATE:20180619
-UID:chidambaram-bhikshatanar-tanga-ratham-2018-06
-DESCRIPTION:http://karthikraman.github.io/adyatithih/posts/chidambaram-bhi
- kshatanar-tanga-ratham
+UID:manikkavasakar-gurupujai-2018-06
+DESCRIPTION:http://karthikraman.github.io/adyatithih/posts/manikkavasakar-
+ gurupujai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -5238,12 +5670,13 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Māṇikkavāchakar Gurupūjai
+SUMMARY:Śrīnivāsamaṅgāpurê Sākṣātkāra-Vaibhavotsava-Ārambha
+ ḥ
 DTSTART;VALUE=DATE:20180618
 DTEND;VALUE=DATE:20180619
-UID:manikkavasakar-gurupujai-2018-06
-DESCRIPTION:http://karthikraman.github.io/adyatithih/posts/manikkavasakar-
- gurupujai
+UID:srinivasamangapuram-sakshatkara-vaibhavotsava-2018-06
+DESCRIPTION:http://karthikraman.github.io/adyatithih/posts/srinivasamangap
+ uram-sakshatkara-vaibhavotsava
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -5268,12 +5701,12 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Amaranīti Nāyanār Gurupūjai
+SUMMARY:Chidambare Rathotsavaḥ
 DTSTART;VALUE=DATE:20180619
 DTEND;VALUE=DATE:20180620
-UID:amaraniti-nayanar-gurupujai-2018-06
-DESCRIPTION:http://karthikraman.github.io/adyatithih/posts/amaraniti-nayan
- ar-gurupujai
+UID:chidambaram-rathotsava-2018-06
+DESCRIPTION:http://karthikraman.github.io/adyatithih/posts/chidambaram-rat
+ hotsava
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -5283,11 +5716,12 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Chidambaram Ter
+SUMMARY:Amaranīti Nāyanār Gurupūjai
 DTSTART;VALUE=DATE:20180619
 DTEND;VALUE=DATE:20180620
-UID:chidambaram-ter-2018-06
-DESCRIPTION:http://karthikraman.github.io/adyatithih/posts/chidambaram-ter
+UID:amaraniti-nayanar-gurupujai-2018-06
+DESCRIPTION:http://karthikraman.github.io/adyatithih/posts/amaraniti-nayan
+ ar-gurupujai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -5326,6 +5760,33 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Śrīnivāsamaṅgāpurê Sākṣātkāra-Vaibhavotsavaḥ
+DTSTART;VALUE=DATE:20180619
+DTEND;VALUE=DATE:20180620
+UID:srinivasamangapuram-sakshatkara-vaibhavotsava-2018-06-19-0
+DESCRIPTION:According to historical evidences\, dated 22nd March 1540 CE\,
+  the Temple was brought to worship by doing Jeernoddhaarana by Chinni Thir
+ umalacharyulu\, the grandson of great saint Sri Talapaka Annamacharyulu. I
+ n 1940 CE. an Archaka Swamulu by name Sundararaju from Tamilnadu came to S
+ rinivasa Mangapuram. He shared his dream with villagers by saying that in 
+ his dream Lord Venkateswara Swamy appeared and asked him to bring the temp
+ le to Past Vaibhavam (glorious) by performing Deepa Naivedya Aaradhana and
+  Lord disppeared. As per the Lord words\, Archaka Swami Sundaraju performe
+ d first pooja on July 1940 which was coincided on Ashada Shudda Shasti Day
+  with the help of village elders. To mark the auspicious day of revival of
+  Nitya Pooja Kainkaryam\, TTD has been conducting this festival as Sakshat
+ kara Vaibhavotsavam on Ashada Shuddha Shasti Day in the Jyaishta month eve
+ ry year.\n\n\n\nhttp://karthikraman.github.io/adyatithih/posts/srinivasama
+ ngapuram-sakshatkara-vaibhavotsava
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Budhāṣṭamī
 DTSTART;VALUE=DATE:20180620
 DTEND;VALUE=DATE:20180621
@@ -5335,6 +5796,21 @@ DESCRIPTION:`aSTamI tithi` on a Wednesday is as sacred as a solar eclipse.
  eṇa somaputreṇa cāṣṭamī।\n catasrastithayastvetāḥ sūryagra
  haṇasannibhāḥ॥\n\nhttp://karthikraman.github.io/adyatithih/posts/bu
  dhashtami
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chidambare Naṭarājasya Rājasabhāyāṃ Mahābhiṣekaḥ
+DTSTART;VALUE=DATE:20180620
+DTEND;VALUE=DATE:20180621
+UID:natarajar-ani-tirumanjanam-2018-06
+DESCRIPTION:http://karthikraman.github.io/adyatithih/posts/natarajar-ani-t
+ irumanjanam
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -5376,9 +5852,39 @@ BEGIN:VEVENT
 SUMMARY:Naṭarājar Āni Tirumañchanam
 DTSTART;VALUE=DATE:20180620
 DTEND;VALUE=DATE:20180621
-UID:natarajar-ani-tirumanjanam-2018-06
+UID:natarajar-ani-tirumanjanam-2018-06-20-0
 DESCRIPTION:http://karthikraman.github.io/adyatithih/posts/natarajar-ani-t
  irumanjanam
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Śrīnivāsamaṅgāpurê Sākṣātkāra-Vaibhavotsava-Samāpanam
+DTSTART;VALUE=DATE:20180620
+DTEND;VALUE=DATE:20180621
+UID:srinivasamangapuram-sakshatkara-vaibhavotsava-2018-06-20
+DESCRIPTION:http://karthikraman.github.io/adyatithih/posts/srinivasamangap
+ uram-sakshatkara-vaibhavotsava
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Śrīnivāsamaṅgāpurê Sākṣātkāra-Vaibhavotsavaḥ
+DTSTART;VALUE=DATE:20180618
+DTEND;VALUE=DATE:20180621
+UID:srinivasamangapuram-sakshatkara-vaibhavotsava-2018-06-20-0
+DESCRIPTION:http://karthikraman.github.io/adyatithih/posts/srinivasamangap
+ uram-sakshatkara-vaibhavotsava
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -5394,6 +5900,21 @@ DTEND;VALUE=DATE:20180622
 UID:brahmani-puja-2018-06
 DESCRIPTION:`brahmANI` is one of the seven `mAtRkA`s\n\n\n\nhttp://karthik
  raman.github.io/adyatithih/posts/brahmani-puja
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chidambare Muttuppallakku
+DTSTART;VALUE=DATE:20180621
+DTEND;VALUE=DATE:20180622
+UID:chidambaram-muttuppallakku-2018-06
+DESCRIPTION:http://karthikraman.github.io/adyatithih/posts/chidambaram-mut
+ tuppallakku
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -5424,21 +5945,6 @@ DTSTART;VALUE=DATE:20180621
 DTEND;VALUE=DATE:20180622
 UID:mahesha-navami-2018-06
 DESCRIPTION:http://karthikraman.github.io/adyatithih/posts/mahesha-navami
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT4H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Chidambaram Muttuppallakku
-DTSTART;VALUE=DATE:20180621
-DTEND;VALUE=DATE:20180622
-UID:chidambaram-muttuppallakku-2018-06
-DESCRIPTION:http://karthikraman.github.io/adyatithih/posts/chidambaram-mut
- tuppallakku
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -5561,6 +6067,22 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Alarmelmaṅgāpure Plavotsava-Ārambhaḥ
+DTSTART;VALUE=DATE:20180624
+DTEND;VALUE=DATE:20180625
+UID:tiruchanur-teppotsavam-2018-06
+DESCRIPTION:Rukmini Satyabhama sahita Krishna are taken out on the `plava`
+ .\n\n\n\nhttp://karthikraman.github.io/adyatithih/posts/tiruchanur-teppots
+ avam
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Gavāmayana-Dvādaśī
 DTSTART;VALUE=DATE:20180624
 DTEND;VALUE=DATE:20180625
@@ -5600,6 +6122,22 @@ DTEND;VALUE=DATE:20180625
 UID:ramalakshmana-dvadashi-2018-06
 DESCRIPTION:http://karthikraman.github.io/adyatithih/posts/ramalakshmana-d
  vadashi
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alarmelmaṅgāpure Plavotsavaḥ
+DTSTART;VALUE=DATE:20180625
+DTEND;VALUE=DATE:20180626
+UID:tiruchanur-teppotsavam-2018-06-25-0
+DESCRIPTION:Sridevi Bhudevi sahita Sundararaja Swami are taken out on the 
+ `plava`.\n\n\n\nhttp://karthikraman.github.io/adyatithih/posts/tiruchanur-
+ teppotsavam
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -5669,12 +6207,44 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Alarmelmaṅgāpure Plavotsavaḥ
+DTSTART;VALUE=DATE:20180626
+DTEND;VALUE=DATE:20180627
+UID:tiruchanur-teppotsavam-2018-06-26-0
+DESCRIPTION:Padmavati Devi is taken out on the `plava` (last three days).\
+ n\n\n\nhttp://karthikraman.github.io/adyatithih/posts/tiruchanur-teppotsav
+ am
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Veṅkaṭāchale Jyeṣṭha-Abhidyeyakābhiṣekaḥ (Vajra-Kava
  cham)
 DTSTART;VALUE=DATE:20180626
 DTEND;VALUE=DATE:20180627
 UID:jyeshthabhishekam-2018-06
 DESCRIPTION:http://karthikraman.github.io/adyatithih/posts/jyeshthabhishek
+ am
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alarmelmaṅgāpure Plavotsavaḥ
+DTSTART;VALUE=DATE:20180627
+DTEND;VALUE=DATE:20180628
+UID:tiruchanur-teppotsavam-2018-06-27-0
+DESCRIPTION:Padmavati Devi is taken out on the `plava` (last three days).\
+ n\n\n\nhttp://karthikraman.github.io/adyatithih/posts/tiruchanur-teppotsav
  am
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -5692,6 +6262,54 @@ DTEND;VALUE=DATE:20180628
 UID:jyeshthabhishekam-2018-06-27-0
 DESCRIPTION:http://karthikraman.github.io/adyatithih/posts/jyeshthabhishek
  am
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Veṅkaṭāchale Paurṇamī Garuḍa-Sevā
+DTSTART;VALUE=DATE:20180627
+DTEND;VALUE=DATE:20180628
+UID:tirupati-paurnami-garuda-seva-2018-06
+DESCRIPTION:Lord Malayappa rides on Garuda Vahanam in all four mada street
+ s. This usually happens during Brahmotsavams\, but since 2006\, this has b
+ een happening on every `paurNamI`.\n\n\n\nhttp://karthikraman.github.io/ad
+ yatithih/posts/tirupati-paurnami-garuda-seva
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alarmelmaṅgāpure Plavotsava~Samāpanam
+DTSTART;VALUE=DATE:20180628
+DTEND;VALUE=DATE:20180629
+UID:tiruchanur-teppotsavam-2018-06-28
+DESCRIPTION:Padmavati Devi is taken out on the `plava` (last three days).\
+ n\n\n\nhttp://karthikraman.github.io/adyatithih/posts/tiruchanur-teppotsav
+ am
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alarmelmaṅgāpure Plavotsava
+DTSTART;VALUE=DATE:20180618
+DTEND;VALUE=DATE:20180629
+UID:tiruchanur-teppotsavam-2018-06-28-0
+DESCRIPTION:http://karthikraman.github.io/adyatithih/posts/tiruchanur-tepp
+ otsavam
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -5800,6 +6418,37 @@ DESCRIPTION:Special vrata day for Ganesha. Fast during the day and pray to
  thyāṃ pūjito mayā।\nkaṣṭān māṃ mocayeśāna sarvamiṣṭa
  ṃ ca dehi me॥\n\nhttp://karthikraman.github.io/adyatithih/posts/sankat
  ahara-chaturthi-vratam
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tindukāṣṭamī
+DTSTART;VALUE=DATE:20180706
+DTEND;VALUE=DATE:20180707
+UID:tindukashtami-2018-07
+DESCRIPTION:Start of one year vratam of monthly shiva pooja as per chaturv
+ aga chintamani.\n\n\n\nhttp://karthikraman.github.io/adyatithih/posts/tind
+ ukashtami
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Trilôchanāṣṭamī
+DTSTART;VALUE=DATE:20180706
+DTEND;VALUE=DATE:20180707
+UID:trilochanashtami-2018-07
+DESCRIPTION:http://karthikraman.github.io/adyatithih/posts/trilochanashtam
+ i
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -6065,6 +6714,21 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Sarvanadī-Rajasvalā
+DTSTART;VALUE=DATE:20180717
+DTEND;VALUE=DATE:20180718
+UID:sarvanadi-rajasvala-2018-07
+DESCRIPTION:Do not take bath in any river during these days.\n\n\n\nhttp:/
+ /karthikraman.github.io/adyatithih/posts/sarvanadi-rajasvala
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Skanda-Pañchamī
 DTSTART;VALUE=DATE:20180717
 DTEND;VALUE=DATE:20180718
@@ -6150,6 +6814,36 @@ DESCRIPTION:`upavAsam` with only water and next day `pAraNa` gives `Arogya
  m`\n\nāṣāḍha śuklaṣaṣṭhī tu tithiḥ kaumārilā smṛtā।
  \nkumāramarcayettatra pūrvatropeṣya vai dinam॥\n\nhttp://karthikrama
  n.github.io/adyatithih/posts/kumara-shashthi-vratam
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sarvanadī-Rajasvalā
+DTSTART;VALUE=DATE:20180718
+DTEND;VALUE=DATE:20180719
+UID:sarvanadi-rajasvala-2018-07-18-0
+DESCRIPTION:Do not take bath in any river during these days.\n\n\n\nhttp:/
+ /karthikraman.github.io/adyatithih/posts/sarvanadi-rajasvala
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sarvanadī-Rajasvalā
+DTSTART;VALUE=DATE:20180719
+DTEND;VALUE=DATE:20180720
+UID:sarvanadi-rajasvala-2018-07-19-0
+DESCRIPTION:Do not take bath in any river during these days.\n\n\n\nhttp:/
+ /karthikraman.github.io/adyatithih/posts/sarvanadi-rajasvala
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -6598,12 +7292,11 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Chandra-Grahaṇam
+SUMMARY:Chandra-Grahaṇam~(Ketugrasta)
 DTSTART;TZID=Asia/Calcutta;VALUE=DATE-TIME:20180727T235400
 DTEND;TZID=Asia/Calcutta;VALUE=DATE-TIME:20180728T034900
-UID:chandra-grahanam-2018-07
-DESCRIPTION:http://karthikraman.github.io/adyatithih/posts/chandra-grahana
- m
+UID:-2018-07
+DESCRIPTION:http://karthikraman.github.io/adyatithih/posts/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT4H
@@ -6679,6 +7372,23 @@ DTEND;VALUE=DATE:20180728
 UID:adi-vellikkizhamai-2018-07-27-0
 DESCRIPTION:http://karthikraman.github.io/adyatithih/posts/adi-vellikkizha
  mai
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Veṅkaṭāchale Paurṇamī Garuḍa-Sevā
+DTSTART;VALUE=DATE:20180727
+DTEND;VALUE=DATE:20180728
+UID:tirupati-paurnami-garuda-seva-2018-07
+DESCRIPTION:Lord Malayappa rides on Garuda Vahanam in all four mada street
+ s. This usually happens during Brahmotsavams\, but since 2006\, this has b
+ een happening on every `paurNamI`.\n\n\n\nhttp://karthikraman.github.io/ad
+ yatithih/posts/tirupati-paurnami-garuda-seva
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -7041,6 +7751,21 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Pati-Sañjīvanī-Vratam
+DTSTART;VALUE=DATE:20180811
+DTEND;VALUE=DATE:20180812
+UID:pati-sanjivani-vratam-2018-08
+DESCRIPTION:http://karthikraman.github.io/adyatithih/posts/pati-sanjivani-
+ vratam
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Chandra-Darśanam
 DTSTART;VALUE=DATE:20180812
 DTEND;VALUE=DATE:20180813
@@ -7111,6 +7836,21 @@ DTEND;VALUE=DATE:20180814
 UID:manoratha-dvitiya-2018-08
 DESCRIPTION:VasudevaPooja\, ChandraArghya\, Naktam\n\n\n\nhttp://karthikra
  man.github.io/adyatithih/posts/manoratha-dvitiya
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pārvatī Pavitrāropaṇam
+DTSTART;VALUE=DATE:20180813
+DTEND;VALUE=DATE:20180814
+UID:parvati-pavitraropanam-2018-08
+DESCRIPTION:http://karthikraman.github.io/adyatithih/posts/parvati-pavitra
+ ropanam
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -7654,7 +8394,7 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Śākavrata-
+SUMMARY:Śākavratam
 DTSTART;VALUE=DATE:20180722
 DTEND;VALUE=DATE:20180824
 UID:chaturmasya-vratam-2018-08-23-0
@@ -7734,6 +8474,23 @@ DTEND;VALUE=DATE:20180826
 UID:natarajar-mahabhishekam-2018-08
 DESCRIPTION:http://karthikraman.github.io/adyatithih/posts/natarajar-mahab
  hishekam
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Veṅkaṭāchale Paurṇamī Garuḍa-Sevā
+DTSTART;VALUE=DATE:20180825
+DTEND;VALUE=DATE:20180826
+UID:tirupati-paurnami-garuda-seva-2018-08
+DESCRIPTION:Lord Malayappa rides on Garuda Vahanam in all four mada street
+ s. This usually happens during Brahmotsavams\, but since 2006\, this has b
+ een happening on every `paurNamI`.\n\n\n\nhttp://karthikraman.github.io/ad
+ yatithih/posts/tirupati-paurnami-garuda-seva
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -9127,8 +9884,28 @@ SUMMARY:Vitastotsavaḥ
 DTSTART;VALUE=DATE:20180919
 DTEND;VALUE=DATE:20180920
 UID:vitastotsava-2018-09
-DESCRIPTION:7 days bath in Vitasta river tributary of Narmada\n\n\n\nhttp:
- //karthikraman.github.io/adyatithih/posts/vitastotsava
+DESCRIPTION:This is the day when the sacred river `vitastA` was born. 2.  
+ `nIlamata purANam` recommends taking bath in this sacred river (Jhelum\, t
+ ributary of Sindhu) for 7 consecutive days starting from this day.\n\nyān
+ i tīrthāni bhāratavarṣê tāni tīrthāni kāśmīramaṇḍalê।\n
+ yāni tīrthāni kāśmīramaṇḍalê tāni tīrthāni vitastāyām॥\n
+ \nhttp://karthikraman.github.io/adyatithih/posts/vitastotsava
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kaṭadānotsavaḥ
+DTSTART;VALUE=DATE:20180920
+DTEND;VALUE=DATE:20180921
+UID:katadanotsava-2018-09
+DESCRIPTION:As per Smruti-Kaustubham\, one must perform daanam of mat (`ka
+ Tam`) to a dharmic Vipra.\n\n\n\nhttp://karthikraman.github.io/adyatithih/
+ posts/katadanotsava
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -9207,11 +9984,13 @@ SUMMARY:Dadhi-Vrata-Samāpanam
 DTSTART;VALUE=DATE:20180921
 DTEND;VALUE=DATE:20180922
 UID:chaturmasya-vratam-2018-09
-DESCRIPTION:saṅkarṣaṇa namastubhyaṃ śravaṇe matkṛtena ca।\n
- dadhivratena deveśa tuṣṭo bhava janārdana॥\nidaṃ vrataṃ mayā 
- deva kṛtaṃ prītyai tava prabho।\nnyūnaṃ sampūrṇatāṃ yātu 
- tvatprasādajjanārdana॥\n\nhttp://karthikraman.github.io/adyatithih/pos
- ts/chaturmasya-vratam
+DESCRIPTION:On this day the DadhiVratam in Chaaturmaasyam is completed\, h
+ ence perform danam of Dadhi (curd) to a Viprottama and recite the followin
+ g shloka.\n\nsaṅkarṣaṇa namastubhyaṃ śravaṇe matkṛtena ca।\
+ ndadhivratena deveśa tuṣṭo bhava janārdana॥\nidaṃ vrataṃ mayā
+  deva kṛtaṃ prītyai tava prabho।\nnyūnaṃ sampūrṇatāṃ yātu
+  tvatprasādajjanārdana॥\n\nhttp://karthikraman.github.io/adyatithih/po
+ sts/chaturmasya-vratam
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -9221,7 +10000,7 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Dadhi-Vrata-
+SUMMARY:Dadhi-Vratam
 DTSTART;VALUE=DATE:20180823
 DTEND;VALUE=DATE:20180922
 UID:chaturmasya-vratam-2018-09-21-0
@@ -9240,9 +10019,10 @@ SUMMARY:Payovrata-Ārambhaḥ
 DTSTART;VALUE=DATE:20180921
 DTEND;VALUE=DATE:20180922
 UID:chaturmasya-vratam-2018-09-21-1
-DESCRIPTION:pradyumna tava tuṣṭyarthaṃ proṣṭapadyāṃ tṛtīya
- ke।\nnirvighnaṃ kuru deveśa kariṣye'haṃ payovratam॥\n\nhttp://k
- arthikraman.github.io/adyatithih/posts/chaturmasya-vratam
+DESCRIPTION:``payOvratam` in chaturmasyam begins today.\n\npradyumna tava 
+ tuṣṭyarthaṃ proṣṭapadyāṃ tṛtīyake।\nnirvighnaṃ kuru de
+ veśa kariṣye'haṃ payovratam॥\n\nhttp://karthikraman.github.io/adyat
+ ithih/posts/chaturmasya-vratam
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -9420,6 +10200,23 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Veṅkaṭāchale Paurṇamī Garuḍa-Sevā
+DTSTART;VALUE=DATE:20180924
+DTEND;VALUE=DATE:20180925
+UID:tirupati-paurnami-garuda-seva-2018-09
+DESCRIPTION:Lord Malayappa rides on Garuda Vahanam in all four mada street
+ s. This usually happens during Brahmotsavams\, but since 2006\, this has b
+ een happening on every `paurNamI`.\n\n\n\nhttp://karthikraman.github.io/ad
+ yatithih/posts/tirupati-paurnami-garuda-seva
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Dikpāla-Pūjā
 DTSTART;VALUE=DATE:20180925
 DTEND;VALUE=DATE:20180926
@@ -9511,7 +10308,7 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Yatichāturmāsyavrata-
+SUMMARY:Yatichāturmāsyavratam
 DTSTART;VALUE=DATE:20180727
 DTEND;VALUE=DATE:20180926
 UID:chaturmasyavrata-2018-09
@@ -9768,7 +10565,7 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Mahālakṣmī-Vrata-
+SUMMARY:Mahālakṣmī-Vratam
 DTSTART;VALUE=DATE:20180918
 DTEND;VALUE=DATE:20181002
 UID:mahalakshmi-vrata-2018-10
@@ -10082,6 +10879,24 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Śṛṅgerī 34 Jagadguru Śrī Chandraśekhara Bhāratī Ārādh
+ anā
+DTSTART;VALUE=DATE:20181008
+DTEND;VALUE=DATE:20181009
+UID:shringeri-34-jagadguru-shri-chandrashekhara-bharati-aradhana-2018-10
+DESCRIPTION:sadā''tmadhyānanirataṃ viṣayebhyaḥ paraṅmukham।\nn
+ aumi śāstreṣu niṣṇātaṃ candraśekharabhāratīm॥\n\nhttp://ka
+ rthikraman.github.io/adyatithih/posts/shringeri-34-jagadguru-shri-chandras
+ hekhara-bharati-aradhana
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Śastrahatachaturdaśī
 DTSTART;VALUE=DATE:20181008
 DTEND;VALUE=DATE:20181009
@@ -10133,24 +10948,6 @@ DTEND;VALUE=DATE:20181010
 UID:sujanmaprapti-vratam-2018-10
 DESCRIPTION:http://karthikraman.github.io/adyatithih/posts/sujanmaprapti-v
  ratam
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT4H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Śṛṅgerī 34 Jagadguru Śrī Chandraśekhara Bhāratī Ārādh
- anā
-DTSTART;VALUE=DATE:20181009
-DTEND;VALUE=DATE:20181010
-UID:shringeri-34-jagadguru-shri-chandrashekhara-bharati-aradhana-2018-10
-DESCRIPTION:sadā''tmadhyānanirataṃ viṣayebhyaḥ paraṅmukham।\nn
- aumi śāstreṣu niṣṇātaṃ candraśekharabhāratīm॥\n\nhttp://ka
- rthikraman.github.io/adyatithih/posts/shringeri-34-jagadguru-shri-chandras
- hekhara-bharati-aradhana
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -10888,7 +11685,7 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Payovrata-
+SUMMARY:Payovratam
 DTSTART;VALUE=DATE:20180921
 DTEND;VALUE=DATE:20181022
 UID:chaturmasya-vratam-2018-10-21-0
@@ -11092,6 +11889,23 @@ DTEND;VALUE=DATE:20181025
 UID:valmiki-maharshi-jayanti-2018-10
 DESCRIPTION:http://karthikraman.github.io/adyatithih/posts/valmiki-maharsh
  i-jayanti
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Veṅkaṭāchale Paurṇamī Garuḍa-Sevā
+DTSTART;VALUE=DATE:20181024
+DTEND;VALUE=DATE:20181025
+UID:tirupati-paurnami-garuda-seva-2018-10
+DESCRIPTION:Lord Malayappa rides on Garuda Vahanam in all four mada street
+ s. This usually happens during Brahmotsavams\, but since 2006\, this has b
+ een happening on every `paurNamI`.\n\n\n\nhttp://karthikraman.github.io/ad
+ yatithih/posts/tirupati-paurnami-garuda-seva
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -12285,7 +13099,7 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Dvidala-Vrata-
+SUMMARY:Dvidala-Vratam
 DTSTART;VALUE=DATE:20181021
 DTEND;VALUE=DATE:20181121
 UID:chaturmasya-vratam-2018-11-20-0
@@ -12486,6 +13300,23 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Veṅkaṭāchale Paurṇamī Garuḍa-Sevā
+DTSTART;VALUE=DATE:20181122
+DTEND;VALUE=DATE:20181123
+UID:tirupati-paurnami-garuda-seva-2018-11
+DESCRIPTION:Lord Malayappa rides on Garuda Vahanam in all four mada street
+ s. This usually happens during Brahmotsavams\, but since 2006\, this has b
+ een happening on every `paurNamI`.\n\n\n\nhttp://karthikraman.github.io/ad
+ yatithih/posts/tirupati-paurnami-garuda-seva
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Śrī Govinda Bhagavatpāda Ārādhanā
 DTSTART;VALUE=DATE:20181122
 DTEND;VALUE=DATE:20181123
@@ -12531,7 +13362,7 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Chāturmāsyavrata-
+SUMMARY:Chāturmāsyavratam
 DTSTART;VALUE=DATE:20180722
 DTEND;VALUE=DATE:20181124
 UID:chaturmasya-2018-11
@@ -13532,6 +14363,23 @@ DTEND;VALUE=DATE:20181223
 UID:tripura-bhairavi-jayanti-2018-12
 DESCRIPTION:Goddess Tripura Bhairavi is 5th of the Dasha Maha Vidyas.\n\n\
  n\nhttp://karthikraman.github.io/adyatithih/posts/tripura-bhairavi-jayanti
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Veṅkaṭāchale Paurṇamī Garuḍa-Sevā
+DTSTART;VALUE=DATE:20181222
+DTEND;VALUE=DATE:20181223
+UID:tirupati-paurnami-garuda-seva-2018-12
+DESCRIPTION:Lord Malayappa rides on Garuda Vahanam in all four mada street
+ s. This usually happens during Brahmotsavams\, but since 2006\, this has b
+ een happening on every `paurNamI`.\n\n\n\nhttp://karthikraman.github.io/ad
+ yatithih/posts/tirupati-paurnami-garuda-seva
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE

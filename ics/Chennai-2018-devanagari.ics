@@ -1094,12 +1094,12 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:चन्द्र-ग्रहणम्
+SUMMARY:चन्द्र-ग्रहणम्~(राहुग्रस
+ ्त)
 DTSTART;TZID=Asia/Calcutta;VALUE=DATE-TIME:20180131T180500
 DTEND;TZID=Asia/Calcutta;VALUE=DATE-TIME:20180131T204100
-UID:chandra-grahanam-2018-01
-DESCRIPTION:http://karthikraman.github.io/adyatithih/posts/chandra-grahana
- m
+UID:-2018-01
+DESCRIPTION:http://karthikraman.github.io/adyatithih/posts/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT4H
@@ -5867,6 +5867,22 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:श्रीनिवासमङ्गापुरॆ साक
+ ्षात्कार-वैभवोत्सव-आरम्भः
+DTSTART;VALUE=DATE:20180618
+DTEND;VALUE=DATE:20180619
+UID:srinivasamangapuram-sakshatkara-vaibhavotsava-2018-06
+DESCRIPTION:http://karthikraman.github.io/adyatithih/posts/srinivasamangap
+ uram-sakshatkara-vaibhavotsava
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:आरण्य-गौरी-व्रतम्
 DTSTART;VALUE=DATE:20180619
 DTEND;VALUE=DATE:20180620
@@ -5934,6 +5950,34 @@ DTEND;VALUE=DATE:20180620
 UID:vindhyavasini-devi-puja-2018-06
 DESCRIPTION:http://karthikraman.github.io/adyatithih/posts/vindhyavasini-d
  evi-puja
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:श्रीनिवासमङ्गापुरॆ साक
+ ्षात्कार-वैभवोत्सवः
+DTSTART;VALUE=DATE:20180619
+DTEND;VALUE=DATE:20180620
+UID:srinivasamangapuram-sakshatkara-vaibhavotsava-2018-06-19-0
+DESCRIPTION:According to historical evidences\, dated 22nd March 1540 CE\,
+  the Temple was brought to worship by doing Jeernoddhaarana by Chinni Thir
+ umalacharyulu\, the grandson of great saint Sri Talapaka Annamacharyulu. I
+ n 1940 CE. an Archaka Swamulu by name Sundararaju from Tamilnadu came to S
+ rinivasa Mangapuram. He shared his dream with villagers by saying that in 
+ his dream Lord Venkateswara Swamy appeared and asked him to bring the temp
+ le to Past Vaibhavam (glorious) by performing Deepa Naivedya Aaradhana and
+  Lord disppeared. As per the Lord words\, Archaka Swami Sundaraju performe
+ d first pooja on July 1940 which was coincided on Ashada Shudda Shasti Day
+  with the help of village elders. To mark the auspicious day of revival of
+  Nitya Pooja Kainkaryam\, TTD has been conducting this festival as Sakshat
+ kara Vaibhavotsavam on Ashada Shuddha Shasti Day in the Jyaishta month eve
+ ry year.\n\n\n\nhttp://karthikraman.github.io/adyatithih/posts/srinivasama
+ ngapuram-sakshatkara-vaibhavotsava
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -6014,6 +6058,38 @@ DTEND;VALUE=DATE:20180621
 UID:natarajar-ani-tirumanjanam-2018-06-20-0
 DESCRIPTION:http://karthikraman.github.io/adyatithih/posts/natarajar-ani-t
  irumanjanam
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:श्रीनिवासमङ्गापुरॆ साक
+ ्षात्कार-वैभवोत्सव-समापनम्
+DTSTART;VALUE=DATE:20180620
+DTEND;VALUE=DATE:20180621
+UID:srinivasamangapuram-sakshatkara-vaibhavotsava-2018-06-20
+DESCRIPTION:http://karthikraman.github.io/adyatithih/posts/srinivasamangap
+ uram-sakshatkara-vaibhavotsava
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:श्रीनिवासमङ्गापुरॆ साक
+ ्षात्कार-वैभवोत्सवः
+DTSTART;VALUE=DATE:20180618
+DTEND;VALUE=DATE:20180621
+UID:srinivasamangapuram-sakshatkara-vaibhavotsava-2018-06-20-0
+DESCRIPTION:http://karthikraman.github.io/adyatithih/posts/srinivasamangap
+ uram-sakshatkara-vaibhavotsava
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -6456,7 +6532,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:अलर्मेल्मङ्गापुरे प्लव
  ोत्सव
-DTSTART;VALUE=DATE:20180505
+DTSTART;VALUE=DATE:20180618
 DTEND;VALUE=DATE:20180629
 UID:tiruchanur-teppotsavam-2018-06-28-0
 DESCRIPTION:http://karthikraman.github.io/adyatithih/posts/tiruchanur-tepp
@@ -6571,6 +6647,37 @@ DESCRIPTION:Special vrata day for Ganesha. Fast during the day and pray to
  या।\nकष्टान् मां मोचयेशान सर
  ्वमिष्टं च देहि मे॥\n\nhttp://karthikraman
  .github.io/adyatithih/posts/sankatahara-chaturthi-vratam
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:तिन्दुकाष्टमी
+DTSTART;VALUE=DATE:20180706
+DTEND;VALUE=DATE:20180707
+UID:tindukashtami-2018-07
+DESCRIPTION:Start of one year vratam of monthly shiva pooja as per chaturv
+ aga chintamani.\n\n\n\nhttp://karthikraman.github.io/adyatithih/posts/tind
+ ukashtami
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:त्रिलॊचनाष्टमी
+DTSTART;VALUE=DATE:20180706
+DTEND;VALUE=DATE:20180707
+UID:trilochanashtami-2018-07
+DESCRIPTION:http://karthikraman.github.io/adyatithih/posts/trilochanashtam
+ i
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -7443,12 +7550,12 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:चन्द्र-ग्रहणम्
+SUMMARY:चन्द्र-ग्रहणम्~(केतुग्रस
+ ्त)
 DTSTART;TZID=Asia/Calcutta;VALUE=DATE-TIME:20180727T235400
 DTEND;TZID=Asia/Calcutta;VALUE=DATE-TIME:20180728T034900
-UID:chandra-grahanam-2018-07
-DESCRIPTION:http://karthikraman.github.io/adyatithih/posts/chandra-grahana
- m
+UID:-2018-07
+DESCRIPTION:http://karthikraman.github.io/adyatithih/posts/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT4H
@@ -7918,6 +8025,21 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:पति-सञ्जीवनी-व्रतम्
+DTSTART;VALUE=DATE:20180811
+DTEND;VALUE=DATE:20180812
+UID:pati-sanjivani-vratam-2018-08
+DESCRIPTION:http://karthikraman.github.io/adyatithih/posts/pati-sanjivani-
+ vratam
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:चन्द्र-दर्शनम्
 DTSTART;VALUE=DATE:20180812
 DTEND;VALUE=DATE:20180813
@@ -7991,6 +8113,21 @@ DTEND;VALUE=DATE:20180814
 UID:manoratha-dvitiya-2018-08
 DESCRIPTION:VasudevaPooja\, ChandraArghya\, Naktam\n\n\n\nhttp://karthikra
  man.github.io/adyatithih/posts/manoratha-dvitiya
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:पार्वती पवित्रारोपणम्
+DTSTART;VALUE=DATE:20180813
+DTEND;VALUE=DATE:20180814
+UID:parvati-pavitraropanam-2018-08
+DESCRIPTION:http://karthikraman.github.io/adyatithih/posts/parvati-pavitra
+ ropanam
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -8554,7 +8691,7 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:शाकव्रत-
+SUMMARY:शाकव्रतम्
 DTSTART;VALUE=DATE:20180722
 DTEND;VALUE=DATE:20180824
 UID:chaturmasya-vratam-2018-08-23-0
@@ -10087,8 +10224,30 @@ SUMMARY:वितस्तोत्सवः
 DTSTART;VALUE=DATE:20180919
 DTEND;VALUE=DATE:20180920
 UID:vitastotsava-2018-09
-DESCRIPTION:7 days bath in Vitasta river tributary of Narmada\n\n\n\nhttp:
- //karthikraman.github.io/adyatithih/posts/vitastotsava
+DESCRIPTION:This is the day when the sacred river `vitastA` was born. 2.  
+ `nIlamata purANam` recommends taking bath in this sacred river (Jhelum\, t
+ ributary of Sindhu) for 7 consecutive days starting from this day.\n\nय
+ ानि तीर्थानि भारतवर्षॆ तान
+ ि तीर्थानि काश्मीरमण्डलॆ।\n
+ यानि तीर्थानि काश्मीरमण्डल
+ ॆ तानि तीर्थानि वितस्तायाम
+ ्॥\n\nhttp://karthikraman.github.io/adyatithih/posts/vitastotsava
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:कटदानोत्सवः
+DTSTART;VALUE=DATE:20180920
+DTEND;VALUE=DATE:20180921
+UID:katadanotsava-2018-09
+DESCRIPTION:As per Smruti-Kaustubham\, one must perform daanam of mat (`ka
+ Tam`) to a dharmic Vipra.\n\n\n\nhttp://karthikraman.github.io/adyatithih/
+ posts/katadanotsava
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -10173,14 +10332,16 @@ SUMMARY:दधि-व्रत-समापनम्
 DTSTART;VALUE=DATE:20180921
 DTEND;VALUE=DATE:20180922
 UID:chaturmasya-vratam-2018-09
-DESCRIPTION:सङ्कर्षण नमस्तुभ्यं श्
- रवणे मत्कृतेन च।\nदधिव्रतेन 
- देवेश तुष्टो भव जनार्दन॥\nइद
- ं व्रतं मया देव कृतं प्रीत्य
- ै तव प्रभो।\nन्यूनं सम्पूर्ण
- तां यातु त्वत्प्रसादज्जनार
- ्दन॥\n\nhttp://karthikraman.github.io/adyatithih/posts/chaturmasya
- -vratam
+DESCRIPTION:On this day the DadhiVratam in Chaaturmaasyam is completed\, h
+ ence perform danam of Dadhi (curd) to a Viprottama and recite the followin
+ g shloka.\n\nसङ्कर्षण नमस्तुभ्यं श
+ ्रवणे मत्कृतेन च।\nदधिव्रते
+ न देवेश तुष्टो भव जनार्दन॥\n
+ इदं व्रतं मया देव कृतं प्रीत
+ ्यै तव प्रभो।\nन्यूनं सम्पूर
+ ्णतां यातु त्वत्प्रसादज्जन
+ ार्दन॥\n\nhttp://karthikraman.github.io/adyatithih/posts/chatu
+ rmasya-vratam
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -10190,7 +10351,7 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:दधि-व्रत-
+SUMMARY:दधि-व्रतम्
 DTSTART;VALUE=DATE:20180823
 DTEND;VALUE=DATE:20180922
 UID:chaturmasya-vratam-2018-09-21-0
@@ -10209,11 +10370,12 @@ SUMMARY:पयोव्रत-आरम्भः
 DTSTART;VALUE=DATE:20180921
 DTEND;VALUE=DATE:20180922
 UID:chaturmasya-vratam-2018-09-21-1
-DESCRIPTION:प्रद्युम्न तव तुष्ट्यर
- ्थं प्रोष्टपद्यां तृतीयके।
- \nनिर्विघ्नं कुरु देवेश करिष
- ्येऽहं पयोव्रतम्॥\n\nhttp://karthikraman.g
- ithub.io/adyatithih/posts/chaturmasya-vratam
+DESCRIPTION:``payOvratam` in chaturmasyam begins today.\n\nप्रद्
+ युम्न तव तुष्ट्यर्थं प्रोष
+ ्टपद्यां तृतीयके।\nनिर्विघ
+ ्नं कुरु देवेश करिष्येऽहं प
+ योव्रतम्॥\n\nhttp://karthikraman.github.io/adyatithih/po
+ sts/chaturmasya-vratam
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -10503,7 +10665,7 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:यतिचातुर्मास्यव्रत-
+SUMMARY:यतिचातुर्मास्यव्रतम्
 DTSTART;VALUE=DATE:20180727
 DTEND;VALUE=DATE:20180926
 UID:chaturmasyavrata-2018-09
@@ -10767,7 +10929,7 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:महालक्ष्मी-व्रत-
+SUMMARY:महालक्ष्मी-व्रतम्
 DTSTART;VALUE=DATE:20180918
 DTEND;VALUE=DATE:20181002
 UID:mahalakshmi-vrata-2018-10
@@ -11088,6 +11250,25 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:शृङ्गेरी ३४ जगद्गुरु श्र
+ ी चन्द्रशेखर भारती आराधना
+DTSTART;VALUE=DATE:20181008
+DTEND;VALUE=DATE:20181009
+UID:shringeri-34-jagadguru-shri-chandrashekhara-bharati-aradhana-2018-10
+DESCRIPTION:सदाऽऽत्मध्याननिरतं वि
+ षयेभ्यः परङ्मुखम्।\nनौमि शा
+ स्त्रेषु निष्णातं चन्द्रशे
+ खरभारतीम्॥\n\nhttp://karthikraman.github.io/adyatithih
+ /posts/shringeri-34-jagadguru-shri-chandrashekhara-bharati-aradhana
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:शस्त्रहतचतुर्दशी
 DTSTART;VALUE=DATE:20181008
 DTEND;VALUE=DATE:20181009
@@ -11139,25 +11320,6 @@ DTEND;VALUE=DATE:20181010
 UID:sujanmaprapti-vratam-2018-10
 DESCRIPTION:http://karthikraman.github.io/adyatithih/posts/sujanmaprapti-v
  ratam
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT4H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:शृङ्गेरी ३४ जगद्गुरु श्र
- ी चन्द्रशेखर भारती आराधना
-DTSTART;VALUE=DATE:20181009
-DTEND;VALUE=DATE:20181010
-UID:shringeri-34-jagadguru-shri-chandrashekhara-bharati-aradhana-2018-10
-DESCRIPTION:सदाऽऽत्मध्याननिरतं वि
- षयेभ्यः परङ्मुखम्।\nनौमि शा
- स्त्रेषु निष्णातं चन्द्रशे
- खरभारतीम्॥\n\nhttp://karthikraman.github.io/adyatithih
- /posts/shringeri-34-jagadguru-shri-chandrashekhara-bharati-aradhana
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -11914,7 +12076,7 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:पयोव्रत-
+SUMMARY:पयोव्रतम्
 DTSTART;VALUE=DATE:20180921
 DTEND;VALUE=DATE:20181022
 UID:chaturmasya-vratam-2018-10-21-0
@@ -13367,7 +13529,7 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:द्विदल-व्रत-
+SUMMARY:द्विदल-व्रतम्
 DTSTART;VALUE=DATE:20181021
 DTEND;VALUE=DATE:20181121
 UID:chaturmasya-vratam-2018-11-20-0
@@ -13633,7 +13795,7 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:चातुर्मास्यव्रत-
+SUMMARY:चातुर्मास्यव्रतम्
 DTSTART;VALUE=DATE:20180722
 DTEND;VALUE=DATE:20181124
 UID:chaturmasya-2018-11
