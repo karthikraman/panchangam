@@ -29,14 +29,15 @@ scr=${script:0:4}
 
 echo "Computing $y monthly panchangam for $city_name ($lat,$lon) - $tz in $script script... "
 echo "***"
-python3 -m jyotisha.panchangam.scripts.write_monthly_panchangam_tex $city_name $lat $lon $tz $y $script > /tmp/cal-$y-$city_name-$scr.tex
+cd ../panchangam/
+python3 -m jyotisha.panchangam.scripts.write_monthly_panchangam_tex $city_name $lat $lon $tz $y $script > ../tex/data/cal-$y-$city_name-$scr.tex
 
 if [[ $? -eq 0 ]]
   then
   echo "***"
   echo "Completed panchangam computation successfully!"
   echo -ne "Generating PDF (log --> /tmp/cal-$y-$city_name-$scr.texlog)... "
-  cd /tmp/
+  cd ../tex/data/
   xelatex -halt-on-error cal-$y-$city_name-$scr.tex > /tmp/cal-$y-$city_name-$scr.texlog
   if [[ $? -eq 0 ]]
     then
