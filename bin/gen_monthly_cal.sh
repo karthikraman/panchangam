@@ -41,8 +41,6 @@ if [[ $? -eq 0 ]]
   xelatex -halt-on-error cal-$y-$city_name-$scr.tex > /tmp/cal-$y-$city_name-$scr.texlog
   if [[ $? -eq 0 ]]
     then
-    mv cal-$y-$city_name-$scr.pdf ~/Documents/
-    echo "done! Check out ~/Documents/cal-$y-$city_name-$scr.pdf."
     mv cal-$y-$city_name-$scr.pdf ../../pdf/
     echo "done! Check out ../pdf/cal-$y-$city_name-$scr.pdf."
   else
