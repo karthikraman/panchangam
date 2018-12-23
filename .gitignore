@@ -4,6 +4,8 @@
 *.aux
 *.synctex.gz
 *.log
+*.fls
+*.xdv
 *.sublime-workspace
 *old*
 panchangam/data/*.log
