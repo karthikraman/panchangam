@@ -94,7 +94,7 @@ DESCRIPTION:Visit Chidambaram to have darshan of Nataraja\, or pray to Nat
  ागं चिदम्बरेशं हृदि भावयाम
  ि ॥\n\n\n\nhttps://github.com/sanskrit-coders/jyotisha/tree/master/jyo
  tisha/panchangam/temporal/festival/data/solar_month/nakshatram/09/06#arudr
- a~darican2am__natarajar-mahabhisekam
+ a~darican2amnatarajar-mahabhisekam
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -125,7 +125,7 @@ DTEND;VALUE=DATE:20180103
 DESCRIPTION:Offer naivedyam of चित्रान्नम् (tamarind
   rice) to Vishnu\n\nhttps://github.com/sanskrit-coders/jyotisha/tree/maste
  r/jyotisha/panchangam/temporal/festival/data/solar_month/day/09/18#undu~ma
- dakkalir2r2an2{}
+ dakkalir2r2an2
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -446,7 +446,7 @@ DTSTART;VALUE=DATE:20180114
 DTEND;VALUE=DATE:20180115
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/solar_month/day/10/01#makara-sagkrant
- ih__uttarayana-punyakalah
+ ihuttarayana-punyakalah
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -510,7 +510,7 @@ DTSTART;VALUE=DATE:20180115
 DTEND;VALUE=DATE:20180116
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/relative_event/makara-saGkrAntiH__utt
- arAyaNa-puNyakAlaH/offset__01#indra-puja__go-puja
+ arAyaNa-puNyakAlaH/offset__01#indra-pujago-puja
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -569,8 +569,8 @@ SUMMARY:मौनि (पौष/मकर) अमावस्या
 DTSTART;VALUE=DATE:20180116
 DTEND;VALUE=DATE:20180117
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/other/amavasya-days#mauni-(pausa__mak
- ara)-amavasya
+ ha/panchangam/temporal/festival/data/other/amavasya-days#mauni-(pausamakar
+ a)-amavasya
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -1078,7 +1078,7 @@ DTSTART;VALUE=DATE:20180128
 DTEND;VALUE=DATE:20180129
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/other/monthly-vratams/ekadashi-vratam
- -days#jaya__bhaimi-ekadazi
+ -days#jayabhaimi-ekadazi
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -1117,7 +1117,7 @@ DESCRIPTION:Mahavishnu created black til by extreme तपः on this day\
  छ देयाह् देव गृहेषु च।\nनिवे
  दयेत् तिलानेव\n\n\n\nhttps://github.com/sanskrit-c
  oders/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data/luna
- r_month/tithi/11/12#tilapadma-dvadazi__tilotpatti
+ r_month/tithi/11/12#tilapadma-dvadazitilotpatti
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -2070,7 +2070,7 @@ DTEND;VALUE=DATE:20180225
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/relative_event/ta:tiruccendUr mAcit t
  iruvizhA nir2aivu/offset__-5#tiruccendur-murugan2-macit-tiruvizha-##7##m-n
- al—urugu-cattac-cevai__cigappu-catti-alagkaram
+ al—urugu-cattac-cevaicigappu-catti-alagkaram
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -2764,8 +2764,8 @@ DTSTART;VALUE=DATE:20180314
 DTEND;VALUE=DATE:20180315
 DESCRIPTION:Dvadashi tithi\, combined with Shravana nakshatram.\n\nhttps:/
  /github.com/sanskrit-coders/jyotisha/tree/master/jyotisha/panchangam/tempo
- ral/festival/data/other/rare-days/combinations/special-vratams#vijaya__zra
- vana-mahadvadazi
+ ral/festival/data/other/rare-days/combinations/special-vratams#vijayazrava
+ na-mahadvadazi
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -3066,8 +3066,8 @@ SUMMARY:गौरी तृतीया/सौभाग्य-गौरी
 DTSTART;VALUE=DATE:20180320
 DTEND;VALUE=DATE:20180321
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/lunar_month/tithi/01/03#gauri~trtiya_
- _saubhagya-gauri-vratam
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/01/03#gauri~trtiyas
+ aubhagya-gauri-vratam
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -5120,7 +5120,7 @@ DESCRIPTION:चित्रगुप्तं महाप्राज्
  ररत्नाम्बरधरं मध्यस्थं सर्
  वदेहिनाम्॥\n\n\n\nhttps://github.com/sanskrit-coders/j
  yotisha/tree/master/jyotisha/panchangam/temporal/festival/data/solar_month
- /tithi/01/15#citra~paurnami__citragupta~pujai
+ /tithi/01/15#citra~paurnamicitragupta~pujai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -6184,7 +6184,7 @@ DTSTART;VALUE=DATE:20180611
 DTEND;VALUE=DATE:20180612
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/relative_event/ta:naTarAjar An2i tiru
- maJcan2am/offset__-9#cidambare-dhvajarohanam__pajcamurti-rathotsavah
+ maJcan2am/offset__-9#cidambare-dhvajarohanampajcamurti-rathotsavah
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -6510,7 +6510,7 @@ DESCRIPTION:Perform puja of Shiva-Parvati under a banana tree or on a bana
  ल्यं सुखं ज्ञानं देहि मे शिव
  सुन्दरि॥\n\n\n\nhttps://github.com/sanskrit-coders/jyotish
  a/tree/master/jyotisha/panchangam/temporal/festival/data/lunar_month/tithi
- /03/04#kadali-gauri-vratam__puja
+ /03/04#kadali-gauri-vratampuja
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -6976,7 +6976,7 @@ DESCRIPTION:Avataranam of Ganga Devi. Bathe in any river and offer arghyam
  ।\nमुच्यते दशभिः पापैः स महा
  पातकोपमैः॥\n\n\n\nhttps://github.com/sanskrit-coders/j
  yotisha/tree/master/jyotisha/panchangam/temporal/festival/data/lunar_month
- /tithi/03/10#dazahara__gaggavataranam__dazapapahara~dazami
+ /tithi/03/10#dazaharagaggavataranamdazapapahara~dazami
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -7463,7 +7463,7 @@ DTEND;VALUE=DATE:20180629
 DESCRIPTION:Perform puja of banyan tree\; begets सौमङ्गल्
  यम् and सौभाग्यम्.\n\nhttps://github.com/sanskrit-
  coders/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data/lun
- ar_month/tithi/03/15#vata-purnima__vata-savitri-vratam
+ ar_month/tithi/03/15#vata-purnimavata-savitri-vratam
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -8552,8 +8552,8 @@ DESCRIPTION:Puja of Veda Vyasa / Gurus\; Danam of Vishnu Puran is good on
  विबाहुरपरो हरिः। अफाललोचनो
   शम्भुर्भगवान् बादारायणः॥\n\
  n\n\nhttps://github.com/sanskrit-coders/jyotisha/tree/master/jyotisha/panc
- hangam/temporal/festival/data/lunar_month/tithi/04/15#guru-purnima__vyasa-
- puja
+ hangam/temporal/festival/data/lunar_month/tithi/04/15#guru-purnimavyasa-pu
+ ja
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -9616,7 +9616,7 @@ DTSTART;VALUE=DATE:20180820
 DTEND;VALUE=DATE:20180821
 DESCRIPTION:Shiva Puja with गन्धम्\n\nhttps://github.com/sansk
  rit-coders/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data
- /lunar_month/tithi/05/10#veda__dadhi-vrata-arambhah
+ /lunar_month/tithi/05/10#vedadadhi-vrata-arambhah
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -10392,7 +10392,7 @@ DTEND;VALUE=DATE:20180904
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/relative_event/ta:tiruccendUr AvaNit 
  tiruvizhA nir2aivu/offset__-11#tiruccendur-murugan2-avanit-tiruvizha-todak
- kam__kodiyer2r2am
+ kamkodiyer2r2am
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -11672,8 +11672,8 @@ DTSTART;VALUE=DATE:20180921
 DTEND;VALUE=DATE:20180922
 DESCRIPTION:Dvadashi tithi\, combined with Shravana nakshatram.\n\nhttps:/
  /github.com/sanskrit-coders/jyotisha/tree/master/jyotisha/panchangam/tempo
- ral/festival/data/other/rare-days/combinations/special-vratams#vijaya__zra
- vana-mahadvadazi
+ ral/festival/data/other/rare-days/combinations/special-vratams#vijayazrava
+ na-mahadvadazi
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -12223,7 +12223,7 @@ DTSTART;VALUE=DATE:20180930
 DTEND;VALUE=DATE:20181001
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/lunar_month/tithi/06/20#saptarsi-puja
- __arghyam
+ arghyam
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -12379,8 +12379,8 @@ SUMMARY:दुर्गा/गौरी-पूजा
 DTSTART;VALUE=DATE:20181003
 DTEND;VALUE=DATE:20181004
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/lunar_month/tithi/06/24#durga__gauri-
- puja
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/06/24#durgagauri-pu
+ ja
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -12922,7 +12922,7 @@ DESCRIPTION:Coming from Brahma's Kamandalu\, Pushkara Raja resides in diff
  कम्।\nअन्ते द्वादश वस्तव्यं 
  दिनानि च यथासुखम्॥\n\n\n\n\nhttps://github
  .com/sanskrit-coders/jyotisha/tree/master/jyotisha/panchangam/temporal/fes
- tival/data/other/rare-days/pushkara#bhima__tamraparni-adi-puskara-arambhah
+ tival/data/other/rare-days/pushkara#bhimatamraparni-adi-puskara-arambhah
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -13267,7 +13267,7 @@ DESCRIPTION:Daanam is good\, get crore times punya.\nMaatruNavami\, NaamaN
  avami Vratam\, DurgaNavami-Vratam\, Shourya-Vratam\, Mahaaphala Vratam\, P
  radeeptaNavami\n\nhttps://github.com/sanskrit-coders/jyotisha/tree/master/
  jyotisha/panchangam/temporal/festival/data/lunar_month/tithi/07/09#mahanav
- ami__sarasvati-puja
+ amisarasvati-puja
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -13685,8 +13685,7 @@ DESCRIPTION:Coming from Brahma's Kamandalu\, Pushkara Raja resides in diff
  कम्।\nअन्ते द्वादश वस्तव्यं 
  दिनानि च यथासुखम्॥\n\n\n\n\nhttps://github
  .com/sanskrit-coders/jyotisha/tree/master/jyotisha/panchangam/temporal/fes
- tival/data/other/rare-days/pushkara#bhima__tamraparni-adi-puskara-samapana
- m
+ tival/data/other/rare-days/pushkara#bhimatamraparni-adi-puskara-samapanam
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -13716,8 +13715,7 @@ DESCRIPTION:Coming from Brahma's Kamandalu\, Pushkara Raja resides in diff
  कम्।\nअन्ते द्वादश वस्तव्यं 
  दिनानि च यथासुखम्॥\n\n\n\n\nhttps://github
  .com/sanskrit-coders/jyotisha/tree/master/jyotisha/panchangam/temporal/fes
- tival/data/other/rare-days/pushkara#bhima__tamraparni-adi-puskara-samapana
- m
+ tival/data/other/rare-days/pushkara#bhimatamraparni-adi-puskara-samapanam
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -13800,7 +13798,7 @@ DTSTART;VALUE=DATE:20181024
 DTEND;VALUE=DATE:20181025
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/lunar_month/tithi/07/15#kumara-paurna
- masi__maha-azvini
+ masimaha-azvini
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -14521,7 +14519,7 @@ DESCRIPTION:Perform Tarpana to Yamadharmaraja (even those with father).
  जीवत्पिताऽपि कुर्वीत तर्पण
  ं यमभीष्मयोः\n\nhttps://github.com/sanskrit-coders/j
  yotisha/tree/master/jyotisha/panchangam/temporal/festival/data/lunar_month
- /tithi/07/29#dipotsava-caturdazi__yama-tarpanam
+ /tithi/07/29#dipotsava-caturdaziyama-tarpanam
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -14539,7 +14537,7 @@ DESCRIPTION:कृष्ण चतुर्दशी तिथि on a Tue
  sday is very sacred. Perform तर्पणम् to Yama Dharamaraja.\n\
  nhttps://github.com/sanskrit-coders/jyotisha/tree/master/jyotisha/panchang
  am/temporal/festival/data/other/rare-days/combinations#krsnaggaraka-caturd
- azi-punyakalah__yamatarpanam
+ azi-punyakalahyamatarpanam
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -14643,7 +14641,7 @@ DTEND;VALUE=DATE:20181108
 DESCRIPTION:Gives light even to Naraka-vasis\; Also\, Bali was sent to Paa
  talam on this day.\n\nhttps://github.com/sanskrit-coders/jyotisha/tree/mas
  ter/jyotisha/panchangam/temporal/festival/data/lunar_month/tithi/07/30#dip
- avali__laksmi-kubera-puja
+ avalilaksmi-kubera-puja
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -14800,8 +14798,8 @@ SUMMARY:यम/भ्रातृ-द्वितीया
 DTSTART;VALUE=DATE:20181109
 DTEND;VALUE=DATE:20181110
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/lunar_month/tithi/08/02#yama__bhratr-
- dvitiya
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/08/02#yamabhratr-dv
+ itiya
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -16862,7 +16860,7 @@ DTSTART;VALUE=DATE:20181222
 DTEND;VALUE=DATE:20181223
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/other/sun-sankranti#makarayana-punyak
- alah__mitrotsavah
+ alahmitrotsavah
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -16965,7 +16963,7 @@ DESCRIPTION:Visit Chidambaram to have darshan of Nataraja\, or pray to Nat
  ागं चिदम्बरेशं हृदि भावयाम
  ि ॥\n\n\n\nhttps://github.com/sanskrit-coders/jyotisha/tree/master/jyo
  tisha/panchangam/temporal/festival/data/solar_month/nakshatram/09/06#arudr
- a~darican2am__natarajar-mahabhisekam
+ a~darican2amnatarajar-mahabhisekam
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
