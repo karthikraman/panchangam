@@ -22,7 +22,7 @@ DTSTART;VALUE=DATE:20180101
 DTEND;VALUE=DATE:20180102
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/lunar_month/tithi/10/14#kajci-8-jagad
- guru-zri~kaivalyanandayogendra-sarasvati-aradhana
+ guru-zri-kaivalyanandayogendra-sarasvati-aradhana
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -40,7 +40,7 @@ DESCRIPTION:Lord Malayappa rides on Garuda Vahanam in all four mada street
  s. This usually happens during Brahmotsavams\, but since 2006\, this has b
  een happening on every पौर्णमी.\n\nhttps://github.com/sanskr
  it-coders/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data/
- lunar_month/tithi/00/15#vegkatacale-paurnami~garuda-seva
+ lunar_month/tithi/00/15#vegkatacale-paurnami-garuda-seva
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -57,7 +57,7 @@ DTEND;VALUE=DATE:20180103
 DESCRIPTION:Adi Shankara founded Jyotir Mutt\, Badarinath in Rakshasa year
   Totakacharya as first\n\nhttps://github.com/sanskrit-coders/jyotisha/tree
  /master/jyotisha/panchangam/temporal/festival/data/lunar_month/tithi/10/15
- #badari-jyotirmatha-pratisthapana~jayanti
+ #badari-jyotirmatha-pratisthapana-jayanti
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -73,7 +73,7 @@ DTEND;VALUE=DATE:20180103
 DESCRIPTION:पौर्णमी व्रतम् is commonly observed 
  for Lord Satyanarayana.\n\nhttps://github.com/sanskrit-coders/jyotisha/tre
  e/master/jyotisha/panchangam/temporal/festival/data/lunar_month/tithi/00/1
- 5#paurnami~vratam
+ 5#paurnami-vratam
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -94,7 +94,7 @@ DESCRIPTION:Visit Chidambaram to have darshan of Nataraja\, or pray to Nat
  ागं चिदम्बरेशं हृदि भावयाम
  ि ॥\n\n\n\nhttps://github.com/sanskrit-coders/jyotisha/tree/master/jyo
  tisha/panchangam/temporal/festival/data/solar_month/nakshatram/09/06#arudr
- a~darican2amnatarajar-mahabhisekam
+ a-darican2amnatarajar-mahabhisekam
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -124,7 +124,7 @@ DTSTART;VALUE=DATE:20180102
 DTEND;VALUE=DATE:20180103
 DESCRIPTION:Offer naivedyam of चित्रान्नम् (tamarind
   rice) to Vishnu\n\nhttps://github.com/sanskrit-coders/jyotisha/tree/maste
- r/jyotisha/panchangam/temporal/festival/data/solar_month/day/09/18#undu~ma
+ r/jyotisha/panchangam/temporal/festival/data/solar_month/day/09/18#undu-ma
  dakkalir2r2an2
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -139,7 +139,7 @@ SUMMARY:शाकम्भरी जयन्ती
 DTSTART;VALUE=DATE:20180102
 DTEND;VALUE=DATE:20180103
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/lunar_month/tithi/10/15#zakambhari~ja
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/10/15#zakambhari-ja
  yanti
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -157,7 +157,7 @@ DTEND;VALUE=DATE:20180103
 DESCRIPTION:Adi Shankara founded Sharada Mutt\, Shringeri in Pingala year 
  Sureshwaracharya as first\n\nhttps://github.com/sanskrit-coders/jyotisha/t
  ree/master/jyotisha/panchangam/temporal/festival/data/lunar_month/tithi/10
- /15#zrggeri-zaradamatha-pratisthapana~jayanti
+ /15#zrggeri-zaradamatha-pratisthapana-jayanti
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -174,7 +174,7 @@ DTSTART;VALUE=DATE:20180103
 DTEND;VALUE=DATE:20180104
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/lunar_month/tithi/10/17#kajci-37-jaga
- dguru-zri~vidyaghanendra-sarasvati-3-aradhana
+ dguru-zri-vidyaghanendra-sarasvati-3-aradhana
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -191,7 +191,7 @@ DTSTART;VALUE=DATE:20180103
 DTEND;VALUE=DATE:20180104
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/lunar_month/tithi/10/17#kajci-62-jaga
- dguru-zri~candrazekharendra-sarasvati-5-aradhana
+ dguru-zri-candrazekharendra-sarasvati-5-aradhana
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -205,8 +205,8 @@ SUMMARY:रमण महर्षि जयन्ती #१३९
 DTSTART;VALUE=DATE:20180103
 DTEND;VALUE=DATE:20180104
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/solar_month/nakshatram/09/07#ramana~m
- aharsi~jayanti
+ ha/panchangam/temporal/festival/data/solar_month/nakshatram/09/07#ramana-m
+ aharsi-jayanti
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -306,7 +306,7 @@ SUMMARY:विवेकानन्द जयन्ती #१५६
 DTSTART;VALUE=DATE:20180108
 DTEND;VALUE=DATE:20180109
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/lunar_month/tithi/10/22#vivekananda~j
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/10/22#vivekananda-j
  ayanti
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -321,7 +321,7 @@ SUMMARY:भीष्म जयन्ती
 DTSTART;VALUE=DATE:20180110
 DTEND;VALUE=DATE:20180111
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/lunar_month/tithi/10/24#bhisma~jayant
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/10/24#bhisma-jayant
  i
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -540,7 +540,7 @@ DTSTART;VALUE=DATE:20180115
 DTEND;VALUE=DATE:20180116
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/relative_event/makara-saGkrAntiH__utt
- arAyaNa-puNyakAlaH/offset__01#kan2up~poggal
+ arAyaNa-puNyakAlaH/offset__01#kan2up-poggal
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -555,7 +555,7 @@ DTSTART;VALUE=DATE:20180116
 DTEND;VALUE=DATE:20180117
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/solar_month/tithi/10/30#darbha-saggra
- hah~2
+ hah-2
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -636,7 +636,7 @@ SUMMARY:தை வெள்ளிக்கிழமை
 DTSTART;VALUE=DATE:20180119
 DTEND;VALUE=DATE:20180120
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/other/month-weekday-festivals#tai~vel
+ ha/panchangam/temporal/festival/data/other/month-weekday-festivals#tai-vel
  likkizhamai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -700,7 +700,7 @@ SUMMARY:मार्कण्डेय जयन्ती
 DTSTART;VALUE=DATE:20180121
 DTEND;VALUE=DATE:20180122
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/lunar_month/tithi/11/04#markandeya~ja
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/11/04#markandeya-ja
  yanti
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -716,7 +716,7 @@ DTSTART;VALUE=DATE:20180122
 DTEND;VALUE=DATE:20180123
 DESCRIPTION:Saraswati Puja\, especially in Bengal.\n\nhttps://github.com/s
  anskrit-coders/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/
- data/lunar_month/tithi/11/05#maghi~sarasvati-puja
+ data/lunar_month/tithi/11/05#maghi-sarasvati-puja
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -796,7 +796,7 @@ DTEND;VALUE=DATE:20180125
 DESCRIPTION:Upadesha of this vrata was done by Maharshi Vasishtha to Indum
  ati\, a veshya stri.\n\nhttps://github.com/sanskrit-coders/jyotisha/tree/m
  aster/jyotisha/panchangam/temporal/festival/data/lunar_month/tithi/11/07#a
- cala~saptami-vratam
+ cala-saptami-vratam
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -813,7 +813,7 @@ DTEND;VALUE=DATE:20180125
 DESCRIPTION:Adi Shankara founded Dwaraka Mutt in Sadharana year with Hasta
  malakaAcharya as first\n\nhttps://github.com/sanskrit-coders/jyotisha/tree
  /master/jyotisha/panchangam/temporal/festival/data/lunar_month/tithi/11/07
- #dvaraka-matha-pratisthapana~jayanti
+ #dvaraka-matha-pratisthapana-jayanti
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -827,7 +827,7 @@ SUMMARY:मन्वादि (सावर्णि)
 DTSTART;VALUE=DATE:20180124
 DTEND;VALUE=DATE:20180125
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/lunar_month/tithi/11/07#manvadi~(sava
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/11/07#manvadi-(sava
  rni)
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -842,7 +842,7 @@ SUMMARY:नर्मदा जयन्ती
 DTSTART;VALUE=DATE:20180124
 DTEND;VALUE=DATE:20180125
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/lunar_month/tithi/11/07#narmada~jayan
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/11/07#narmada-jayan
  ti
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -903,8 +903,8 @@ SUMMARY:खोडियार माता जयन्ती
 DTSTART;VALUE=DATE:20180125
 DTEND;VALUE=DATE:20180126
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/lunar_month/tithi/11/08#khodiyara~mat
- a~jayanti
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/11/08#khodiyara-mat
+ a-jayanti
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -983,7 +983,7 @@ SUMMARY:தை வெள்ளிக்கிழமை
 DTSTART;VALUE=DATE:20180126
 DTEND;VALUE=DATE:20180127
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/other/month-weekday-festivals#tai~vel
+ ha/panchangam/temporal/festival/data/other/month-weekday-festivals#tai-vel
  likkizhamai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -1032,7 +1032,7 @@ DTSTART;VALUE=DATE:20180127
 DTEND;VALUE=DATE:20180128
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/lunar_month/tithi/11/10#kajci-11-jaga
- dguru-zri~zivananda-cidghanendra-sarasvati-aradhana
+ dguru-zri-zivananda-cidghanendra-sarasvati-aradhana
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -1147,7 +1147,7 @@ DTSTART;VALUE=DATE:20180129
 DTEND;VALUE=DATE:20180130
 DESCRIPTION:Kalpadi\n\nhttps://github.com/sanskrit-coders/jyotisha/tree/ma
  ster/jyotisha/panchangam/temporal/festival/data/lunar_month/tithi/11/13#ka
- lpadi~6
+ lpadi-6
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -1193,7 +1193,7 @@ DTSTART;VALUE=DATE:20180129
 DTEND;VALUE=DATE:20180130
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/relative_event/ta:taippUcam/offset__-
- 1#kapali-teppotsavam~1
+ 1#kapali-teppotsavam-1
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -1223,7 +1223,7 @@ DTSTART;VALUE=DATE:20180130
 DTEND;VALUE=DATE:20180131
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/relative_event/ta:taippUcam/offset__0
- 0#kapali-teppotsavam~2
+ 0#kapali-teppotsavam-2
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -1254,7 +1254,7 @@ DTSTART;TZID=Asia/Calcutta;VALUE=DATE-TIME:20180131T180500
 DTEND;TZID=Asia/Calcutta;VALUE=DATE-TIME:20180131T204100
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/other/rare-days/eclipses#candra-graha
- nam~(rahugrasta)
+ nam-(rahugrasta)
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT4H
@@ -1266,7 +1266,7 @@ DTSTART;VALUE=DATE:20180131
 DTEND;VALUE=DATE:20180201
 DESCRIPTION:Goddess Lalita is 3rd of the Dasha Maha Vidyas.\n\nhttps://git
  hub.com/sanskrit-coders/jyotisha/tree/master/jyotisha/panchangam/temporal/
- festival/data/lunar_month/tithi/11/15#lalita~jayanti
+ festival/data/lunar_month/tithi/11/15#lalita-jayanti
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -1315,7 +1315,7 @@ DTEND;VALUE=DATE:20180201
 DESCRIPTION:पौर्णमी व्रतम् is commonly observed 
  for Lord Satyanarayana.\n\nhttps://github.com/sanskrit-coders/jyotisha/tre
  e/master/jyotisha/panchangam/temporal/festival/data/lunar_month/tithi/00/1
- 5#paurnami~vratam
+ 5#paurnami-vratam
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -1330,7 +1330,7 @@ DTSTART;VALUE=DATE:20180131
 DTEND;VALUE=DATE:20180201
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/relative_event/ta:taippUcam/offset__0
- 1#kapali-teppotsavam~3
+ 1#kapali-teppotsavam-3
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -1348,7 +1348,7 @@ DESCRIPTION:Lord Malayappa rides on Garuda Vahanam in all four mada street
  s. This usually happens during Brahmotsavams\, but since 2006\, this has b
  een happening on every पौर्णमी.\n\nhttps://github.com/sanskr
  it-coders/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data/
- lunar_month/tithi/00/15#vegkatacale-paurnami~garuda-seva
+ lunar_month/tithi/00/15#vegkatacale-paurnami-garuda-seva
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -1365,7 +1365,7 @@ DTSTART;VALUE=DATE:20180201
 DTEND;VALUE=DATE:20180202
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/lunar_month/tithi/11/16#kajci-51-jaga
- dguru-zri~vidyatirthendra-sarasvati-aradhana
+ dguru-zri-vidyatirthendra-sarasvati-aradhana
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -1379,7 +1379,7 @@ SUMMARY:தை வெள்ளிக்கிழமை
 DTSTART;VALUE=DATE:20180202
 DTEND;VALUE=DATE:20180203
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/other/month-weekday-festivals#tai~vel
+ ha/panchangam/temporal/festival/data/other/month-weekday-festivals#tai-vel
  likkizhamai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -1453,7 +1453,7 @@ DESCRIPTION:करुणासागरं शान्तम् अरु
  गुरुं वन्दे ब्रह्मीभूतं तप
  ोनिधिम्॥\n\n\n\nhttps://github.com/sanskrit-coders/jyotish
  a/tree/master/jyotisha/panchangam/temporal/festival/data/solar_month/naksh
- atram/10/13#zri~zesadri-svami~jayanti
+ atram/10/13#zri-zesadri-svami-jayanti
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -1482,7 +1482,7 @@ SUMMARY:यशोदा जयन्ती
 DTSTART;VALUE=DATE:20180206
 DTEND;VALUE=DATE:20180207
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/lunar_month/tithi/11/21#yazoda~jayant
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/11/21#yazoda-jayant
  i
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -1500,7 +1500,7 @@ DTSTART;VALUE=DATE:20180207
 DTEND;VALUE=DATE:20180208
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/lunar_month/tithi/11/23#kajci-66-jaga
- dguru-zri~candrazekharendra-sarasvati-7-aradhana
+ dguru-zri-candrazekharendra-sarasvati-7-aradhana
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -1514,7 +1514,7 @@ SUMMARY:शबरी जयन्ती
 DTSTART;VALUE=DATE:20180207
 DTEND;VALUE=DATE:20180208
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/lunar_month/tithi/11/22#zabari~jayant
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/11/22#zabari-jayant
  i
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -1545,7 +1545,7 @@ SUMMARY:தை வெள்ளிக்கிழமை
 DTSTART;VALUE=DATE:20180209
 DTEND;VALUE=DATE:20180210
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/other/month-weekday-festivals#tai~vel
+ ha/panchangam/temporal/festival/data/other/month-weekday-festivals#tai-vel
  likkizhamai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -1576,8 +1576,8 @@ SUMMARY:सेङ्गालिपुरम् मुत्तण्ण
 DTSTART;VALUE=DATE:20180212
 DTEND;VALUE=DATE:20180213
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/solar_month/tithi/10/27#seggalipuram~
- muttannaval~aradhana
+ ha/panchangam/temporal/festival/data/solar_month/tithi/10/27#seggalipuram-
+ muttannaval-aradhana
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -1609,7 +1609,7 @@ DTSTART;VALUE=DATE:20180213
 DTEND;VALUE=DATE:20180214
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/solar_month/nakshatram/11/21#kajci-ja
- gadguru-zri~zagkara-vijayendra-sarasvati-jayanti
+ gadguru-zri-zagkara-vijayendra-sarasvati-jayanti
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -1640,7 +1640,7 @@ DTEND;VALUE=DATE:20180214
 DESCRIPTION:Do उपवासम् (at least do not take salt) and pray 
  to Lord Shiva (Vaidyanatha Swami).\n\nhttps://github.com/sanskrit-coders/j
  yotisha/tree/master/jyotisha/panchangam/temporal/festival/data/other/month
- -weekday-festivals#maci~cevvay
+ -weekday-festivals#maci-cevvay
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -1766,7 +1766,7 @@ DTSTART;VALUE=DATE:20180216
 DTEND;VALUE=DATE:20180217
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/lunar_month/tithi/12/01#kajci-67-jaga
- dguru-zri~mahadevendra-sarasvati-5-aradhana
+ dguru-zri-mahadevendra-sarasvati-5-aradhana
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -1801,7 +1801,7 @@ DTSTART;VALUE=DATE:20180217
 DTEND;VALUE=DATE:20180218
 DESCRIPTION:Very auspicious day\, celebrations with flowers in temples.\n\
  nhttps://github.com/sanskrit-coders/jyotisha/tree/master/jyotisha/panchang
- am/temporal/festival/data/lunar_month/tithi/12/02#phulera~duj
+ am/temporal/festival/data/lunar_month/tithi/12/02#phulera-duj
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -1817,7 +1817,7 @@ DTSTART;VALUE=DATE:20180217
 DTEND;VALUE=DATE:20180218
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/lunar_month/tithi/12/02#ramakrsna-par
- amahamsa~jayanti
+ amahamsa-jayanti
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -1883,7 +1883,7 @@ DTEND;VALUE=DATE:20180221
 DESCRIPTION:Do उपवासम् (at least do not take salt) and pray 
  to Lord Shiva (Vaidyanatha Swami).\n\nhttps://github.com/sanskrit-coders/j
  yotisha/tree/master/jyotisha/panchangam/temporal/festival/data/other/month
- -weekday-festivals#maci~cevvay
+ -weekday-festivals#maci-cevvay
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -1935,7 +1935,7 @@ DESCRIPTION:Poonthanam\, a great devotee of Guruvayurappan\, enriched Mala
  m's works and debate takes place. A one week literary festival is conducte
  d at Poonthanam illam.\n\nhttps://github.com/sanskrit-coders/jyotisha/tree
  /master/jyotisha/panchangam/temporal/festival/data/solar_month/nakshatram/
- 11/01#puntanam~jayanti
+ 11/01#puntanam-jayanti
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -1967,7 +1967,7 @@ DTSTART;VALUE=DATE:20180222
 DTEND;VALUE=DATE:20180223
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/lunar_month/tithi/12/07#nanda-saptami
- ~2
+ -2
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -1999,8 +1999,8 @@ SUMMARY:श्री राघवेन्द्र-स्वामी ज
 DTSTART;VALUE=DATE:20180222
 DTEND;VALUE=DATE:20180223
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/lunar_month/tithi/12/07#zri~raghavend
- ra-svami~jayanti
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/12/07#zri-raghavend
+ ra-svami-jayanti
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -2183,7 +2183,7 @@ DTSTART;VALUE=DATE:20180226
 DTEND;VALUE=DATE:20180227
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/relative_event/vEGkaTAcalE plavOtsava
- ~samApanam/offset__-3#vegkatacale-plavotsavah~2
+ ~samApanam/offset__-3#vegkatacale-plavotsavah-2
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -2199,7 +2199,7 @@ DTEND;VALUE=DATE:20180228
 DESCRIPTION:Phalguni Dvadashi tithi\, combined with Pushya nakshatram.\n\n
  https://github.com/sanskrit-coders/jyotisha/tree/master/jyotisha/panchanga
  m/temporal/festival/data/other/rare-days/combinations/special-vratams#govi
- nda~mahadvadazi
+ nda-mahadvadazi
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -2214,7 +2214,7 @@ DTSTART;VALUE=DATE:20180227
 DTEND;VALUE=DATE:20180228
 DESCRIPTION:Dvadashi tithi\, combined with Pushya nakshatram.\n\nhttps://g
  ithub.com/sanskrit-coders/jyotisha/tree/master/jyotisha/panchangam/tempora
- l/festival/data/other/rare-days/combinations#jaya~mahadvadazi
+ l/festival/data/other/rare-days/combinations#jaya-mahadvadazi
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -2260,7 +2260,7 @@ DTEND;VALUE=DATE:20180228
 DESCRIPTION:Do उपवासम् (at least do not take salt) and pray 
  to Lord Shiva (Vaidyanatha Swami).\n\nhttps://github.com/sanskrit-coders/j
  yotisha/tree/master/jyotisha/panchangam/temporal/festival/data/other/month
- -weekday-festivals#maci~cevvay
+ -weekday-festivals#maci-cevvay
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -2293,7 +2293,7 @@ DTSTART;VALUE=DATE:20180227
 DTEND;VALUE=DATE:20180228
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/relative_event/vEGkaTAcalE plavOtsava
- ~samApanam/offset__-2#vegkatacale-plavotsavah~3
+ ~samApanam/offset__-2#vegkatacale-plavotsavah-3
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -2309,7 +2309,7 @@ DTSTART;VALUE=DATE:20180228
 DTEND;VALUE=DATE:20180301
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/lunar_month/tithi/12/13#kajci-69-jaga
- dguru-zri~jayendra-sarasvati-aradhana
+ dguru-zri-jayendra-sarasvati-aradhana
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -2340,7 +2340,7 @@ DTSTART;VALUE=DATE:20180228
 DTEND;VALUE=DATE:20180301
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/relative_event/vEGkaTAcalE plavOtsava
- ~samApanam/offset__-1#vegkatacale-plavotsavah~4
+ ~samApanam/offset__-1#vegkatacale-plavotsavah-4
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -2356,7 +2356,7 @@ DTSTART;VALUE=DATE:20180301
 DTEND;VALUE=DATE:20180302
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/lunar_month/tithi/12/15#caitanya-maha
- prabhu~jayanti
+ prabhu-jayanti
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -2399,7 +2399,7 @@ SUMMARY:मन्वादि (धर्म-सावर्णि)
 DTSTART;VALUE=DATE:20180301
 DTEND;VALUE=DATE:20180302
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/lunar_month/tithi/12/15#manvadi~(dhar
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/12/15#manvadi-(dhar
  ma-savarni)
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -2416,7 +2416,7 @@ DTEND;VALUE=DATE:20180302
 DESCRIPTION:पौर्णमी व्रतम् is commonly observed 
  for Lord Satyanarayana.\n\nhttps://github.com/sanskrit-coders/jyotisha/tre
  e/master/jyotisha/panchangam/temporal/festival/data/lunar_month/tithi/00/1
- 5#paurnami~vratam
+ 5#paurnami-vratam
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -2430,7 +2430,7 @@ SUMMARY:மாசி மகம்
 DTSTART;VALUE=DATE:20180301
 DTEND;VALUE=DATE:20180302
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/solar_month/nakshatram/11/10#maci~mag
+ ha/panchangam/temporal/festival/data/solar_month/nakshatram/11/10#maci-mag
  ham
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -2446,7 +2446,7 @@ DTSTART;VALUE=DATE:20180301
 DTEND;VALUE=DATE:20180302
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/solar_month/tithi/11/14#natarajar-mah
- abhisekam~6
+ abhisekam-6
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -2480,7 +2480,7 @@ DESCRIPTION:Lord Malayappa rides on Garuda Vahanam in all four mada street
  s. This usually happens during Brahmotsavams\, but since 2006\, this has b
  een happening on every पौर्णमी.\n\nhttps://github.com/sanskr
  it-coders/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data/
- lunar_month/tithi/00/15#vegkatacale-paurnami~garuda-seva
+ lunar_month/tithi/00/15#vegkatacale-paurnami-garuda-seva
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -2504,7 +2504,7 @@ DESCRIPTION:On the first day\, Lord Rama with Sita and Lakshmana is offere
  ds and on the final day\, the utsava murtis will be taken out for pleasure
   ride on the impressively decorated float for seven rounds.\n\nhttps://git
  hub.com/sanskrit-coders/jyotisha/tree/master/jyotisha/panchangam/temporal/
- festival/data/lunar_month/tithi/12/15#vegkatacale-plavotsava~samapanam
+ festival/data/lunar_month/tithi/12/15#vegkatacale-plavotsava-samapanam
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -2527,7 +2527,7 @@ DESCRIPTION:On the first day\, Lord Rama with Sita and Lakshmana is offere
  ds and on the final day\, the utsava murtis will be taken out for pleasure
   ride on the impressively decorated float for seven rounds.\n\nhttps://git
  hub.com/sanskrit-coders/jyotisha/tree/master/jyotisha/panchangam/temporal/
- festival/data/lunar_month/tithi/12/15#vegkatacale-plavotsava~samapanam
+ festival/data/lunar_month/tithi/12/15#vegkatacale-plavotsava-samapanam
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -2573,7 +2573,7 @@ DTSTART;VALUE=DATE:20180304
 DTEND;VALUE=DATE:20180305
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/lunar_month/tithi/12/18#chatrapati-zi
- vaji~jayanti
+ vaji-jayanti
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -2641,7 +2641,7 @@ DTEND;VALUE=DATE:20180307
 DESCRIPTION:Do उपवासम् (at least do not take salt) and pray 
  to Lord Shiva (Vaidyanatha Swami).\n\nhttps://github.com/sanskrit-coders/j
  yotisha/tree/master/jyotisha/panchangam/temporal/festival/data/other/month
- -weekday-festivals#maci~cevvay
+ -weekday-festivals#maci-cevvay
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -2688,7 +2688,7 @@ DTSTART;VALUE=DATE:20180313
 DTEND;VALUE=DATE:20180314
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/solar_month/nakshatram/11/21#kajci-ja
- gadguru-zri~zagkara-vijayendra-sarasvati-jayanti
+ gadguru-zri-zagkara-vijayendra-sarasvati-jayanti
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -2719,7 +2719,7 @@ DTEND;VALUE=DATE:20180314
 DESCRIPTION:Do उपवासम् (at least do not take salt) and pray 
  to Lord Shiva (Vaidyanatha Swami).\n\nhttps://github.com/sanskrit-coders/j
  yotisha/tree/master/jyotisha/panchangam/temporal/festival/data/other/month
- -weekday-festivals#maci~cevvay
+ -weekday-festivals#maci-cevvay
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -2828,7 +2828,7 @@ DTSTART;VALUE=DATE:20180317
 DTEND;VALUE=DATE:20180318
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/lunar_month/tithi/12/30#kajci-65-jaga
- dguru-zri~sudarzana-mahadevendra-sarasvati-aradhana
+ dguru-zri-sudarzana-mahadevendra-sarasvati-aradhana
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -2842,8 +2842,8 @@ SUMMARY:मन्वादि (तामस)
 DTSTART;VALUE=DATE:20180317
 DTEND;VALUE=DATE:20180318
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/lunar_month/tithi/12/30#manvadi~(tama
- sa)~2
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/12/30#manvadi-(tama
+ sa)-2
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -2874,7 +2874,7 @@ DTSTART;VALUE=DATE:20180318
 DTEND;VALUE=DATE:20180319
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/lunar_month/tithi/01/01#kajci-15-jaga
- dguru-zri~gaggadharendra-sarasvati-aradhana
+ dguru-zri-gaggadharendra-sarasvati-aradhana
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -2891,7 +2891,7 @@ DTSTART;VALUE=DATE:20180318
 DTEND;VALUE=DATE:20180319
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/lunar_month/tithi/01/01#kajci-27-jaga
- dguru-zri~cidvilasendra-sarasvati-aradhana
+ dguru-zri-cidvilasendra-sarasvati-aradhana
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -2908,7 +2908,7 @@ DTSTART;VALUE=DATE:20180318
 DTEND;VALUE=DATE:20180319
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/lunar_month/tithi/01/01#kajci-52-jaga
- dguru-zri~zagkaranandendra-sarasvati-aradhana
+ dguru-zri-zagkaranandendra-sarasvati-aradhana
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -2923,7 +2923,7 @@ DTSTART;VALUE=DATE:20180318
 DTEND;VALUE=DATE:20180319
 DESCRIPTION:Kalpadi\n\nhttps://github.com/sanskrit-coders/jyotisha/tree/ma
  ster/jyotisha/panchangam/temporal/festival/data/lunar_month/tithi/01/01#ka
- lpadi~1
+ lpadi-1
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -2966,7 +2966,7 @@ SUMMARY:आन्दोलन तृतीया
 DTSTART;VALUE=DATE:20180319
 DTEND;VALUE=DATE:20180320
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/lunar_month/tithi/01/03#andolana~trti
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/01/03#andolana-trti
  ya
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -3016,7 +3016,7 @@ SUMMARY:झूलेलाल जयन्ती
 DTSTART;VALUE=DATE:20180319
 DTEND;VALUE=DATE:20180320
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/lunar_month/tithi/01/02#jhulelala~jay
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/01/02#jhulelala-jay
  anti
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -3034,7 +3034,7 @@ DTSTART;VALUE=DATE:20180319
 DTEND;VALUE=DATE:20180320
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/lunar_month/tithi/01/02#kajci-60-jaga
- dguru-zri~advaitatmaprakazendra-sarasvati-aradhana
+ dguru-zri-advaitatmaprakazendra-sarasvati-aradhana
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -3066,7 +3066,7 @@ SUMMARY:गौरी तृतीया/सौभाग्य-गौरी
 DTSTART;VALUE=DATE:20180320
 DTEND;VALUE=DATE:20180321
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/lunar_month/tithi/01/03#gauri~trtiyas
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/01/03#gauri-trtiyas
  aubhagya-gauri-vratam
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -3081,8 +3081,8 @@ SUMMARY:मन्वादि (उत्तम)
 DTSTART;VALUE=DATE:20180320
 DTEND;VALUE=DATE:20180321
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/lunar_month/tithi/01/03#manvadi~(utta
- ma)~1
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/01/03#manvadi-(utta
+ ma)-1
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -3096,7 +3096,7 @@ SUMMARY:मत्स्य जयन्ती
 DTSTART;VALUE=DATE:20180320
 DTEND;VALUE=DATE:20180321
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/lunar_month/tithi/01/03#matsya~jayant
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/01/03#matsya-jayant
  i
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -3127,7 +3127,7 @@ DTSTART;VALUE=DATE:20180321
 DTEND;VALUE=DATE:20180322
 DESCRIPTION:Kalpadi\n\nhttps://github.com/sanskrit-coders/jyotisha/tree/ma
  ster/jyotisha/panchangam/temporal/festival/data/lunar_month/tithi/01/05#ka
- lpadi~2
+ lpadi-2
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -3197,7 +3197,7 @@ DTSTART;VALUE=DATE:20180322
 DTEND;VALUE=DATE:20180323
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/solar_month/nakshatram/12/03#muttusva
- mi~diksita~jayanti
+ mi-diksita-jayanti
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -3258,7 +3258,7 @@ DTSTART;VALUE=DATE:20180323
 DTEND;VALUE=DATE:20180324
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/relative_event/ta:paGgun2i~uttiram/of
- fset__-8#kapali-surya~candra~vattam
+ fset__-8#kapali-surya-candra-vattam
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -3287,7 +3287,7 @@ SUMMARY:यमुना जयन्ती
 DTSTART;VALUE=DATE:20180323
 DTEND;VALUE=DATE:20180324
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/lunar_month/tithi/01/06#yamuna~jayant
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/01/06#yamuna-jayant
  i
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -3364,7 +3364,7 @@ DTSTART;VALUE=DATE:20180325
 DTEND;VALUE=DATE:20180326
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/lunar_month/tithi/01/09#kajci-43-jaga
- dguru-zri~anandaghanendra-sarasvati-aradhana
+ dguru-zri-anandaghanendra-sarasvati-aradhana
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -3379,7 +3379,7 @@ DTSTART;VALUE=DATE:20180325
 DTEND;VALUE=DATE:20180326
 DESCRIPTION:Goddess Mahatara is 2nd of the Dasha Maha Vidyas.\n\nhttps://g
  ithub.com/sanskrit-coders/jyotisha/tree/master/jyotisha/panchangam/tempora
- l/festival/data/lunar_month/tithi/01/09#mahatara~jayanti
+ l/festival/data/lunar_month/tithi/01/09#mahatara-jayanti
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -3608,7 +3608,7 @@ DTSTART;VALUE=DATE:20180328
 DTEND;VALUE=DATE:20180329
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/lunar_month/tithi/01/12#tulasi-janana
- m~ksirasagaratah
+ m-ksirasagaratah
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -3761,7 +3761,7 @@ DESCRIPTION:Lord Malayappa rides on Garuda Vahanam in all four mada street
  s. This usually happens during Brahmotsavams\, but since 2006\, this has b
  een happening on every पौर्णमी.\n\nhttps://github.com/sanskr
  it-coders/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data/
- lunar_month/tithi/00/15#vegkatacale-paurnami~garuda-seva
+ lunar_month/tithi/00/15#vegkatacale-paurnami-garuda-seva
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -3849,7 +3849,7 @@ DTSTART;VALUE=DATE:20180331
 DTEND;VALUE=DATE:20180401
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/lunar_month/tithi/01/15#gajendra-moks
- ah~1
+ ah-1
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -3863,7 +3863,7 @@ SUMMARY:मन्वादि (रौच्य)
 DTSTART;VALUE=DATE:20180331
 DTEND;VALUE=DATE:20180401
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/lunar_month/tithi/01/15#manvadi~(rauc
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/01/15#manvadi-(rauc
  ya)
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -3878,8 +3878,8 @@ SUMMARY:मन्वादि (स्वारोचिष)
 DTSTART;VALUE=DATE:20180331
 DTEND;VALUE=DATE:20180401
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/lunar_month/tithi/01/15#manvadi~(svar
- ocisa)~1
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/01/15#manvadi-(svar
+ ocisa)-1
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -3895,7 +3895,7 @@ DTEND;VALUE=DATE:20180401
 DESCRIPTION:पौर्णमी व्रतम् is commonly observed 
  for Lord Satyanarayana.\n\nhttps://github.com/sanskrit-coders/jyotisha/tre
  e/master/jyotisha/panchangam/temporal/festival/data/lunar_month/tithi/00/1
- 5#paurnami~vratam
+ 5#paurnami-vratam
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -3910,7 +3910,7 @@ DTSTART;VALUE=DATE:20180331
 DTEND;VALUE=DATE:20180401
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/solar_month/nakshatram/12/12#paggun2i
- ~uttiram
+ -uttiram
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -3926,7 +3926,7 @@ DTEND;VALUE=DATE:20180401
 DESCRIPTION:Hanuman born from Kaikeyi part of Payasam taken by Vulture and
   eaten by Anjana Devi\n\nhttps://github.com/sanskrit-coders/jyotisha/tree/
  master/jyotisha/panchangam/temporal/festival/data/lunar_month/tithi/01/15#
- zri~hanumat~jayanti~2
+ zri-hanumat-jayanti-2
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -4034,7 +4034,7 @@ DESCRIPTION:जितं जितं तेऽजित यज्ञभ
  द्भागवते महापुराणे तृतीयेस
  ्कन्धे त्रयोदशेऽध्याये\n\n\n\nht
  tps://github.com/sanskrit-coders/jyotisha/tree/master/jyotisha/panchangam/
- temporal/festival/data/lunar_month/tithi/01/20#laksmi-varaha~jayanti
+ temporal/festival/data/lunar_month/tithi/01/20#laksmi-varaha-jayanti
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -4066,7 +4066,7 @@ DTSTART;VALUE=DATE:20180408
 DTEND;VALUE=DATE:20180409
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/lunar_month/tithi/01/23#kajci-56-jaga
- dguru-zri~sarvajja-sadaziva-bodhendra-sarasvati-aradhana
+ dguru-zri-sarvajja-sadaziva-bodhendra-sarasvati-aradhana
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -4127,7 +4127,7 @@ DTSTART;VALUE=DATE:20180412
 DTEND;VALUE=DATE:20180413
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/lunar_month/tithi/01/26#vallabhacarya
- ~jayanti
+ -jayanti
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -4250,7 +4250,7 @@ DTSTART;VALUE=DATE:20180415
 DTEND;VALUE=DATE:20180416
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/lunar_month/tithi/01/30#kajci-47-jaga
- dguru-zri~candrazekharendra-sarasvati-4-aradhana
+ dguru-zri-candrazekharendra-sarasvati-4-aradhana
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -4294,8 +4294,8 @@ SUMMARY:पराशर महर्षि जयन्ती
 DTSTART;VALUE=DATE:20180416
 DTEND;VALUE=DATE:20180417
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/lunar_month/tithi/02/01#parazara~maha
- rsi~jayanti
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/02/01#parazara-maha
+ rsi-jayanti
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -4403,7 +4403,7 @@ SUMMARY:बलराम जयन्ती
 DTSTART;VALUE=DATE:20180418
 DTEND;VALUE=DATE:20180419
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/lunar_month/tithi/02/03#balarama~jaya
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/02/03#balarama-jaya
  nti
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -4437,7 +4437,7 @@ DTSTART;VALUE=DATE:20180418
 DTEND;VALUE=DATE:20180419
 DESCRIPTION:Kalpadi\n\nhttps://github.com/sanskrit-coders/jyotisha/tree/ma
  ster/jyotisha/panchangam/temporal/festival/data/lunar_month/tithi/02/03#ka
- lpadi~3
+ lpadi-3
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -4451,8 +4451,8 @@ SUMMARY:परशुराम जयन्ती
 DTSTART;VALUE=DATE:20180418
 DTEND;VALUE=DATE:20180419
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/lunar_month/tithi/02/03#parazurama~ja
- yanti~1
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/02/03#parazurama-ja
+ yanti-1
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -4467,7 +4467,7 @@ DTSTART;VALUE=DATE:20180418
 DTEND;VALUE=DATE:20180419
 DESCRIPTION:Goddess Raja Matangi is 9th of the Dasha Maha Vidyas.\n\nhttps
  ://github.com/sanskrit-coders/jyotisha/tree/master/jyotisha/panchangam/tem
- poral/festival/data/lunar_month/tithi/02/03#raja-mataggi~jayanti
+ poral/festival/data/lunar_month/tithi/02/03#raja-mataggi-jayanti
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -4497,8 +4497,8 @@ SUMMARY:श्यामा शास्त्री जयन्ती #
 DTSTART;VALUE=DATE:20180418
 DTEND;VALUE=DATE:20180419
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/solar_month/nakshatram/01/03#zyama~za
- stri~jayanti
+ ha/panchangam/temporal/festival/data/solar_month/nakshatram/01/03#zyama-za
+ stri-jayanti
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -4558,7 +4558,7 @@ SUMMARY:सूरदास जयन्ती #५४१
 DTSTART;VALUE=DATE:20180420
 DTEND;VALUE=DATE:20180421
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/lunar_month/tithi/02/05#suradasa~jaya
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/02/05#suradasa-jaya
  nti
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -4574,7 +4574,7 @@ DTSTART;VALUE=DATE:20180420
 DTEND;VALUE=DATE:20180421
 DESCRIPTION:Vishnu's boon to AdiSesha that humans will worship on this day
  \n\nhttps://github.com/sanskrit-coders/jyotisha/tree/master/jyotisha/panch
- angam/temporal/festival/data/lunar_month/tithi/02/05#sarpa-puja~1
+ angam/temporal/festival/data/lunar_month/tithi/02/05#sarpa-puja-1
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -4589,7 +4589,7 @@ DTSTART;VALUE=DATE:20180420
 DTEND;VALUE=DATE:20180421
 DESCRIPTION:Nandana year\n\nhttps://github.com/sanskrit-coders/jyotisha/tr
  ee/master/jyotisha/panchangam/temporal/festival/data/lunar_month/tithi/02/
- 05#zagkara~jayanti
+ 05#zagkara-jayanti
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -4621,7 +4621,7 @@ DTSTART;VALUE=DATE:20180421
 DTEND;VALUE=DATE:20180422
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/lunar_month/tithi/02/06#kajci-40-jaga
- dguru-zri~mahadevendra-sarasvati-2-aradhana
+ dguru-zri-mahadevendra-sarasvati-2-aradhana
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -4635,7 +4635,7 @@ SUMMARY:रामानुज जयन्ती #१००२
 DTSTART;VALUE=DATE:20180421
 DTEND;VALUE=DATE:20180422
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/lunar_month/tithi/02/06#ramanuja~jaya
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/02/06#ramanuja-jaya
  nti
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -4682,7 +4682,7 @@ SUMMARY:त्यागराज जयन्ती #२५२
 DTSTART;VALUE=DATE:20180422
 DTEND;VALUE=DATE:20180423
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/lunar_month/tithi/02/07#tyagaraja~jay
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/02/07#tyagaraja-jay
  anti
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -4699,7 +4699,7 @@ DTSTART;VALUE=DATE:20180422
 DTEND;VALUE=DATE:20180423
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/lunar_month/tithi/02/07#vidyaranya-sv
- ami~jayanti
+ ami-jayanti
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -4721,7 +4721,7 @@ DESCRIPTION:सप्तमी तिथि on a Sunday is as sacred as a
  तस्रस्तिथयस्त्वेताः सूर्य
  ग्रहणसन्निभाः॥\n\n\n\nhttps://github.com/sansk
  rit-coders/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data
- /other/rare-days/combinations#vijaya~bhanusaptami
+ /other/rare-days/combinations#vijaya-bhanusaptami
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -4755,7 +4755,7 @@ DTSTART;VALUE=DATE:20180423
 DTEND;VALUE=DATE:20180424
 DESCRIPTION:Goddess Bagalamukhi is 8th of the Dasha Maha Vidyas.\n\nhttps:
  //github.com/sanskrit-coders/jyotisha/tree/master/jyotisha/panchangam/temp
- oral/festival/data/lunar_month/tithi/02/08#bagalamukhi~jayanti
+ oral/festival/data/lunar_month/tithi/02/08#bagalamukhi-jayanti
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -4772,7 +4772,7 @@ DTSTART;VALUE=DATE:20180423
 DTEND;VALUE=DATE:20180424
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/lunar_month/tithi/02/08#kajci-26-jaga
- dguru-zri~prajjaghanendra-sarasvati-aradhana
+ dguru-zri-prajjaghanendra-sarasvati-aradhana
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -4787,8 +4787,8 @@ SUMMARY:नॆरूर् श्री सदाशिव ब्रह्
 DTSTART;VALUE=DATE:20180424
 DTEND;VALUE=DATE:20180425
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/lunar_month/tithi/02/10#nerur~zri~sad
- aziva~brahmendra~aradhana
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/02/10#nerur-zri-sad
+ aziva-brahmendra-aradhana
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -4805,7 +4805,7 @@ DTEND;VALUE=DATE:20180425
 DESCRIPTION:Adi Shankara founded Govardhan mutt\, Puri in Nala year Padmap
  adacharya as first\n\nhttps://github.com/sanskrit-coders/jyotisha/tree/mas
  ter/jyotisha/panchangam/temporal/festival/data/lunar_month/tithi/02/09#pur
- i-govardhana-matha-pratisthapana~jayanti
+ i-govardhana-matha-pratisthapana-jayanti
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -4867,8 +4867,8 @@ SUMMARY:वसिष्ठ महर्षि जयन्ती
 DTSTART;VALUE=DATE:20180424
 DTEND;VALUE=DATE:20180425
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/lunar_month/tithi/02/09#vasistha~maha
- rsi~jayanti
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/02/09#vasistha-maha
+ rsi-jayanti
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -4882,7 +4882,7 @@ SUMMARY:निमिषाम्बा जयन्ती
 DTSTART;VALUE=DATE:20180425
 DTEND;VALUE=DATE:20180426
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/lunar_month/tithi/02/10#nimisamba~jay
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/02/10#nimisamba-jay
  anti
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -4913,7 +4913,7 @@ SUMMARY:श्री वासवी जयन्ती
 DTSTART;VALUE=DATE:20180425
 DTEND;VALUE=DATE:20180426
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/lunar_month/tithi/02/10#zri~vasavi~ja
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/02/10#zri-vasavi-ja
  yanti
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -4928,7 +4928,7 @@ SUMMARY:बुध जयन्ती
 DTSTART;VALUE=DATE:20180426
 DTEND;VALUE=DATE:20180427
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/lunar_month/tithi/02/11#budha~jayanti
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/02/11#budha-jayanti
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -5071,7 +5071,7 @@ DTSTART;VALUE=DATE:20180428
 DTEND;VALUE=DATE:20180429
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/lunar_month/tithi/02/14#kajci-39-jaga
- dguru-zri~saccidvilasendra-sarasvati-aradhana
+ dguru-zri-saccidvilasendra-sarasvati-aradhana
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -5086,7 +5086,7 @@ DTSTART;VALUE=DATE:20180428
 DTEND;VALUE=DATE:20180429
 DESCRIPTION:Monday Swati?\n\nhttps://github.com/sanskrit-coders/jyotisha/t
  ree/master/jyotisha/panchangam/temporal/festival/data/lunar_month/tithi/02
- /14#nrsimha~jayanti
+ /14#nrsimha-jayanti
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -5101,7 +5101,7 @@ DTSTART;VALUE=DATE:20180429
 DTEND;VALUE=DATE:20180430
 DESCRIPTION:Danam of Brahma puranam\n\nhttps://github.com/sanskrit-coders/
  jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data/lunar_mont
- h/tithi/02/15#kurma~jayanti
+ h/tithi/02/15#kurma-jayanti
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -5120,7 +5120,7 @@ DESCRIPTION:चित्रगुप्तं महाप्राज्
  ररत्नाम्बरधरं मध्यस्थं सर्
  वदेहिनाम्॥\n\n\n\nhttps://github.com/sanskrit-coders/j
  yotisha/tree/master/jyotisha/panchangam/temporal/festival/data/solar_month
- /tithi/01/15#citra~paurnamicitragupta~pujai
+ /tithi/01/15#citra-paurnamicitragupta-pujai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -5170,7 +5170,7 @@ DESCRIPTION:Lord Malayappa rides on Garuda Vahanam in all four mada street
  s. This usually happens during Brahmotsavams\, but since 2006\, this has b
  een happening on every पौर्णमी.\n\nhttps://github.com/sanskr
  it-coders/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data/
- lunar_month/tithi/00/15#vegkatacale-paurnami~garuda-seva
+ lunar_month/tithi/00/15#vegkatacale-paurnami-garuda-seva
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -5184,7 +5184,7 @@ SUMMARY:अन्नमाचार्य जयन्ती
 DTSTART;VALUE=DATE:20180430
 DTEND;VALUE=DATE:20180501
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/lunar_month/tithi/02/15#annamacarya~j
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/02/15#annamacarya-j
  ayanti
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -5215,7 +5215,7 @@ DTSTART;VALUE=DATE:20180430
 DTEND;VALUE=DATE:20180501
 DESCRIPTION:Goddess Chinnmasta is 6th of the Dasha Maha Vidyas.\n\nhttps:/
  /github.com/sanskrit-coders/jyotisha/tree/master/jyotisha/panchangam/tempo
- ral/festival/data/lunar_month/tithi/02/15#chinnamasta~jayanti
+ ral/festival/data/lunar_month/tithi/02/15#chinnamasta-jayanti
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -5232,7 +5232,7 @@ DTEND;VALUE=DATE:20180501
 DESCRIPTION:Adi Shankara founded Kamakoti Mutt\, Kanchi in Siddharthi year
   with himself as first\n\nhttps://github.com/sanskrit-coders/jyotisha/tree
  /master/jyotisha/panchangam/temporal/festival/data/lunar_month/tithi/02/15
- #kajci-kamakoti-matha-pratisthapana~jayanti
+ #kajci-kamakoti-matha-pratisthapana-jayanti
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -5248,7 +5248,7 @@ DTEND;VALUE=DATE:20180501
 DESCRIPTION:पौर्णमी व्रतम् is commonly observed 
  for Lord Satyanarayana.\n\nhttps://github.com/sanskrit-coders/jyotisha/tre
  e/master/jyotisha/panchangam/temporal/festival/data/lunar_month/tithi/00/1
- 5#paurnami~vratam
+ 5#paurnami-vratam
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -5331,7 +5331,7 @@ SUMMARY:शरभ जयन्ती
 DTSTART;VALUE=DATE:20180430
 DTEND;VALUE=DATE:20180501
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/lunar_month/tithi/02/15#zarabha~jayan
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/02/15#zarabha-jayan
  ti
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -5366,7 +5366,7 @@ DTEND;VALUE=DATE:20180503
 DESCRIPTION:Avataram of नारद मुनि\; perform danam of व
  ीणा\, music\n\nhttps://github.com/sanskrit-coders/jyotisha/tree/mast
  er/jyotisha/panchangam/temporal/festival/data/lunar_month/tithi/02/17#nara
- da~jayanti
+ da-jayanti
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -5405,7 +5405,7 @@ DTSTART;VALUE=DATE:20180503
 DTEND;VALUE=DATE:20180504
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/lunar_month/tithi/02/19#kajci-30-jaga
- dguru-zri~bodhendra-sarasvati-2-aradhana
+ dguru-zri-bodhendra-sarasvati-2-aradhana
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -5434,7 +5434,7 @@ SUMMARY:सती अनसूया जयन्ती
 DTSTART;VALUE=DATE:20180504
 DTEND;VALUE=DATE:20180505
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/lunar_month/tithi/02/19#sati~anasuya~
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/02/19#sati-anasuya-
  jayanti
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -5464,8 +5464,8 @@ SUMMARY:कश्यप महर्षि जयन्ती
 DTSTART;VALUE=DATE:20180505
 DTEND;VALUE=DATE:20180506
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/lunar_month/tithi/02/20#kazyapa~mahar
- si~jayanti
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/02/20#kazyapa-mahar
+ si-jayanti
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -5498,7 +5498,7 @@ DTSTART;VALUE=DATE:20180509
 DTEND;VALUE=DATE:20180510
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/lunar_month/tithi/02/24#kajci-7-jagad
- guru-zri~anandajjanendra-sarasvati-aradhana
+ guru-zri-anandajjanendra-sarasvati-aradhana
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -5543,7 +5543,7 @@ SUMMARY:भद्रकाळी जयन्ती
 DTSTART;VALUE=DATE:20180511
 DTEND;VALUE=DATE:20180512
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/lunar_month/tithi/02/26#bhadrakali~ja
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/02/26#bhadrakali-ja
  yanti
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -5603,8 +5603,8 @@ SUMMARY:रमण महर्षि आराधना #६८
 DTSTART;VALUE=DATE:20180513
 DTEND;VALUE=DATE:20180514
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/solar_month/tithi/01/28#ramana~mahars
- i~aradhana
+ ha/panchangam/temporal/festival/data/solar_month/tithi/01/28#ramana-mahars
+ i-aradhana
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -5621,7 +5621,7 @@ DTSTART;VALUE=DATE:20180514
 DTEND;VALUE=DATE:20180515
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/lunar_month/tithi/02/29#kajci-3-jagad
- guru-zri~sarvajjatmanendra-sarasvati-aradhana
+ guru-zri-sarvajjatmanendra-sarasvati-aradhana
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -5728,7 +5728,7 @@ SUMMARY:शनि जयन्ती
 DTSTART;VALUE=DATE:20180515
 DTEND;VALUE=DATE:20180516
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/lunar_month/tithi/02/30#zani~jayanti
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/02/30#zani-jayanti
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -5742,7 +5742,7 @@ SUMMARY:शुक महर्षि जयन्ती
 DTSTART;VALUE=DATE:20180515
 DTEND;VALUE=DATE:20180516
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/lunar_month/tithi/02/30#zuka~maharsi~
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/02/30#zuka-maharsi-
  jayanti
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -5829,7 +5829,7 @@ DTSTART;VALUE=DATE:20180521
 DTEND;VALUE=DATE:20180522
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/solar_month/tithi/02/07#kajci-23-jaga
- dguru-zri~saccitsukhendra-sarasvati-aradhana
+ dguru-zri-saccitsukhendra-sarasvati-aradhana
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -5862,7 +5862,7 @@ DTSTART;VALUE=DATE:20180522
 DTEND;VALUE=DATE:20180523
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/solar_month/tithi/02/08#kajci-16-jaga
- dguru-zri~ujjvala-zagkarendra-sarasvati-aradhana
+ dguru-zri-ujjvala-zagkarendra-sarasvati-aradhana
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -5878,7 +5878,7 @@ DTSTART;VALUE=DATE:20180522
 DTEND;VALUE=DATE:20180523
 DESCRIPTION:Enactment of restoration of eyesight of Shukracharya.\n\nhttps
  ://github.com/sanskrit-coders/jyotisha/tree/master/jyotisha/panchangam/tem
- poral/festival/data/solar_month/day/02/08#mayilai~vellizvarar~brahmotsavam
+ poral/festival/data/solar_month/day/02/08#mayilai-vellizvarar-brahmotsavam
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -5894,8 +5894,8 @@ SUMMARY:काञ्ची १ जगद्गुरु श्री आ
 DTSTART;VALUE=DATE:20180525
 DTEND;VALUE=DATE:20180526
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/solar_month/tithi/02/11#kajci~1-jagad
- guru-zri~adi-zagkara-bhagavatpada-aradhana
+ ha/panchangam/temporal/festival/data/solar_month/tithi/02/11#kajci-1-jagad
+ guru-zri-adi-zagkara-bhagavatpada-aradhana
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -5972,7 +5972,7 @@ DTEND;VALUE=DATE:20180529
 DESCRIPTION:Special puja for Subrahmanya Swami in temples. Birth of Subrah
  manya Swami. Worship Him with red flowers.\n\nhttps://github.com/sanskrit-
  coders/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data/sol
- ar_month/nakshatram/02/16#vaikaci~vizakham
+ ar_month/nakshatram/02/16#vaikaci-vizakham
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -6019,7 +6019,7 @@ DTSTART;VALUE=DATE:20180529
 DTEND;VALUE=DATE:20180530
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/solar_month/nakshatram/02/17#kajci-ja
- gadguru-zri~candrazekharendra-sarasvati-jayanti
+ gadguru-zri-candrazekharendra-sarasvati-jayanti
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -6035,7 +6035,7 @@ DTEND;VALUE=DATE:20180530
 DESCRIPTION:पौर्णमी व्रतम् is commonly observed 
  for Lord Satyanarayana.\n\nhttps://github.com/sanskrit-coders/jyotisha/tre
  e/master/jyotisha/panchangam/temporal/festival/data/lunar_month/tithi/00/1
- 5#paurnami~vratam
+ 5#paurnami-vratam
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -6053,7 +6053,7 @@ DESCRIPTION:Lord Malayappa rides on Garuda Vahanam in all four mada street
  s. This usually happens during Brahmotsavams\, but since 2006\, this has b
  een happening on every पौर्णमी.\n\nhttps://github.com/sanskr
  it-coders/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data/
- lunar_month/tithi/00/15#vegkatacale-paurnami~garuda-seva
+ lunar_month/tithi/00/15#vegkatacale-paurnami-garuda-seva
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -6430,7 +6430,7 @@ DESCRIPTION:प्रह्लादवरदो देवो यो न
  सकं नित्यं तं नृसिंहः गुरुं 
  भजे॥\n\n\n\nhttps://github.com/sanskrit-coders/jyotisha/tree/maste
  r/jyotisha/panchangam/temporal/festival/data/lunar_month/tithi/03/02#zrgge
- ri-32-jagadguru-zri~nrsimha-bharati-aradhana
+ ri-32-jagadguru-zri-nrsimha-bharati-aradhana
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -6475,7 +6475,7 @@ DESCRIPTION:Rambha Vratam\; perform Savitri pooja near Banana tree. Offer
  ं पुत्रं गृहं भोगान् कुलवृद
  ्धिमवाप्नुयुः॥\n\n\n\nhttps://github.com/sansk
  rit-coders/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data
- /lunar_month/tithi/03/03#rambha~trtiya
+ /lunar_month/tithi/03/03#rambha-trtiya
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -6593,7 +6593,7 @@ DTSTART;VALUE=DATE:20180618
 DTEND;VALUE=DATE:20180619
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/lunar_month/tithi/03/06#kajci-50-jaga
- dguru-zri~candracudendra-sarasvati-1-aradhana
+ dguru-zri-candracudendra-sarasvati-1-aradhana
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -6610,7 +6610,7 @@ DTSTART;VALUE=DATE:20180618
 DTEND;VALUE=DATE:20180619
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/lunar_month/tithi/03/06#kajci-6-jagad
- guru-zri~zuddhanandendra-sarasvati-aradhana
+ guru-zri-zuddhanandendra-sarasvati-aradhana
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -6797,7 +6797,7 @@ DTSTART;VALUE=DATE:20180620
 DTEND;VALUE=DATE:20180621
 DESCRIPTION:Goddess Dhumavati is 7th of the Dasha Maha Vidyas.\n\nhttps://
  github.com/sanskrit-coders/jyotisha/tree/master/jyotisha/panchangam/tempor
- al/festival/data/lunar_month/tithi/03/08#dhumavati~jayanti
+ al/festival/data/lunar_month/tithi/03/08#dhumavati-jayanti
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -6923,7 +6923,7 @@ DTSTART;VALUE=DATE:20180621
 DTEND;VALUE=DATE:20180622
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/lunar_month/tithi/03/09#kajci-61-jaga
- dguru-zri~mahadevendra-sarasvati-4-aradhana
+ dguru-zri-mahadevendra-sarasvati-4-aradhana
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -6976,7 +6976,7 @@ DESCRIPTION:Avataranam of Ganga Devi. Bathe in any river and offer arghyam
  ।\nमुच्यते दशभिः पापैः स महा
  पातकोपमैः॥\n\n\n\nhttps://github.com/sanskrit-coders/j
  yotisha/tree/master/jyotisha/panchangam/temporal/festival/data/lunar_month
- /tithi/03/10#dazaharagaggavataranamdazapapahara~dazami
+ /tithi/03/10#dazaharagaggavataranamdazapapahara-dazami
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -6993,7 +6993,7 @@ DTSTART;VALUE=DATE:20180622
 DTEND;VALUE=DATE:20180623
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/lunar_month/tithi/03/10#kajci-17-jaga
- dguru-zri~sadazivendra-sarasvati-aradhana
+ dguru-zri-sadazivendra-sarasvati-aradhana
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -7010,7 +7010,7 @@ DTSTART;VALUE=DATE:20180622
 DTEND;VALUE=DATE:20180623
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/lunar_month/tithi/03/10#kajci-53-jaga
- dguru-zri~purnananda-sadazivendra-sarasvati-aradhana
+ dguru-zri-purnananda-sadazivendra-sarasvati-aradhana
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -7025,7 +7025,7 @@ DTSTART;VALUE=DATE:20180622
 DTEND;VALUE=DATE:20180623
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/solar_month/nakshatram/03/14#sudarzan
- a~jayanti
+ a-jayanti
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -7124,7 +7124,7 @@ DTSTART;VALUE=DATE:20180624
 DTEND;VALUE=DATE:20180625
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/lunar_month/tithi/03/12#kajci-2-jagad
- guru-zri~surezvaracarya-aradhana
+ guru-zri-surezvaracarya-aradhana
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -7156,7 +7156,7 @@ DTEND;VALUE=DATE:20180626
 DESCRIPTION:Sridevi Bhudevi sahita Sundararaja Swami are taken out on the 
  प्लव.\n\nhttps://github.com/sanskrit-coders/jyotisha/tree/master/j
  yotisha/panchangam/temporal/festival/data/relative_event/alarmElmaGgApurE 
- plavOtsava~samApanam/offset__-3#alarmelmaggapure-plavotsavah~2
+ plavOtsava~samApanam/offset__-3#alarmelmaggapure-plavotsavah-2
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -7171,8 +7171,8 @@ SUMMARY:छत्रपति शिवाजी राज्याभि
 DTSTART;VALUE=DATE:20180625
 DTEND;VALUE=DATE:20180626
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/lunar_month/tithi/03/13#chatrapati~zi
- vaji~rajyabhisekah
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/03/13#chatrapati-zi
+ vaji-rajyabhisekah
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -7218,8 +7218,8 @@ SUMMARY:विद्यारण्य स्वामी आराधन
 DTSTART;VALUE=DATE:20180625
 DTEND;VALUE=DATE:20180626
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/lunar_month/tithi/03/13#vidyaranya~sv
- ami~aradhana
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/03/13#vidyaranya-sv
+ ami-aradhana
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -7236,7 +7236,7 @@ DTEND;VALUE=DATE:20180627
 DESCRIPTION:Padmavati Devi is taken out on the प्लव (last three da
  ys).\n\nhttps://github.com/sanskrit-coders/jyotisha/tree/master/jyotisha/p
  anchangam/temporal/festival/data/relative_event/alarmElmaGgApurE plavOtsav
- a~samApanam/offset__-2#alarmelmaggapure-plavotsavah~3
+ a~samApanam/offset__-2#alarmelmaggapure-plavotsavah-3
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -7270,7 +7270,7 @@ DTEND;VALUE=DATE:20180628
 DESCRIPTION:Padmavati Devi is taken out on the प्लव (last three da
  ys).\n\nhttps://github.com/sanskrit-coders/jyotisha/tree/master/jyotisha/p
  anchangam/temporal/festival/data/relative_event/alarmElmaGgApurE plavOtsav
- a~samApanam/offset__-1#alarmelmaggapure-plavotsavah~4
+ a~samApanam/offset__-1#alarmelmaggapure-plavotsavah-4
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -7320,7 +7320,7 @@ DESCRIPTION:Lord Malayappa rides on Garuda Vahanam in all four mada street
  s. This usually happens during Brahmotsavams\, but since 2006\, this has b
  een happening on every पौर्णमी.\n\nhttps://github.com/sanskr
  it-coders/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data/
- lunar_month/tithi/00/15#vegkatacale-paurnami~garuda-seva
+ lunar_month/tithi/00/15#vegkatacale-paurnami-garuda-seva
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -7337,7 +7337,7 @@ DTEND;VALUE=DATE:20180629
 DESCRIPTION:Padmavati Devi is taken out on the प्लव (last three da
  ys).\n\nhttps://github.com/sanskrit-coders/jyotisha/tree/master/jyotisha/p
  anchangam/temporal/festival/data/lunar_month/tithi/03/15#alarmelmaggapure-
- plavotsava~samapanam
+ plavotsava-samapanam
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -7354,7 +7354,7 @@ DTEND;VALUE=DATE:20180629
 DESCRIPTION:Padmavati Devi is taken out on the प्लव (last three da
  ys).\n\nhttps://github.com/sanskrit-coders/jyotisha/tree/master/jyotisha/p
  anchangam/temporal/festival/data/lunar_month/tithi/03/15#alarmelmaggapure-
- plavotsava~samapanam
+ plavotsava-samapanam
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -7383,7 +7383,7 @@ SUMMARY:कबीरदास जयन्ती
 DTSTART;VALUE=DATE:20180628
 DTEND;VALUE=DATE:20180629
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/lunar_month/tithi/03/15#kabiradasa~ja
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/03/15#kabiradasa-ja
  yanti
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -7398,7 +7398,7 @@ SUMMARY:मन्वादि (भौत्य)
 DTSTART;VALUE=DATE:20180628
 DTEND;VALUE=DATE:20180629
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/lunar_month/tithi/03/15#manvadi~(bhau
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/03/15#manvadi-(bhau
  tya)
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -7413,8 +7413,8 @@ SUMMARY:मन्वादि (तामस)
 DTSTART;VALUE=DATE:20180628
 DTEND;VALUE=DATE:20180629
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/lunar_month/tithi/03/15#manvadi~(tama
- sa)~1
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/03/15#manvadi-(tama
+ sa)-1
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -7430,7 +7430,7 @@ DTEND;VALUE=DATE:20180629
 DESCRIPTION:पौर्णमी व्रतम् is commonly observed 
  for Lord Satyanarayana.\n\nhttps://github.com/sanskrit-coders/jyotisha/tre
  e/master/jyotisha/panchangam/temporal/festival/data/lunar_month/tithi/00/1
- 5#paurnami~vratam
+ 5#paurnami-vratam
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -7654,7 +7654,7 @@ DTSTART;VALUE=DATE:20180710
 DTEND;VALUE=DATE:20180711
 DESCRIPTION:Dvadashi tithi\, combined with Rohini nakshatram.\n\nhttps://g
  ithub.com/sanskrit-coders/jyotisha/tree/master/jyotisha/panchangam/tempora
- l/festival/data/other/rare-days/combinations#papanazini~mahadvadazi
+ l/festival/data/other/rare-days/combinations#papanazini-mahadvadazi
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -7730,7 +7730,7 @@ DTSTART;VALUE=DATE:20180713
 DTEND;VALUE=DATE:20180714
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/lunar_month/tithi/04/01#kajci-25-jaga
- dguru-zri~saccidanandaghanendra-sarasvati-aradhana
+ dguru-zri-saccidanandaghanendra-sarasvati-aradhana
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -7886,7 +7886,7 @@ DTSTART;VALUE=DATE:20180717
 DTEND;VALUE=DATE:20180718
 DESCRIPTION:Do not take bath in any river during these days.\n\nhttps://gi
  thub.com/sanskrit-coders/jyotisha/tree/master/jyotisha/panchangam/temporal
- /festival/data/solar_month/day/04/01#sarvanadi-rajasvala~1
+ /festival/data/solar_month/day/04/01#sarvanadi-rajasvala-1
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -7969,7 +7969,7 @@ DTSTART;VALUE=DATE:20180718
 DTEND;VALUE=DATE:20180719
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/lunar_month/tithi/04/06#kajci-35-jaga
- dguru-zri~citsukhendra-sarasvati-aradhana
+ dguru-zri-citsukhendra-sarasvati-aradhana
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -8004,7 +8004,7 @@ DTSTART;VALUE=DATE:20180718
 DTEND;VALUE=DATE:20180719
 DESCRIPTION:Do not take bath in any river during these days.\n\nhttps://gi
  thub.com/sanskrit-coders/jyotisha/tree/master/jyotisha/panchangam/temporal
- /festival/data/solar_month/day/04/02#sarvanadi-rajasvala~2
+ /festival/data/solar_month/day/04/02#sarvanadi-rajasvala-2
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -8019,7 +8019,7 @@ DTSTART;VALUE=DATE:20180719
 DTEND;VALUE=DATE:20180720
 DESCRIPTION:Do not take bath in any river during these days.\n\nhttps://gi
  thub.com/sanskrit-coders/jyotisha/tree/master/jyotisha/panchangam/temporal
- /festival/data/solar_month/day/04/03#sarvanadi-rajasvala~3
+ /festival/data/solar_month/day/04/03#sarvanadi-rajasvala-3
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -8051,7 +8051,7 @@ DTSTART;VALUE=DATE:20180720
 DTEND;VALUE=DATE:20180721
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/lunar_month/tithi/04/09#kajci-12-jaga
- dguru-zri~candrazekharendra-sarasvati-aradhana
+ dguru-zri-candrazekharendra-sarasvati-aradhana
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -8080,7 +8080,7 @@ SUMMARY:ஆடி வெள்ளிக்கிழமை
 DTSTART;VALUE=DATE:20180720
 DTEND;VALUE=DATE:20180721
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/other/month-weekday-festivals#adi~vel
+ ha/panchangam/temporal/festival/data/other/month-weekday-festivals#adi-vel
  likkizhamai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -8126,8 +8126,8 @@ SUMMARY:मन्वादि (चाक्षुष)
 DTSTART;VALUE=DATE:20180721
 DTEND;VALUE=DATE:20180722
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/lunar_month/tithi/04/10#manvadi~(caks
- usa)~1
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/04/10#manvadi-(caks
+ usa)-1
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -8141,7 +8141,7 @@ SUMMARY:मन्वादि (वैवस्वत)
 DTSTART;VALUE=DATE:20180721
 DTEND;VALUE=DATE:20180722
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/lunar_month/tithi/04/10#manvadi~(vaiv
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/04/10#manvadi-(vaiv
  asvata)
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -8234,7 +8234,7 @@ DTSTART;VALUE=DATE:20180722
 DTEND;VALUE=DATE:20180723
 DESCRIPTION:Puja of आशा देवी (पार्वती)\n\nhttp
  s://github.com/sanskrit-coders/jyotisha/tree/master/jyotisha/panchangam/te
- mporal/festival/data/lunar_month/tithi/04/10#aza~dazami
+ mporal/festival/data/lunar_month/tithi/04/10#aza-dazami
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -8283,7 +8283,7 @@ DTSTART;VALUE=DATE:20180722
 DTEND;VALUE=DATE:20180723
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/lunar_month/tithi/04/10#kajci-48-jaga
- dguru-zri~advaitanandabodhendra-sarasvati-aradhana
+ dguru-zri-advaitanandabodhendra-sarasvati-aradhana
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -8394,7 +8394,7 @@ DTSTART;VALUE=DATE:20180724
 DTEND;VALUE=DATE:20180725
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/lunar_month/tithi/04/12#kajci-31-jaga
- dguru-zri~brahmanandaghanendra-sarasvati-aradhana
+ dguru-zri-brahmanandaghanendra-sarasvati-aradhana
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -8411,7 +8411,7 @@ DTSTART;VALUE=DATE:20180724
 DTEND;VALUE=DATE:20180725
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/lunar_month/tithi/04/12#kajci-63-jaga
- dguru-zri~mahadevendra-sarasvati-5-aradhana
+ dguru-zri-mahadevendra-sarasvati-5-aradhana
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -8537,7 +8537,7 @@ DTSTART;TZID=Asia/Calcutta;VALUE=DATE-TIME:20180727T235400
 DTEND;TZID=Asia/Calcutta;VALUE=DATE-TIME:20180728T034900
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/other/rare-days/eclipses#candra-graha
- nam~(ketugrasta)
+ nam-(ketugrasta)
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT4H
@@ -8570,7 +8570,7 @@ DTSTART;VALUE=DATE:20180727
 DTEND;VALUE=DATE:20180728
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/lunar_month/tithi/04/15#kajci-10-jaga
- dguru-zri~surezvarendra-sarasvati-aradhana
+ dguru-zri-surezvarendra-sarasvati-aradhana
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -8599,7 +8599,7 @@ SUMMARY:मन्वादि (रुद्र-सावर्णि)
 DTSTART;VALUE=DATE:20180727
 DTEND;VALUE=DATE:20180728
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/lunar_month/tithi/04/15#manvadi~(rudr
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/04/15#manvadi-(rudr
  a-savarni)
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -8616,7 +8616,7 @@ DTEND;VALUE=DATE:20180728
 DESCRIPTION:पौर्णमी व्रतम् is commonly observed 
  for Lord Satyanarayana.\n\nhttps://github.com/sanskrit-coders/jyotisha/tre
  e/master/jyotisha/panchangam/temporal/festival/data/lunar_month/tithi/00/1
- 5#paurnami~vratam
+ 5#paurnami-vratam
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -8630,7 +8630,7 @@ SUMMARY:ஆடி வெள்ளிக்கிழமை
 DTSTART;VALUE=DATE:20180727
 DTEND;VALUE=DATE:20180728
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/other/month-weekday-festivals#adi~vel
+ ha/panchangam/temporal/festival/data/other/month-weekday-festivals#adi-vel
  likkizhamai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -8649,7 +8649,7 @@ DESCRIPTION:Lord Malayappa rides on Garuda Vahanam in all four mada street
  s. This usually happens during Brahmotsavams\, but since 2006\, this has b
  een happening on every पौर्णमी.\n\nhttps://github.com/sanskr
  it-coders/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data/
- lunar_month/tithi/00/15#vegkatacale-paurnami~garuda-seva
+ lunar_month/tithi/00/15#vegkatacale-paurnami-garuda-seva
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -8697,7 +8697,7 @@ DTSTART;VALUE=DATE:20180728
 DTEND;VALUE=DATE:20180729
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/lunar_month/tithi/04/16#kajci-54-jaga
- dguru-zri~vyasacala-mahadevendra-sarasvati-aradhana
+ dguru-zri-vyasacala-mahadevendra-sarasvati-aradhana
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -8731,7 +8731,7 @@ DESCRIPTION:Lord Mahavishnu sleeps with Goddess Mahalakshmi on this day. D
  ।\nतथा कलत्रसम्बन्धो देव मा 
  मे वियुज्यताम्॥\n\n\n\nhttps://github.com/sans
  krit-coders/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/dat
- a/lunar_month/tithi/04/17#azunyazayana-vratam~1
+ a/lunar_month/tithi/04/17#azunyazayana-vratam-1
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -8747,7 +8747,7 @@ DTSTART;VALUE=DATE:20180729
 DTEND;VALUE=DATE:20180730
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/solar_month/nakshatram/04/23#kajci-ja
- gadguru-zri~jayendra-sarasvati-jayanti
+ gadguru-zri-jayendra-sarasvati-jayanti
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -8783,7 +8783,7 @@ DTSTART;VALUE=DATE:20180803
 DTEND;VALUE=DATE:20180804
 DESCRIPTION:Offer naivedyam of citrAnnam\n\nhttps://github.com/sanskrit-co
  ders/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data/solar
- _month/day/04/18#adip~perukku
+ _month/day/04/18#adip-perukku
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -8797,7 +8797,7 @@ SUMMARY:ஆடி வெள்ளிக்கிழமை
 DTSTART;VALUE=DATE:20180803
 DTEND;VALUE=DATE:20180804
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/other/month-weekday-festivals#adi~vel
+ ha/panchangam/temporal/festival/data/other/month-weekday-festivals#adi-vel
  likkizhamai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -8812,7 +8812,7 @@ SUMMARY:चामुण्डेश्वरी जयन्ती
 DTSTART;VALUE=DATE:20180804
 DTEND;VALUE=DATE:20180805
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/lunar_month/tithi/04/22#camundezvari~
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/04/22#camundezvari-
  jayanti
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -8846,7 +8846,7 @@ DTSTART;VALUE=DATE:20180806
 DTEND;VALUE=DATE:20180807
 DESCRIPTION:Special puja for Subrahmanya Swami in temples.\n\nhttps://gith
  ub.com/sanskrit-coders/jyotisha/tree/master/jyotisha/panchangam/temporal/f
- estival/data/solar_month/nakshatram/04/03#adik~kiruttikai
+ estival/data/solar_month/nakshatram/04/03#adik-kiruttikai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -8969,7 +8969,7 @@ SUMMARY:ஆடி வெள்ளிக்கிழமை
 DTSTART;VALUE=DATE:20180810
 DTEND;VALUE=DATE:20180811
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/other/month-weekday-festivals#adi~vel
+ ha/panchangam/temporal/festival/data/other/month-weekday-festivals#adi-vel
  likkizhamai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -9046,7 +9046,7 @@ DTSTART;VALUE=DATE:20180811
 DTEND;VALUE=DATE:20180812
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/lunar_month/tithi/04/30#kajci-38-jaga
- dguru-zri~abhinavazagkarendra-sarasvati-aradhana
+ dguru-zri-abhinavazagkarendra-sarasvati-aradhana
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -9063,7 +9063,7 @@ DTSTART;VALUE=DATE:20180811
 DTEND;VALUE=DATE:20180812
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/lunar_month/tithi/04/30#kajci-46-jaga
- dguru-zri~sandranandabodhendra-sarasvati-aradhana
+ dguru-zri-sandranandabodhendra-sarasvati-aradhana
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -9115,7 +9115,7 @@ DTSTART;VALUE=DATE:20180812
 DTEND;VALUE=DATE:20180813
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/lunar_month/tithi/05/01#kajci-41-jaga
- dguru-zri~gaggadharendra-sarasvati-2-aradhana
+ dguru-zri-gaggadharendra-sarasvati-2-aradhana
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -9129,7 +9129,7 @@ SUMMARY:हरियाली तृतीया
 DTSTART;VALUE=DATE:20180813
 DTEND;VALUE=DATE:20180814
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/lunar_month/tithi/05/03#hariyali~trti
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/05/03#hariyali-trti
  ya
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -9174,7 +9174,7 @@ SUMMARY:पार्वती पवित्रारोपणम्
 DTSTART;VALUE=DATE:20180813
 DTEND;VALUE=DATE:20180814
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/lunar_month/tithi/05/03#parvati~pavit
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/05/03#parvati-pavit
  raropanam
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -9191,7 +9191,7 @@ DTEND;VALUE=DATE:20180814
 DESCRIPTION:Satyanarayana Swami Jayanti is celebrated in Annavaram Satya N
  arayana Temple\, Andhra Pradesh\n\nhttps://github.com/sanskrit-coders/jyot
  isha/tree/master/jyotisha/panchangam/temporal/festival/data/lunar_month/ti
- thi/05/02#satyanarayana~jayanti
+ thi/05/02#satyanarayana-jayanti
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -9255,7 +9255,7 @@ SUMMARY:सुखा अङ्गारक-चतुर्थी
 DTSTART;VALUE=DATE:20180814
 DTEND;VALUE=DATE:20180815
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/other/rare-days/combinations#sukha~ag
+ ha/panchangam/temporal/festival/data/other/rare-days/combinations#sukha-ag
  garaka-caturthi
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -9321,7 +9321,7 @@ SUMMARY:कल्कि जयन्ती
 DTSTART;VALUE=DATE:20180816
 DTEND;VALUE=DATE:20180817
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/lunar_month/tithi/05/06#kalki~jayanti
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/05/06#kalki-jayanti
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -9397,7 +9397,7 @@ DTSTART;VALUE=DATE:20180817
 DTEND;VALUE=DATE:20180818
 DESCRIPTION:Saptami tithi\, combined with a sankranti.\n\nhttps://github.c
  om/sanskrit-coders/jyotisha/tree/master/jyotisha/panchangam/temporal/festi
- val/data/other/rare-days/combinations#mahajaya~saptami
+ val/data/other/rare-days/combinations#mahajaya-saptami
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -9411,7 +9411,7 @@ SUMMARY:पापनाशनी सप्तमी
 DTSTART;VALUE=DATE:20180817
 DTEND;VALUE=DATE:20180818
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/lunar_month/tithi/05/07#papanazani~sa
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/05/07#papanazani-sa
  ptami
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -9458,7 +9458,7 @@ SUMMARY:तुलसीदास जयन्ती
 DTSTART;VALUE=DATE:20180817
 DTEND;VALUE=DATE:20180818
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/lunar_month/tithi/05/07#tulasidasa~ja
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/05/07#tulasidasa-ja
  yanti
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -9492,7 +9492,7 @@ SUMMARY:शीतला सप्तमी
 DTSTART;VALUE=DATE:20180817
 DTEND;VALUE=DATE:20180818
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/lunar_month/tithi/05/07#zitala~saptam
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/05/07#zitala-saptam
  i
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -9553,7 +9553,7 @@ DTSTART;VALUE=DATE:20180819
 DTEND;VALUE=DATE:20180820
 DESCRIPTION:Do puja to Surya/Suryanamaskaram.\n\nhttps://github.com/sanskr
  it-coders/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data/
- other/month-weekday-festivals#avani~jayir2r2ukkizhamai
+ other/month-weekday-festivals#avani-jayir2r2ukkizhamai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -9601,7 +9601,7 @@ DTSTART;VALUE=DATE:20180820
 DTEND;VALUE=DATE:20180821
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/lunar_month/tithi/05/10#kajci-57-jaga
- dguru-zri~paramazivendra-sarasvati-2-aradhana
+ dguru-zri-paramazivendra-sarasvati-2-aradhana
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -9631,7 +9631,7 @@ DTSTART;VALUE=DATE:20180821
 DTEND;VALUE=DATE:20180822
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/solar_month/nakshatram/05/19#gajendra
- -moksah~2
+ -moksah-2
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -9648,7 +9648,7 @@ DTSTART;VALUE=DATE:20180821
 DTEND;VALUE=DATE:20180822
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/lunar_month/tithi/05/11#kajci-29-jaga
- dguru-zri~purnabodhendra-sarasvati-aradhana
+ dguru-zri-purnabodhendra-sarasvati-aradhana
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -9859,7 +9859,7 @@ DTSTART;VALUE=DATE:20180825
 DTEND;VALUE=DATE:20180826
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/solar_month/tithi/05/14#natarajar-mah
- abhisekam~2
+ abhisekam-2
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -9877,7 +9877,7 @@ DESCRIPTION:Lord Malayappa rides on Garuda Vahanam in all four mada street
  s. This usually happens during Brahmotsavams\, but since 2006\, this has b
  een happening on every पौर्णमी.\n\nhttps://github.com/sanskr
  it-coders/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data/
- lunar_month/tithi/00/15#vegkatacale-paurnami~garuda-seva
+ lunar_month/tithi/00/15#vegkatacale-paurnami-garuda-seva
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -9891,7 +9891,7 @@ SUMMARY:गायत्री जयन्ती
 DTSTART;VALUE=DATE:20180826
 DTEND;VALUE=DATE:20180827
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/lunar_month/tithi/05/15#gayatri~jayan
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/05/15#gayatri-jayan
  ti
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -9914,7 +9914,7 @@ DESCRIPTION:Lord Hayagriva did upadesham of all four vedas to Brahma.\n\n
  े देव देवेश हयशीर्ष नमोऽस्त
  ु ते॥\n\n\n\nhttps://github.com/sanskrit-coders/jyotisha/tree/mast
  er/jyotisha/panchangam/temporal/festival/data/lunar_month/tithi/05/15#haya
- griva~jayanti
+ griva-jayanti
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -9931,7 +9931,7 @@ DTSTART;VALUE=DATE:20180826
 DTEND;VALUE=DATE:20180827
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/lunar_month/tithi/05/15#kajci-20-jaga
- dguru-zri~mukazagkarendra-sarasvati-aradhana
+ dguru-zri-mukazagkarendra-sarasvati-aradhana
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -9962,7 +9962,7 @@ DTEND;VALUE=DATE:20180827
 DESCRIPTION:पौर्णमी व्रतम् is commonly observed 
  for Lord Satyanarayana.\n\nhttps://github.com/sanskrit-coders/jyotisha/tre
  e/master/jyotisha/panchangam/temporal/festival/data/lunar_month/tithi/00/1
- 5#paurnami~vratam
+ 5#paurnami-vratam
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -10023,7 +10023,7 @@ DTSTART;VALUE=DATE:20180826
 DTEND;VALUE=DATE:20180827
 DESCRIPTION:Do puja to Surya/Suryanamaskaram.\n\nhttps://github.com/sanskr
  it-coders/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data/
- other/month-weekday-festivals#avani~jayir2r2ukkizhamai
+ other/month-weekday-festivals#avani-jayir2r2ukkizhamai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -10037,8 +10037,8 @@ SUMMARY:वैखानस महर्षि जयन्ती
 DTSTART;VALUE=DATE:20180826
 DTEND;VALUE=DATE:20180827
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/lunar_month/tithi/05/15#vaikhanasa~ma
- harsi~jayanti
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/05/15#vaikhanasa-ma
+ harsi-jayanti
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -10083,7 +10083,7 @@ DTSTART;VALUE=DATE:20180828
 DTEND;VALUE=DATE:20180829
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/lunar_month/tithi/05/17#azunyazayana-
- vratam~2
+ vratam-2
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -10112,7 +10112,7 @@ SUMMARY:भीम चण्डी जयन्ती
 DTSTART;VALUE=DATE:20180828
 DTEND;VALUE=DATE:20180829
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/lunar_month/tithi/05/17#bhima~candi~j
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/05/17#bhima-candi-j
  ayanti
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -10131,7 +10131,7 @@ DESCRIPTION:पुज्याय राघवेन्द्राय स
  त्यधर्मरताय च।\nभजतां कलवृक
  ्षाय नमतां कामधेनवे॥\n\n\n\nhttps://gi
  thub.com/sanskrit-coders/jyotisha/tree/master/jyotisha/panchangam/temporal
- /festival/data/lunar_month/tithi/05/17#zri~raghavendra~svami~aradhana
+ /festival/data/lunar_month/tithi/05/17#zri-raghavendra-svami-aradhana
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -10145,7 +10145,7 @@ SUMMARY:कज्जली तृतीया
 DTSTART;VALUE=DATE:20180829
 DTEND;VALUE=DATE:20180830
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/lunar_month/tithi/05/18#kajjali~trtiy
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/05/18#kajjali-trtiy
  a
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -10175,7 +10175,7 @@ SUMMARY:बहुला चतुर्थी
 DTSTART;VALUE=DATE:20180830
 DTEND;VALUE=DATE:20180831
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/lunar_month/tithi/05/19#bahula~caturt
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/05/19#bahula-caturt
  hi
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -10213,7 +10213,7 @@ DTSTART;VALUE=DATE:20180831
 DTEND;VALUE=DATE:20180901
 DESCRIPTION:Naga (Manasa) Puja\n\nhttps://github.com/sanskrit-coders/jyoti
  sha/tree/master/jyotisha/panchangam/temporal/festival/data/lunar_month/tit
- hi/05/20#raksa~pajcami
+ hi/05/20#raksa-pajcami
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -10282,7 +10282,7 @@ DTSTART;VALUE=DATE:20180902
 DTEND;VALUE=DATE:20180903
 DESCRIPTION:Goddess Mahakali is 1st of the Dasha Maha Vidyas.\n\nhttps://g
  ithub.com/sanskrit-coders/jyotisha/tree/master/jyotisha/panchangam/tempora
- l/festival/data/lunar_month/tithi/05/23#mahakali~jayanti
+ l/festival/data/lunar_month/tithi/05/23#mahakali-jayanti
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -10297,7 +10297,7 @@ DTSTART;VALUE=DATE:20180902
 DTEND;VALUE=DATE:20180903
 DESCRIPTION:Do puja to Surya/Suryanamaskaram.\n\nhttps://github.com/sanskr
  it-coders/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data/
- other/month-weekday-festivals#avani~jayir2r2ukkizhamai
+ other/month-weekday-festivals#avani-jayir2r2ukkizhamai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -10311,7 +10311,7 @@ SUMMARY:ஶ்ரீ ஜயந்தீ
 DTSTART;VALUE=DATE:20180902
 DTEND;VALUE=DATE:20180903
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/solar_month/nakshatram/05/04#zri~jaya
+ ha/panchangam/temporal/festival/data/solar_month/nakshatram/05/04#zri-jaya
  nti
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -10344,7 +10344,7 @@ DTSTART;VALUE=DATE:20180903
 DTEND;VALUE=DATE:20180904
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/lunar_month/tithi/05/23#kajci-21-jaga
- dguru-zri~candrazekharendra-sarasvati-2-aradhana
+ dguru-zri-candrazekharendra-sarasvati-2-aradhana
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -10358,7 +10358,7 @@ SUMMARY:मन्वादि (ब्रह्म-सावर्णि)
 DTSTART;VALUE=DATE:20180903
 DTEND;VALUE=DATE:20180904
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/lunar_month/tithi/05/23#manvadi~(brah
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/05/23#manvadi-(brah
  ma-savarni)
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -10437,7 +10437,7 @@ SUMMARY:अरविन्द जयन्ती
 DTSTART;VALUE=DATE:20180904
 DTEND;VALUE=DATE:20180905
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/lunar_month/tithi/05/24#aravinda~jaya
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/05/24#aravinda-jaya
  nti
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -10469,7 +10469,7 @@ DTSTART;VALUE=DATE:20180904
 DTEND;VALUE=DATE:20180905
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/lunar_month/tithi/05/24#kajci-24-jaga
- dguru-zri~citsukhendra-sarasvati-aradhana
+ dguru-zri-citsukhendra-sarasvati-aradhana
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -10583,7 +10583,7 @@ DTSTART;VALUE=DATE:20180907
 DTEND;VALUE=DATE:20180908
 DESCRIPTION:Dvadashi tithi\, combined with Pushya nakshatram.\n\nhttps://g
  ithub.com/sanskrit-coders/jyotisha/tree/master/jyotisha/panchangam/tempora
- l/festival/data/other/rare-days/combinations#jaya~mahadvadazi
+ l/festival/data/other/rare-days/combinations#jaya-mahadvadazi
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -10612,7 +10612,7 @@ SUMMARY:रोहिणी द्वादशी
 DTSTART;VALUE=DATE:20180907
 DTEND;VALUE=DATE:20180908
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/lunar_month/tithi/05/27#rohini~dvadaz
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/05/27#rohini-dvadaz
  i
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -10740,7 +10740,7 @@ DTSTART;VALUE=DATE:20180909
 DTEND;VALUE=DATE:20180910
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/solar_month/tithi/05/30#darbha-saggra
- hah~1
+ hah-1
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -10755,7 +10755,7 @@ DTSTART;VALUE=DATE:20180909
 DTEND;VALUE=DATE:20180910
 DESCRIPTION:Do puja to Surya/Suryanamaskaram.\n\nhttps://github.com/sanskr
  it-coders/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data/
- other/month-weekday-festivals#avani~jayir2r2ukkizhamai
+ other/month-weekday-festivals#avani-jayir2r2ukkizhamai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -10865,7 +10865,7 @@ SUMMARY:अङ्गारक जयन्ती
 DTSTART;VALUE=DATE:20180911
 DTEND;VALUE=DATE:20180912
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/lunar_month/tithi/06/02#aggaraka~jaya
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/06/02#aggaraka-jaya
  nti
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -10949,7 +10949,7 @@ SUMMARY:मन्वादि (रैवत)
 DTSTART;VALUE=DATE:20180912
 DTEND;VALUE=DATE:20180913
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/lunar_month/tithi/06/03#manvadi~(raiv
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/06/03#manvadi-(raiv
  ata)
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -10982,7 +10982,7 @@ SUMMARY:वराह जयन्ती
 DTSTART;VALUE=DATE:20180912
 DTEND;VALUE=DATE:20180913
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/lunar_month/tithi/06/03#varaha~jayant
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/06/03#varaha-jayant
  i
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -11234,7 +11234,7 @@ DTSTART;VALUE=DATE:20180916
 DTEND;VALUE=DATE:20180917
 DESCRIPTION:Do puja to Surya/Suryanamaskaram.\n\nhttps://github.com/sanskr
  it-coders/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data/
- other/month-weekday-festivals#avani~jayir2r2ukkizhamai
+ other/month-weekday-festivals#avani-jayir2r2ukkizhamai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -11256,7 +11256,7 @@ DESCRIPTION:सप्तमी तिथि on a Sunday is as sacred as a
  तस्रस्तिथयस्त्वेताः सूर्य
  ग्रहणसन्निभाः॥\n\n\n\nhttps://github.com/sansk
  rit-coders/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data
- /other/rare-days/combinations#vijaya~bhanusaptami
+ /other/rare-days/combinations#vijaya-bhanusaptami
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -11302,8 +11302,8 @@ SUMMARY:दधीचि महर्षि जयन्ति
 DTSTART;VALUE=DATE:20180917
 DTEND;VALUE=DATE:20180918
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/lunar_month/tithi/06/08#dadhici~mahar
- si~jayanti
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/06/08#dadhici-mahar
+ si-jayanti
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -11318,7 +11318,7 @@ DTSTART;VALUE=DATE:20180917
 DTEND;VALUE=DATE:20180918
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/solar_month/nakshatram/05/19#gajendra
- -moksah~2
+ -moksah-2
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -11378,7 +11378,7 @@ SUMMARY:विश्वकर्मा जयन्ती
 DTSTART;VALUE=DATE:20180917
 DTEND;VALUE=DATE:20180918
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/solar_month/day/06/01#vizvakarma~jaya
+ ha/panchangam/temporal/festival/data/solar_month/day/06/01#vizvakarma-jaya
  nti
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -11408,7 +11408,7 @@ DTSTART;VALUE=DATE:20180918
 DTEND;VALUE=DATE:20180919
 DESCRIPTION:Durga Puja\n\nhttps://github.com/sanskrit-coders/jyotisha/tree
  /master/jyotisha/panchangam/temporal/festival/data/lunar_month/tithi/06/09
- #godhuma~navami
+ #godhuma-navami
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -11438,7 +11438,7 @@ DTSTART;VALUE=DATE:20180918
 DTEND;VALUE=DATE:20180919
 DESCRIPTION:Durga Puja\n\nhttps://github.com/sanskrit-coders/jyotisha/tree
  /master/jyotisha/panchangam/temporal/festival/data/lunar_month/tithi/06/09
- #nanda~navami
+ #nanda-navami
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -11576,7 +11576,7 @@ DESCRIPTION:Goddess Bhuvaneshwari is 4th of the Dasha Maha Vidyas.\n\nउ
  शाभीतिकराम् प्रभजे भुवनेशी
  म्\n\n\n\nhttps://github.com/sanskrit-coders/jyotisha/tree/master/jyot
  isha/panchangam/temporal/festival/data/lunar_month/tithi/06/12#bhuvanezvar
- i~jayanti
+ i-jayanti
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -11657,7 +11657,7 @@ DTEND;VALUE=DATE:20180922
 DESCRIPTION:Wednesday Shravana \; Vamana Jayanti\; Shravana Dvadashi\; Vij
  aya Dvadashi\; Shakra Dvadashi\n\nhttps://github.com/sanskrit-coders/jyoti
  sha/tree/master/jyotisha/panchangam/temporal/festival/data/lunar_month/tit
- hi/06/12#vamana~jayanti
+ hi/06/12#vamana-jayanti
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -11703,7 +11703,7 @@ DTSTART;VALUE=DATE:20180922
 DTEND;VALUE=DATE:20180923
 DESCRIPTION:Agastya arghya danam\n\nhttps://github.com/sanskrit-coders/jyo
  tisha/tree/master/jyotisha/panchangam/temporal/festival/data/lunar_month/t
- ithi/06/13#go-triratri-vratam~1
+ ithi/06/13#go-triratri-vratam-1
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -11719,7 +11719,7 @@ DTEND;VALUE=DATE:20180923
 DESCRIPTION:Perform special puja and naivedyam (e.g. तिलान्न
  म्) to Lord Venkateshwara.\n\nhttps://github.com/sanskrit-coders/jyoti
  sha/tree/master/jyotisha/panchangam/temporal/festival/data/other/month-wee
- kday-festivals#purattaci~can2ikkizhamai
+ kday-festivals#purattaci-can2ikkizhamai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -11779,7 +11779,7 @@ DTSTART;VALUE=DATE:20180923
 DTEND;VALUE=DATE:20180924
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/solar_month/tithi/06/14#natarajar-mah
- abhisekam~3
+ abhisekam-3
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -11812,7 +11812,7 @@ DTSTART;VALUE=DATE:20180924
 DTEND;VALUE=DATE:20180925
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/lunar_month/tithi/06/15#kajci-59-jaga
- dguru-zri~bhagavannama-bodhendra-sarasvati-aradhana
+ dguru-zri-bhagavannama-bodhendra-sarasvati-aradhana
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -11830,7 +11830,7 @@ DESCRIPTION:Lord Malayappa rides on Garuda Vahanam in all four mada street
  s. This usually happens during Brahmotsavams\, but since 2006\, this has b
  een happening on every पौर्णमी.\n\nhttps://github.com/sanskr
  it-coders/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data/
- lunar_month/tithi/00/15#vegkatacale-paurnami~garuda-seva
+ lunar_month/tithi/00/15#vegkatacale-paurnami-garuda-seva
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -11861,7 +11861,7 @@ DTSTART;VALUE=DATE:20180925
 DTEND;VALUE=DATE:20180926
 DESCRIPTION:Spend this day in Badarikashramam\n\nhttps://github.com/sanskr
  it-coders/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data/
- lunar_month/tithi/06/15#dikpala-puja~1
+ lunar_month/tithi/06/15#dikpala-puja-1
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -11892,7 +11892,7 @@ DTEND;VALUE=DATE:20180926
 DESCRIPTION:पौर्णमी व्रतम् is commonly observed 
  for Lord Satyanarayana.\n\nhttps://github.com/sanskrit-coders/jyotisha/tre
  e/master/jyotisha/panchangam/temporal/festival/data/lunar_month/tithi/00/1
- 5#paurnami~vratam
+ 5#paurnami-vratam
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -11984,7 +11984,7 @@ DTSTART;VALUE=DATE:20180926
 DTEND;VALUE=DATE:20180927
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/lunar_month/tithi/06/17#azunyazayana-
- vratam~3
+ vratam-3
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -11999,7 +11999,7 @@ SUMMARY:ருத்ர பஶுபதி நாயனார் குர
 DTSTART;VALUE=DATE:20180927
 DTEND;VALUE=DATE:20180928
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/solar_month/nakshatram/06/01#rudra~pa
+ ha/panchangam/temporal/festival/data/solar_month/nakshatram/06/01#rudra-pa
  zupati-nayan2ar-gurupujai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -12029,7 +12029,7 @@ SUMMARY:कजरी तृतीया
 DTSTART;VALUE=DATE:20180928
 DTEND;VALUE=DATE:20180929
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/lunar_month/tithi/06/18#kajari~trtiya
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/06/18#kajari-trtiya
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -12080,7 +12080,7 @@ SUMMARY:दिक्पाल-पूजा
 DTSTART;VALUE=DATE:20180929
 DTEND;VALUE=DATE:20180930
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/lunar_month/tithi/06/19#dikpala-puja~
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/06/19#dikpala-puja-
  2
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -12115,7 +12115,7 @@ DTEND;VALUE=DATE:20180930
 DESCRIPTION:Perform special puja and naivedyam (e.g. तिलान्न
  म्) to Lord Venkateshwara.\n\nhttps://github.com/sanskrit-coders/jyoti
  sha/tree/master/jyotisha/panchangam/temporal/festival/data/other/month-wee
- kday-festivals#purattaci~can2ikkizhamai
+ kday-festivals#purattaci-can2ikkizhamai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -12146,7 +12146,7 @@ DTSTART;VALUE=DATE:20180930
 DTEND;VALUE=DATE:20181001
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/lunar_month/tithi/06/21#kajci-33-jaga
- dguru-zri~saccidanandaghanendra-sarasvati-2-aradhana
+ dguru-zri-saccidanandaghanendra-sarasvati-2-aradhana
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -12318,7 +12318,7 @@ DESCRIPTION:विवेकिनं महाप्राज्ञं ध
  ाऽभिनवपूर्वं तं विद्यातीर्
  थगुरुं भजे ॥\n\n\n\nhttps://github.com/sanskrit-coders
  /jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data/lunar_mon
- th/tithi/06/22#zrggeri-35-jagadguru-zri~abhinava-vidyatirtha-mahasvami-ara
+ th/tithi/06/22#zrggeri-35-jagadguru-zri-abhinava-vidyatirtha-mahasvami-ara
  dhana
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -12351,7 +12351,7 @@ DESCRIPTION:Jeemuutavahana is an atma-tyagi vidyadhara Chakravarti. Saved
  Shankhachuda's (Naaga) life by offering himself to Garuda. From that day G
  aruda stopped eating snakes.\n\nhttps://github.com/sanskrit-coders/jyotish
  a/tree/master/jyotisha/panchangam/temporal/festival/data/lunar_month/tithi
- /06/23#jimutavahana-puja~1
+ /06/23#jimutavahana-puja-1
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -12399,7 +12399,7 @@ DESCRIPTION:In honour of Sumangalis (in the family)\, by holding a feast f
  ाः स्थाने नियुञ्जीत विप्रै
  ः सह सुवासिनीम्॥\n\n\n\nhttps://github.com/san
  skrit-coders/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/da
- ta/lunar_month/tithi/06/24#sumaggali~navami
+ ta/lunar_month/tithi/06/24#sumaggali-navami
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -12452,7 +12452,7 @@ DTEND;VALUE=DATE:20181007
 DESCRIPTION:Perform special puja and naivedyam (e.g. तिलान्न
  म्) to Lord Venkateshwara.\n\nhttps://github.com/sanskrit-coders/jyoti
  sha/tree/master/jyotisha/panchangam/temporal/festival/data/other/month-wee
- kday-festivals#purattaci~can2ikkizhamai
+ kday-festivals#purattaci-can2ikkizhamai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -12497,7 +12497,7 @@ SUMMARY:श्री बोधेन्द्र सरस्वती आ
 DTSTART;VALUE=DATE:20181006
 DTEND;VALUE=DATE:20181007
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/lunar_month/tithi/06/27#zri~bodhendra
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/06/27#zri-bodhendra
  -sarasvati-aradhana
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -12515,7 +12515,7 @@ DTSTART;VALUE=DATE:20181007
 DTEND;VALUE=DATE:20181008
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/lunar_month/tithi/06/28#kajci-44-jaga
- dguru-zri~purnabodhendra-sarasvati-2-aradhana
+ dguru-zri-purnabodhendra-sarasvati-2-aradhana
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -12595,7 +12595,7 @@ SUMMARY:कात्यायनी जयन्ती
 DTSTART;VALUE=DATE:20181008
 DTEND;VALUE=DATE:20181009
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/lunar_month/tithi/06/29#katyayani~jay
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/06/29#katyayani-jay
  anti
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -12645,7 +12645,7 @@ DESCRIPTION:सदाऽऽत्मध्याननिरतं वि
  स्त्रेषु निष्णातं चन्द्रशे
  खरभारतीम्॥\n\n\n\nhttps://github.com/sanskrit-coders/j
  yotisha/tree/master/jyotisha/panchangam/temporal/festival/data/lunar_month
- /tithi/06/30#zrggeri-34-jagadguru-zri~candrazekhara-bharati-aradhana
+ /tithi/06/30#zrggeri-34-jagadguru-zri-candrazekhara-bharati-aradhana
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -12737,8 +12737,8 @@ SUMMARY:अग्रसेन महाराज जयन्ती
 DTSTART;VALUE=DATE:20181010
 DTEND;VALUE=DATE:20181011
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/lunar_month/tithi/07/01#agrasena~maha
- raja~jayanti
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/07/01#agrasena-maha
+ raja-jayanti
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -12983,7 +12983,7 @@ DTEND;VALUE=DATE:20181014
 DESCRIPTION:Perform special puja and naivedyam (e.g. तिलान्न
  म्) to Lord Venkateshwara.\n\nhttps://github.com/sanskrit-coders/jyoti
  sha/tree/master/jyotisha/panchangam/temporal/festival/data/other/month-wee
- kday-festivals#purattaci~can2ikkizhamai
+ kday-festivals#purattaci-can2ikkizhamai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -13045,7 +13045,7 @@ DTSTART;VALUE=DATE:20181015
 DTEND;VALUE=DATE:20181016
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/lunar_month/tithi/07/07#kajci-45-jaga
- dguru-zri~paramazivendra-sarasvati-1-aradhana
+ dguru-zri-paramazivendra-sarasvati-1-aradhana
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -13165,7 +13165,7 @@ DTSTART;VALUE=DATE:20181017
 DTEND;VALUE=DATE:20181018
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/lunar_month/tithi/07/09#kajci-19-jaga
- dguru-zri~martanda-vidyaghanendra-sarasvati-aradhana
+ dguru-zri-martanda-vidyaghanendra-sarasvati-aradhana
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -13249,7 +13249,7 @@ SUMMARY:बुद्ध जयन्ती
 DTSTART;VALUE=DATE:20181018
 DTEND;VALUE=DATE:20181019
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/lunar_month/tithi/07/10#buddha~jayant
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/07/10#buddha-jayant
  i
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -13281,7 +13281,7 @@ SUMMARY:मन्वादि (स्वायम्भुव)
 DTSTART;VALUE=DATE:20181018
 DTEND;VALUE=DATE:20181019
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/lunar_month/tithi/07/09#manvadi~(svay
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/07/09#manvadi-(svay
  ambhuva)
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -13455,7 +13455,7 @@ DTSTART;VALUE=DATE:20181019
 DTEND;VALUE=DATE:20181020
 DESCRIPTION:Jayanti of Madhvacharya\, a proponent of Dvaita Vedanta\n\nhtt
  ps://github.com/sanskrit-coders/jyotisha/tree/master/jyotisha/panchangam/t
- emporal/festival/data/lunar_month/tithi/07/10#madhvacarya~jayanti
+ emporal/festival/data/lunar_month/tithi/07/10#madhvacarya-jayanti
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -13471,7 +13471,7 @@ DTEND;VALUE=DATE:20181020
 DESCRIPTION:Arjuna wins over all Kauravas and Karna. Worship of all weapon
  s\, or rather\, tools related to one's profession.\n\nhttps://github.com/s
  anskrit-coders/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/
- data/lunar_month/tithi/07/10#ayudha~pujai
+ data/lunar_month/tithi/07/10#ayudha-pujai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -13750,7 +13750,7 @@ DTSTART;VALUE=DATE:20181024
 DTEND;VALUE=DATE:20181025
 DESCRIPTION:Perform होम with fresh rice from paddy.\n\nhttps://githu
  b.com/sanskrit-coders/jyotisha/tree/master/jyotisha/panchangam/temporal/fe
- stival/data/solar_month/tithi/07/15#agrayana~homah~1
+ stival/data/solar_month/tithi/07/15#agrayana-homah-1
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -13767,7 +13767,7 @@ DTSTART;VALUE=DATE:20181024
 DTEND;VALUE=DATE:20181025
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/lunar_month/tithi/07/15#kajci-36-jaga
- dguru-zri~citsukhanandendra-sarasvati-aradhana
+ dguru-zri-citsukhanandendra-sarasvati-aradhana
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -13816,7 +13816,7 @@ DESCRIPTION:Kunti-vratam done today will remove all paapams (including Goh
  e people worship Yudhisthira's mother Kunti. In AP/TEL\, eldest child is g
  iven new clothes\, harti and blessed "Deerghayushman".\n\nhttps://github.c
  om/sanskrit-coders/jyotisha/tree/master/jyotisha/panchangam/temporal/festi
- val/data/lunar_month/tithi/07/15#kunti~(parvati)-vratam
+ val/data/lunar_month/tithi/07/15#kunti-(parvati)-vratam
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -13846,7 +13846,7 @@ SUMMARY:मीराबाई जयन्ती #५२१
 DTSTART;VALUE=DATE:20181024
 DTEND;VALUE=DATE:20181025
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/lunar_month/tithi/07/15#mirabai~jayan
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/07/15#mirabai-jayan
  ti
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -13861,7 +13861,7 @@ SUMMARY:महा अन्नाभिषेकः
 DTSTART;VALUE=DATE:20181024
 DTEND;VALUE=DATE:20181025
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/solar_month/tithi/07/15#maha~annabhis
+ ha/panchangam/temporal/festival/data/solar_month/tithi/07/15#maha-annabhis
  ekah
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -13878,7 +13878,7 @@ DTEND;VALUE=DATE:20181025
 DESCRIPTION:पौर्णमी व्रतम् is commonly observed 
  for Lord Satyanarayana.\n\nhttps://github.com/sanskrit-coders/jyotisha/tre
  e/master/jyotisha/panchangam/temporal/festival/data/lunar_month/tithi/00/1
- 5#paurnami~vratam
+ 5#paurnami-vratam
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -13892,8 +13892,8 @@ SUMMARY:वाल्मीकि महर्षि जयन्ती
 DTSTART;VALUE=DATE:20181024
 DTEND;VALUE=DATE:20181025
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/lunar_month/tithi/07/15#valmiki~mahar
- si~jayanti
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/07/15#valmiki-mahar
+ si-jayanti
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -13911,7 +13911,7 @@ DESCRIPTION:Lord Malayappa rides on Garuda Vahanam in all four mada street
  s. This usually happens during Brahmotsavams\, but since 2006\, this has b
  een happening on every पौर्णमी.\n\nhttps://github.com/sanskr
  it-coders/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data/
- lunar_month/tithi/00/15#vegkatacale-paurnami~garuda-seva
+ lunar_month/tithi/00/15#vegkatacale-paurnami-garuda-seva
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -13986,7 +13986,7 @@ DTSTART;VALUE=DATE:20181026
 DTEND;VALUE=DATE:20181027
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/lunar_month/tithi/07/17#azunyazayana-
- vratam~4
+ vratam-4
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -14182,7 +14182,7 @@ DTSTART;VALUE=DATE:20181031
 DTEND;VALUE=DATE:20181101
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/solar_month/tithi/07/23#kajci-58-jaga
- dguru-zri~atmabodhendra-sarasvati-aradhana
+ dguru-zri-atmabodhendra-sarasvati-aradhana
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -14197,7 +14197,7 @@ DTSTART;VALUE=DATE:20181101
 DTEND;VALUE=DATE:20181102
 DESCRIPTION:In North India\, for progeny\n\nhttps://github.com/sanskrit-co
  ders/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data/lunar
- _month/tithi/07/23#jimutavahana-puja~2
+ _month/tithi/07/23#jimutavahana-puja-2
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -14271,7 +14271,7 @@ DTSTART;VALUE=DATE:20181102
 DTEND;VALUE=DATE:20181103
 DESCRIPTION:Bhava year\n\nhttps://github.com/sanskrit-coders/jyotisha/tree
  /master/jyotisha/panchangam/temporal/festival/data/lunar_month/tithi/07/24
- #bhimasena~jayanti
+ #bhimasena-jayanti
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -14320,7 +14320,7 @@ DESCRIPTION:सदाऽऽत्मध्याननिरतं वि
  स्त्रेषु निष्णातं चन्द्रशे
  खरभारतीम्॥\n\n\n\nhttps://github.com/sanskrit-coders/j
  yotisha/tree/master/jyotisha/panchangam/temporal/festival/data/lunar_month
- /tithi/07/26#zrggeri-34-jagadguru-zri~candrazekhara-bharati~3-jayanti
+ /tithi/07/26#zrggeri-34-jagadguru-zri-candrazekhara-bharati-3-jayanti
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -14456,7 +14456,7 @@ DTEND;VALUE=DATE:20181106
 DESCRIPTION:Dhanvantari Jayanti (born as Divodaas King of Kaashi) as per B
  rahmanda-Puraana (Dvadashi?)\n\nhttps://github.com/sanskrit-coders/jyotish
  a/tree/master/jyotisha/panchangam/temporal/festival/data/lunar_month/tithi
- /07/28#dhanvantari~jayanti
+ /07/28#dhanvantari-jayanti
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -14471,7 +14471,7 @@ DTSTART;VALUE=DATE:20181105
 DTEND;VALUE=DATE:20181106
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/lunar_month/tithi/07/28#go-triratri-v
- ratam~2
+ ratam-2
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -14594,7 +14594,7 @@ DESCRIPTION:विवेकिनं महाप्राज्ञं ध
  ाऽभिनवपूर्वं तं विद्यातीर्
  थगुरुं भजे ॥\n\n\n\nhttps://github.com/sanskrit-coders
  /jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data/lunar_mon
- th/tithi/07/29#zrggeri-35-jagadguru-zri~abhinava-vidyatirtha-mahasvami-jay
+ th/tithi/07/29#zrggeri-35-jagadguru-zri-abhinava-vidyatirtha-mahasvami-jay
  anti
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -14610,7 +14610,7 @@ DTSTART;VALUE=DATE:20181107
 DTEND;VALUE=DATE:20181108
 DESCRIPTION:Perform होम with fresh rice from paddy.\n\nhttps://githu
  b.com/sanskrit-coders/jyotisha/tree/master/jyotisha/panchangam/temporal/fe
- stival/data/solar_month/tithi/07/30#agrayana~homah~2
+ stival/data/solar_month/tithi/07/30#agrayana-homah-2
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -14671,7 +14671,7 @@ DTSTART;VALUE=DATE:20181107
 DTEND;VALUE=DATE:20181108
 DESCRIPTION:Goddess Kamala is 10th of the Dasha Maha Vidyas.\n\nhttps://gi
  thub.com/sanskrit-coders/jyotisha/tree/master/jyotisha/panchangam/temporal
- /festival/data/lunar_month/tithi/07/30#kamala~jayanti
+ /festival/data/lunar_month/tithi/07/30#kamala-jayanti
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -14829,7 +14829,7 @@ SUMMARY:देवसेना पञ्चमी
 DTSTART;VALUE=DATE:20181112
 DTEND;VALUE=DATE:20181113
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/lunar_month/tithi/08/05#devasena~pajc
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/08/05#devasena-pajc
  ami
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -14844,7 +14844,7 @@ SUMMARY:पाण्डव (लाभ)-पञ्चमी
 DTSTART;VALUE=DATE:20181112
 DTEND;VALUE=DATE:20181113
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/lunar_month/tithi/08/05#pandava~(labh
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/08/05#pandava-(labh
  a)-pajcami
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -14860,7 +14860,7 @@ DTSTART;VALUE=DATE:20181112
 DTEND;VALUE=DATE:20181113
 DESCRIPTION:Vishnu's boon to AdiSesha that humans will worship on this day
  \n\nhttps://github.com/sanskrit-coders/jyotisha/tree/master/jyotisha/panch
- angam/temporal/festival/data/lunar_month/tithi/08/05#sarpa-puja~2
+ angam/temporal/festival/data/lunar_month/tithi/08/05#sarpa-puja-2
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -14901,7 +14901,7 @@ DTSTART;VALUE=DATE:20181114
 DTEND;VALUE=DATE:20181115
 DESCRIPTION:Kalpadi\n\nhttps://github.com/sanskrit-coders/jyotisha/tree/ma
  ster/jyotisha/panchangam/temporal/festival/data/lunar_month/tithi/08/07#ka
- lpadi~4
+ lpadi-4
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -14986,7 +14986,7 @@ DTSTART;VALUE=DATE:20181116
 DTEND;VALUE=DATE:20181117
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/lunar_month/tithi/08/09#kajci-22-jaga
- dguru-zri~paripurnabodhendra-sarasvati-aradhana
+ dguru-zri-paripurnabodhendra-sarasvati-aradhana
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -15002,7 +15002,7 @@ DTSTART;VALUE=DATE:20181116
 DTEND;VALUE=DATE:20181117
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/lunar_month/tithi/08/08#kartaviryarju
- na~jayanti
+ na-jayanti
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -15080,7 +15080,7 @@ SUMMARY:अक्षया नवमी
 DTSTART;VALUE=DATE:20181117
 DTEND;VALUE=DATE:20181118
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/lunar_month/tithi/08/09#aksaya~navami
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/08/09#aksaya-navami
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -15196,7 +15196,7 @@ DTSTART;VALUE=DATE:20181118
 DTEND;VALUE=DATE:20181119
 DESCRIPTION:Do puja to Surya/Suryanamaskaram.\n\nhttps://github.com/sanskr
  it-coders/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data/
- other/month-weekday-festivals#karttigai~jayir2r2ukkizhamai
+ other/month-weekday-festivals#karttigai-jayir2r2ukkizhamai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -15293,7 +15293,7 @@ DTSTART;VALUE=DATE:20181119
 DTEND;VALUE=DATE:20181120
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/other/month-weekday-festivals#karttig
- ai~somavaram
+ ai-somavaram
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -15410,8 +15410,8 @@ SUMMARY:मन्वादि (स्वारोचिष)
 DTSTART;VALUE=DATE:20181120
 DTEND;VALUE=DATE:20181121
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/lunar_month/tithi/08/12#manvadi~(svar
- ocisa)~2
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/08/12#manvadi-(svar
+ ocisa)-2
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -15479,7 +15479,7 @@ DESCRIPTION:Avataram of Yajnavalkya Maharshi happened in kArtika shulka dw
  ।\n आनन्दनिलयं  वन्दे  योगानन
  ्दमुनीश्वरम्॥\n\n\n\n\nhttps://github.com/sanskr
  it-coders/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data/
- lunar_month/tithi/08/12#yajjavalkya~jayanti
+ lunar_month/tithi/08/12#yajjavalkya-jayanti
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -15524,8 +15524,8 @@ SUMMARY:मन्वादि (उत्तम)
 DTSTART;VALUE=DATE:20181122
 DTEND;VALUE=DATE:20181123
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/lunar_month/tithi/08/15#manvadi~(utta
- ma)~2
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/08/15#manvadi-(utta
+ ma)-2
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -15539,7 +15539,7 @@ SUMMARY:பரணீ தீபம்
 DTSTART;VALUE=DATE:20181122
 DTEND;VALUE=DATE:20181123
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/solar_month/nakshatram/08/02#bharani~
+ ha/panchangam/temporal/festival/data/solar_month/nakshatram/08/02#bharani-
  dipam
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -15569,7 +15569,7 @@ SUMMARY:ஸர்வாலய தீபம்
 DTSTART;VALUE=DATE:20181122
 DTEND;VALUE=DATE:20181123
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/solar_month/tithi/08/15#sarvalaya~dip
+ ha/panchangam/temporal/festival/data/solar_month/tithi/08/15#sarvalaya-dip
  am
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -15585,7 +15585,7 @@ DTSTART;VALUE=DATE:20181122
 DTEND;VALUE=DATE:20181123
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/solar_month/nakshatram/08/03#tiruvann
- amalai~dipam
+ amalai-dipam
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -15617,7 +15617,7 @@ DESCRIPTION:Lord Malayappa rides on Garuda Vahanam in all four mada street
  s. This usually happens during Brahmotsavams\, but since 2006\, this has b
  een happening on every पौर्णमी.\n\nhttps://github.com/sanskr
  it-coders/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data/
- lunar_month/tithi/00/15#vegkatacale-paurnami~garuda-seva
+ lunar_month/tithi/00/15#vegkatacale-paurnami-garuda-seva
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -15632,7 +15632,7 @@ SUMMARY:श्री गोविन्द भगवत्पाद आर
 DTSTART;VALUE=DATE:20181122
 DTEND;VALUE=DATE:20181123
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/lunar_month/tithi/08/15#zri~govinda-b
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/08/15#zri-govinda-b
  hagavatpada-aradhana
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -15648,7 +15648,7 @@ DTSTART;VALUE=DATE:20181123
 DTEND;VALUE=DATE:20181124
 DESCRIPTION:Perform होम with fresh rice from paddy.\n\nhttps://githu
  b.com/sanskrit-coders/jyotisha/tree/master/jyotisha/panchangam/temporal/fe
- stival/data/solar_month/tithi/08/15#agrayana~homah~3
+ stival/data/solar_month/tithi/08/15#agrayana-homah-3
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -15728,7 +15728,7 @@ DTSTART;VALUE=DATE:20181123
 DTEND;VALUE=DATE:20181124
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/lunar_month/tithi/08/16#kajci-64-jaga
- dguru-zri~candrazekharendra-sarasvati-6-aradhana
+ dguru-zri-candrazekharendra-sarasvati-6-aradhana
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -15780,7 +15780,7 @@ SUMMARY:मन्वादि (दक्ष-सावर्णि)
 DTSTART;VALUE=DATE:20181123
 DTEND;VALUE=DATE:20181124
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/lunar_month/tithi/08/15#manvadi~(daks
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/08/15#manvadi-(daks
  a-savarni)
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -15812,7 +15812,7 @@ DTEND;VALUE=DATE:20181124
 DESCRIPTION:पौर्णमी व्रतम् is commonly observed 
  for Lord Satyanarayana.\n\nhttps://github.com/sanskrit-coders/jyotisha/tre
  e/master/jyotisha/panchangam/temporal/festival/data/lunar_month/tithi/00/1
- 5#paurnami~vratam
+ 5#paurnami-vratam
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -15861,7 +15861,7 @@ DTSTART;VALUE=DATE:20181125
 DTEND;VALUE=DATE:20181126
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/lunar_month/tithi/08/18#kajci-9-jagad
- guru-zri~krpazagkarendra-sarasvati-aradhana
+ guru-zri-krpazagkarendra-sarasvati-aradhana
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -15892,7 +15892,7 @@ DTSTART;VALUE=DATE:20181125
 DTEND;VALUE=DATE:20181126
 DESCRIPTION:Do puja to Surya/Suryanamaskaram.\n\nhttps://github.com/sanskr
  it-coders/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data/
- other/month-weekday-festivals#karttigai~jayir2r2ukkizhamai
+ other/month-weekday-festivals#karttigai-jayir2r2ukkizhamai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -15929,7 +15929,7 @@ DTSTART;VALUE=DATE:20181126
 DTEND;VALUE=DATE:20181127
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/other/month-weekday-festivals#karttig
- ai~somavaram
+ ai-somavaram
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -15994,7 +15994,7 @@ DTSTART;VALUE=DATE:20181130
 DTEND;VALUE=DATE:20181201
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/lunar_month/tithi/08/23#kajci-42-jaga
- dguru-zri~brahmanandaghanendra-sarasvati-2-aradhana
+ dguru-zri-brahmanandaghanendra-sarasvati-2-aradhana
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -16011,7 +16011,7 @@ DTSTART;VALUE=DATE:20181130
 DTEND;VALUE=DATE:20181201
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/lunar_month/tithi/08/23#kajci-49-jaga
- dguru-zri~mahadevendra-sarasvati-3-aradhana
+ dguru-zri-mahadevendra-sarasvati-3-aradhana
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -16059,7 +16059,7 @@ DTSTART;VALUE=DATE:20181202
 DTEND;VALUE=DATE:20181203
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/lunar_month/tithi/08/25#kajci-28-jaga
- dguru-zri~mahadevendra-sarasvati-1-aradhana
+ dguru-zri-mahadevendra-sarasvati-1-aradhana
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -16090,7 +16090,7 @@ DTSTART;VALUE=DATE:20181202
 DTEND;VALUE=DATE:20181203
 DESCRIPTION:Do puja to Surya/Suryanamaskaram.\n\nhttps://github.com/sanskr
  it-coders/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data/
- other/month-weekday-festivals#karttigai~jayir2r2ukkizhamai
+ other/month-weekday-festivals#karttigai-jayir2r2ukkizhamai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -16120,7 +16120,7 @@ DTSTART;VALUE=DATE:20181203
 DTEND;VALUE=DATE:20181204
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/other/month-weekday-festivals#karttig
- ai~somavaram
+ ai-somavaram
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -16259,7 +16259,7 @@ DTSTART;VALUE=DATE:20181207
 DTEND;VALUE=DATE:20181208
 DESCRIPTION:Perform होम with fresh rice from paddy.\n\nhttps://githu
  b.com/sanskrit-coders/jyotisha/tree/master/jyotisha/panchangam/temporal/fe
- stival/data/solar_month/tithi/08/30#agrayana~homah~4
+ stival/data/solar_month/tithi/08/30#agrayana-homah-4
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -16311,7 +16311,7 @@ DTSTART;VALUE=DATE:20181208
 DTEND;VALUE=DATE:20181209
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/lunar_month/tithi/09/01#kajci-18-jaga
- dguru-zri~yogatilaka-surendra-sarasvati-aradhana
+ dguru-zri-yogatilaka-surendra-sarasvati-aradhana
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -16359,7 +16359,7 @@ DTSTART;VALUE=DATE:20181209
 DTEND;VALUE=DATE:20181210
 DESCRIPTION:Do puja to Surya/Suryanamaskaram.\n\nhttps://github.com/sanskr
  it-coders/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data/
- other/month-weekday-festivals#karttigai~jayir2r2ukkizhamai
+ other/month-weekday-festivals#karttigai-jayir2r2ukkizhamai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -16405,7 +16405,7 @@ DTSTART;VALUE=DATE:20181210
 DTEND;VALUE=DATE:20181211
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/other/month-weekday-festivals#karttig
- ai~somavaram
+ ai-somavaram
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -16434,7 +16434,7 @@ SUMMARY:सुखा अङ्गारक-चतुर्थी
 DTSTART;VALUE=DATE:20181211
 DTEND;VALUE=DATE:20181212
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/other/rare-days/combinations#sukha~ag
+ ha/panchangam/temporal/festival/data/other/rare-days/combinations#sukha-ag
  garaka-caturthi
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -16452,7 +16452,7 @@ DTSTART;VALUE=DATE:20181213
 DTEND;VALUE=DATE:20181214
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/lunar_month/tithi/09/06#kajci-32-jaga
- dguru-zri~cidanandaghanendra-sarasvati-aradhana
+ dguru-zri-cidanandaghanendra-sarasvati-aradhana
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -16509,7 +16509,7 @@ DTSTART;VALUE=DATE:20181214
 DTEND;VALUE=DATE:20181215
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/lunar_month/tithi/09/07#kajci-5-jagad
- guru-zri~jjananandendra-sarasvati-aradhana
+ guru-zri-jjananandendra-sarasvati-aradhana
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -16544,7 +16544,7 @@ DTEND;VALUE=DATE:20181215
 DESCRIPTION:Celebration of completion of Narayaniyam (Kollam 762/1586 CE)\
  , in Guruvayur temple.\n\nhttps://github.com/sanskrit-coders/jyotisha/tree
  /master/jyotisha/panchangam/temporal/festival/data/solar_month/day/08/28#n
- arayaniyam~jayanti
+ arayaniyam-jayanti
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -16559,7 +16559,7 @@ DTSTART;VALUE=DATE:20181214
 DTEND;VALUE=DATE:20181215
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/lunar_month/tithi/09/07#nanda-saptami
- ~1
+ -1
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -16591,7 +16591,7 @@ DTSTART;VALUE=DATE:20181216
 DTEND;VALUE=DATE:20181217
 DESCRIPTION:Kalpadi\n\nhttps://github.com/sanskrit-coders/jyotisha/tree/ma
  ster/jyotisha/panchangam/temporal/festival/data/lunar_month/tithi/09/09#ka
- lpadi~5
+ lpadi-5
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -16701,7 +16701,7 @@ SUMMARY:गीता जयन्ती
 DTSTART;VALUE=DATE:20181219
 DTEND;VALUE=DATE:20181220
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/lunar_month/tithi/09/11#gita~jayanti
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/09/11#gita-jayanti
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -16809,7 +16809,7 @@ SUMMARY:अन्नपूर्णा जयन्ती
 DTSTART;VALUE=DATE:20181222
 DTEND;VALUE=DATE:20181223
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/lunar_month/tithi/09/15#annapurna~jay
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/09/15#annapurna-jay
  anti
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -16828,7 +16828,7 @@ DESCRIPTION:आदौ ब्रह्मा मध्ये विष्
  तित्रयस्वरूपाय दत्तात्रेय 
  नमोऽस्तु ते॥\n\n\n\nhttps://github.com/sanskrit-code
  rs/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data/lunar_m
- onth/tithi/09/15#dattatreya~jayanti
+ onth/tithi/09/15#dattatreya-jayanti
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -16876,7 +16876,7 @@ DTEND;VALUE=DATE:20181223
 DESCRIPTION:पौर्णमी व्रतम् is commonly observed 
  for Lord Satyanarayana.\n\nhttps://github.com/sanskrit-coders/jyotisha/tre
  e/master/jyotisha/panchangam/temporal/festival/data/lunar_month/tithi/00/1
- 5#paurnami~vratam
+ 5#paurnami-vratam
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -16907,7 +16907,7 @@ DTSTART;VALUE=DATE:20181222
 DTEND;VALUE=DATE:20181223
 DESCRIPTION:Goddess Tripura Bhairavi is 5th of the Dasha Maha Vidyas.\n\nh
  ttps://github.com/sanskrit-coders/jyotisha/tree/master/jyotisha/panchangam
- /temporal/festival/data/lunar_month/tithi/09/15#tripura~bhairavi~jayanti
+ /temporal/festival/data/lunar_month/tithi/09/15#tripura-bhairavi-jayanti
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -16925,7 +16925,7 @@ DESCRIPTION:Lord Malayappa rides on Garuda Vahanam in all four mada street
  s. This usually happens during Brahmotsavams\, but since 2006\, this has b
  een happening on every पौर्णमी.\n\nhttps://github.com/sanskr
  it-coders/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data/
- lunar_month/tithi/00/15#vegkatacale-paurnami~garuda-seva
+ lunar_month/tithi/00/15#vegkatacale-paurnami-garuda-seva
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -16942,7 +16942,7 @@ DTSTART;VALUE=DATE:20181223
 DTEND;VALUE=DATE:20181224
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/lunar_month/tithi/09/16#kajci-13-jaga
- dguru-zri~saccidghanendra-sarasvati-aradhana
+ dguru-zri-saccidghanendra-sarasvati-aradhana
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -16963,7 +16963,7 @@ DESCRIPTION:Visit Chidambaram to have darshan of Nataraja\, or pray to Nat
  ागं चिदम्बरेशं हृदि भावयाम
  ि ॥\n\n\n\nhttps://github.com/sanskrit-coders/jyotisha/tree/master/jyo
  tisha/panchangam/temporal/festival/data/solar_month/nakshatram/09/06#arudr
- a~darican2amnatarajar-mahabhisekam
+ a-darican2amnatarajar-mahabhisekam
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -16992,8 +16992,8 @@ SUMMARY:रमण महर्षि जयन्ती #१४०
 DTSTART;VALUE=DATE:20181224
 DTEND;VALUE=DATE:20181225
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/solar_month/nakshatram/09/07#ramana~m
- aharsi~jayanti
+ ha/panchangam/temporal/festival/data/solar_month/nakshatram/09/07#ramana-m
+ aharsi-jayanti
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -17046,7 +17046,7 @@ DTSTART;VALUE=DATE:20181229
 DTEND;VALUE=DATE:20181230
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/lunar_month/tithi/09/23#kajci-4-jagad
- guru-zri~satyabodhendra-sarasvati-aradhana
+ guru-zri-satyabodhendra-sarasvati-aradhana
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -17081,7 +17081,7 @@ DESCRIPTION:करुणासागरं शान्तम् अरु
  गुरुं वन्दे ब्रह्मीभूतं तप
  ोनिधिम्॥\n\n\n\nhttps://github.com/sanskrit-coders/jyotish
  a/tree/master/jyotisha/panchangam/temporal/festival/data/lunar_month/tithi
- /09/24#zri~zesadri-svami~aradhana
+ /09/24#zri-zesadri-svami-aradhana
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
