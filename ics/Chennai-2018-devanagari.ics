@@ -2198,7 +2198,10 @@ BEGIN:VEVENT
 SUMMARY:गोविन्द महाद्वादशी
 DTSTART;VALUE=DATE:20180227
 DTEND;VALUE=DATE:20180228
-DESCRIPTION:
+DESCRIPTION:Phalguni Dvadashi tithi\, combined with Pushya nakshatram.\n\n
+ https://github.com/sanskrit-coders/jyotisha/tree/master/jyotisha/panchanga
+ m/temporal/festival/data/other/rare-days/combinations/special-vratams#gOvi
+ nda~mahAdvAdazI
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -2213,7 +2216,7 @@ DTSTART;VALUE=DATE:20180227
 DTEND;VALUE=DATE:20180228
 DESCRIPTION:Dvadashi tithi\, combined with Pushya nakshatram.\n\nhttps://g
  ithub.com/sanskrit-coders/jyotisha/tree/master/jyotisha/panchangam/tempora
- l/festival/data/other/rare-days#jayA~mahAdvAdazI
+ l/festival/data/other/rare-days/combinations#jayA~mahAdvAdazI
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -2762,7 +2765,10 @@ BEGIN:VEVENT
 SUMMARY:विजया/श्रवण-महाद्वादशी
 DTSTART;VALUE=DATE:20180314
 DTEND;VALUE=DATE:20180315
-DESCRIPTION:
+DESCRIPTION:Dvadashi tithi\, combined with Shravana nakshatram.\n\nhttps:/
+ /github.com/sanskrit-coders/jyotisha/tree/master/jyotisha/panchangam/tempo
+ ral/festival/data/other/rare-days/combinations/special-vratams#vijayA__zra
+ vaNa-mahAdvAdazI
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -3047,7 +3053,8 @@ DTEND;VALUE=DATE:20180321
 DESCRIPTION:When Ashwini nakshatram falls on a Tuesday\, it is a special 
  पुण्यकालः. Do उपासना of Lakshmi Narasimha.\n
  \nhttps://github.com/sanskrit-coders/jyotisha/tree/master/jyotisha/panchan
- gam/temporal/festival/data/other/rare-days#bhaumAzvinI-puNyakAlaH
+ gam/temporal/festival/data/other/rare-days/combinations#bhaumAzvinI-puNyak
+ AlaH
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -4005,12 +4012,12 @@ BEGIN:VEVENT
 SUMMARY:बुधानूराधा-पुण्यकालः
 DTSTART;VALUE=DATE:20180404
 DTEND;VALUE=DATE:20180405
-DESCRIPTION:When अनूराध nakshatram falls on a Wednesday\, it i
- s a special पुण्यकालः for performing दानम्. On
- e can do दानं of दध्योदनम् in Vishnu temples on 
- this day.\n\nhttps://github.com/sanskrit-coders/jyotisha/tree/master/jyoti
- sha/panchangam/temporal/festival/data/other/rare-days#budhAnUrAdhA-puNyakA
- laH
+DESCRIPTION:When अनूराधा nakshatram falls on a Wednesday\, i
+ t is a special पुण्यकालः for performing दानम्.
+  One can do दानं of दध्योदनम् in Vishnu temples 
+ on this day.\n\nhttps://github.com/sanskrit-coders/jyotisha/tree/master/jy
+ otisha/panchangam/temporal/festival/data/other/rare-days/combinations#budh
+ AnUrAdhA-puNyakAlaH
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -4319,7 +4326,8 @@ DESCRIPTION:अमावस्या on a Monday is as sacred as a solar e
  न्तनम्।\nशत्रूनाम् च समुत्प
  न्नम् अश्वत्थ शमयस्व मे॥\n\n\n\n
  https://github.com/sanskrit-coders/jyotisha/tree/master/jyotisha/panchanga
- m/temporal/festival/data/other/rare-days/combinations#sOmavatI amAvasyA
+ m/temporal/festival/data/other/rare-days/combinations/amavasya-days#sOmava
+ tI amAvasyA
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -5342,12 +5350,12 @@ BEGIN:VEVENT
 SUMMARY:बुधानूराधा-पुण्यकालः
 DTSTART;VALUE=DATE:20180502
 DTEND;VALUE=DATE:20180503
-DESCRIPTION:When अनूराध nakshatram falls on a Wednesday\, it i
- s a special पुण्यकालः for performing दानम्. On
- e can do दानं of दध्योदनम् in Vishnu temples on 
- this day.\n\nhttps://github.com/sanskrit-coders/jyotisha/tree/master/jyoti
- sha/panchangam/temporal/festival/data/other/rare-days#budhAnUrAdhA-puNyakA
- laH
+DESCRIPTION:When अनूराधा nakshatram falls on a Wednesday\, i
+ t is a special पुण्यकालः for performing दानम्.
+  One can do दानं of दध्योदनम् in Vishnu temples 
+ on this day.\n\nhttps://github.com/sanskrit-coders/jyotisha/tree/master/jy
+ otisha/panchangam/temporal/festival/data/other/rare-days/combinations#budh
+ AnUrAdhA-puNyakAlaH
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -6291,7 +6299,9 @@ BEGIN:VEVENT
 SUMMARY:ज्यैष्ठ-(आधिक)-अमावस्या
 DTSTART;VALUE=DATE:20180613
 DTEND;VALUE=DATE:20180614
-DESCRIPTION:
+DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
+ ha/panchangam/temporal/festival/data/other/amavasya-days#jyaiSTha-(Adhika)
+ -amAvasyA
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -7652,7 +7662,7 @@ DTSTART;VALUE=DATE:20180710
 DTEND;VALUE=DATE:20180711
 DESCRIPTION:Dvadashi tithi\, combined with Rohini nakshatram.\n\nhttps://g
  ithub.com/sanskrit-coders/jyotisha/tree/master/jyotisha/panchangam/tempora
- l/festival/data/other/rare-days#pApanAzinI~mahAdvAdazI
+ l/festival/data/other/rare-days/combinations#pApanAzinI~mahAdvAdazI
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -9397,7 +9407,7 @@ DTSTART;VALUE=DATE:20180817
 DTEND;VALUE=DATE:20180818
 DESCRIPTION:Saptami tithi\, combined with a sankranti.\n\nhttps://github.c
  om/sanskrit-coders/jyotisha/tree/master/jyotisha/panchangam/temporal/festi
- val/data/other/rare-days#mahAjayA~saptamI
+ val/data/other/rare-days/combinations#mahAjayA~saptamI
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -10583,7 +10593,7 @@ DTSTART;VALUE=DATE:20180907
 DTEND;VALUE=DATE:20180908
 DESCRIPTION:Dvadashi tithi\, combined with Pushya nakshatram.\n\nhttps://g
  ithub.com/sanskrit-coders/jyotisha/tree/master/jyotisha/panchangam/tempora
- l/festival/data/other/rare-days#jayA~mahAdvAdazI
+ l/festival/data/other/rare-days/combinations#jayA~mahAdvAdazI
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -11672,7 +11682,10 @@ BEGIN:VEVENT
 SUMMARY:विजया/श्रवण-महाद्वादशी
 DTSTART;VALUE=DATE:20180921
 DTEND;VALUE=DATE:20180922
-DESCRIPTION:
+DESCRIPTION:Dvadashi tithi\, combined with Shravana nakshatram.\n\nhttps:/
+ /github.com/sanskrit-coders/jyotisha/tree/master/jyotisha/panchangam/tempo
+ ral/festival/data/other/rare-days/combinations/special-vratams#vijayA__zra
+ vaNa-mahAdvAdazI
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -15271,7 +15284,7 @@ DTSTART;VALUE=DATE:20181119
 DTEND;VALUE=DATE:20181120
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/other/monthly-vratams/ekadashi-vratam
- -days#guruvAyupura-EkAdazI
+ -days/kerala-temple-festivals#guruvAyupura-EkAdazI
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -16695,7 +16708,8 @@ DTEND;VALUE=DATE:20181219
 DESCRIPTION:When Ashwini nakshatram falls on a Tuesday\, it is a special 
  पुण्यकालः. Do उपासना of Lakshmi Narasimha.\n
  \nhttps://github.com/sanskrit-coders/jyotisha/tree/master/jyotisha/panchan
- gam/temporal/festival/data/other/rare-days#bhaumAzvinI-puNyakAlaH
+ gam/temporal/festival/data/other/rare-days/combinations#bhaumAzvinI-puNyak
+ AlaH
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE

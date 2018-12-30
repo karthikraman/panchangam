@@ -34,12 +34,12 @@ BEGIN:VEVENT
 SUMMARY:बुधानूराधा-पुण्यकालः
 DTSTART;VALUE=DATE:20190102
 DTEND;VALUE=DATE:20190103
-DESCRIPTION:When अनूराध nakshatram falls on a Wednesday\, it i
- s a special पुण्यकालः for performing दानम्. On
- e can do दानं of दध्योदनम् in Vishnu temples on 
- this day.\n\nhttps://github.com/sanskrit-coders/jyotisha/tree/master/jyoti
- sha/panchangam/temporal/festival/data/other/rare-days#budhAnUrAdhA-puNyakA
- laH
+DESCRIPTION:When अनूराधा nakshatram falls on a Wednesday\, i
+ t is a special पुण्यकालः for performing दानम्.
+  One can do दानं of दध्योदनम् in Vishnu temples 
+ on this day.\n\nhttps://github.com/sanskrit-coders/jyotisha/tree/master/jy
+ otisha/panchangam/temporal/festival/data/other/rare-days/combinations#budh
+ AnUrAdhA-puNyakAlaH
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -364,7 +364,8 @@ DTEND;VALUE=DATE:20190116
 DESCRIPTION:When Ashwini nakshatram falls on a Tuesday\, it is a special 
  पुण्यकालः. Do उपासना of Lakshmi Narasimha.\n
  \nhttps://github.com/sanskrit-coders/jyotisha/tree/master/jyotisha/panchan
- gam/temporal/festival/data/other/rare-days#bhaumAzvinI-puNyakAlaH
+ gam/temporal/festival/data/other/rare-days/combinations#bhaumAzvinI-puNyak
+ AlaH
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -570,7 +571,7 @@ DTSTART;VALUE=DATE:20190118
 DTEND;VALUE=DATE:20190119
 DESCRIPTION:Dvadashi tithi\, combined with Rohini nakshatram.\n\nhttps://g
  ithub.com/sanskrit-coders/jyotisha/tree/master/jyotisha/panchangam/tempora
- l/festival/data/other/rare-days#pApanAzinI~mahAdvAdazI
+ l/festival/data/other/rare-days/combinations#pApanAzinI~mahAdvAdazI
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -1042,12 +1043,12 @@ BEGIN:VEVENT
 SUMMARY:बुधानूराधा-पुण्यकालः
 DTSTART;VALUE=DATE:20190130
 DTEND;VALUE=DATE:20190131
-DESCRIPTION:When अनूराध nakshatram falls on a Wednesday\, it i
- s a special पुण्यकालः for performing दानम्. On
- e can do दानं of दध्योदनम् in Vishnu temples on 
- this day.\n\nhttps://github.com/sanskrit-coders/jyotisha/tree/master/jyoti
- sha/panchangam/temporal/festival/data/other/rare-days#budhAnUrAdhA-puNyakA
- laH
+DESCRIPTION:When अनूराधा nakshatram falls on a Wednesday\, i
+ t is a special पुण्यकालः for performing दानम्.
+  One can do दानं of दध्योदनम् in Vishnu temples 
+ on this day.\n\nhttps://github.com/sanskrit-coders/jyotisha/tree/master/jy
+ otisha/panchangam/temporal/festival/data/other/rare-days/combinations#budh
+ AnUrAdhA-puNyakAlaH
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -1195,7 +1196,8 @@ DESCRIPTION:अमावस्या on a Monday is as sacred as a solar e
  न्तनम्।\nशत्रूनाम् च समुत्प
  न्नम् अश्वत्थ शमयस्व मे॥\n\n\n\n
  https://github.com/sanskrit-coders/jyotisha/tree/master/jyotisha/panchanga
- m/temporal/festival/data/other/rare-days/combinations#sOmavatI amAvasyA
+ m/temporal/festival/data/other/rare-days/combinations/amavasya-days#sOmava
+ tI amAvasyA
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -1915,7 +1917,7 @@ DTSTART;VALUE=DATE:20190217
 DTEND;VALUE=DATE:20190218
 DESCRIPTION:Dvadashi tithi\, combined with Punarvasu nakshatram.\n\nhttps:
  //github.com/sanskrit-coders/jyotisha/tree/master/jyotisha/panchangam/temp
- oral/festival/data/other/rare-days#jayantI~mahAdvAdazI
+ oral/festival/data/other/rare-days/combinations#jayantI~mahAdvAdazI
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -6459,7 +6461,8 @@ DESCRIPTION:अमावस्या on a Monday is as sacred as a solar e
  न्तनम्।\nशत्रूनाम् च समुत्प
  न्नम् अश्वत्थ शमयस्व मे॥\n\n\n\n
  https://github.com/sanskrit-coders/jyotisha/tree/master/jyotisha/panchanga
- m/temporal/festival/data/other/rare-days/combinations#sOmavatI amAvasyA
+ m/temporal/festival/data/other/rare-days/combinations/amavasya-days#sOmava
+ tI amAvasyA
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -10684,7 +10687,7 @@ DTSTART;VALUE=DATE:20190827
 DTEND;VALUE=DATE:20190828
 DESCRIPTION:Dvadashi tithi\, combined with Punarvasu nakshatram.\n\nhttps:
  //github.com/sanskrit-coders/jyotisha/tree/master/jyotisha/panchangam/temp
- oral/festival/data/other/rare-days#jayantI~mahAdvAdazI
+ oral/festival/data/other/rare-days/combinations#jayantI~mahAdvAdazI
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -12086,7 +12089,8 @@ DTEND;VALUE=DATE:20190918
 DESCRIPTION:When Ashwini nakshatram falls on a Tuesday\, it is a special 
  पुण्यकालः. Do उपासना of Lakshmi Narasimha.\n
  \nhttps://github.com/sanskrit-coders/jyotisha/tree/master/jyotisha/panchan
- gam/temporal/festival/data/other/rare-days#bhaumAzvinI-puNyakAlaH
+ gam/temporal/festival/data/other/rare-days/combinations#bhaumAzvinI-puNyak
+ AlaH
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -12893,12 +12897,12 @@ BEGIN:VEVENT
 SUMMARY:बुधानूराधा-पुण्यकालः
 DTSTART;VALUE=DATE:20191002
 DTEND;VALUE=DATE:20191003
-DESCRIPTION:When अनूराध nakshatram falls on a Wednesday\, it i
- s a special पुण्यकालः for performing दानम्. On
- e can do दानं of दध्योदनम् in Vishnu temples on 
- this day.\n\nhttps://github.com/sanskrit-coders/jyotisha/tree/master/jyoti
- sha/panchangam/temporal/festival/data/other/rare-days#budhAnUrAdhA-puNyakA
- laH
+DESCRIPTION:When अनूराधा nakshatram falls on a Wednesday\, i
+ t is a special पुण्यकालः for performing दानम्.
+  One can do दानं of दध्योदनम् in Vishnu temples 
+ on this day.\n\nhttps://github.com/sanskrit-coders/jyotisha/tree/master/jy
+ otisha/panchangam/temporal/festival/data/other/rare-days/combinations#budh
+ AnUrAdhA-puNyakAlaH
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -13777,7 +13781,8 @@ DTEND;VALUE=DATE:20191016
 DESCRIPTION:When Ashwini nakshatram falls on a Tuesday\, it is a special 
  पुण्यकालः. Do उपासना of Lakshmi Narasimha.\n
  \nhttps://github.com/sanskrit-coders/jyotisha/tree/master/jyotisha/panchan
- gam/temporal/festival/data/other/rare-days#bhaumAzvinI-puNyakAlaH
+ gam/temporal/festival/data/other/rare-days/combinations#bhaumAzvinI-puNyak
+ AlaH
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -14609,7 +14614,8 @@ DESCRIPTION:अमावस्या on a Monday is as sacred as a solar e
  न्तनम्।\nशत्रूनाम् च समुत्प
  न्नम् अश्वत्थ शमयस्व मे॥\n\n\n\n
  https://github.com/sanskrit-coders/jyotisha/tree/master/jyotisha/panchanga
- m/temporal/festival/data/other/rare-days/combinations#sOmavatI amAvasyA
+ m/temporal/festival/data/other/rare-days/combinations/amavasya-days#sOmava
+ tI amAvasyA
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -14688,12 +14694,12 @@ BEGIN:VEVENT
 SUMMARY:बुधानूराधा-पुण्यकालः
 DTSTART;VALUE=DATE:20191030
 DTEND;VALUE=DATE:20191031
-DESCRIPTION:When अनूराध nakshatram falls on a Wednesday\, it i
- s a special पुण्यकालः for performing दानम्. On
- e can do दानं of दध्योदनम् in Vishnu temples on 
- this day.\n\nhttps://github.com/sanskrit-coders/jyotisha/tree/master/jyoti
- sha/panchangam/temporal/festival/data/other/rare-days#budhAnUrAdhA-puNyakA
- laH
+DESCRIPTION:When अनूराधा nakshatram falls on a Wednesday\, i
+ t is a special पुण्यकालः for performing दानम्.
+  One can do दानं of दध्योदनम् in Vishnu temples 
+ on this day.\n\nhttps://github.com/sanskrit-coders/jyotisha/tree/master/jy
+ otisha/panchangam/temporal/festival/data/other/rare-days/combinations#budh
+ AnUrAdhA-puNyakAlaH
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -16280,12 +16286,12 @@ BEGIN:VEVENT
 SUMMARY:बुधानूराधा-पुण्यकालः
 DTSTART;VALUE=DATE:20191127
 DTEND;VALUE=DATE:20191128
-DESCRIPTION:When अनूराध nakshatram falls on a Wednesday\, it i
- s a special पुण्यकालः for performing दानम्. On
- e can do दानं of दध्योदनम् in Vishnu temples on 
- this day.\n\nhttps://github.com/sanskrit-coders/jyotisha/tree/master/jyoti
- sha/panchangam/temporal/festival/data/other/rare-days#budhAnUrAdhA-puNyakA
- laH
+DESCRIPTION:When अनूराधा nakshatram falls on a Wednesday\, i
+ t is a special पुण्यकालः for performing दानम्.
+  One can do दानं of दध्योदनम् in Vishnu temples 
+ on this day.\n\nhttps://github.com/sanskrit-coders/jyotisha/tree/master/jy
+ otisha/panchangam/temporal/festival/data/other/rare-days/combinations#budh
+ AnUrAdhA-puNyakAlaH
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -16670,7 +16676,7 @@ DTSTART;VALUE=DATE:20191208
 DTEND;VALUE=DATE:20191209
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/other/monthly-vratams/ekadashi-vratam
- -days#guruvAyupura-EkAdazI
+ -days/kerala-temple-festivals#guruvAyupura-EkAdazI
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -17330,7 +17336,8 @@ SUMMARY:सूर्य-ग्रहणम्
 DTSTART;TZID=Asia/Calcutta;VALUE=DATE-TIME:20191226T080800
 DTEND;TZID=Asia/Calcutta;VALUE=DATE-TIME:20191226T111900
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/other/rare-days#sUrya-grahaNam
+ ha/panchangam/temporal/festival/data/other/rare-days/eclipses#sUrya-grahaN
+ am
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT4H
