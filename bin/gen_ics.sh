@@ -33,7 +33,7 @@ python3 -m jyotisha.panchangam.scripts.ics $city_name $lat $lon $tz $y $script
 if [[ $? -eq 0 ]]
 then
   echo "done!"
-  mv *.ics ../ics/ 
+  mv ~/Documents/*.ics ../ics/ 
 else
   echo "error!"
 fi
