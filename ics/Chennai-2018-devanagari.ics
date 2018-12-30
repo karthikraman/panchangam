@@ -92,9 +92,9 @@ DESCRIPTION:Visit Chidambaram to have darshan of Nataraja\, or pray to Nat
  िनेत्रं सदाशिवं रुद्रमनन्त
  रूपम्।\nजटाधरं पार्वतिवामभ
  ागं चिदम्बरेशं हृदि भावयाम
- ि ॥\n\n\n\nhttps://github.com/sanskrit-coders/jyotisha/tree/master/jyo
- tisha/panchangam/temporal/festival/data/solar_month/nakshatram/09/06#arudr
- a-darican2amnatarajar-mahabhisekam
+ ि॥\n\n\n\nhttps://github.com/sanskrit-coders/jyotisha/tree/master/jyot
+ isha/panchangam/temporal/festival/data/solar_month/nakshatram/09/06#arudra
+ -darican2amnatarajar-mahabhisekam
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -684,9 +684,9 @@ DTEND;VALUE=DATE:20180121
 DESCRIPTION:माघशुक्लचतुर्थ्यां तु 
  कुन्दपुष्पैः सदाशिवम्।\nसम
  ्पूज्य यो हि नक्ताऽऽशी सम्प
- ्राप्नोति श्रियं नरः ॥\n\n\n\nhttps:
- //github.com/sanskrit-coders/jyotisha/tree/master/jyotisha/panchangam/temp
- oral/festival/data/lunar_month/tithi/11/04#varakunda-caturthi
+ ्राप्नोति श्रियं नरः॥\n\n\n\nhttps:/
+ /github.com/sanskrit-coders/jyotisha/tree/master/jyotisha/panchangam/tempo
+ ral/festival/data/lunar_month/tithi/11/04#varakunda-caturthi
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -2104,7 +2104,7 @@ DTSTART;VALUE=DATE:20180225
 DTEND;VALUE=DATE:20180226
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/relative_event/vEGkaTAcalE plavOtsava
- ~samApanam/offset__-4#vegkatacale-plavotsava-arambhah
+ -samApanam/offset__-4#vegkatacale-plavotsava-arambhah
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -2183,7 +2183,7 @@ DTSTART;VALUE=DATE:20180226
 DTEND;VALUE=DATE:20180227
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/relative_event/vEGkaTAcalE plavOtsava
- ~samApanam/offset__-3#vegkatacale-plavotsavah-2
+ -samApanam/offset__-3#vegkatacale-plavotsavah-2
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -2293,7 +2293,7 @@ DTSTART;VALUE=DATE:20180227
 DTEND;VALUE=DATE:20180228
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/relative_event/vEGkaTAcalE plavOtsava
- ~samApanam/offset__-2#vegkatacale-plavotsavah-3
+ -samApanam/offset__-2#vegkatacale-plavotsavah-3
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -2340,7 +2340,7 @@ DTSTART;VALUE=DATE:20180228
 DTEND;VALUE=DATE:20180301
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/relative_event/vEGkaTAcalE plavOtsava
- ~samApanam/offset__-1#vegkatacale-plavotsavah-4
+ -samApanam/offset__-1#vegkatacale-plavotsavah-4
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -2494,17 +2494,7 @@ SUMMARY:वेङ्कटाचले प्लवोत्सव~सम
  ापनम्
 DTSTART;VALUE=DATE:20180301
 DTEND;VALUE=DATE:20180302
-DESCRIPTION:On the first day\, Lord Rama with Sita and Lakshmana is offere
- d worship and taken out for a celestial ride on the finely decked float in
-  Swamy Pushkarini. On the second day\, Lord Sri Krishna and Rukmini are of
- fered puja and taken for pleasure ride on float. During the remaining thre
- e days beginning with Trayodasi and ending with Pournami\, Sri Malayappa S
- wami along with Sridevi and Bhudevi are taken out for a ride in the temple
-  tank. On the third day\, there will be three rounds followed by five roun
- ds and on the final day\, the utsava murtis will be taken out for pleasure
-  ride on the impressively decorated float for seven rounds.\n\nhttps://git
- hub.com/sanskrit-coders/jyotisha/tree/master/jyotisha/panchangam/temporal/
- festival/data/lunar_month/tithi/12/15#vegkatacale-plavotsava-samapanam
+DESCRIPTION:
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -2517,17 +2507,7 @@ BEGIN:VEVENT
 SUMMARY:वेङ्कटाचले प्लवोत्सव
 DTSTART;VALUE=DATE:20180118
 DTEND;VALUE=DATE:20180302
-DESCRIPTION:On the first day\, Lord Rama with Sita and Lakshmana is offere
- d worship and taken out for a celestial ride on the finely decked float in
-  Swamy Pushkarini. On the second day\, Lord Sri Krishna and Rukmini are of
- fered puja and taken for pleasure ride on float. During the remaining thre
- e days beginning with Trayodasi and ending with Pournami\, Sri Malayappa S
- wami along with Sridevi and Bhudevi are taken out for a ride in the temple
-  tank. On the third day\, there will be three rounds followed by five roun
- ds and on the final day\, the utsava murtis will be taken out for pleasure
-  ride on the impressively decorated float for seven rounds.\n\nhttps://git
- hub.com/sanskrit-coders/jyotisha/tree/master/jyotisha/panchangam/temporal/
- festival/data/lunar_month/tithi/12/15#vegkatacale-plavotsava-samapanam
+DESCRIPTION:
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -5299,10 +5279,10 @@ DESCRIPTION:Perform snana four ghatikas before sunrise (during अरु
   dharma\, knowledge\, happiness\, fortitude and health.\n\nबलं र
  ूपं यशो धर्मं ज्ञानमायुः सु
  खं धृतिम्।\nआरोग्यं परमाप्न
- ोति सम्यक् स्नानेन मानवः ॥\n\n
- \n\nhttps://github.com/sanskrit-coders/jyotisha/tree/master/jyotisha/panch
- angam/temporal/festival/data/lunar_month/tithi/02/15#vaizakha-purnima-snan
- am
+ ोति सम्यक् स्नानेन मानवः॥\n\n\
+ n\nhttps://github.com/sanskrit-coders/jyotisha/tree/master/jyotisha/pancha
+ ngam/temporal/festival/data/lunar_month/tithi/02/15#vaizakha-purnima-snana
+ m
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -5697,9 +5677,9 @@ DTSTART;VALUE=DATE:20180515
 DTEND;VALUE=DATE:20180516
 DESCRIPTION:माधवे मेषगे भानौ मुरार
  े मधुसूदन।\nप्रातः स्नानेन म
- े नाथ फलदो भव पापहन् ॥\n\n\n\nhttps://gi
- thub.com/sanskrit-coders/jyotisha/tree/master/jyotisha/panchangam/temporal
- /festival/data/lunar_month/tithi/02/30#vaizakha-snanapurtih
+ े नाथ फलदो भव पापहन्॥\n\n\n\nhttps://git
+ hub.com/sanskrit-coders/jyotisha/tree/master/jyotisha/panchangam/temporal/
+ festival/data/lunar_month/tithi/02/30#vaizakha-snanapurtih
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -7074,7 +7054,7 @@ DTEND;VALUE=DATE:20180625
 DESCRIPTION:Rukmini Satyabhama sahita Krishna are taken out on the प्
  लव.\n\nhttps://github.com/sanskrit-coders/jyotisha/tree/master/jyotish
  a/panchangam/temporal/festival/data/relative_event/alarmElmaGgApurE plavOt
- sava~samApanam/offset__-4#alarmelmaggapure-plavotsava-arambhah
+ sava-samApanam/offset__-4#alarmelmaggapure-plavotsava-arambhah
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -7156,7 +7136,7 @@ DTEND;VALUE=DATE:20180626
 DESCRIPTION:Sridevi Bhudevi sahita Sundararaja Swami are taken out on the 
  प्लव.\n\nhttps://github.com/sanskrit-coders/jyotisha/tree/master/j
  yotisha/panchangam/temporal/festival/data/relative_event/alarmElmaGgApurE 
- plavOtsava~samApanam/offset__-3#alarmelmaggapure-plavotsavah-2
+ plavOtsava-samApanam/offset__-3#alarmelmaggapure-plavotsavah-2
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -7236,7 +7216,7 @@ DTEND;VALUE=DATE:20180627
 DESCRIPTION:Padmavati Devi is taken out on the प्लव (last three da
  ys).\n\nhttps://github.com/sanskrit-coders/jyotisha/tree/master/jyotisha/p
  anchangam/temporal/festival/data/relative_event/alarmElmaGgApurE plavOtsav
- a~samApanam/offset__-2#alarmelmaggapure-plavotsavah-3
+ a-samApanam/offset__-2#alarmelmaggapure-plavotsavah-3
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -7270,7 +7250,7 @@ DTEND;VALUE=DATE:20180628
 DESCRIPTION:Padmavati Devi is taken out on the प्लव (last three da
  ys).\n\nhttps://github.com/sanskrit-coders/jyotisha/tree/master/jyotisha/p
  anchangam/temporal/festival/data/relative_event/alarmElmaGgApurE plavOtsav
- a~samApanam/offset__-1#alarmelmaggapure-plavotsavah-4
+ a-samApanam/offset__-1#alarmelmaggapure-plavotsavah-4
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -7334,10 +7314,7 @@ SUMMARY:अलर्मेल्मङ्गापुरे प्लव
  ोत्सव~समापनम्
 DTSTART;VALUE=DATE:20180628
 DTEND;VALUE=DATE:20180629
-DESCRIPTION:Padmavati Devi is taken out on the प्लव (last three da
- ys).\n\nhttps://github.com/sanskrit-coders/jyotisha/tree/master/jyotisha/p
- anchangam/temporal/festival/data/lunar_month/tithi/03/15#alarmelmaggapure-
- plavotsava-samapanam
+DESCRIPTION:
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -7351,10 +7328,7 @@ SUMMARY:अलर्मेल्मङ्गापुरे प्लव
  ोत्सव
 DTSTART;VALUE=DATE:20180618
 DTEND;VALUE=DATE:20180629
-DESCRIPTION:Padmavati Devi is taken out on the प्लव (last three da
- ys).\n\nhttps://github.com/sanskrit-coders/jyotisha/tree/master/jyotisha/p
- anchangam/temporal/festival/data/lunar_month/tithi/03/15#alarmelmaggapure-
- plavotsava-samapanam
+DESCRIPTION:
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -8371,13 +8345,13 @@ DESCRIPTION:Lord Vishnu goes to sleep.\n\nवासुदेव जगद
  ्योने प्राप्तेयं द्वादशी त
  व।\nभुजङ्गशयनेऽब्धौ च सुखं स
  ्वपिहि माधव॥\nइयं तु द्वादशी
-  देव शयनार्थं विनिर्मित ।\nअ
- स्यां सुप्ते जगन्नाथे जगत्
- सुप्तं भवेदिदम्॥\nविबुद्धे 
- त्वयि बुद्ध्येत सर्वमेतच्च
- राचरम्॥\n\n\n\nhttps://github.com/sanskrit-coders/jyotisha/t
- ree/master/jyotisha/panchangam/temporal/festival/data/other/monthly-vratam
- s/ekadashi-vratam-days#zayana-ekadazi
+  देव शयनार्थं विनिर्मित।\nअस
+ ्यां सुप्ते जगन्नाथे जगत्स
+ ुप्तं भवेदिदम्॥\nविबुद्धे त
+ ्वयि बुद्ध्येत सर्वमेतच्चर
+ ाचरम्॥\n\n\n\nhttps://github.com/sanskrit-coders/jyotisha/tree
+ /master/jyotisha/panchangam/temporal/festival/data/other/monthly-vratams/e
+ kadashi-vratam-days#zayana-ekadazi
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -8549,11 +8523,11 @@ DTSTART;VALUE=DATE:20180727
 DTEND;VALUE=DATE:20180728
 DESCRIPTION:Puja of Veda Vyasa / Gurus\; Danam of Vishnu Puran is good on 
  this day.\n\nअचतुर्वदनो ब्रह्मा द्
- विबाहुरपरो हरिः। अफाललोचनो
-  शम्भुर्भगवान् बादारायणः॥\n\
- n\n\nhttps://github.com/sanskrit-coders/jyotisha/tree/master/jyotisha/panc
- hangam/temporal/festival/data/lunar_month/tithi/04/15#guru-purnimavyasa-pu
- ja
+ विबाहुरपरो हरिः।\nअफाललोचन
+ ो शम्भुर्भगवान् बादारायणः॥
+ \n\n\n\nhttps://github.com/sanskrit-coders/jyotisha/tree/master/jyotisha/p
+ anchangam/temporal/festival/data/lunar_month/tithi/04/15#guru-purnimavyasa
+ -puja
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -8727,11 +8701,11 @@ DTEND;VALUE=DATE:20180730
 DESCRIPTION:Lord Mahavishnu sleeps with Goddess Mahalakshmi on this day. D
  o Puja by placing the God/Goddess on a new bed with pillow/blanket. Do dan
  am of same after puja.\n\nलक्ष्म्या वियुज्
- यते देव न कदाचित् यतो भवान् 
- ।\nतथा कलत्रसम्बन्धो देव मा 
- मे वियुज्यताम्॥\n\n\n\nhttps://github.com/sans
- krit-coders/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/dat
- a/lunar_month/tithi/04/17#azunyazayana-vratam-1
+ यते देव न कदाचित् यतो भवान्।
+ \nतथा कलत्रसम्बन्धो देव मा म
+ े वियुज्यताम्॥\n\n\n\nhttps://github.com/sanskri
+ t-coders/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data/l
+ unar_month/tithi/04/17#azunyazayana-vratam-1
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -9289,10 +9263,10 @@ DTEND;VALUE=DATE:20180816
 DESCRIPTION:Naga Panchami\; SarpaPooja (manasaDevi)\; Vishnu's boon to Adi
  Sesha that humans will worship on this day\n\nअपसर्प सर्
  प भद्रं ते दूरं गच्छ महायशाः
-  ।\nजनमेजयस्य यज्ञान्ते अस्त
- ीकवचनं स्मरन् ॥\n\n\n\nhttps://github.com/sanskr
- it-coders/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data/
- lunar_month/tithi/05/05#naga-pajcami
+ ।\nजनमेजयस्य यज्ञान्ते अस्त
+ ीकवचनं स्मरन्॥\n\n\n\nhttps://github.com/sanskri
+ t-coders/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data/l
+ unar_month/tithi/05/05#naga-pajcami
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -9724,11 +9698,11 @@ SUMMARY:दधि-व्रत-आरम्भः
 DTSTART;VALUE=DATE:20180823
 DTEND;VALUE=DATE:20180824
 DESCRIPTION:सङ्कर्षणारविन्दाक्ष क
- रिष्येऽहं दधिव्रतम्। द्वित
- ीये मासि देवेश निर्विघ्नं क
- ुरु मे प्रभो॥\n\n\n\nhttps://github.com/sanskrit-cod
- ers/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data/lunar_
- month/tithi/05/12#dadhi-vrata-arambhah
+ रिष्येऽहं दधिव्रतम्।\nद्वि
+ तीये मासि देवेश निर्विघ्नं 
+ कुरु मे प्रभो॥\n\n\n\nhttps://github.com/sanskrit-
+ coders/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data/lun
+ ar_month/tithi/05/12#dadhi-vrata-arambhah
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -11091,7 +11065,7 @@ DTSTART;VALUE=DATE:20180915
 DTEND;VALUE=DATE:20180916
 DESCRIPTION:Skanda darshanam is recommended\, removes sins including brahm
  ahatya.\n\nयोऽस्यां पश्यति गाङ्गे
- यं दक्षिणापथवासिनम् ।\nब्रह
+ यं दक्षिणापथवासिनम्।\nब्रह
  ्महत्यादि पापैस्तु मुच्यते
   नात्र संशयः॥\n\n\n\nhttps://github.com/sanskrit-cod
  ers/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data/other/
@@ -12316,10 +12290,10 @@ DTEND;VALUE=DATE:20181002
 DESCRIPTION:विवेकिनं महाप्राज्ञं ध
  ैर्यौदार्यक्षमानिधिम्।\nसद
  ाऽभिनवपूर्वं तं विद्यातीर्
- थगुरुं भजे ॥\n\n\n\nhttps://github.com/sanskrit-coders
- /jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data/lunar_mon
- th/tithi/06/22#zrggeri-35-jagadguru-zri-abhinava-vidyatirtha-mahasvami-ara
- dhana
+ थगुरुं भजे॥\n\n\n\nhttps://github.com/sanskrit-coders/
+ jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data/lunar_mont
+ h/tithi/06/22#zrggeri-35-jagadguru-zri-abhinava-vidyatirtha-mahasvami-arad
+ hana
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -12395,11 +12369,11 @@ DTSTART;VALUE=DATE:20181003
 DTEND;VALUE=DATE:20181004
 DESCRIPTION:In honour of Sumangalis (in the family)\, by holding a feast f
  or Suvasinis and Kanyas.\n\nभर्तुरग्रे मृता 
- नारी सहदाहेन वा मृता ।\nतस्य
- ाः स्थाने नियुञ्जीत विप्रै
- ः सह सुवासिनीम्॥\n\n\n\nhttps://github.com/san
- skrit-coders/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/da
- ta/lunar_month/tithi/06/24#sumaggali-navami
+ नारी सहदाहेन वा मृता।\nतस्या
+ ः स्थाने नियुञ्जीत विप्रैः 
+ सह सुवासिनीम्॥\n\n\n\nhttps://github.com/sanskri
+ t-coders/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data/l
+ unar_month/tithi/06/24#sumaggali-navami
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -12659,7 +12633,7 @@ SUMMARY:शस्त्रहतचतुर्दशी
 DTSTART;VALUE=DATE:20181008
 DTEND;VALUE=DATE:20181009
 DESCRIPTION:वृक्षारोहेण लोहाद्यैर
- ्विद्युज्जल-विषाग्निभिः।\n 
+ ्विद्युज्जल-विषाग्निभिः।\n
  नखि दंष्ट्रि विपन्ना ये तेष
  ां शस्ता चतुर्दशी॥\n\n\n\nhttps://github.c
  om/sanskrit-coders/jyotisha/tree/master/jyotisha/panchangam/temporal/festi
@@ -13062,11 +13036,11 @@ DESCRIPTION:Being मूला nakshatram\, it is another ideal day to beg
  in Saraswati Puja. If not\, at least perform on Navami. During the Saraswa
  ti Puja days\, those desirous of obtaining knowledge must not teach\, lear
  n or write anything!\n\nअथवा  मूलनक्षत्रे  
- समारभ्य  प्रपूजयेत्।\n तत्रा
+ समारभ्य  प्रपूजयेत्।\nतत्रा
  प्यशक्तो  विप्रेन्द्रो  नवम
- ्यां  तु  प्रपूजयेत्॥\n नाऽध्
+ ्यां  तु  प्रपूजयेत्॥\nनाऽध्
  यापयेन्न  च  लिखेन्नाऽधीयीत 
-  कदाचन।\n पुस्तके  स्थापिते  द
+  कदाचन।\nपुस्तके  स्थापिते  द
  ेवीं  विद्याकामो  द्विजोत्त
  मः॥\n\n\n\nhttps://github.com/sanskrit-coders/jyotisha/tree/master/j
  yotisha/panchangam/temporal/festival/data/lunar_month/nakshatram/07/19#sar
@@ -13313,7 +13287,7 @@ DTSTART;VALUE=DATE:20181018
 DTEND;VALUE=DATE:20181019
 DESCRIPTION:Perform स्नानम् in Kaveri during this month.\n\n
  षट्षष्टिकोटितीर्थानि द्वि
- सप्तभुवनेषु च।\n केशवस्याऽऽ
+ सप्तभुवनेषु च।\nकेशवस्याऽऽ
  ज्ञया यान्ति तुलामासे मरुद
  ्वृधम्॥\n\n\n\nhttps://github.com/sanskrit-coders/jyotisha/t
  ree/master/jyotisha/panchangam/temporal/festival/data/solar_month/day/07/0
@@ -13612,14 +13586,14 @@ SUMMARY:पयोव्रत-समापनम्
 DTSTART;VALUE=DATE:20181021
 DTEND;VALUE=DATE:20181022
 DESCRIPTION:श्रीप्रद्युम्न नमस्तु
- भ्यं मासमारभ्य यत्कृतम्। इ
+ भ्यं मासमारभ्य यत्कृतम्।\nइ
  ष्टदो भव सर्वेश गृहीत्वा तु 
- पयोव्रतम्॥ इदं व्रतं मया दे
- व कृतं प्रीत्यै तव प्रभो। न्
- यूनं सम्पूर्णतां यातु त्वत
- ्प्रसादज्जनार्दन॥\n\n\n\nhttps://github.
- com/sanskrit-coders/jyotisha/tree/master/jyotisha/panchangam/temporal/fest
- ival/data/lunar_month/tithi/07/12#payovrata-samapanam
+ पयोव्रतम्॥\nइदं व्रतं मया दे
+ व कृतं प्रीत्यै तव प्रभो।\nन
+ ्यूनं सम्पूर्णतां यातु त्व
+ त्प्रसादज्जनार्दन॥\n\n\n\nhttps://gith
+ ub.com/sanskrit-coders/jyotisha/tree/master/jyotisha/panchangam/temporal/f
+ estival/data/lunar_month/tithi/07/12#payovrata-samapanam
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -13633,14 +13607,14 @@ SUMMARY:पयोव्रतम्
 DTSTART;VALUE=DATE:20180921
 DTEND;VALUE=DATE:20181022
 DESCRIPTION:श्रीप्रद्युम्न नमस्तु
- भ्यं मासमारभ्य यत्कृतम्। इ
+ भ्यं मासमारभ्य यत्कृतम्।\nइ
  ष्टदो भव सर्वेश गृहीत्वा तु 
- पयोव्रतम्॥ इदं व्रतं मया दे
- व कृतं प्रीत्यै तव प्रभो। न्
- यूनं सम्पूर्णतां यातु त्वत
- ्प्रसादज्जनार्दन॥\n\n\n\nhttps://github.
- com/sanskrit-coders/jyotisha/tree/master/jyotisha/panchangam/temporal/fest
- ival/data/lunar_month/tithi/07/12#payovrata-samapanam
+ पयोव्रतम्॥\nइदं व्रतं मया दे
+ व कृतं प्रीत्यै तव प्रभो।\nन
+ ्यूनं सम्पूर्णतां यातु त्व
+ त्प्रसादज्जनार्दन॥\n\n\n\nhttps://gith
+ ub.com/sanskrit-coders/jyotisha/tree/master/jyotisha/panchangam/temporal/f
+ estival/data/lunar_month/tithi/07/12#payovrata-samapanam
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -14336,11 +14310,11 @@ DTEND;VALUE=DATE:20181105
 DESCRIPTION:Avoid cow's milk\, ghee\, curd and buttermilk on this day. Giv
  e grass to cows and pray to them.\n\nगोक्षीरं गोघृ
  तं चैव दधि तक्रं च वर्जयेत्।
- \n\n सुरभि त्वं जगन्मातर्देवि 
- विष्णुपदे स्थिता।\n सर्वदेव
+ \n\nसुरभि त्वं जगन्मातर्देवि 
+ विष्णुपदे स्थिता।\nसर्वदेव
  मये ग्रासं मया दत्तमिदं ग्र
- स॥\n\n सर्वदेवमये देवि सर्वेद
- ेवैश्च सत्कृता।\n मातर्ममाऽ
+ स॥\n\nसर्वदेवमये देवि सर्वेद
+ ेवैश्च सत्कृता।\nमातर्ममाऽ
  भिलाषितं सफलं कुरु नन्दिनि
  ॥\n\n\n\n\nhttps://github.com/sanskrit-coders/jyotisha/tree/master/jyoti
  sha/panchangam/temporal/festival/data/lunar_month/tithi/07/27#govatsa-dvad
@@ -14592,10 +14566,10 @@ DTEND;VALUE=DATE:20181107
 DESCRIPTION:विवेकिनं महाप्राज्ञं ध
  ैर्यौदार्यक्षमानिधिम्।\nसद
  ाऽभिनवपूर्वं तं विद्यातीर्
- थगुरुं भजे ॥\n\n\n\nhttps://github.com/sanskrit-coders
- /jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data/lunar_mon
- th/tithi/07/29#zrggeri-35-jagadguru-zri-abhinava-vidyatirtha-mahasvami-jay
- anti
+ थगुरुं भजे॥\n\n\n\nhttps://github.com/sanskrit-coders/
+ jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data/lunar_mont
+ h/tithi/07/29#zrggeri-35-jagadguru-zri-abhinava-vidyatirtha-mahasvami-jaya
+ nti
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -14934,7 +14908,7 @@ DESCRIPTION:Perform पूजा of cow with calf\, and offer அகத்
  திகீரை and grass/water\, and perform 16 प्रदक्ष
  िणम्.\n\nकार्तिके  याऽष्टमी  श
  ुक्ला  ज्ञेया  गोपाष्टमी  बु
- धै।\n तत्र  कुर्याद्गवां  पूज
+ धै।\nतत्र  कुर्याद्गवां  पूज
  ां  गोग्रासं  गोप्रदक्षिणम्
  ॥\n\n\n\nhttps://github.com/sanskrit-coders/jyotisha/tree/master/jyotish
  a/panchangam/temporal/festival/data/lunar_month/tithi/08/08#gopastami
@@ -15322,14 +15296,14 @@ SUMMARY:द्विदल-व्रत-समापनम्
 DTSTART;VALUE=DATE:20181120
 DTEND;VALUE=DATE:20181121
 DESCRIPTION:अनिरुद्ध नमस्तुभ्यं द्
- विदलाख्यव्रतेन च। मत्कृतेन
- ाश्विने मासे प्रीत्यर्थं फ
- लदो भव॥\nइदं व्रतं मया देव कृ
- तं प्रीत्यै तव प्रभो।\nन्यून
- ं सम्पूर्णतां यातु त्वत्प्
- रसादज्जनार्दन॥\n\n\n\nhttps://github.com/sansk
- rit-coders/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data
- /lunar_month/tithi/08/12#dvidala-vrata-samapanam
+ विदलाख्यव्रतेन च।\nमत्कृते
+ नाश्विने मासे प्रीत्यर्थं 
+ फलदो भव॥\nइदं व्रतं मया देव क
+ ृतं प्रीत्यै तव प्रभो।\nन्यू
+ नं सम्पूर्णतां यातु त्वत्प
+ ्रसादज्जनार्दन॥\n\n\n\nhttps://github.com/sa
+ nskrit-coders/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/d
+ ata/lunar_month/tithi/08/12#dvidala-vrata-samapanam
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -15343,14 +15317,14 @@ SUMMARY:द्विदल-व्रतम्
 DTSTART;VALUE=DATE:20181021
 DTEND;VALUE=DATE:20181121
 DESCRIPTION:अनिरुद्ध नमस्तुभ्यं द्
- विदलाख्यव्रतेन च। मत्कृतेन
- ाश्विने मासे प्रीत्यर्थं फ
- लदो भव॥\nइदं व्रतं मया देव कृ
- तं प्रीत्यै तव प्रभो।\nन्यून
- ं सम्पूर्णतां यातु त्वत्प्
- रसादज्जनार्दन॥\n\n\n\nhttps://github.com/sansk
- rit-coders/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data
- /lunar_month/tithi/08/12#dvidala-vrata-samapanam
+ विदलाख्यव्रतेन च।\nमत्कृते
+ नाश्विने मासे प्रीत्यर्थं 
+ फलदो भव॥\nइदं व्रतं मया देव क
+ ृतं प्रीत्यै तव प्रभो।\nन्यू
+ नं सम्पूर्णतां यातु त्वत्प
+ ्रसादज्जनार्दन॥\n\n\n\nhttps://github.com/sa
+ nskrit-coders/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/d
+ ata/lunar_month/tithi/08/12#dvidala-vrata-samapanam
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -15472,14 +15446,14 @@ DTEND;VALUE=DATE:20181121
 DESCRIPTION:Avataram of Yajnavalkya Maharshi happened in kArtika shulka dw
  adashi in Shatabhishak Nakshatram/Dhanurlagnam.\n\nवन्देऽह
  ं  मङ्गळात्मानं  भास्वन्तं  
- वेदविग्रहम्।\n याज्ञवल्क्य
- ं  मुनिश्रेष्ठं  जीष्णुं  हर
- िहरप्रभम्॥\n जितेन्द्रियं  ज
- ितक्रोधं  सदा  ध्यानपरायणम्
- ।\n आनन्दनिलयं  वन्दे  योगानन
- ्दमुनीश्वरम्॥\n\n\n\n\nhttps://github.com/sanskr
- it-coders/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data/
- lunar_month/tithi/08/12#yajjavalkya-jayanti
+ वेदविग्रहम्।\nयाज्ञवल्क्यं
+   मुनिश्रेष्ठं  जीष्णुं  हरि
+ हरप्रभम्॥\nजितेन्द्रियं  जि
+ तक्रोधं  सदा  ध्यानपरायणम्।\
+ nआनन्दनिलयं  वन्दे  योगानन्द
+ मुनीश्वरम्॥\n\n\n\n\nhttps://github.com/sanskrit-cod
+ ers/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data/lunar_
+ month/tithi/08/12#yajjavalkya-jayanti
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -16469,7 +16443,7 @@ DTEND;VALUE=DATE:20181214
 DESCRIPTION:Have darshan of Shivalingam today\; removes Shivapachara dosha
  s in the family.\n\nमार्गशीर्षेऽमले पक
  ्षे षष्ठ्यां वारेंऽशुमालिन
- ः ।\nशततारागते चन्द्रे लिङ्ग
+ ः।\nशततारागते चन्द्रे लिङ्ग
  ं स्याद्दृष्टिगोचरम्।\n\n\n\nhttps
  ://github.com/sanskrit-coders/jyotisha/tree/master/jyotisha/panchangam/tem
  poral/festival/data/lunar_month/tithi/09/06#margazirsa-zivaligga-sasthi
@@ -16961,9 +16935,9 @@ DESCRIPTION:Visit Chidambaram to have darshan of Nataraja\, or pray to Nat
  िनेत्रं सदाशिवं रुद्रमनन्त
  रूपम्।\nजटाधरं पार्वतिवामभ
  ागं चिदम्बरेशं हृदि भावयाम
- ि ॥\n\n\n\nhttps://github.com/sanskrit-coders/jyotisha/tree/master/jyo
- tisha/panchangam/temporal/festival/data/solar_month/nakshatram/09/06#arudr
- a-darican2amnatarajar-mahabhisekam
+ ि॥\n\n\n\nhttps://github.com/sanskrit-coders/jyotisha/tree/master/jyot
+ isha/panchangam/temporal/festival/data/solar_month/nakshatram/09/06#arudra
+ -darican2amnatarajar-mahabhisekam
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
