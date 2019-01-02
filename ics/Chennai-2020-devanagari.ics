@@ -112,9 +112,10 @@ BEGIN:VEVENT
 SUMMARY:सर्व-पुत्रदा-एकादशी
 DTSTART;VALUE=DATE:20200106
 DTEND;VALUE=DATE:20200107
-DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/other/monthly-vratams/ekadashi-vratam
- -days#putrada-ekadazi
+DESCRIPTION:The Shukla-paksha Ekadashi of पौष month is known as प
+ ुत्रदा-एकादशी.\n\nhttps://github.com/sanskrit-code
+ rs/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data/other/m
+ onthly-vratams/ekadashi-vratam-days#putrada-ekadazi
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -127,9 +128,10 @@ BEGIN:VEVENT
 SUMMARY:सर्व-वैकुण्ठ-एकादशी
 DTSTART;VALUE=DATE:20200106
 DTEND;VALUE=DATE:20200107
-DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/other/monthly-vratams/ekadashi-vratam
- -days#vaikuntha-ekadazi
+DESCRIPTION:The Shukla-paksha Ekadashi of धनुर्मास is know
+ n as वैकुण्ठ-एकादशी.\n\nhttps://github.com/sansk
+ rit-coders/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data
+ /other/monthly-vratams/ekadashi-vratam-days#vaikuntha-ekadazi
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -719,9 +721,10 @@ BEGIN:VEVENT
 SUMMARY:सर्व-षट्तिला-एकादशी
 DTSTART;VALUE=DATE:20200120
 DTEND;VALUE=DATE:20200121
-DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/other/monthly-vratams/ekadashi-vratam
- -days#sattila-ekadazi
+DESCRIPTION:The Krishna-paksha Ekadashi of पौष month is known as ष
+ ट्तिला-एकादशी.\n\nhttps://github.com/sanskrit-code
+ rs/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data/other/m
+ onthly-vratams/ekadashi-vratam-days#sattila-ekadazi
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -1288,9 +1291,10 @@ BEGIN:VEVENT
 SUMMARY:सर्व-जया/भैमी-एकादशी
 DTSTART;VALUE=DATE:20200205
 DTEND;VALUE=DATE:20200206
-DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/other/monthly-vratams/ekadashi-vratam
- -days#jayabhaimi-ekadazi
+DESCRIPTION:The Jaya-paksha Ekadashi of माघ month is known as भै
+ मी-एकादशी.\n\nhttps://github.com/sanskrit-coders/jyotisha/
+ tree/master/jyotisha/panchangam/temporal/festival/data/other/monthly-vrata
+ ms/ekadashi-vratam-days#jayabhaimi-ekadazi
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -1813,9 +1817,10 @@ BEGIN:VEVENT
 SUMMARY:सर्व-विजया-एकादशी
 DTSTART;VALUE=DATE:20200219
 DTEND;VALUE=DATE:20200220
-DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/other/monthly-vratams/ekadashi-vratam
- -days#vijaya-ekadazi
+DESCRIPTION:The Krishna-paksha Ekadashi of माघ month is known as व
+ िजया-एकादशी.\n\nhttps://github.com/sanskrit-coders/jyo
+ tisha/tree/master/jyotisha/panchangam/temporal/festival/data/other/monthly
+ -vratams/ekadashi-vratam-days#vijaya-ekadazi
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -2368,9 +2373,10 @@ BEGIN:VEVENT
 SUMMARY:सर्व-आमलकी-एकादशी
 DTSTART;VALUE=DATE:20200306
 DTEND;VALUE=DATE:20200307
-DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/other/monthly-vratams/ekadashi-vratam
- -days#amalaki-ekadazi
+DESCRIPTION:The Shukla-paksha Ekadashi of फाल्गुन month is k
+ nown as आमलकी-एकादशी.\n\nhttps://github.com/sanskrit
+ -coders/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data/ot
+ her/monthly-vratams/ekadashi-vratam-days#amalaki-ekadazi
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -2710,11 +2716,21 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:वेङ्कटाचले प्लवोत्सव~सम
+SUMMARY:वेङ्कटाचले प्लवोत्सव-सम
  ापनम्
 DTSTART;VALUE=DATE:20200309
 DTEND;VALUE=DATE:20200310
-DESCRIPTION:
+DESCRIPTION:On the first day\, Lord Rama with Sita and Lakshmana is offere
+ d worship and taken out for a celestial ride on the finely decked float in
+  Swamy Pushkarini. On the second day\, Lord Sri Krishna and Rukmini are of
+ fered puja and taken for pleasure ride on float. During the remaining thre
+ e days beginning with Trayodasi and ending with Pournami\, Sri Malayappa S
+ wami along with Sridevi and Bhudevi are taken out for a ride in the temple
+  tank. On the third day\, there will be three rounds followed by five roun
+ ds and on the final day\, the utsava murtis will be taken out for pleasure
+  ride on the impressively decorated float for seven rounds.\n\nhttps://git
+ hub.com/sanskrit-coders/jyotisha/tree/master/jyotisha/panchangam/temporal/
+ festival/data/lunar_month/tithi/12/15#vegkatacale-plavotsava-samapanam
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -2724,10 +2740,20 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:वेङ्कटाचले प्लवोत्सव
-DTSTART;VALUE=DATE:20200125
+SUMMARY:वेङ्कटाचले प्लवोत्सवः
+DTSTART;VALUE=DATE:20200305
 DTEND;VALUE=DATE:20200310
-DESCRIPTION:
+DESCRIPTION:On the first day\, Lord Rama with Sita and Lakshmana is offere
+ d worship and taken out for a celestial ride on the finely decked float in
+  Swamy Pushkarini. On the second day\, Lord Sri Krishna and Rukmini are of
+ fered puja and taken for pleasure ride on float. During the remaining thre
+ e days beginning with Trayodasi and ending with Pournami\, Sri Malayappa S
+ wami along with Sridevi and Bhudevi are taken out for a ride in the temple
+  tank. On the third day\, there will be three rounds followed by five roun
+ ds and on the final day\, the utsava murtis will be taken out for pleasure
+  ride on the impressively decorated float for seven rounds.\n\nhttps://git
+ hub.com/sanskrit-coders/jyotisha/tree/master/jyotisha/panchangam/temporal/
+ festival/data/lunar_month/tithi/12/15#vegkatacale-plavotsava-samapanam
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -2917,42 +2943,13 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:तपती-अन्त्य-पुष्कर-आरम्भ
- ः
-DTSTART;VALUE=DATE:20200318
-DTEND;VALUE=DATE:20200319
-DESCRIPTION:Coming from Brahma's Kamandalu\, Pushkara Raja resides in diff
- erent rivers\, along with 3.5 crore tirthas\, following the Sankranti of G
- uru\, for twelve days at the beginning of the Sankranti (आदि पु
- ष्करम्) and at the end of the year (preceding transition to th
- e next राशी\, अन्त्य पुष्करम्)\, and f
- or two muhurtas during mid-day\, every day\, during the entire year.\n Fol
- lowing the transition of Guru to धनुः राशी\, पुष्
- करराज resides in तपती river.\n\nयदा राशि-
- प्रवेशः स्यात्तदा प्रभृति 
- सर्वदा।\nद्वादशाहमिते काले 
- वस्तव्यं तु ममाऽऽज्ञया॥\nआव
- त्सरं तु वस्तव्यं मध्याह्न
- े द्विमुहूर्तकम्।\nअन्ते द्
- वादश वस्तव्यं दिनानि च यथास
- ुखम्॥\n\n\n\n\nhttps://github.com/sanskrit-coders/jyotisha/tree/
- master/jyotisha/panchangam/temporal/festival/data/other/rare-days/pushkara
- #tapati-antya-puskara-arambhah
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT4H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:सर्व-पापमोचनी-एकादशी
 DTSTART;VALUE=DATE:20200319
 DTEND;VALUE=DATE:20200320
-DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/other/monthly-vratams/ekadashi-vratam
- -days#papamocani-ekadazi
+DESCRIPTION:The Krishna-paksha Ekadashi of फाल्गुन month is 
+ known as पापमोचनी-एकादशी.\n\nhttps://github.co
+ m/sanskrit-coders/jyotisha/tree/master/jyotisha/panchangam/temporal/festiv
+ al/data/other/monthly-vratams/ekadashi-vratam-days#papamocani-ekadazi
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -2978,12 +2975,26 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:व्यञ्जुली महाद्वादशी
+DTSTART;VALUE=DATE:20200320
+DTEND;VALUE=DATE:20200321
+DESCRIPTION:
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:सर्व-पापमोचनी-एकादशी
 DTSTART;VALUE=DATE:20200321
 DTEND;VALUE=DATE:20200322
-DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/other/monthly-vratams/ekadashi-vratam
- -days#papamocani-ekadazi
+DESCRIPTION:The Krishna-paksha Ekadashi of फाल्गुन month is 
+ known as पापमोचनी-एकादशी.\n\nhttps://github.co
+ m/sanskrit-coders/jyotisha/tree/master/jyotisha/panchangam/temporal/festiv
+ al/data/other/monthly-vratams/ekadashi-vratam-days#papamocani-ekadazi
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -3439,65 +3450,6 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:तपती-अन्त्य-पुष्कर-समापन
- म्
-DTSTART;VALUE=DATE:20200329
-DTEND;VALUE=DATE:20200330
-DESCRIPTION:Coming from Brahma's Kamandalu\, Pushkara Raja resides in diff
- erent rivers\, along with 3.5 crore tirthas\, following the Sankranti of G
- uru\, for twelve days at the beginning of the Sankranti (आदि पु
- ष्करम्) and at the end of the year (preceding transition to th
- e next राशी\, अन्त्य पुष्करम्)\, and f
- or two muhurtas during mid-day\, every day\, during the entire year.\n Fol
- lowing the transition of Guru to धनुः राशी\, पुष्
- करराज resides in तपती river.\n\nयदा राशि-
- प्रवेशः स्यात्तदा प्रभृति 
- सर्वदा।\nद्वादशाहमिते काले 
- वस्तव्यं तु ममाऽऽज्ञया॥\nआव
- त्सरं तु वस्तव्यं मध्याह्न
- े द्विमुहूर्तकम्।\nअन्ते द्
- वादश वस्तव्यं दिनानि च यथास
- ुखम्॥\n\n\n\n\nhttps://github.com/sanskrit-coders/jyotisha/tree/
- master/jyotisha/panchangam/temporal/festival/data/other/rare-days/pushkara
- #tapati-antya-puskara-samapanam
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT4H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:तपती-अन्त्य-पुष्करम्
-DTSTART;VALUE=DATE:20200318
-DTEND;VALUE=DATE:20200330
-DESCRIPTION:Coming from Brahma's Kamandalu\, Pushkara Raja resides in diff
- erent rivers\, along with 3.5 crore tirthas\, following the Sankranti of G
- uru\, for twelve days at the beginning of the Sankranti (आदि पु
- ष्करम्) and at the end of the year (preceding transition to th
- e next राशी\, अन्त्य पुष्करम्)\, and f
- or two muhurtas during mid-day\, every day\, during the entire year.\n Fol
- lowing the transition of Guru to धनुः राशी\, पुष्
- करराज resides in तपती river.\n\nयदा राशि-
- प्रवेशः स्यात्तदा प्रभृति 
- सर्वदा।\nद्वादशाहमिते काले 
- वस्तव्यं तु ममाऽऽज्ञया॥\nआव
- त्सरं तु वस्तव्यं मध्याह्न
- े द्विमुहूर्तकम्।\nअन्ते द्
- वादश वस्तव्यं दिनानि च यथास
- ुखम्॥\n\n\n\n\nhttps://github.com/sanskrit-coders/jyotisha/tree/
- master/jyotisha/panchangam/temporal/festival/data/other/rare-days/pushkara
- #tapati-antya-puskara-samapanam
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT4H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:शालिहोत्र-व्रत-आरम्भः
 DTSTART;VALUE=DATE:20200329
 DTEND;VALUE=DATE:20200330
@@ -3565,36 +3517,6 @@ DTEND;VALUE=DATE:20200331
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/solar_month/nakshatram/12/04#neca-nay
  an2ar-gurupujai
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT4H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:तुङ्गभद्रा-आदि-पुष्कर-आर
- म्भः
-DTSTART;VALUE=DATE:20200330
-DTEND;VALUE=DATE:20200331
-DESCRIPTION:Coming from Brahma's Kamandalu\, Pushkara Raja resides in diff
- erent rivers\, along with 3.5 crore tirthas\, following the Sankranti of G
- uru\, for twelve days at the beginning of the Sankranti (आदि पु
- ष्करम्) and at the end of the year (preceding transition to th
- e next राशी\, अन्त्य पुष्करम्)\, and f
- or two muhurtas during mid-day\, every day\, during the entire year.\n Fol
- lowing the transition of Guru to मकर राशी\, पुष्क
- रराज resides in तुङ्गभद्रा river.\n\nयदा
-  राशि-प्रवेशः स्यात्तदा प्र
- भृति सर्वदा।\nद्वादशाहमिते 
- काले वस्तव्यं तु ममाऽऽज्ञय
- ा॥\nआवत्सरं तु वस्तव्यं मध्य
- ाह्ने द्विमुहूर्तकम्।\nअन्
- ते द्वादश वस्तव्यं दिनानि च 
- यथासुखम्॥\n\n\n\n\nhttps://github.com/sanskrit-coders/jy
- otisha/tree/master/jyotisha/panchangam/temporal/festival/data/other/rare-d
- ays/pushkara#tuggabhadra-adi-puskara-arambhah
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -3885,9 +3807,10 @@ BEGIN:VEVENT
 SUMMARY:सर्व-कामदा-एकादशी
 DTSTART;VALUE=DATE:20200404
 DTEND;VALUE=DATE:20200405
-DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/other/monthly-vratams/ekadashi-vratam
- -days#kamada-ekadazi
+DESCRIPTION:The Shukla-paksha Ekadashi of चैत्र month is known a
+ s कामदा-एकादशी.\n\nhttps://github.com/sanskrit-coder
+ s/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data/other/mo
+ nthly-vratams/ekadashi-vratam-days#kamada-ekadazi
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -4325,65 +4248,6 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:तुङ्गभद्रा-आदि-पुष्कर-सम
- ापनम्
-DTSTART;VALUE=DATE:20200410
-DTEND;VALUE=DATE:20200411
-DESCRIPTION:Coming from Brahma's Kamandalu\, Pushkara Raja resides in diff
- erent rivers\, along with 3.5 crore tirthas\, following the Sankranti of G
- uru\, for twelve days at the beginning of the Sankranti (आदि पु
- ष्करम्) and at the end of the year (preceding transition to th
- e next राशी\, अन्त्य पुष्करम्)\, and f
- or two muhurtas during mid-day\, every day\, during the entire year.\n Fol
- lowing the transition of Guru to मकर राशी\, पुष्क
- रराज resides in तुङ्गभद्रा river.\n\nयदा
-  राशि-प्रवेशः स्यात्तदा प्र
- भृति सर्वदा।\nद्वादशाहमिते 
- काले वस्तव्यं तु ममाऽऽज्ञय
- ा॥\nआवत्सरं तु वस्तव्यं मध्य
- ाह्ने द्विमुहूर्तकम्।\nअन्
- ते द्वादश वस्तव्यं दिनानि च 
- यथासुखम्॥\n\n\n\n\nhttps://github.com/sanskrit-coders/jy
- otisha/tree/master/jyotisha/panchangam/temporal/festival/data/other/rare-d
- ays/pushkara#tuggabhadra-adi-puskara-samapanam
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT4H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:तुङ्गभद्रा-आदि-पुष्करम्
-DTSTART;VALUE=DATE:20200330
-DTEND;VALUE=DATE:20200411
-DESCRIPTION:Coming from Brahma's Kamandalu\, Pushkara Raja resides in diff
- erent rivers\, along with 3.5 crore tirthas\, following the Sankranti of G
- uru\, for twelve days at the beginning of the Sankranti (आदि पु
- ष्करम्) and at the end of the year (preceding transition to th
- e next राशी\, अन्त्य पुष्करम्)\, and f
- or two muhurtas during mid-day\, every day\, during the entire year.\n Fol
- lowing the transition of Guru to मकर राशी\, पुष्क
- रराज resides in तुङ्गभद्रा river.\n\nयदा
-  राशि-प्रवेशः स्यात्तदा प्र
- भृति सर्वदा।\nद्वादशाहमिते 
- काले वस्तव्यं तु ममाऽऽज्ञय
- ा॥\nआवत्सरं तु वस्तव्यं मध्य
- ाह्ने द्विमुहूर्तकम्।\nअन्
- ते द्वादश वस्तव्यं दिनानि च 
- यथासुखम्॥\n\n\n\n\nhttps://github.com/sanskrit-coders/jy
- otisha/tree/master/jyotisha/panchangam/temporal/festival/data/other/rare-d
- ays/pushkara#tuggabhadra-adi-puskara-samapanam
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT4H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:विकट-महागणपति सङ्कटहर-चत
  ुर्थी-व्रतम्
 DTSTART;VALUE=DATE:20200410
@@ -4546,9 +4410,10 @@ BEGIN:VEVENT
 SUMMARY:सर्व-वरूथिनी-एकादशी
 DTSTART;VALUE=DATE:20200418
 DTEND;VALUE=DATE:20200419
-DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/other/monthly-vratams/ekadashi-vratam
- -days#varuthini-ekadazi
+DESCRIPTION:The Krishna-paksha Ekadashi of चैत्र month is known 
+ as वरूथिनी-एकादशी.\n\nhttps://github.com/sanskri
+ t-coders/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data/o
+ ther/monthly-vratams/ekadashi-vratam-days#varuthini-ekadazi
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -4595,6 +4460,19 @@ DTEND;VALUE=DATE:20200419
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/lunar_month/tithi/01/26#vallabhacarya
  -jayanti
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:पक्षवर्धिनी महाद्वादशी
+DTSTART;VALUE=DATE:20200419
+DTEND;VALUE=DATE:20200420
+DESCRIPTION:
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -5403,9 +5281,10 @@ BEGIN:VEVENT
 SUMMARY:सर्व-मोहिनी-एकादशी
 DTSTART;VALUE=DATE:20200504
 DTEND;VALUE=DATE:20200505
-DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/other/monthly-vratams/ekadashi-vratam
- -days#mohini-ekadazi
+DESCRIPTION:The Shukla-paksha Ekadashi of वैशाख month is known a
+ s मोहिनी-एकादशी.\n\nhttps://github.com/sanskrit-co
+ ders/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data/other
+ /monthly-vratams/ekadashi-vratam-days#mohini-ekadazi
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -5431,15 +5310,10 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:वेङ्कटाचले पद्मावती-परि
- णयोत्सव-समापनम् (गरुड-वाहनम
- ्)
+SUMMARY:त्रिस्पृशा महाद्वादशी
 DTSTART;VALUE=DATE:20200504
 DTEND;VALUE=DATE:20200505
-DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/relative_event/vEGkaTAcalE padmAvatI-
- pariNayam (azva-vAhanam)/offset__01#vegkatacale-padmavati-parinayotsava-sa
- mapanam-(garuda-vahanam)
+DESCRIPTION:
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -5450,8 +5324,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:वेङ्कटाचले पद्मावती-परि
- णयोत्सवः (गरुड-वाहनम्)
-DTSTART;VALUE=DATE:20200330
+ णयोत्सव-समापनम् (गरुड-वाहनम
+ ्)
+DTSTART;VALUE=DATE:20200504
 DTEND;VALUE=DATE:20200505
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/relative_event/vEGkaTAcalE padmAvatI-
@@ -5597,12 +5472,12 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:अर्धनारीस्ह्वर-व्रतम्
+SUMMARY:अर्धनारीश्वर-व्रतम्
 DTSTART;VALUE=DATE:20200507
 DTEND;VALUE=DATE:20200508
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/lunar_month/tithi/02/15#ardhanarishva
- ra-vratam
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/02/15#ardhanarizvar
+ a-vratam
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -5940,9 +5815,10 @@ BEGIN:VEVENT
 SUMMARY:सर्व-अपरा-एकादशी
 DTSTART;VALUE=DATE:20200518
 DTEND;VALUE=DATE:20200519
-DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/other/monthly-vratams/ekadashi-vratam
- -days#apara-ekadazi
+DESCRIPTION:The Krishna-paksha Ekadashi of वैशाख month is known 
+ as अपरा-एकादशी.\n\nhttps://github.com/sanskrit-coders/
+ jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data/other/mont
+ hly-vratams/ekadashi-vratam-days#apara-ekadazi
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -6799,9 +6675,10 @@ SUMMARY:सर्व-पाण्डव-निर्जला-एकाद
  शी
 DTSTART;VALUE=DATE:20200602
 DTEND;VALUE=DATE:20200603
-DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/other/monthly-vratams/ekadashi-vratam
- -days#pandava-nirjala-ekadazi
+DESCRIPTION:The Shukla-paksha Ekadashi of ज्यैष्ठ month is k
+ nown as निर्जला-एकादशी.\n\nhttps://github.com/sa
+ nskrit-coders/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/d
+ ata/other/monthly-vratams/ekadashi-vratam-days#pandava-nirjala-ekadazi
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -7024,10 +6901,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:अलर्मेल्मङ्गापुरे प्लव
- ोत्सव~समापनम्
+ ोत्सव-समापनम्
 DTSTART;VALUE=DATE:20200605
 DTEND;VALUE=DATE:20200606
-DESCRIPTION:
+DESCRIPTION:Padmavati Devi is taken out on the प्लव (last three da
+ ys).\n\nhttps://github.com/sanskrit-coders/jyotisha/tree/master/jyotisha/p
+ anchangam/temporal/festival/data/lunar_month/tithi/03/15#alarmelmaggapure-
+ plavotsava-samapanam
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -7038,10 +6918,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:अलर्मेल्मङ्गापुरे प्लव
- ोत्सव
-DTSTART;VALUE=DATE:20200527
+ ोत्सवः
+DTSTART;VALUE=DATE:20200601
 DTEND;VALUE=DATE:20200606
-DESCRIPTION:
+DESCRIPTION:Padmavati Devi is taken out on the प्लव (last three da
+ ys).\n\nhttps://github.com/sanskrit-coders/jyotisha/tree/master/jyotisha/p
+ anchangam/temporal/festival/data/lunar_month/tithi/03/15#alarmelmaggapure-
+ plavotsava-samapanam
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -7460,9 +7343,23 @@ BEGIN:VEVENT
 SUMMARY:सर्व-योगिनी-एकादशी
 DTSTART;VALUE=DATE:20200617
 DTEND;VALUE=DATE:20200618
-DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/other/monthly-vratams/ekadashi-vratam
- -days#yogini-ekadazi
+DESCRIPTION:The Krishna-paksha Ekadashi of ज्यैष्ठ month is 
+ known as योगिनी-एकादशी.\n\nhttps://github.com/sans
+ krit-coders/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/dat
+ a/other/monthly-vratams/ekadashi-vratam-days#yogini-ekadazi
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:उन्मीलनी महाद्वादशी
+DTSTART;VALUE=DATE:20200617
+DTEND;VALUE=DATE:20200618
+DESCRIPTION:
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -8278,17 +8175,19 @@ BEGIN:VEVENT
 SUMMARY:सर्व-शयन-एकादशी
 DTSTART;VALUE=DATE:20200701
 DTEND;VALUE=DATE:20200702
-DESCRIPTION:Lord Vishnu goes to sleep.\n\nवासुदेव जगद
- ्योने प्राप्तेयं द्वादशी त
- व।\nभुजङ्गशयनेऽब्धौ च सुखं स
- ्वपिहि माधव॥\nइयं तु द्वादशी
-  देव शयनार्थं विनिर्मित।\nअस
- ्यां सुप्ते जगन्नाथे जगत्स
- ुप्तं भवेदिदम्॥\nविबुद्धे त
- ्वयि बुद्ध्येत सर्वमेतच्चर
- ाचरम्॥\n\n\n\nhttps://github.com/sanskrit-coders/jyotisha/tree
- /master/jyotisha/panchangam/temporal/festival/data/other/monthly-vratams/e
- kadashi-vratam-days#zayana-ekadazi
+DESCRIPTION:The Shukla-paksha Ekadashi of आषाढ month is known as 
+ शयन-एकादशी. Lord Vishnu goes to sleep for four months be
+ ginning today.\n\nवासुदेव जगद्योने प्र
+ ाप्तेयं द्वादशी तव।\nभुजङ्ग
+ शयनेऽब्धौ च सुखं स्वपिहि मा
+ धव॥\nइयं तु द्वादशी देव शयना
+ र्थं विनिर्मित।\nअस्यां सुप
+ ्ते जगन्नाथे जगत्सुप्तं भव
+ ेदिदम्॥\nविबुद्धे त्वयि बुद
+ ्ध्येत सर्वमेतच्चराचरम्॥\n\n
+ \n\nhttps://github.com/sanskrit-coders/jyotisha/tree/master/jyotisha/panch
+ angam/temporal/festival/data/other/monthly-vratams/ekadashi-vratam-days#za
+ yana-ekadazi
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -8735,9 +8634,10 @@ BEGIN:VEVENT
 SUMMARY:सर्व-कामिका-एकादशी
 DTSTART;VALUE=DATE:20200716
 DTEND;VALUE=DATE:20200717
-DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/other/monthly-vratams/ekadashi-vratam
- -days#kamika-ekadazi
+DESCRIPTION:The Krishna-paksha Ekadashi of आषाढ month is known as 
+ कामिका-एकादशी.\n\nhttps://github.com/sanskrit-code
+ rs/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data/other/m
+ onthly-vratams/ekadashi-vratam-days#kamika-ekadazi
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -9564,9 +9464,10 @@ BEGIN:VEVENT
 SUMMARY:सर्व-पवित्रोपान-एकादशी
 DTSTART;VALUE=DATE:20200730
 DTEND;VALUE=DATE:20200731
-DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/other/monthly-vratams/ekadashi-vratam
- -days#pavitropana-ekadazi
+DESCRIPTION:The Shukla-paksha Ekadashi of श्रवण month is known a
+ s पवित्रोपान-एकादशी.\n\nhttps://github.com
+ /sanskrit-coders/jyotisha/tree/master/jyotisha/panchangam/temporal/festiva
+ l/data/other/monthly-vratams/ekadashi-vratam-days#pavitropana-ekadazi
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -10477,10 +10378,11 @@ BEGIN:VEVENT
 SUMMARY:सर्व-अजा-एकादशी
 DTSTART;VALUE=DATE:20200815
 DTEND;VALUE=DATE:20200816
-DESCRIPTION:Satya Harishchandra performed this to get back family and king
- dom.\n\nhttps://github.com/sanskrit-coders/jyotisha/tree/master/jyotisha/p
- anchangam/temporal/festival/data/other/monthly-vratams/ekadashi-vratam-day
- s#aja-ekadazi
+DESCRIPTION:The Krishna-paksha Ekadashi of श्रवण month is known 
+ as अजा-एकादशी. Satya Harishchandra performed this to get
+  back family and kingdom.\n\nhttps://github.com/sanskrit-coders/jyotisha/t
+ ree/master/jyotisha/panchangam/temporal/festival/data/other/monthly-vratam
+ s/ekadashi-vratam-days#aja-ekadazi
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -11506,13 +11408,15 @@ BEGIN:VEVENT
 SUMMARY:सर्व-परिवर्तिनी-एकादशी
 DTSTART;VALUE=DATE:20200829
 DTEND;VALUE=DATE:20200830
-DESCRIPTION:Side ways turn inside sleep of Vishnu midway after Shayana Eka
- dashi.\n\nवासुदेव जगन्नाथ प्राप्
- तेयं द्वादशी तव।\nपार्श्वेन 
- परिवर्तस्व सुखं स्वपिहि मा
- धव॥\n\n\n\nhttps://github.com/sanskrit-coders/jyotisha/tree/master/j
- yotisha/panchangam/temporal/festival/data/other/monthly-vratams/ekadashi-v
- ratam-days#parivartini-ekadazi
+DESCRIPTION:The Shukla-paksha Ekadashi of भाद्रपद month is k
+ nown as परिवर्तिनी-एकादशी. Sideways turn i
+ nside sleep of Lord Vishnu midway after Shayana Ekadashi.\n\nवासु
+ देव जगन्नाथ प्राप्तेयं द्व
+ ादशी तव।\nपार्श्वेन परिवर्त
+ स्व सुखं स्वपिहि माधव॥\n\n\n\nhttps:
+ //github.com/sanskrit-coders/jyotisha/tree/master/jyotisha/panchangam/temp
+ oral/festival/data/other/monthly-vratams/ekadashi-vratam-days#parivartini-
+ ekadazi
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -12287,10 +12191,11 @@ BEGIN:VEVENT
 SUMMARY:सर्व-इन्दिरा-एकादशी
 DTSTART;VALUE=DATE:20200913
 DTEND;VALUE=DATE:20200914
-DESCRIPTION:Indrasena's son did Ekadashi and as a result he was shifted fr
- om hell to heaven.\n\nhttps://github.com/sanskrit-coders/jyotisha/tree/mas
- ter/jyotisha/panchangam/temporal/festival/data/other/monthly-vratams/ekada
- shi-vratam-days#indira-ekadazi
+DESCRIPTION:The Krishna-paksha Ekadashi of भाद्रपद month is 
+ known as इन्दिरा-एकादशी. Indrasena's son did Eka
+ dashi and as a result he was shifted from hell to heaven.\n\nhttps://githu
+ b.com/sanskrit-coders/jyotisha/tree/master/jyotisha/panchangam/temporal/fe
+ stival/data/other/monthly-vratams/ekadashi-vratam-days#indira-ekadazi
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -12761,9 +12666,10 @@ BEGIN:VEVENT
 SUMMARY:सर्व-पद्मिनी-एकादशी
 DTSTART;VALUE=DATE:20200927
 DTEND;VALUE=DATE:20200928
-DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/other/monthly-vratams/ekadashi-vratam
- -days#padmini-ekadazi
+DESCRIPTION:The Shukla-paksha Ekadashi of अधिक month is known as 
+ पद्मिनी-एकादशी.\n\nhttps://github.com/sanskrit-c
+ oders/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data/othe
+ r/monthly-vratams/ekadashi-vratam-days#padmini-ekadazi
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -13027,9 +12933,10 @@ BEGIN:VEVENT
 SUMMARY:सर्व-परमा-एकादशी
 DTSTART;VALUE=DATE:20201013
 DTEND;VALUE=DATE:20201014
-DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/other/monthly-vratams/ekadashi-vratam
- -days#parama-ekadazi
+DESCRIPTION:The Krishna-paksha Ekadashi of अधिक month is known as 
+ परमा-एकादशी.\n\nhttps://github.com/sanskrit-coders/jyo
+ tisha/tree/master/jyotisha/panchangam/temporal/festival/data/other/monthly
+ -vratams/ekadashi-vratam-days#parama-ekadazi
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -13069,7 +12976,7 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:आश्वयुज-(आधिक)-अमावस्या
+SUMMARY:आश्वयुज-(अधिक)-अमावस्या
 DTSTART;VALUE=DATE:20201016
 DTEND;VALUE=DATE:20201017
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
@@ -13835,9 +13742,10 @@ BEGIN:VEVENT
 SUMMARY:सर्व-पापाङ्कुशा-एकादशी
 DTSTART;VALUE=DATE:20201027
 DTEND;VALUE=DATE:20201028
-DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/other/monthly-vratams/ekadashi-vratam
- -days#papagkuza-ekadazi
+DESCRIPTION:The Shukla-paksha Ekadashi of आश्वयुज month is k
+ nown as पापाङ्कुशा-एकादशी.\n\nhttps://gith
+ ub.com/sanskrit-coders/jyotisha/tree/master/jyotisha/panchangam/temporal/f
+ estival/data/other/monthly-vratams/ekadashi-vratam-days#papagkuza-ekadazi
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -14554,9 +14462,10 @@ BEGIN:VEVENT
 SUMMARY:सर्व-रमा-एकादशी
 DTSTART;VALUE=DATE:20201111
 DTEND;VALUE=DATE:20201112
-DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/other/monthly-vratams/ekadashi-vratam
- -days#rama-ekadazi
+DESCRIPTION:The Krishna-paksha Ekadashi of आश्वयुज month is 
+ known as रमा-एकादशी.\n\nhttps://github.com/sanskrit-code
+ rs/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data/other/m
+ onthly-vratams/ekadashi-vratam-days#rama-ekadazi
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -15080,6 +14989,19 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:कृत्तिका सोमवासरः
+DTSTART;VALUE=DATE:20201116
+DTEND;VALUE=DATE:20201117
+DESCRIPTION:
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:கார்த்திகை ஸோமவாரம்
 DTSTART;VALUE=DATE:20201116
 DTEND;VALUE=DATE:20201117
@@ -15497,6 +15419,19 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:कृत्तिका सोमवासरः
+DTSTART;VALUE=DATE:20201123
+DTEND;VALUE=DATE:20201124
+DESCRIPTION:
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:கார்த்திகை ஸோமவாரம்
 DTSTART;VALUE=DATE:20201123
 DTEND;VALUE=DATE:20201124
@@ -15564,13 +15499,15 @@ BEGIN:VEVENT
 SUMMARY:कैशिक-एकादशी
 DTSTART;VALUE=DATE:20201125
 DTEND;VALUE=DATE:20201126
-DESCRIPTION:Kaisika Puranam\, consisting of 82 shlokas describes the story
-  of நம்பாடுவாந் and a राक्षस who attaine
- d mukti by नामसङ्कीर्तनम् and the fruits of 
- நம்பாடுவாந்'s नामसङ्कीर्तन
- म्\, respectively!\n\nhttps://github.com/sanskrit-coders/jyotisha/tree
- /master/jyotisha/panchangam/temporal/festival/data/other/monthly-vratams/e
- kadashi-vratam-days#kaizika-ekadazi
+DESCRIPTION:The Shukla-paksha Ekadashi of वृश्चिकमास i
+ s also celebrated as कैशिक-एकादशी. Kaisika Puranam\,
+  consisting of 82 shlokas describes the story of நம்பாடுவ
+ ாந் and a राक्षस who attained mukti by नामसङ
+ ्कीर्तनम् and the fruits of நம்பாடுவா
+ ந்'s नामसङ्कीर्तनम्\, respectively!\n\nhtt
+ ps://github.com/sanskrit-coders/jyotisha/tree/master/jyotisha/panchangam/t
+ emporal/festival/data/other/monthly-vratams/ekadashi-vratam-days#kaizika-e
+ kadazi
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -15583,9 +15520,11 @@ BEGIN:VEVENT
 SUMMARY:सर्व-गुरुवायुपुर-एकादशी
 DTSTART;VALUE=DATE:20201125
 DTEND;VALUE=DATE:20201126
-DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/other/monthly-vratams/ekadashi-vratam
- -days/kerala-temple-festivals#guruvayupura-ekadazi
+DESCRIPTION:The Shukla-paksha Ekadashi of वृश्चिकमास i
+ s known as गुरुवायुपुर-एकादशी.\n\nhttps:
+ //github.com/sanskrit-coders/jyotisha/tree/master/jyotisha/panchangam/temp
+ oral/festival/data/other/monthly-vratams/ekadashi-vratam-days/kerala-templ
+ e-festivals#guruvayupura-ekadazi
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -15598,9 +15537,10 @@ BEGIN:VEVENT
 SUMMARY:सर्व-उत्थान-एकादशी
 DTSTART;VALUE=DATE:20201125
 DTEND;VALUE=DATE:20201126
-DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/other/monthly-vratams/ekadashi-vratam
- -days#utthana-ekadazi
+DESCRIPTION:The Shukla-paksha Ekadashi of कार्तिक month is k
+ nown as उत्थान-एकादशी.\n\nhttps://github.com/sansk
+ rit-coders/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data
+ /other/monthly-vratams/ekadashi-vratam-days#utthana-ekadazi
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -15742,6 +15682,19 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:व्यञ्जुली महाद्वादशी
+DTSTART;VALUE=DATE:20201126
+DTEND;VALUE=DATE:20201127
+DESCRIPTION:
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:व्यतीपात-श्राद्धः
 DTSTART;VALUE=DATE:20201126
 DTEND;VALUE=DATE:20201127
@@ -15783,13 +15736,15 @@ BEGIN:VEVENT
 SUMMARY:कैशिक-एकादशी
 DTSTART;VALUE=DATE:20201127
 DTEND;VALUE=DATE:20201128
-DESCRIPTION:Kaisika Puranam\, consisting of 82 shlokas describes the story
-  of நம்பாடுவாந் and a राक्षस who attaine
- d mukti by नामसङ्कीर्तनम् and the fruits of 
- நம்பாடுவாந்'s नामसङ्कीर्तन
- म्\, respectively!\n\nhttps://github.com/sanskrit-coders/jyotisha/tree
- /master/jyotisha/panchangam/temporal/festival/data/other/monthly-vratams/e
- kadashi-vratam-days#kaizika-ekadazi
+DESCRIPTION:The Shukla-paksha Ekadashi of वृश्चिकमास i
+ s also celebrated as कैशिक-एकादशी. Kaisika Puranam\,
+  consisting of 82 shlokas describes the story of நம்பாடுவ
+ ாந் and a राक्षस who attained mukti by नामसङ
+ ्कीर्तनम् and the fruits of நம்பாடுவா
+ ந்'s नामसङ्कीर्तनम्\, respectively!\n\nhtt
+ ps://github.com/sanskrit-coders/jyotisha/tree/master/jyotisha/panchangam/t
+ emporal/festival/data/other/monthly-vratams/ekadashi-vratam-days#kaizika-e
+ kadazi
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -15817,9 +15772,11 @@ BEGIN:VEVENT
 SUMMARY:सर्व-गुरुवायुपुर-एकादशी
 DTSTART;VALUE=DATE:20201127
 DTEND;VALUE=DATE:20201128
-DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/other/monthly-vratams/ekadashi-vratam
- -days/kerala-temple-festivals#guruvayupura-ekadazi
+DESCRIPTION:The Shukla-paksha Ekadashi of वृश्चिकमास i
+ s known as गुरुवायुपुर-एकादशी.\n\nhttps:
+ //github.com/sanskrit-coders/jyotisha/tree/master/jyotisha/panchangam/temp
+ oral/festival/data/other/monthly-vratams/ekadashi-vratam-days/kerala-templ
+ e-festivals#guruvayupura-ekadazi
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -15832,9 +15789,10 @@ BEGIN:VEVENT
 SUMMARY:सर्व-उत्थान-एकादशी
 DTSTART;VALUE=DATE:20201127
 DTEND;VALUE=DATE:20201128
-DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/other/monthly-vratams/ekadashi-vratam
- -days#utthana-ekadazi
+DESCRIPTION:The Shukla-paksha Ekadashi of कार्तिक month is k
+ nown as उत्थान-एकादशी.\n\nhttps://github.com/sansk
+ rit-coders/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data
+ /other/monthly-vratams/ekadashi-vratam-days#utthana-ekadazi
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -16163,6 +16121,19 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:कृत्तिका सोमवासरः
+DTSTART;VALUE=DATE:20201130
+DTEND;VALUE=DATE:20201201
+DESCRIPTION:
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:मन्वादि (दक्ष-सावर्णि)
 DTSTART;VALUE=DATE:20201130
 DTEND;VALUE=DATE:20201201
@@ -16418,6 +16389,19 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:कृत्तिका सोमवासरः
+DTSTART;VALUE=DATE:20201207
+DTEND;VALUE=DATE:20201208
+DESCRIPTION:
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:கார்த்திகை ஸோமவாரம்
 DTSTART;VALUE=DATE:20201207
 DTEND;VALUE=DATE:20201208
@@ -16533,9 +16517,10 @@ BEGIN:VEVENT
 SUMMARY:सर्व-उत्पन्ना-एकादशी
 DTSTART;VALUE=DATE:20201211
 DTEND;VALUE=DATE:20201212
-DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/other/monthly-vratams/ekadashi-vratam
- -days#utpanna-ekadazi
+DESCRIPTION:The Krishna-paksha Ekadashi of कार्तिक month is 
+ known as उत्पन्ना-एकादशी.\n\nhttps://github.co
+ m/sanskrit-coders/jyotisha/tree/master/jyotisha/panchangam/temporal/festiv
+ al/data/other/monthly-vratams/ekadashi-vratam-days#utpanna-ekadazi
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -16642,6 +16627,19 @@ DTEND;VALUE=DATE:20201215
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/lunar_month/tithi/08/30#kartika-snana
  purtih
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:कृत्तिका सोमवासरः
+DTSTART;VALUE=DATE:20201214
+DTEND;VALUE=DATE:20201215
+DESCRIPTION:
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -17173,9 +17171,10 @@ BEGIN:VEVENT
 SUMMARY:सर्व-मोक्षदा-एकादशी
 DTSTART;VALUE=DATE:20201225
 DTEND;VALUE=DATE:20201226
-DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/other/monthly-vratams/ekadashi-vratam
- -days#moksada-ekadazi
+DESCRIPTION:The Shukla-paksha Ekadashi of मार्गशीर्ष m
+ onth is known as मोक्षदा-एकादशी.\n\nhttps://gith
+ ub.com/sanskrit-coders/jyotisha/tree/master/jyotisha/panchangam/temporal/f
+ estival/data/other/monthly-vratams/ekadashi-vratam-days#moksada-ekadazi
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -17188,9 +17187,10 @@ BEGIN:VEVENT
 SUMMARY:सर्व-वैकुण्ठ-एकादशी
 DTSTART;VALUE=DATE:20201225
 DTEND;VALUE=DATE:20201226
-DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/other/monthly-vratams/ekadashi-vratam
- -days#vaikuntha-ekadazi
+DESCRIPTION:The Shukla-paksha Ekadashi of धनुर्मास is know
+ n as वैकुण्ठ-एकादशी.\n\nhttps://github.com/sansk
+ rit-coders/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data
+ /other/monthly-vratams/ekadashi-vratam-days#vaikuntha-ekadazi
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
