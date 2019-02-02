@@ -276,7 +276,10 @@ BEGIN:VEVENT
 SUMMARY:त्रिस्पृशा महाद्वादशी
 DTSTART;VALUE=DATE:20190117
 DTEND;VALUE=DATE:20190118
-DESCRIPTION:
+DESCRIPTION:Dvadashi tithi\, which starts after sunrise on a day and ends 
+ before sunrise on the next.\n\nhttps://github.com/sanskrit-coders/jyotisha
+ /tree/master/jyotisha/panchangam/temporal/festival/data/other/rare-days/co
+ mbinations/special-vratams#trisprza-mahadvadazi
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -430,6 +433,30 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:व्यतीपात-योगः (अलभ्यम्)
+DTSTART;VALUE=DATE:20190203
+DTEND;VALUE=DATE:20190204
+DESCRIPTION:If\, on a Sunday\, अमावस्या and one of the sta
+ rs—श्रवणम्\, अश्विनी\, श्रविष्
+ ठा\, आर्द्रा or आश्रेषा—occurs\, then it
+  is called व्यतीपात योङः\, equal to a hundred _Sur
+ ya grahanas_ in merit.\n\nश्रवणाश्विधनिष्ठ
+ ार्द्रानागदैवतमापतेत्।\nरव
+ िवारयुतामायां व्यतीपातः स 
+ उच्यते।\nव्यतीपाताख्ययोगोऽ
+ यं शतार्कग्रहसन्निभः॥\n\n\n\n\nhtt
+ ps://github.com/sanskrit-coders/jyotisha/tree/master/jyotisha/panchangam/t
+ emporal/festival/data/other/rare-days/combinations/amavasya-days#vyatipata
+ -yogah-(alabhyam)
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:महोदय-पुण्यकालः
 DTSTART;VALUE=DATE:20190204
 DTEND;VALUE=DATE:20190205
@@ -437,6 +464,27 @@ DESCRIPTION:A rare combination of Pausha masam\, Shravana nakshatram\, Vya
  tipata yogam and Monday.\n\nhttps://github.com/sanskrit-coders/jyotisha/tr
  ee/master/jyotisha/panchangam/temporal/festival/data/other/rare-days/combi
  nations#mahodaya-punyakalah
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:पुष्कला अमावस्या (अलभ्यम
+ ्)
+DTSTART;VALUE=DATE:20190204
+DTEND;VALUE=DATE:20190205
+DESCRIPTION:If\, अमावस्या occurs on a Monday\, Tuesday or 
+ Thursday\, the combination gives the tithi the name पुष्कला 
+ and is equal to a solar eclipse.\n\nअमा सोमेन भौमे
+ न गुरुणा वा युत यदि।\nसा तिथि
+ ः पुष्कला नाम सूर्यग्रहणसन
+ ्निभा॥\n\n\n\n\nhttps://github.com/sanskrit-coders/jyotisha/tr
+ ee/master/jyotisha/panchangam/temporal/festival/data/other/rare-days/combi
+ nations/amavasya-days#puskala-amavasya-(alabhyam)
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -746,7 +794,11 @@ BEGIN:VEVENT
 SUMMARY:पक्षवर्धिनी महाद्वादशी
 DTSTART;VALUE=DATE:20190302
 DTEND;VALUE=DATE:20190303
-DESCRIPTION:
+DESCRIPTION:Dvadashi tithi\, which is followed by an अमावस्य
+ ा or पौर्णमी that touches two consecutive days at sunrise.
+ \n\nhttps://github.com/sanskrit-coders/jyotisha/tree/master/jyotisha/panch
+ angam/temporal/festival/data/other/rare-days/combinations/special-vratams#
+ paksavardhini-mahadvadazi
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -786,11 +838,33 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:माघ-अमावस्या
+SUMMARY:माघ-अमावस्या (अलभ्यम्–शत
+ भिषक्)
 DTSTART;VALUE=DATE:20190305
 DTEND;VALUE=DATE:20190306
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/other/amavasya-days#magha-amavasya
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:पुष्कला अमावस्या (अलभ्यम
+ ्)
+DTSTART;VALUE=DATE:20190305
+DTEND;VALUE=DATE:20190306
+DESCRIPTION:If\, अमावस्या occurs on a Monday\, Tuesday or 
+ Thursday\, the combination gives the tithi the name पुष्कला 
+ and is equal to a solar eclipse.\n\nअमा सोमेन भौमे
+ न गुरुणा वा युत यदि।\nसा तिथि
+ ः पुष्कला नाम सूर्यग्रहणसन
+ ्निभा॥\n\n\n\n\nhttps://github.com/sanskrit-coders/jyotisha/tr
+ ee/master/jyotisha/panchangam/temporal/festival/data/other/rare-days/combi
+ nations/amavasya-days#puskala-amavasya-(alabhyam)
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -899,7 +973,10 @@ BEGIN:VEVENT
 SUMMARY:त्रिस्पृशा महाद्वादशी
 DTSTART;VALUE=DATE:20190317
 DTEND;VALUE=DATE:20190318
-DESCRIPTION:
+DESCRIPTION:Dvadashi tithi\, which starts after sunrise on a day and ends 
+ before sunrise on the next.\n\nhttps://github.com/sanskrit-coders/jyotisha
+ /tree/master/jyotisha/panchangam/temporal/festival/data/other/rare-days/co
+ mbinations/special-vratams#trisprza-mahadvadazi
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -1104,6 +1181,27 @@ DTSTART;VALUE=DATE:20190404
 DTEND;VALUE=DATE:20190405
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/other/amavasya-days#phalguna-amavasya
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:पुष्कला अमावस्या (अलभ्यम
+ ्)
+DTSTART;VALUE=DATE:20190404
+DTEND;VALUE=DATE:20190405
+DESCRIPTION:If\, अमावस्या occurs on a Monday\, Tuesday or 
+ Thursday\, the combination gives the tithi the name पुष्कला 
+ and is equal to a solar eclipse.\n\nअमा सोमेन भौमे
+ न गुरुणा वा युत यदि।\nसा तिथि
+ ः पुष्कला नाम सूर्यग्रहणसन
+ ्निभा॥\n\n\n\n\nhttps://github.com/sanskrit-coders/jyotisha/tr
+ ee/master/jyotisha/panchangam/temporal/festival/data/other/rare-days/combi
+ nations/amavasya-days#puskala-amavasya-(alabhyam)
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -2209,6 +2307,48 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:पुष्कला अमावस्या (अलभ्यम
+ ्)
+DTSTART;VALUE=DATE:20190701
+DTEND;VALUE=DATE:20190702
+DESCRIPTION:If\, अमावस्या occurs on a Monday\, Tuesday or 
+ Thursday\, the combination gives the tithi the name पुष्कला 
+ and is equal to a solar eclipse.\n\nअमा सोमेन भौमे
+ न गुरुणा वा युत यदि।\nसा तिथि
+ ः पुष्कला नाम सूर्यग्रहणसन
+ ्निभा॥\n\n\n\n\nhttps://github.com/sanskrit-coders/jyotisha/tr
+ ee/master/jyotisha/panchangam/temporal/festival/data/other/rare-days/combi
+ nations/amavasya-days#puskala-amavasya-(alabhyam)
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:पुष्कला अमावस्या (अलभ्यम
+ ्)
+DTSTART;VALUE=DATE:20190702
+DTEND;VALUE=DATE:20190703
+DESCRIPTION:If\, अमावस्या occurs on a Monday\, Tuesday or 
+ Thursday\, the combination gives the tithi the name पुष्कला 
+ and is equal to a solar eclipse.\n\nअमा सोमेन भौमे
+ न गुरुणा वा युत यदि।\nसा तिथि
+ ः पुष्कला नाम सूर्यग्रहणसन
+ ्निभा॥\n\n\n\n\nhttps://github.com/sanskrit-coders/jyotisha/tr
+ ee/master/jyotisha/panchangam/temporal/festival/data/other/rare-days/combi
+ nations/amavasya-days#puskala-amavasya-(alabhyam)
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:जगन्नाथ-रथ-यात्रा
 DTSTART;VALUE=DATE:20190704
 DTEND;VALUE=DATE:20190705
@@ -2521,7 +2661,10 @@ BEGIN:VEVENT
 SUMMARY:त्रिस्पृशा महाद्वादशी
 DTSTART;VALUE=DATE:20190728
 DTEND;VALUE=DATE:20190729
-DESCRIPTION:
+DESCRIPTION:Dvadashi tithi\, which starts after sunrise on a day and ends 
+ before sunrise on the next.\n\nhttps://github.com/sanskrit-coders/jyotisha
+ /tree/master/jyotisha/panchangam/temporal/festival/data/other/rare-days/co
+ mbinations/special-vratams#trisprza-mahadvadazi
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -2564,7 +2707,8 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:आषाढ (कटक) अमावस्या
+SUMMARY:आषाढ (कटक) अमावस्या (अलभ्य
+ म्–पुष्य)
 DTSTART;VALUE=DATE:20190731
 DTEND;VALUE=DATE:20190801
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
@@ -3021,6 +3165,27 @@ DTEND;VALUE=DATE:20190828
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/other/monthly-vratams/pradosha-vratam
  -days#pradosa-vratam
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:पुष्कला अमावस्या (अलभ्यम
+ ्)
+DTSTART;VALUE=DATE:20190829
+DTEND;VALUE=DATE:20190830
+DESCRIPTION:If\, अमावस्या occurs on a Monday\, Tuesday or 
+ Thursday\, the combination gives the tithi the name पुष्कला 
+ and is equal to a solar eclipse.\n\nअमा सोमेन भौमे
+ न गुरुणा वा युत यदि।\nसा तिथि
+ ः पुष्कला नाम सूर्यग्रहणसन
+ ्निभा॥\n\n\n\n\nhttps://github.com/sanskrit-coders/jyotisha/tr
+ ee/master/jyotisha/panchangam/temporal/festival/data/other/rare-days/combi
+ nations/amavasya-days#puskala-amavasya-(alabhyam)
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -3973,7 +4138,10 @@ BEGIN:VEVENT
 SUMMARY:व्यञ्जुली महाद्वादशी
 DTSTART;VALUE=DATE:20191009
 DTEND;VALUE=DATE:20191010
-DESCRIPTION:
+DESCRIPTION:Dvadashi tithi\, which is present at sunrise on two consecutiv
+ e days.\n\nhttps://github.com/sanskrit-coders/jyotisha/tree/master/jyotish
+ a/panchangam/temporal/festival/data/other/rare-days/combinations/special-v
+ ratams#vyajjuli-mahadvadazi
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -4243,7 +4411,10 @@ BEGIN:VEVENT
 SUMMARY:त्रिस्पृशा महाद्वादशी
 DTSTART;VALUE=DATE:20191024
 DTEND;VALUE=DATE:20191025
-DESCRIPTION:
+DESCRIPTION:Dvadashi tithi\, which starts after sunrise on a day and ends 
+ before sunrise on the next.\n\nhttps://github.com/sanskrit-coders/jyotisha
+ /tree/master/jyotisha/panchangam/temporal/festival/data/other/rare-days/co
+ mbinations/special-vratams#trisprza-mahadvadazi
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -4361,7 +4532,8 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:आश्वयुज-अमावस्या
+SUMMARY:आश्वयुज-अमावस्या (अलभ्यम
+ ्–स्वाति)
 DTSTART;VALUE=DATE:20191027
 DTEND;VALUE=DATE:20191028
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
@@ -4414,19 +4586,6 @@ DESCRIPTION:Commemoration of Govardhana Leela of Krishna. Offer naivedyam
  to Lord Krishna.\n\nhttps://github.com/sanskrit-coders/jyotisha/tree/maste
  r/jyotisha/panchangam/temporal/festival/data/lunar_month/tithi/08/01#govar
  dhana-puja
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT4H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:कृत्तिका सोमवासरः
-DTSTART;VALUE=DATE:20191028
-DTEND;VALUE=DATE:20191029
-DESCRIPTION:
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -4570,19 +4729,6 @@ DESCRIPTION:Coming from Brahma's Kamandalu\, Pushkara Raja resides in diff
  .com/sanskrit-coders/jyotisha/tree/master/jyotisha/panchangam/temporal/fes
  tival/data/other/rare-days/pushkara#bhimatamraparni-antya-puskara-samapana
  m
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT4H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:कृत्तिका सोमवासरः
-DTSTART;VALUE=DATE:20191104
-DTEND;VALUE=DATE:20191105
-DESCRIPTION:
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -4801,19 +4947,6 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:कृत्तिका सोमवासरः
-DTSTART;VALUE=DATE:20191111
-DTEND;VALUE=DATE:20191112
-DESCRIPTION:
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT4H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:महा अन्नाभिषेकः
 DTSTART;VALUE=DATE:20191111
 DTEND;VALUE=DATE:20191112
@@ -4976,19 +5109,6 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:कृत्तिका सोमवासरः
-DTSTART;VALUE=DATE:20191118
-DTEND;VALUE=DATE:20191119
-DESCRIPTION:
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT4H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:सर्व-उत्पन्ना-एकादशी
 DTSTART;VALUE=DATE:20191122
 DTEND;VALUE=DATE:20191123
@@ -5020,7 +5140,8 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:कार्तिक-अमावस्या
+SUMMARY:कार्तिक-अमावस्या (अलभ्यम
+ ्–विशाखा)
 DTSTART;VALUE=DATE:20191125
 DTEND;VALUE=DATE:20191126
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
@@ -5034,10 +5155,39 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:कृत्तिका सोमवासरः
+SUMMARY:पुष्कला अमावस्या (अलभ्यम
+ ्)
 DTSTART;VALUE=DATE:20191125
 DTEND;VALUE=DATE:20191126
-DESCRIPTION:
+DESCRIPTION:If\, अमावस्या occurs on a Monday\, Tuesday or 
+ Thursday\, the combination gives the tithi the name पुष्कला 
+ and is equal to a solar eclipse.\n\nअमा सोमेन भौमे
+ न गुरुणा वा युत यदि।\nसा तिथि
+ ः पुष्कला नाम सूर्यग्रहणसन
+ ्निभा॥\n\n\n\n\nhttps://github.com/sanskrit-coders/jyotisha/tr
+ ee/master/jyotisha/panchangam/temporal/festival/data/other/rare-days/combi
+ nations/amavasya-days#puskala-amavasya-(alabhyam)
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:पुष्कला अमावस्या (अलभ्यम
+ ्)
+DTSTART;VALUE=DATE:20191126
+DTEND;VALUE=DATE:20191127
+DESCRIPTION:If\, अमावस्या occurs on a Monday\, Tuesday or 
+ Thursday\, the combination gives the tithi the name पुष्कला 
+ and is equal to a solar eclipse.\n\nअमा सोमेन भौमे
+ न गुरुणा वा युत यदि।\nसा तिथि
+ ः पुष्कला नाम सूर्यग्रहणसन
+ ्निभा॥\n\n\n\n\nhttps://github.com/sanskrit-coders/jyotisha/tr
+ ee/master/jyotisha/panchangam/temporal/festival/data/other/rare-days/combi
+ nations/amavasya-days#puskala-amavasya-(alabhyam)
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
