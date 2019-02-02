@@ -1,0 +1,5483 @@
+BEGIN:VCALENDAR
+BEGIN:VEVENT
+SUMMARY:काञ्ची ६८ जगद्गुरु श्री 
+ चन्द्रशेखरेन्द्र सरस्वती आ
+ राधना #२५
+DTSTART;VALUE=DATE:20190101
+DTEND;VALUE=DATE:20190102
+DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/09/27#kajci-68-jaga
+ dguru-zri-candrazekharendra-sarasvati-aradhana
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:सर्व-सफला-एकादशी
+DTSTART;VALUE=DATE:20190101
+DTEND;VALUE=DATE:20190102
+DESCRIPTION:The Krishna-paksha Ekadashi of मार्गशीर्ष 
+ month is known as सफला-एकादशी.\n\nhttps://github.com/s
+ anskrit-coders/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/
+ data/other/monthly-vratams/ekadashi-vratam-days#saphala-ekadazi
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:बुधानूराधा-पुण्यकालः
+DTSTART;VALUE=DATE:20190102
+DTEND;VALUE=DATE:20190103
+DESCRIPTION:When अनूराधा nakshatram falls on a Wednesday\, i
+ t is a special पुण्यकालः for performing दानम्.
+  One can do दानं of दध्योदनम् in Vishnu temples 
+ on this day.\n\nhttps://github.com/sanskrit-coders/jyotisha/tree/master/jy
+ otisha/panchangam/temporal/festival/data/other/rare-days/combinations#budh
+ anuradha-punyakalah
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:प्रदोष-व्रतम्
+DTSTART;VALUE=DATE:20190102
+DTEND;VALUE=DATE:20190103
+DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
+ ha/panchangam/temporal/festival/data/other/monthly-vratams/pradosha-vratam
+ -days#pradosa-vratam
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:உந்து மதக்களிற்றன்
+DTSTART;VALUE=DATE:20190102
+DTEND;VALUE=DATE:20190103
+DESCRIPTION:Offer naivedyam of चित्रान्नम् (tamarind
+  rice) to Vishnu\n\nhttps://github.com/sanskrit-coders/jyotisha/tree/maste
+ r/jyotisha/panchangam/temporal/festival/data/solar_month/day/09/18#undu-ma
+ dakkalir2r2an2
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:मार्गशीर्ष-अमावस्या
+DTSTART;VALUE=DATE:20190105
+DTEND;VALUE=DATE:20190106
+DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
+ ha/panchangam/temporal/festival/data/other/amavasya-days#margazirsa-amavas
+ ya
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:श्री हनूमत् जयन्ती
+DTSTART;VALUE=DATE:20190105
+DTEND;VALUE=DATE:20190106
+DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
+ ha/panchangam/temporal/festival/data/solar_month/tithi/09/30#zri-hanumat-j
+ ayanti-1
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:षष्ठी-व्रतम्
+DTSTART;VALUE=DATE:20190111
+DTEND;VALUE=DATE:20190112
+DESCRIPTION:Monthly Shashthi vratam for Lord Subrahmanya.\n\nhttps://githu
+ b.com/sanskrit-coders/jyotisha/tree/master/jyotisha/panchangam/temporal/fe
+ stival/data/other/monthly-vratams/shashthi-vratam-days#sasthi-vratam
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:கூடாரவல்லீ
+DTSTART;VALUE=DATE:20190111
+DTEND;VALUE=DATE:20190112
+DESCRIPTION:Offer naivedyam of गुडान्नम् to Vishnu\, as 
+ mentioned in the Tiruppavai 27\n\nhttps://github.com/sanskrit-coders/jyoti
+ sha/tree/master/jyotisha/panchangam/temporal/festival/data/solar_month/day
+ /09/27#kudaravalli
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:கறவைகள் பின்சென்று
+DTSTART;VALUE=DATE:20190112
+DTEND;VALUE=DATE:20190113
+DESCRIPTION:Offer naivedyam of दध्योदनम् to Vishnu\, for
+  Tiruppavai 28\n\nhttps://github.com/sanskrit-coders/jyotisha/tree/master/
+ jyotisha/panchangam/temporal/festival/data/solar_month/day/09/28#kar2avaig
+ al-pin2cen2r2u
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:महाजया सप्तमी
+DTSTART;VALUE=DATE:20190113
+DTEND;VALUE=DATE:20190114
+DESCRIPTION:Saptami tithi\, combined with a sankranti.\n\nhttps://github.c
+ om/sanskrit-coders/jyotisha/tree/master/jyotisha/panchangam/temporal/festi
+ val/data/other/rare-days/combinations#mahajaya-saptami
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:போகி
+DTSTART;VALUE=DATE:20190113
+DTEND;VALUE=DATE:20190114
+DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
+ ha/panchangam/temporal/festival/data/relative_event/makara-saGkrAntiH__utt
+ arAyaNa-puNyakAlaH/offset__-1#bhogi
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:विजया भानुसप्तमी★
+DTSTART;VALUE=DATE:20190113
+DTEND;VALUE=DATE:20190114
+DESCRIPTION:सप्तमी तिथि on a Sunday is as sacred as a 
+ solar eclipse. Particularly good for worshipping Surya. When शुक्
+ ल सप्तमी is present at sunrise\, it is called विजय
+ ा.\n\nअमावस्या तु सोमेन सप्तमी
+  भानुना सह।\nचतुर्थी भूमिपुत
+ ्रेण सोमपुत्रेण चाष्टमी।\nच
+ तस्रस्तिथयस्त्वेताः सूर्य
+ ग्रहणसन्निभाः॥\n\n\n\nhttps://github.com/sansk
+ rit-coders/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data
+ /other/rare-days/combinations#vijaya-bhanusaptami★
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:मकर-ज्योतिः
+DTSTART;VALUE=DATE:20190114
+DTEND;VALUE=DATE:20190115
+DESCRIPTION:Darshan of Makara Jyoti in Sabarimala Ayyappa Temple.\n\nhttps
+ ://github.com/sanskrit-coders/jyotisha/tree/master/jyotisha/panchangam/tem
+ poral/festival/data/solar_month/day/10/01#makara-jyotih
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:मकर-सङ्क्रान्तिः/उत्तरा
+ यण-पुण्यकालः
+DTSTART;VALUE=DATE:20190114
+DTEND;VALUE=DATE:20190115
+DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
+ ha/panchangam/temporal/festival/data/solar_month/day/10/01#makara-sagkrant
+ ihuttarayana-punyakalah
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:கனுப் பொங்கல்
+DTSTART;VALUE=DATE:20190115
+DTEND;VALUE=DATE:20190116
+DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
+ ha/panchangam/temporal/festival/data/relative_event/makara-saGkrAntiH__utt
+ arAyaNa-puNyakAlaH/offset__01#kan2up-poggal
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:सर्व-पुत्रदा-एकादशी
+DTSTART;VALUE=DATE:20190117
+DTEND;VALUE=DATE:20190118
+DESCRIPTION:The Shukla-paksha Ekadashi of पौष month is known as प
+ ुत्रदा-एकादशी.\n\nhttps://github.com/sanskrit-code
+ rs/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data/other/m
+ onthly-vratams/ekadashi-vratam-days#putrada-ekadazi
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:त्रिस्पृशा महाद्वादशी
+DTSTART;VALUE=DATE:20190117
+DTEND;VALUE=DATE:20190118
+DESCRIPTION:
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:प्रदोष-व्रतम्
+DTSTART;VALUE=DATE:20190118
+DTEND;VALUE=DATE:20190119
+DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
+ ha/panchangam/temporal/festival/data/other/monthly-vratams/pradosha-vratam
+ -days#pradosa-vratam
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:चन्द्र-ग्रहणम्~(राहुग्रस
+ ्त)
+DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20190120T193300
+DTEND;TZID=America/Los_Angeles;VALUE=DATE-TIME:20190120T225000
+DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
+ ha/panchangam/temporal/festival/data/other/rare-days/eclipses#candra-graha
+ nam-(rahugrasta)
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:தைப்பூசம்
+DTSTART;VALUE=DATE:20190120
+DTEND;VALUE=DATE:20190121
+DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
+ ha/panchangam/temporal/festival/data/solar_month/nakshatram/10/08#taippuca
+ m
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:लम्बोदर-महागणपति सङ्कटह
+ र-चतुर्थी-व्रतम्
+DTSTART;VALUE=DATE:20190123
+DTEND;VALUE=DATE:20190124
+DESCRIPTION:Special vrata day for Ganesha. In this month\, Ganesha is wors
+ hipped as लम्बोदर-महागणपतिः. Fast during t
+ he day and pray to Ganesha after moonrise\, as follows:\n\nगणाधि
+ पस्त्वं देवेश चतुर्थ्यां प
+ ूजितो मया।\nकष्टान् मां मोचय
+ ेशान सर्वमिष्टं च देहि मे॥\n\n
+ \n\nhttps://github.com/sanskrit-coders/jyotisha/tree/master/jyotisha/panch
+ angam/temporal/festival/data/other/monthly-vratams/sankatahara-chaturthi-v
+ ratam-days#lambodara-mahaganapati-sagkatahara-caturthi-vratam
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:त्यागराज-आराधना #१७२
+DTSTART;VALUE=DATE:20190124
+DTEND;VALUE=DATE:20190125
+DESCRIPTION:कामक्रोधादिरहितं रामभ
+ क्तशिरोमणिम्।\nत्यागराजगुर
+ ुं वन्दे सङ्गीताब्धिं कलान
+ िधिम्॥\n\n\n\nhttps://github.com/sanskrit-coders/jyotisha/tree
+ /master/jyotisha/panchangam/temporal/festival/data/lunar_month/tithi/10/20
+ #tyagaraja-aradhana
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:विवेकानन्द जयन्ती #१५७
+DTSTART;VALUE=DATE:20190126
+DTEND;VALUE=DATE:20190127
+DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/10/22#vivekananda-j
+ ayanti
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:सर्व-षट्तिला-एकादशी
+DTSTART;VALUE=DATE:20190130
+DTEND;VALUE=DATE:20190131
+DESCRIPTION:The Krishna-paksha Ekadashi of पौष month is known as ष
+ ट्तिला-एकादशी.\n\nhttps://github.com/sanskrit-code
+ rs/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data/other/m
+ onthly-vratams/ekadashi-vratam-days#sattila-ekadazi
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:प्रदोष-व्रतम्
+DTSTART;VALUE=DATE:20190201
+DTEND;VALUE=DATE:20190202
+DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
+ ha/panchangam/temporal/festival/data/other/monthly-vratams/pradosha-vratam
+ -days#pradosa-vratam
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:मौनि (पौष/मकर) अमावस्या
+DTSTART;VALUE=DATE:20190203
+DTEND;VALUE=DATE:20190204
+DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
+ ha/panchangam/temporal/festival/data/other/amavasya-days#mauni-(pausamakar
+ a)-amavasya
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:महोदय-पुण्यकालः
+DTSTART;VALUE=DATE:20190204
+DTEND;VALUE=DATE:20190205
+DESCRIPTION:A rare combination of Pausha masam\, Shravana nakshatram\, Vya
+ tipata yogam and Monday.\n\nhttps://github.com/sanskrit-coders/jyotisha/tr
+ ee/master/jyotisha/panchangam/temporal/festival/data/other/rare-days/combi
+ nations#mahodaya-punyakalah
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:सोमवती अमावस्या
+DTSTART;VALUE=DATE:20190204
+DTEND;VALUE=DATE:20190205
+DESCRIPTION:अमावस्या on a Monday is as sacred as a solar e
+ clipse. Particularly good for performing pradakshinam of Pippala tree.\n\n
+ अमावस्या तु सोमेन सप्तमी भा
+ नुना सह।\nचतुर्थी भूमिपुत्र
+ ेण सोमपुत्रेण चाष्टमी।\nचतस
+ ्रस्तिथयस्त्वेताः सूर्यग्
+ रहणसन्निभाः॥\n\nमूलतो ब्रह्म
+ रूपाय मध्यतो विष्णुरूपिणे।
+ \nअग्रतः शिवरूपाय वृक्षराजा
+ य ते नमः॥\nअक्षिस्पन्दं भुजस
+ ्पन्दं दुःस्वप्नं दुर्विचि
+ न्तनम्।\nशत्रूनाम् च समुत्प
+ न्नम् अश्वत्थ शमयस्व मे॥\n\n\n\n
+ https://github.com/sanskrit-coders/jyotisha/tree/master/jyotisha/panchanga
+ m/temporal/festival/data/other/rare-days/combinations/amavasya-days#somava
+ ti-amavasya
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:मार्कण्डेय जयन्ती
+DTSTART;VALUE=DATE:20190208
+DTEND;VALUE=DATE:20190209
+DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/11/04#markandeya-ja
+ yanti
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:षष्ठी-व्रतम्
+DTSTART;VALUE=DATE:20190210
+DTEND;VALUE=DATE:20190211
+DESCRIPTION:Monthly Shashthi vratam for Lord Subrahmanya.\n\nhttps://githu
+ b.com/sanskrit-coders/jyotisha/tree/master/jyotisha/panchangam/temporal/fe
+ stival/data/other/monthly-vratams/shashthi-vratam-days#sasthi-vratam
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:रथ-सप्तमी
+DTSTART;VALUE=DATE:20190211
+DTEND;VALUE=DATE:20190212
+DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/11/07#ratha-saptami
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:भीष्माष्टमी
+DTSTART;VALUE=DATE:20190212
+DTEND;VALUE=DATE:20190213
+DESCRIPTION:Bhishma obtained mukti on this day\; offer tarpana to Bhishma 
+ (even those with parents). Brings health\, long life and harmony in family
+ .\n\nhttps://github.com/sanskrit-coders/jyotisha/tree/master/jyotisha/panc
+ hangam/temporal/festival/data/lunar_month/tithi/11/08#bhismastami
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:विष्णुपदी-कुम्भरविः
+DTSTART;VALUE=DATE:20190213
+DTEND;VALUE=DATE:20190214
+DESCRIPTION:Perform danam of hay\, grass\, food and pure water to cows.\n\
+ nकुम्भप्रवेशे दानं तु गवं अम
+ ्बु तृणस्य च\n\n\n\nhttps://github.com/sanskrit-coders
+ /jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data/solar_mon
+ th/day/11/01#visnupadi-kumbharavih
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:सर्व-जया/भैमी-एकादशी
+DTSTART;VALUE=DATE:20190215
+DTEND;VALUE=DATE:20190216
+DESCRIPTION:The Jaya-paksha Ekadashi of माघ month is known as भै
+ मी-एकादशी.\n\nhttps://github.com/sanskrit-coders/jyotisha/
+ tree/master/jyotisha/panchangam/temporal/festival/data/other/monthly-vrata
+ ms/ekadashi-vratam-days#jayabhaimi-ekadazi
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:जयन्ती महाद्वादशी
+DTSTART;VALUE=DATE:20190216
+DTEND;VALUE=DATE:20190217
+DESCRIPTION:Dvadashi tithi\, combined with Punarvasu nakshatram.\n\nhttps:
+ //github.com/sanskrit-coders/jyotisha/tree/master/jyotisha/panchangam/temp
+ oral/festival/data/other/rare-days/combinations#jayanti-mahadvadazi
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:वराह-द्वादशी
+DTSTART;VALUE=DATE:20190216
+DTEND;VALUE=DATE:20190217
+DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/11/12#varaha-dvadaz
+ i
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:शनि-प्रदोष-व्रतम्
+DTSTART;VALUE=DATE:20190216
+DTEND;VALUE=DATE:20190217
+DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
+ ha/panchangam/temporal/festival/data/other/monthly-vratams/pradosha-vratam
+ -days#zani-pradosa-vratam
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ललिता जयन्ती
+DTSTART;VALUE=DATE:20190219
+DTEND;VALUE=DATE:20190220
+DESCRIPTION:Goddess Lalita is 3rd of the Dasha Maha Vidyas.\n\nhttps://git
+ hub.com/sanskrit-coders/jyotisha/tree/master/jyotisha/panchangam/temporal/
+ festival/data/lunar_month/tithi/11/15#lalita-jayanti
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:माघ-पूर्णिमा
+DTSTART;VALUE=DATE:20190219
+DTEND;VALUE=DATE:20190220
+DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/11/15#magha-purnima
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:மாசி மகம்
+DTSTART;VALUE=DATE:20190219
+DTEND;VALUE=DATE:20190220
+DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
+ ha/panchangam/temporal/festival/data/solar_month/nakshatram/11/10#maci-mag
+ ham
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:द्विजप्रिय-महागणपति सङ्
+ कटहर-चतुर्थी-व्रतम्
+DTSTART;VALUE=DATE:20190221
+DTEND;VALUE=DATE:20190222
+DESCRIPTION:Special vrata day for Ganesha. In this month\, Ganesha is wors
+ hipped as द्विजप्रिय-महागणपतिः. Fast
+  during the day and pray to Ganesha after moonrise\, as follows:\n\nगण
+ ाधिपस्त्वं देवेश चतुर्थ्या
+ ं पूजितो मया।\nकष्टान् मां म
+ ोचयेशान सर्वमिष्टं च देहि म
+ े॥\n\n\n\nhttps://github.com/sanskrit-coders/jyotisha/tree/master/jyot
+ isha/panchangam/temporal/festival/data/other/monthly-vratams/sankatahara-c
+ haturthi-vratam-days#dvijapriya-mahaganapati-sagkatahara-caturthi-vratam
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:यशोदा जयन्ती
+DTSTART;VALUE=DATE:20190224
+DTEND;VALUE=DATE:20190225
+DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/11/21#yazoda-jayant
+ i
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:काञ्ची ६६ जगद्गुरु श्री 
+ चन्द्रशेखरेन्द्र सरस्वती ७
+  आराधना #११२
+DTSTART;VALUE=DATE:20190226
+DTEND;VALUE=DATE:20190227
+DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/11/23#kajci-66-jaga
+ dguru-zri-candrazekharendra-sarasvati-7-aradhana
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:सर्व-विजया-एकादशी
+DTSTART;VALUE=DATE:20190301
+DTEND;VALUE=DATE:20190302
+DESCRIPTION:The Krishna-paksha Ekadashi of माघ month is known as व
+ िजया-एकादशी.\n\nhttps://github.com/sanskrit-coders/jyo
+ tisha/tree/master/jyotisha/panchangam/temporal/festival/data/other/monthly
+ -vratams/ekadashi-vratam-days#vijaya-ekadazi
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:काञ्ची जगद्गुरु श्री शङ्
+ कर विजयेन्द्र सरस्वती जयन्
+ ती #५१
+DTSTART;VALUE=DATE:20190302
+DTEND;VALUE=DATE:20190303
+DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
+ ha/panchangam/temporal/festival/data/solar_month/nakshatram/11/21#kajci-ja
+ gadguru-zri-zagkara-vijayendra-sarasvati-jayanti
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:पक्षवर्धिनी महाद्वादशी
+DTSTART;VALUE=DATE:20190302
+DTEND;VALUE=DATE:20190303
+DESCRIPTION:
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:प्रदोष-व्रतम्
+DTSTART;VALUE=DATE:20190303
+DTEND;VALUE=DATE:20190304
+DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
+ ha/panchangam/temporal/festival/data/other/monthly-vratams/pradosha-vratam
+ -days#pradosa-vratam
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:महाशिवरात्रिः
+DTSTART;VALUE=DATE:20190304
+DTEND;VALUE=DATE:20190305
+DESCRIPTION:All related events e.g. kAmadahanam\n\nhttps://github.com/sans
+ krit-coders/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/dat
+ a/lunar_month/tithi/11/29#mahazivaratrih
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:माघ-अमावस्या
+DTSTART;VALUE=DATE:20190305
+DTEND;VALUE=DATE:20190306
+DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
+ ha/panchangam/temporal/festival/data/other/amavasya-days#magha-amavasya
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:पुरन्दरदास-आराधना #४५५
+DTSTART;VALUE=DATE:20190305
+DTEND;VALUE=DATE:20190306
+DESCRIPTION:मन्मनोभीष्टवरदं सर्वा
+ भीष्टफलप्रदम्।\nपुरन्दरगुर
+ ुं वन्दे दासशृएष्ठं दयानिध
+ िम्॥\n\n\n\nhttps://github.com/sanskrit-coders/jyotisha/tree/maste
+ r/jyotisha/panchangam/temporal/festival/data/lunar_month/tithi/11/30#puran
+ daradasa-aradhana
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:रामकृष्ण-परमहंस जयन्ती #
+ १८४
+DTSTART;VALUE=DATE:20190308
+DTEND;VALUE=DATE:20190309
+DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/12/02#ramakrsna-par
+ amahamsa-jayanti
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:षष्ठी-व्रतम्
+DTSTART;VALUE=DATE:20190312
+DTEND;VALUE=DATE:20190313
+DESCRIPTION:Monthly Shashthi vratam for Lord Subrahmanya.\n\nhttps://githu
+ b.com/sanskrit-coders/jyotisha/tree/master/jyotisha/panchangam/temporal/fe
+ stival/data/other/monthly-vratams/shashthi-vratam-days#sasthi-vratam
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:श्री राघवेन्द्र-स्वामी ज
+ यन्ती #४२५
+DTSTART;VALUE=DATE:20190313
+DTEND;VALUE=DATE:20190314
+DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/12/07#zri-raghavend
+ ra-svami-jayanti
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:षडशीति-मीनरविः
+DTSTART;VALUE=DATE:20190314
+DTEND;VALUE=DATE:20190315
+DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
+ ha/panchangam/temporal/festival/data/solar_month/day/12/01#sadaziti-minara
+ vih
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:सर्व-आमलकी-एकादशी
+DTSTART;VALUE=DATE:20190317
+DTEND;VALUE=DATE:20190318
+DESCRIPTION:The Shukla-paksha Ekadashi of फाल्गुन month is k
+ nown as आमलकी-एकादशी.\n\nhttps://github.com/sanskrit
+ -coders/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data/ot
+ her/monthly-vratams/ekadashi-vratam-days#amalaki-ekadazi
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:त्रिस्पृशा महाद्वादशी
+DTSTART;VALUE=DATE:20190317
+DTEND;VALUE=DATE:20190318
+DESCRIPTION:
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:काञ्ची ६९ जगद्गुरु श्री 
+ जयेन्द्र सरस्वती आराधना #१
+DTSTART;VALUE=DATE:20190318
+DTEND;VALUE=DATE:20190319
+DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/12/13#kajci-69-jaga
+ dguru-zri-jayendra-sarasvati-aradhana
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:सोम-प्रदोष-व्रतम्
+DTSTART;VALUE=DATE:20190318
+DTEND;VALUE=DATE:20190319
+DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
+ ha/panchangam/temporal/festival/data/other/monthly-vratams/pradosha-vratam
+ -days#soma-pradosa-vratam
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:होलिका-पूर्णिमा
+DTSTART;VALUE=DATE:20190320
+DTEND;VALUE=DATE:20190321
+DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/12/15#holika-purnim
+ a
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:काम-दहनम्
+DTSTART;VALUE=DATE:20190320
+DTEND;VALUE=DATE:20190321
+DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/12/15#kama-dahanam
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:பங்குனி உத்திரம்
+DTSTART;VALUE=DATE:20190320
+DTEND;VALUE=DATE:20190321
+DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
+ ha/panchangam/temporal/festival/data/solar_month/nakshatram/12/12#paggun2i
+ -uttiram
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:होलि
+DTSTART;VALUE=DATE:20190321
+DTEND;VALUE=DATE:20190322
+DESCRIPTION:Festival of colours is celebrated today.\n\nhttps://github.com
+ /sanskrit-coders/jyotisha/tree/master/jyotisha/panchangam/temporal/festiva
+ l/data/relative_event/hOlikA-pUrNimA/offset__01#holi
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:भालचन्द्र-महागणपति सङ्क
+ टहर-चतुर्थी-व्रतम्
+DTSTART;VALUE=DATE:20190323
+DTEND;VALUE=DATE:20190324
+DESCRIPTION:Special vrata day for Ganesha. In this month\, Ganesha is wors
+ hipped as भालचन्द्र-महागणपतिः. Fast du
+ ring the day and pray to Ganesha after moonrise\, as follows:\n\nगणा
+ धिपस्त्वं देवेश चतुर्थ्यां
+  पूजितो मया।\nकष्टान् मां मो
+ चयेशान सर्वमिष्टं च देहि मे
+ ॥\n\n\n\nhttps://github.com/sanskrit-coders/jyotisha/tree/master/jyotish
+ a/panchangam/temporal/festival/data/other/monthly-vratams/sankatahara-chat
+ urthi-vratam-days#bhalacandra-mahaganapati-sagkatahara-caturthi-vratam
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:छत्रपति-शिवाजी जयन्ती #३
+ ९०
+DTSTART;VALUE=DATE:20190323
+DTEND;VALUE=DATE:20190324
+DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/12/18#chatrapati-zi
+ vaji-jayanti
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:गुरु-सङ्क्रान्तिः (वृश्च
+ िक▶धनुः)
+DTSTART;VALUE=DATE:20190330
+DTEND;VALUE=DATE:20190331
+DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
+ ha/panchangam/temporal/festival/data/other/sankranti#guru-sagkrantih
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:सर्व-पापमोचनी-एकादशी
+DTSTART;VALUE=DATE:20190331
+DTEND;VALUE=DATE:20190401
+DESCRIPTION:The Krishna-paksha Ekadashi of फाल्गुन month is 
+ known as पापमोचनी-एकादशी.\n\nhttps://github.co
+ m/sanskrit-coders/jyotisha/tree/master/jyotisha/panchangam/temporal/festiv
+ al/data/other/monthly-vratams/ekadashi-vratam-days#papamocani-ekadazi
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:प्रदोष-व्रतम्
+DTSTART;VALUE=DATE:20190402
+DTEND;VALUE=DATE:20190403
+DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
+ ha/panchangam/temporal/festival/data/other/monthly-vratams/pradosha-vratam
+ -days#pradosa-vratam
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:वारुणी त्रयोदशी
+DTSTART;VALUE=DATE:20190402
+DTEND;VALUE=DATE:20190403
+DESCRIPTION:Phalguna Krishna Chaturdashi\, combined with Shatabhishak Naks
+ hatram.\n\nhttps://github.com/sanskrit-coders/jyotisha/tree/master/jyotish
+ a/panchangam/temporal/festival/data/other/rare-days/combinations#varuni-tr
+ ayodazi
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:फाल्गुन-अमावस्या
+DTSTART;VALUE=DATE:20190404
+DTEND;VALUE=DATE:20190405
+DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
+ ha/panchangam/temporal/festival/data/other/amavasya-days#phalguna-amavasya
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:वसन्तनवरात्रि-आरम्भः
+DTSTART;VALUE=DATE:20190405
+DTEND;VALUE=DATE:20190406
+DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/01/01#vasantanavara
+ tri-arambhah
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:युगादि
+DTSTART;VALUE=DATE:20190405
+DTEND;VALUE=DATE:20190406
+DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/01/01#yugadi
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:मत्स्य जयन्ती
+DTSTART;VALUE=DATE:20190407
+DTEND;VALUE=DATE:20190408
+DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/01/03#matsya-jayant
+ i
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:मुत्तुस्वामी दीक्षित जय
+ न्ती #२४५
+DTSTART;VALUE=DATE:20190408
+DTEND;VALUE=DATE:20190409
+DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
+ ha/panchangam/temporal/festival/data/solar_month/nakshatram/12/03#muttusva
+ mi-diksita-jayanti
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:लक्ष्मी-पञ्चमी
+DTSTART;VALUE=DATE:20190409
+DTEND;VALUE=DATE:20190410
+DESCRIPTION:शुक्लायांअथ पञ्चम्यां 
+ चैत्रे मासि शुभानना।\nश्रीर
+ ्विष्णुलोकान्मानुष्यं सम्
+ प्राप्ता केशवाज्ञया॥\nतस्म
+ ात् तां पूजयेत् तत्र यस्तं ल
+ क्ष्मीर्न मुञ्चति॥\n\n\n\nhttps://github
+ .com/sanskrit-coders/jyotisha/tree/master/jyotisha/panchangam/temporal/fes
+ tival/data/lunar_month/tithi/01/05#laksmi-pajcami
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:षष्ठी-व्रतम्
+DTSTART;VALUE=DATE:20190410
+DTEND;VALUE=DATE:20190411
+DESCRIPTION:Monthly Shashthi vratam for Lord Subrahmanya.\n\nhttps://githu
+ b.com/sanskrit-coders/jyotisha/tree/master/jyotisha/panchangam/temporal/fe
+ stival/data/other/monthly-vratams/shashthi-vratam-days#sasthi-vratam
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:यमुना जयन्ती
+DTSTART;VALUE=DATE:20190410
+DTEND;VALUE=DATE:20190411
+DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/01/06#yamuna-jayant
+ i
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:भवान्युत्पत्तिः
+DTSTART;VALUE=DATE:20190412
+DTEND;VALUE=DATE:20190413
+DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/01/08#bhavanyutpatt
+ ih
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:वसन्तनवरात्रि-समापनम्
+DTSTART;VALUE=DATE:20190413
+DTEND;VALUE=DATE:20190414
+DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/01/09#vasantanavara
+ tri-samapanam
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:वसन्तनवरात्रिः
+DTSTART;VALUE=DATE:20190405
+DTEND;VALUE=DATE:20190414
+DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/01/09#vasantanavara
+ tri-samapanam
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:श्रीरामनवमी
+DTSTART;VALUE=DATE:20190413
+DTEND;VALUE=DATE:20190414
+DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/01/09#zriramanavami
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:मेष-सङ्क्रान्तिः (विकारी
+ -संवत्सरः)
+DTSTART;VALUE=DATE:20190414
+DTEND;VALUE=DATE:20190415
+DESCRIPTION:Tamil New Year.\n\nhttps://github.com/sanskrit-coders/jyotisha
+ /tree/master/jyotisha/panchangam/temporal/festival/data/other/sun-sankrant
+ i/common-festivals#mesa-sagkrantih
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:पञ्चाङ्ग-पठनम्
+DTSTART;VALUE=DATE:20190414
+DTEND;VALUE=DATE:20190415
+DESCRIPTION:Being the first day of the new year\, read the पञ्चा
+ ङ्ग today\, followed by naivedyam of पानकम् to गणे
+ शादि त्रयस्त्रिंशत् कोटि द
+ ेवताः.\n\nhttps://github.com/sanskrit-coders/jyotisha/tree/maste
+ r/jyotisha/panchangam/temporal/festival/data/other/common-festivals#pajcag
+ ga-pathanam
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:விஷுக்கனி
+DTSTART;VALUE=DATE:20190414
+DTEND;VALUE=DATE:20190415
+DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
+ ha/panchangam/temporal/festival/data/solar_month/day/01/01#visukkan2i
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:सर्व-कामदा-एकादशी
+DTSTART;VALUE=DATE:20190415
+DTEND;VALUE=DATE:20190416
+DESCRIPTION:The Shukla-paksha Ekadashi of चैत्र month is known a
+ s कामदा-एकादशी.\n\nhttps://github.com/sanskrit-coder
+ s/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data/other/mo
+ nthly-vratams/ekadashi-vratam-days#kamada-ekadazi
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:प्रदोष-व्रतम्
+DTSTART;VALUE=DATE:20190416
+DTEND;VALUE=DATE:20190417
+DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
+ ha/panchangam/temporal/festival/data/other/monthly-vratams/pradosha-vratam
+ -days#pradosa-vratam
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:மீனாக்ஷீ திருக்கல்யாணம
+ ்
+DTSTART;VALUE=DATE:20190416
+DTEND;VALUE=DATE:20190417
+DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
+ ha/panchangam/temporal/festival/data/solar_month/nakshatram/01/12#min2aksi
+ -tirukkalyanam
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:चैत्र-पूर्णिमा
+DTSTART;VALUE=DATE:20190418
+DTEND;VALUE=DATE:20190419
+DESCRIPTION:Daanam of Varaha Puran\n\nhttps://github.com/sanskrit-coders/j
+ yotisha/tree/master/jyotisha/panchangam/temporal/festival/data/lunar_month
+ /tithi/01/15#caitra-purnima
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:चित्रगुप्त-व्रतम्
+DTSTART;VALUE=DATE:20190418
+DTEND;VALUE=DATE:20190419
+DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/01/15#citragupta-vr
+ atam
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:गजेन्द्र-मोक्षः
+DTSTART;VALUE=DATE:20190418
+DTEND;VALUE=DATE:20190419
+DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/01/15#gajendra-moks
+ ah-1
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:சித்ரா பௌர்ணமீ/சித்ரகுப
+ ்த பூஜை
+DTSTART;VALUE=DATE:20190418
+DTEND;VALUE=DATE:20190419
+DESCRIPTION:चित्रगुप्तं महाप्राज्
+ ञं लेखनीपत्रधारिणम्।\nचित्
+ ररत्नाम्बरधरं मध्यस्थं सर्
+ वदेहिनाम्॥\n\n\n\nhttps://github.com/sanskrit-coders/j
+ yotisha/tree/master/jyotisha/panchangam/temporal/festival/data/solar_month
+ /tithi/01/15#citra-paurnamicitragupta-pujai
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:विकट-महागणपति सङ्कटहर-चत
+ ुर्थी-व्रतम्
+DTSTART;VALUE=DATE:20190421
+DTEND;VALUE=DATE:20190422
+DESCRIPTION:Special vrata day for Ganesha. In this month\, Ganesha is wors
+ hipped as विकट-महागणपतिः. Fast during the day an
+ d pray to Ganesha after moonrise\, as follows:\n\nगणाधिपस्
+ त्वं देवेश चतुर्थ्यां पूजि
+ तो मया।\nकष्टान् मां मोचयेशा
+ न सर्वमिष्टं च देहि मे॥\n\n\n\nhttps
+ ://github.com/sanskrit-coders/jyotisha/tree/master/jyotisha/panchangam/tem
+ poral/festival/data/other/monthly-vratams/sankatahara-chaturthi-vratam-day
+ s#vikata-mahaganapati-sagkatahara-caturthi-vratam
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:गुरु-सङ्क्रान्तिः (धनुः▶
+ वृश्चिक)
+DTSTART;VALUE=DATE:20190423
+DTEND;VALUE=DATE:20190424
+DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
+ ha/panchangam/temporal/festival/data/other/sankranti#guru-sagkrantih
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:लक्ष्मी-वराह जयन्ती
+DTSTART;VALUE=DATE:20190423
+DTEND;VALUE=DATE:20190424
+DESCRIPTION:जितं जितं तेऽजित यज्ञभ
+ ावन त्रयीं तनुं स्वां परिधु
+ न्वते नमः।\nयद्रोमगर्तेषु न
+ िलिल्युरद्धयस्तस्मै नमः का
+ रणसूकराय ते॥३-१३-३५॥\n—श्रीम
+ द्भागवते महापुराणे तृतीयेस
+ ्कन्धे त्रयोदशेऽध्याये\n\n\n\nht
+ tps://github.com/sanskrit-coders/jyotisha/tree/master/jyotisha/panchangam/
+ temporal/festival/data/lunar_month/tithi/01/20#laksmi-varaha-jayanti
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:सर्व-वरूथिनी-एकादशी
+DTSTART;VALUE=DATE:20190430
+DTEND;VALUE=DATE:20190501
+DESCRIPTION:The Krishna-paksha Ekadashi of चैत्र month is known 
+ as वरूथिनी-एकादशी.\n\nhttps://github.com/sanskri
+ t-coders/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data/o
+ ther/monthly-vratams/ekadashi-vratam-days#varuthini-ekadazi
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:प्रदोष-व्रतम्
+DTSTART;VALUE=DATE:20190501
+DTEND;VALUE=DATE:20190502
+DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
+ ha/panchangam/temporal/festival/data/other/monthly-vratams/pradosha-vratam
+ -days#pradosa-vratam
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:रमण महर्षि आराधना #६९
+DTSTART;VALUE=DATE:20190501
+DTEND;VALUE=DATE:20190502
+DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
+ ha/panchangam/temporal/festival/data/solar_month/tithi/01/28#ramana-mahars
+ i-aradhana
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:चैत्र-अमावस्या
+DTSTART;VALUE=DATE:20190504
+DTEND;VALUE=DATE:20190505
+DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
+ ha/panchangam/temporal/festival/data/other/amavasya-days#caitra-amavasya
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:श्यामा शास्त्री जयन्ती #
+ २५८
+DTSTART;VALUE=DATE:20190505
+DTEND;VALUE=DATE:20190506
+DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
+ ha/panchangam/temporal/festival/data/solar_month/nakshatram/01/03#zyama-za
+ stri-jayanti
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:अक्षय-तृतीया
+DTSTART;VALUE=DATE:20190507
+DTEND;VALUE=DATE:20190508
+DESCRIPTION:Daanam of Dadhyodanam\, Vyanjanam\, Chatram\, Paduka\, Udaka K
+ umbham\, Mangos\, Jackfruit\; Lakshmi Narayana Pooja\; Gouri Pooja\;\n\nht
+ tps://github.com/sanskrit-coders/jyotisha/tree/master/jyotisha/panchangam/
+ temporal/festival/data/lunar_month/tithi/02/03#aksaya-trtiya
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:बलराम जयन्ती
+DTSTART;VALUE=DATE:20190507
+DTEND;VALUE=DATE:20190508
+DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/02/03#balarama-jaya
+ nti
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:परशुराम जयन्ती
+DTSTART;VALUE=DATE:20190507
+DTEND;VALUE=DATE:20190508
+DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/02/03#parazurama-ja
+ yanti-1
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:षष्ठी-व्रतम्
+DTSTART;VALUE=DATE:20190509
+DTEND;VALUE=DATE:20190510
+DESCRIPTION:Monthly Shashthi vratam for Lord Subrahmanya.\n\nhttps://githu
+ b.com/sanskrit-coders/jyotisha/tree/master/jyotisha/panchangam/temporal/fe
+ stival/data/other/monthly-vratams/shashthi-vratam-days#sasthi-vratam
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:शङ्कर जयन्ती #२५२८
+DTSTART;VALUE=DATE:20190509
+DTEND;VALUE=DATE:20190510
+DESCRIPTION:Nandana year\n\nhttps://github.com/sanskrit-coders/jyotisha/tr
+ ee/master/jyotisha/panchangam/temporal/festival/data/lunar_month/tithi/02/
+ 05#zagkara-jayanti
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:रामानुज जयन्ती #१००३
+DTSTART;VALUE=DATE:20190510
+DTEND;VALUE=DATE:20190511
+DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/02/06#ramanuja-jaya
+ nti
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:गङ्गा-सप्तमी
+DTSTART;VALUE=DATE:20190511
+DTEND;VALUE=DATE:20190512
+DESCRIPTION:Ganga came out of Jahnu Maharshi and became Jahnavi\; perform 
+ Parjanya Pooja\n\nhttps://github.com/sanskrit-coders/jyotisha/tree/master/
+ jyotisha/panchangam/temporal/festival/data/lunar_month/tithi/02/07#gagga-s
+ aptami
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:त्यागराज जयन्ती #२५३
+DTSTART;VALUE=DATE:20190511
+DTEND;VALUE=DATE:20190512
+DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/02/07#tyagaraja-jay
+ anti
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:सीतानवमी
+DTSTART;VALUE=DATE:20190512
+DTEND;VALUE=DATE:20190513
+DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/02/09#sitanavami
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:वसिष्ठ महर्षि जयन्ती
+DTSTART;VALUE=DATE:20190512
+DTEND;VALUE=DATE:20190513
+DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/02/09#vasistha-maha
+ rsi-jayanti
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:सर्व-मोहिनी-एकादशी
+DTSTART;VALUE=DATE:20190514
+DTEND;VALUE=DATE:20190515
+DESCRIPTION:The Shukla-paksha Ekadashi of वैशाख month is known a
+ s मोहिनी-एकादशी.\n\nhttps://github.com/sanskrit-co
+ ders/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data/other
+ /monthly-vratams/ekadashi-vratam-days#mohini-ekadazi
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:மீனாக்ஷீ திருக்கல்யாணம
+ ்
+DTSTART;VALUE=DATE:20190514
+DTEND;VALUE=DATE:20190515
+DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
+ ha/panchangam/temporal/festival/data/solar_month/nakshatram/01/12#min2aksi
+ -tirukkalyanam
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:प्रदोष-व्रतम्
+DTSTART;VALUE=DATE:20190515
+DTEND;VALUE=DATE:20190516
+DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
+ ha/panchangam/temporal/festival/data/other/monthly-vratams/pradosha-vratam
+ -days#pradosa-vratam
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:विष्णुपदी-वृषभरविः
+DTSTART;VALUE=DATE:20190515
+DTEND;VALUE=DATE:20190516
+DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
+ ha/panchangam/temporal/festival/data/solar_month/day/02/01#visnupadi-vrsab
+ haravih
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:नृसिंह जयन्ती
+DTSTART;VALUE=DATE:20190516
+DTEND;VALUE=DATE:20190517
+DESCRIPTION:Monday Swati?\n\nhttps://github.com/sanskrit-coders/jyotisha/t
+ ree/master/jyotisha/panchangam/temporal/festival/data/lunar_month/tithi/02
+ /14#nrsimha-jayanti
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:कूर्म जयन्ती
+DTSTART;VALUE=DATE:20190517
+DTEND;VALUE=DATE:20190518
+DESCRIPTION:Danam of Brahma puranam\n\nhttps://github.com/sanskrit-coders/
+ jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data/lunar_mont
+ h/tithi/02/15#kurma-jayanti
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:अन्नमाचार्य जयन्ती
+DTSTART;VALUE=DATE:20190518
+DTEND;VALUE=DATE:20190519
+DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/02/15#annamacarya-j
+ ayanti
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:काञ्ची कामकोटि-मठ-प्रतिष
+ ्ठापन जयन्ती #२५०१
+DTSTART;VALUE=DATE:20190518
+DTEND;VALUE=DATE:20190519
+DESCRIPTION:Adi Shankara founded Kamakoti Mutt\, Kanchi in Siddharthi year
+  with himself as first\n\nhttps://github.com/sanskrit-coders/jyotisha/tree
+ /master/jyotisha/panchangam/temporal/festival/data/lunar_month/tithi/02/15
+ #kajci-kamakoti-matha-pratisthapana-jayanti
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:வைகாசி விஶாகம்
+DTSTART;VALUE=DATE:20190518
+DTEND;VALUE=DATE:20190519
+DESCRIPTION:Special puja for Subrahmanya Swami in temples. Birth of Subrah
+ manya Swami. Worship Him with red flowers.\n\nhttps://github.com/sanskrit-
+ coders/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data/sol
+ ar_month/nakshatram/02/16#vaikaci-vizakham
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:काञ्ची जगद्गुरु श्री चन्
+ द्रशेखरेन्द्र सरस्वती जयन्
+ ती #१२६
+DTSTART;VALUE=DATE:20190519
+DTEND;VALUE=DATE:20190520
+DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
+ ha/panchangam/temporal/festival/data/solar_month/nakshatram/02/17#kajci-ja
+ gadguru-zri-candrazekharendra-sarasvati-jayanti
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:अङ्गारकी एकदन्त-महागणपत
+ ि सङ्कटहर-चतुर्थी-व्रतम्
+DTSTART;VALUE=DATE:20190521
+DTEND;VALUE=DATE:20190522
+DESCRIPTION:Special vrata day for Ganesha. In this month\, Ganesha is wors
+ hipped as एकदन्त-महागणपतिः. Fast during the 
+ day and pray to Ganesha after moonrise\, as follows:\n\nगणाधिप
+ स्त्वं देवेश चतुर्थ्यां पू
+ जितो मया।\nकष्टान् मां मोचये
+ शान सर्वमिष्टं च देहि मे॥\n\nWhe
+ n `caturthI` occurs on a Tuesday\, it is known as `aGgArakI` and is even m
+ ore sacred.
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:आयुष्मान्-बव-सौम्य
+DTSTART;VALUE=DATE:20190529
+DTEND;VALUE=DATE:20190530
+DESCRIPTION:A rare combination of आयुष्मान् योग\, 
+ बव करण and सौम्यवासर. Also a source of the nor
+ mal blessing 'AyuSmAn bava saumya'!\n\nhttps://github.com/sanskrit-coders/
+ jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data/other/rare
+ -days/combinations#ayusman-bava-saumya
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:सर्व-अपरा-एकादशी
+DTSTART;VALUE=DATE:20190529
+DTEND;VALUE=DATE:20190530
+DESCRIPTION:The Krishna-paksha Ekadashi of वैशाख month is known 
+ as अपरा-एकादशी.\n\nhttps://github.com/sanskrit-coders/
+ jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data/other/mont
+ hly-vratams/ekadashi-vratam-days#apara-ekadazi
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:प्रदोष-व्रतम्
+DTSTART;VALUE=DATE:20190531
+DTEND;VALUE=DATE:20190601
+DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
+ ha/panchangam/temporal/festival/data/other/monthly-vratams/pradosha-vratam
+ -days#pradosa-vratam
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:वैशाख-अमावस्या
+DTSTART;VALUE=DATE:20190602
+DTEND;VALUE=DATE:20190603
+DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
+ ha/panchangam/temporal/festival/data/other/amavasya-days#vaizakha-amavasya
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:शुक महर्षि जयन्ती
+DTSTART;VALUE=DATE:20190602
+DTEND;VALUE=DATE:20190603
+DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/02/30#zuka-maharsi-
+ jayanti
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:षष्ठी-व्रतम्
+DTSTART;VALUE=DATE:20190608
+DTEND;VALUE=DATE:20190609
+DESCRIPTION:Monthly Shashthi vratam for Lord Subrahmanya.\n\nhttps://githu
+ b.com/sanskrit-coders/jyotisha/tree/master/jyotisha/panchangam/temporal/fe
+ stival/data/other/monthly-vratams/shashthi-vratam-days#sasthi-vratam
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:विजया भानुसप्तमी
+DTSTART;VALUE=DATE:20190609
+DTEND;VALUE=DATE:20190610
+DESCRIPTION:सप्तमी तिथि on a Sunday is as sacred as a 
+ solar eclipse. Particularly good for worshipping Surya. When शुक्
+ ल सप्तमी is present at sunrise\, it is called विजय
+ ा.\n\nअमावस्या तु सोमेन सप्तमी
+  भानुना सह।\nचतुर्थी भूमिपुत
+ ्रेण सोमपुत्रेण चाष्टमी।\nच
+ तस्रस्तिथयस्त्वेताः सूर्य
+ ग्रहणसन्निभाः॥\n\n\n\nhttps://github.com/sansk
+ rit-coders/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data
+ /other/rare-days/combinations#vijaya-bhanusaptami
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:दशहरा/गङ्गावतरणम्/दशपाप
+ हरा दशमी
+DTSTART;VALUE=DATE:20190612
+DTEND;VALUE=DATE:20190613
+DESCRIPTION:Avataranam of Ganga Devi. Bathe in any river and offer arghyam
+  — destroys 10 types of sins (दशहरा).\n\nदशम्यां
+  शुक्लपक्षे तु ज्येष्ठे मास
+ े कुजे दिने।\nगङ्गाऽवतीर्णा 
+ हस्तर्क्षे सर्वपापहरा स्मृ
+ ता॥\n\nयां काञ्चित् सरितं प्र
+ ाप्य दद्यादर्घ्यं शुभोदकम्
+ ।\nमुच्यते दशभिः पापैः स महा
+ पातकोपमैः॥\n\n\n\nhttps://github.com/sanskrit-coders/j
+ yotisha/tree/master/jyotisha/panchangam/temporal/festival/data/lunar_month
+ /tithi/03/10#dazaharagaggavataranamdazapapahara-dazami
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:काञ्ची १ जगद्गुरु श्री आ
+ दि-शङ्कर भगवत्पाद आराधना #२४
+ ९५
+DTSTART;VALUE=DATE:20190612
+DTEND;VALUE=DATE:20190613
+DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
+ ha/panchangam/temporal/festival/data/solar_month/tithi/02/11#kajci-1-jagad
+ guru-zri-adi-zagkara-bhagavatpada-aradhana
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:सर्व-पाण्डव-निर्जला-एकाद
+ शी
+DTSTART;VALUE=DATE:20190613
+DTEND;VALUE=DATE:20190614
+DESCRIPTION:The Shukla-paksha Ekadashi of ज्यैष्ठ month is k
+ nown as निर्जला-एकादशी.\n\nhttps://github.com/sa
+ nskrit-coders/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/d
+ ata/other/monthly-vratams/ekadashi-vratam-days#pandava-nirjala-ekadazi
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:प्रदोष-व्रतम्
+DTSTART;VALUE=DATE:20190614
+DTEND;VALUE=DATE:20190615
+DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
+ ha/panchangam/temporal/festival/data/other/monthly-vratams/pradosha-vratam
+ -days#pradosa-vratam
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:வைகாசி விஶாகம்
+DTSTART;VALUE=DATE:20190614
+DTEND;VALUE=DATE:20190615
+DESCRIPTION:Special puja for Subrahmanya Swami in temples. Birth of Subrah
+ manya Swami. Worship Him with red flowers.\n\nhttps://github.com/sanskrit-
+ coders/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data/sol
+ ar_month/nakshatram/02/16#vaikaci-vizakham
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:षडशीति-मिथुनरविः
+DTSTART;VALUE=DATE:20190615
+DTEND;VALUE=DATE:20190616
+DESCRIPTION:Perform danam of clothes\, food and water.\n\nवस्त्
+ रान्नपानदानानि मिथुने विहि
+ तानि तु॥\n\n\n\nhttps://github.com/sanskrit-coders/jyotisha/
+ tree/master/jyotisha/panchangam/temporal/festival/data/solar_month/day/03/
+ 01#sadaziti-mithunaravih
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:काञ्ची जगद्गुरु श्री चन्
+ द्रशेखरेन्द्र सरस्वती जयन्
+ ती #१२६
+DTSTART;VALUE=DATE:20190615
+DTEND;VALUE=DATE:20190616
+DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
+ ha/panchangam/temporal/festival/data/solar_month/nakshatram/02/17#kajci-ja
+ gadguru-zri-candrazekharendra-sarasvati-jayanti
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:कृष्णपिङ्गल-महागणपति सङ
+ ्कटहर-चतुर्थी-व्रतम्
+DTSTART;VALUE=DATE:20190620
+DTEND;VALUE=DATE:20190621
+DESCRIPTION:Special vrata day for Ganesha. In this month\, Ganesha is wors
+ hipped as कृष्णपिङ्गल-महागणपतिः. F
+ ast during the day and pray to Ganesha after moonrise\, as follows:\n\nग
+ णाधिपस्त्वं देवेश चतुर्थ्य
+ ां पूजितो मया।\nकष्टान् मां 
+ मोचयेशान सर्वमिष्टं च देहि 
+ मे॥\n\n\n\nhttps://github.com/sanskrit-coders/jyotisha/tree/master/j
+ yotisha/panchangam/temporal/festival/data/other/monthly-vratams/sankatahar
+ a-chaturthi-vratam-days#krsnapiggala-mahaganapati-sagkatahara-caturthi-vra
+ tam
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:सर्व-योगिनी-एकादशी
+DTSTART;VALUE=DATE:20190628
+DTEND;VALUE=DATE:20190629
+DESCRIPTION:The Krishna-paksha Ekadashi of ज्यैष्ठ month is 
+ known as योगिनी-एकादशी.\n\nhttps://github.com/sans
+ krit-coders/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/dat
+ a/other/monthly-vratams/ekadashi-vratam-days#yogini-ekadazi
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:शनि-प्रदोष-व्रतम्
+DTSTART;VALUE=DATE:20190629
+DTEND;VALUE=DATE:20190630
+DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
+ ha/panchangam/temporal/festival/data/other/monthly-vratams/pradosha-vratam
+ -days#zani-pradosa-vratam
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ज्यैष्ठ-अमावस्या
+DTSTART;VALUE=DATE:20190701
+DTEND;VALUE=DATE:20190702
+DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
+ ha/panchangam/temporal/festival/data/other/amavasya-days#jyaistha-amavasya
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:जगन्नाथ-रथ-यात्रा
+DTSTART;VALUE=DATE:20190704
+DTEND;VALUE=DATE:20190705
+DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/04/02#jagannatha-ra
+ tha-yatra
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:कुमार-षष्ठी-व्रतम्
+DTSTART;VALUE=DATE:20190707
+DTEND;VALUE=DATE:20190708
+DESCRIPTION:उपवासम् with only water and next day पार
+ ण gives आरोग्यम्\n\nआषाढ शुक्लषष
+ ्ठी तु तिथिः कौमारिला स्मृत
+ ा।\nकुमारमर्चयेत्तत्र पूर्
+ वत्रोपेष्य वै दिनम्॥\n\n\n\nhttps://gi
+ thub.com/sanskrit-coders/jyotisha/tree/master/jyotisha/panchangam/temporal
+ /festival/data/other/monthly-vratams/shashthi-vratam-days#kumara-sasthi-vr
+ atam
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:सुदर्शन जयन्ती
+DTSTART;VALUE=DATE:20190709
+DTEND;VALUE=DATE:20190710
+DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
+ ha/panchangam/temporal/festival/data/solar_month/nakshatram/03/14#sudarzan
+ a-jayanti
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:चातुर्मास्यव्रत-आरम्भः
+DTSTART;VALUE=DATE:20190711
+DTEND;VALUE=DATE:20190712
+DESCRIPTION:Chaaturmasya begins\; 4 months\; Pradakshina to Pippala\; Deep
+ aradhana in temple\; Saraswati Pooja\; 1st month no vegetables\; 2nd month
+  no curds\; 3rd month no milk\; 4th month no dals\;\n\nhttps://github.com/
+ sanskrit-coders/jyotisha/tree/master/jyotisha/panchangam/temporal/festival
+ /data/lunar_month/tithi/04/10#caturmasyavrata-arambhah
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:शाकव्रत-आरम्भः
+DTSTART;VALUE=DATE:20190711
+DTEND;VALUE=DATE:20190712
+DESCRIPTION:वासुदेव शुचौ मासे शाकव
+ ्रतमनुत्तमम्।\nत्वत्प्रीत्
+ यर्थं करिष्येऽहं निर्विघ्न
+ ं कुरु माधव॥\n\n\n\nhttps://github.com/sanskrit-coders
+ /jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data/lunar_mon
+ th/tithi/04/10#zakavrata-arambhah
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:सर्व-शयन-एकादशी
+DTSTART;VALUE=DATE:20190712
+DTEND;VALUE=DATE:20190713
+DESCRIPTION:The Shukla-paksha Ekadashi of आषाढ month is known as 
+ शयन-एकादशी. Lord Vishnu goes to sleep for four months be
+ ginning today.\n\nवासुदेव जगद्योने प्र
+ ाप्तेयं द्वादशी तव।\nभुजङ्ग
+ शयनेऽब्धौ च सुखं स्वपिहि मा
+ धव॥\nइयं तु द्वादशी देव शयना
+ र्थं विनिर्मित।\nअस्यां सुप
+ ्ते जगन्नाथे जगत्सुप्तं भव
+ ेदिदम्॥\nविबुद्धे त्वयि बुद
+ ्ध्येत सर्वमेतच्चराचरम्॥\n\n
+ \n\nhttps://github.com/sanskrit-coders/jyotisha/tree/master/jyotisha/panch
+ angam/temporal/festival/data/other/monthly-vratams/ekadashi-vratam-days#za
+ yana-ekadazi
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:शनि-प्रदोष-व्रतम्
+DTSTART;VALUE=DATE:20190713
+DTEND;VALUE=DATE:20190714
+DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
+ ha/panchangam/temporal/festival/data/other/monthly-vratams/pradosha-vratam
+ -days#zani-pradosa-vratam
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:दक्षिणायन-पुण्यकालः
+DTSTART;VALUE=DATE:20190716
+DTEND;VALUE=DATE:20190717
+DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
+ ha/panchangam/temporal/festival/data/solar_month/day/04/01#daksinayana-pun
+ yakalah
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:गुरु-पूर्णिमा/व्यास-पूजा
+DTSTART;VALUE=DATE:20190716
+DTEND;VALUE=DATE:20190717
+DESCRIPTION:Puja of Veda Vyasa / Gurus\; Danam of Vishnu Puran is good on 
+ this day.\n\nअचतुर्वदनो ब्रह्मा द्
+ विबाहुरपरो हरिः।\nअफाललोचन
+ ो शम्भुर्भगवान् बादारायणः॥
+ \n\n\n\nhttps://github.com/sanskrit-coders/jyotisha/tree/master/jyotisha/p
+ anchangam/temporal/festival/data/lunar_month/tithi/04/15#guru-purnimavyasa
+ -puja
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:सर्वनदी-रजस्वला
+DTSTART;VALUE=DATE:20190716
+DTEND;VALUE=DATE:20190717
+DESCRIPTION:Do not take bath in any river during these days.\n\nhttps://gi
+ thub.com/sanskrit-coders/jyotisha/tree/master/jyotisha/panchangam/temporal
+ /festival/data/solar_month/day/04/01#sarvanadi-rajasvala-1
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:यतिचातुर्मास्यव्रत-आरम
+ ्भः
+DTSTART;VALUE=DATE:20190716
+DTEND;VALUE=DATE:20190717
+DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/04/15#yaticaturmasy
+ avrata-arambhah
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:सर्वनदी-रजस्वला
+DTSTART;VALUE=DATE:20190717
+DTEND;VALUE=DATE:20190718
+DESCRIPTION:Do not take bath in any river during these days.\n\nhttps://gi
+ thub.com/sanskrit-coders/jyotisha/tree/master/jyotisha/panchangam/temporal
+ /festival/data/solar_month/day/04/02#sarvanadi-rajasvala-2
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:सर्वनदी-रजस्वला
+DTSTART;VALUE=DATE:20190718
+DTEND;VALUE=DATE:20190719
+DESCRIPTION:Do not take bath in any river during these days.\n\nhttps://gi
+ thub.com/sanskrit-coders/jyotisha/tree/master/jyotisha/panchangam/temporal
+ /festival/data/solar_month/day/04/03#sarvanadi-rajasvala-3
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:गजानन-महागणपति सङ्कटहर-च
+ तुर्थी-व्रतम्
+DTSTART;VALUE=DATE:20190719
+DTEND;VALUE=DATE:20190720
+DESCRIPTION:Special vrata day for Ganesha. In this month\, Ganesha is wors
+ hipped as गजानन-महागणपतिः. Fast during the day
+  and pray to Ganesha after moonrise\, as follows:\n\nगणाधिपस
+ ्त्वं देवेश चतुर्थ्यां पूज
+ ितो मया।\nकष्टान् मां मोचयेश
+ ान सर्वमिष्टं च देहि मे॥\n\n\n\nht
+ tps://github.com/sanskrit-coders/jyotisha/tree/master/jyotisha/panchangam/
+ temporal/festival/data/other/monthly-vratams/sankatahara-chaturthi-vratam-
+ days#gajanana-mahaganapati-sagkatahara-caturthi-vratam
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:काञ्ची जगद्गुरु श्री जये
+ न्द्र सरस्वती जयन्ती #८५
+DTSTART;VALUE=DATE:20190719
+DTEND;VALUE=DATE:20190720
+DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
+ ha/panchangam/temporal/festival/data/solar_month/nakshatram/04/23#kajci-ja
+ gadguru-zri-jayendra-sarasvati-jayanti
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:बुधाष्टमी
+DTSTART;VALUE=DATE:20190724
+DTEND;VALUE=DATE:20190725
+DESCRIPTION:अष्टमी तिथि on a Wednesday is as sacred as
+  a solar eclipse.\n\nअमावस्या तु सोमेन स
+ प्तमी भानुना सह।\nचतुर्थी भू
+ मिपुत्रेण सोमपुत्रेण चाष्ट
+ मी।\nचतस्रस्तिथयस्त्वेताः 
+ सूर्यग्रहणसन्निभाः॥\n\n\n\nhttps://g
+ ithub.com/sanskrit-coders/jyotisha/tree/master/jyotisha/panchangam/tempora
+ l/festival/data/other/rare-days/combinations#budhastami
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ஆடிக் கிருத்திகை
+DTSTART;VALUE=DATE:20190727
+DTEND;VALUE=DATE:20190728
+DESCRIPTION:Special puja for Subrahmanya Swami in temples.\n\nhttps://gith
+ ub.com/sanskrit-coders/jyotisha/tree/master/jyotisha/panchangam/temporal/f
+ estival/data/solar_month/nakshatram/04/03#adik-kiruttikai
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:सर्व-कामिका-एकादशी
+DTSTART;VALUE=DATE:20190728
+DTEND;VALUE=DATE:20190729
+DESCRIPTION:The Krishna-paksha Ekadashi of आषाढ month is known as 
+ कामिका-एकादशी.\n\nhttps://github.com/sanskrit-code
+ rs/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data/other/m
+ onthly-vratams/ekadashi-vratam-days#kamika-ekadazi
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:त्रिस्पृशा महाद्वादशी
+DTSTART;VALUE=DATE:20190728
+DTEND;VALUE=DATE:20190729
+DESCRIPTION:
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:सोम-प्रदोष-व्रतम्
+DTSTART;VALUE=DATE:20190729
+DTEND;VALUE=DATE:20190730
+DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
+ ha/panchangam/temporal/festival/data/other/monthly-vratams/pradosha-vratam
+ -days#soma-pradosa-vratam
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:कृष्णाङ्गारक-चतुर्दशी-प
+ ुण्यकालः/यमतर्पणम्
+DTSTART;VALUE=DATE:20190730
+DTEND;VALUE=DATE:20190731
+DESCRIPTION:कृष्ण चतुर्दशी तिथि on a Tue
+ sday is very sacred. Perform तर्पणम् to Yama Dharamaraja.\n\
+ nhttps://github.com/sanskrit-coders/jyotisha/tree/master/jyotisha/panchang
+ am/temporal/festival/data/other/rare-days/combinations#krsnaggaraka-caturd
+ azi-punyakalahyamatarpanam
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:आषाढ (कटक) अमावस्या
+DTSTART;VALUE=DATE:20190731
+DTEND;VALUE=DATE:20190801
+DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
+ ha/panchangam/temporal/festival/data/other/amavasya-days#asadha-(kataka)-a
+ mavasya
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ஆடிப் பெருக்கு
+DTSTART;VALUE=DATE:20190802
+DTEND;VALUE=DATE:20190803
+DESCRIPTION:Offer naivedyam of citrAnnam\n\nhttps://github.com/sanskrit-co
+ ders/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data/solar
+ _month/day/04/18#adip-perukku
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:திருவாடிப்பூரம்
+DTSTART;VALUE=DATE:20190803
+DTEND;VALUE=DATE:20190804
+DESCRIPTION:श्रीविष्णुचित्त-कुलकल
+ ्पकनन्दवल्लीम्\nश्रीरङ्गरा
+ ज-हरि-चन्दन-योग-द्र्श्याम्।\
+ nसाक्षात् क्षमां करुणया कमल
+ ामिवान्यां\nगोदाम् अनन्यशर
+ णः शरणं प्रपद्ये॥\n\n\n\nhttps://github.com/
+ sanskrit-coders/jyotisha/tree/master/jyotisha/panchangam/temporal/festival
+ /data/solar_month/nakshatram/04/11#tiruvadippuram
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:षष्ठी-व्रतम्
+DTSTART;VALUE=DATE:20190805
+DTEND;VALUE=DATE:20190806
+DESCRIPTION:Monthly Shashthi vratam for Lord Subrahmanya.\n\nhttps://githu
+ b.com/sanskrit-coders/jyotisha/tree/master/jyotisha/panchangam/temporal/fe
+ stival/data/other/monthly-vratams/shashthi-vratam-days#sasthi-vratam
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:कल्कि जयन्ती
+DTSTART;VALUE=DATE:20190805
+DTEND;VALUE=DATE:20190806
+DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/05/06#kalki-jayanti
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:बुधाष्टमी
+DTSTART;VALUE=DATE:20190807
+DTEND;VALUE=DATE:20190808
+DESCRIPTION:अष्टमी तिथि on a Wednesday is as sacred as
+  a solar eclipse.\n\nअमावस्या तु सोमेन स
+ प्तमी भानुना सह।\nचतुर्थी भू
+ मिपुत्रेण सोमपुत्रेण चाष्ट
+ मी।\nचतस्रस्तिथयस्त्वेताः 
+ सूर्यग्रहणसन्निभाः॥\n\n\n\nhttps://g
+ ithub.com/sanskrit-coders/jyotisha/tree/master/jyotisha/panchangam/tempora
+ l/festival/data/other/rare-days/combinations#budhastami
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:सेङ्गालिपुरम् अनन्तराम-
+ दीक्षित-जयन्ती #११७
+DTSTART;VALUE=DATE:20190808
+DTEND;VALUE=DATE:20190809
+DESCRIPTION:Jayanti Day of Sri Anantarama Dikshitar.\n\nhttps://github.com
+ /sanskrit-coders/jyotisha/tree/master/jyotisha/panchangam/temporal/festiva
+ l/data/solar_month/nakshatram/04/17#seggalipuram-anantarama-diksita-jayant
+ i
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:वरलक्ष्मी-व्रतम्
+DTSTART;VALUE=DATE:20190809
+DTEND;VALUE=DATE:20190810
+DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
+ ha/panchangam/temporal/festival/data/other/common-festivals/special-vratam
+ s#varalaksmi-vratam
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:सर्व-पवित्रोपान-एकादशी
+DTSTART;VALUE=DATE:20190810
+DTEND;VALUE=DATE:20190811
+DESCRIPTION:The Shukla-paksha Ekadashi of श्रवण month is known a
+ s पवित्रोपान-एकादशी.\n\nhttps://github.com
+ /sanskrit-coders/jyotisha/tree/master/jyotisha/panchangam/temporal/festiva
+ l/data/other/monthly-vratams/ekadashi-vratam-days#pavitropana-ekadazi
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:दधि-व्रत-आरम्भः
+DTSTART;VALUE=DATE:20190811
+DTEND;VALUE=DATE:20190812
+DESCRIPTION:सङ्कर्षणारविन्दाक्ष क
+ रिष्येऽहं दधिव्रतम्।\nद्वि
+ तीये मासि देवेश निर्विघ्नं 
+ कुरु मे प्रभो॥\n\n\n\nhttps://github.com/sanskrit-
+ coders/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data/lun
+ ar_month/tithi/05/12#dadhi-vrata-arambhah
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:शाकव्रत-समापनम्
+DTSTART;VALUE=DATE:20190811
+DTEND;VALUE=DATE:20190812
+DESCRIPTION:वासुदेव नमस्तुभ्यं प्र
+ थमे मासि मत्कृतम्।\nशाकव्रत
+ ं मया तेन संतुष्टो भव माधव॥\n
+ इदं व्रतं मया देव कृतं प्रीत
+ ्यै तव प्रभो।\nन्यूनं सम्पूर
+ ्णतां यातु त्वत्प्रसादज्जन
+ ार्दन॥\n\n\n\nhttps://github.com/sanskrit-coders/jyotisha/tree
+ /master/jyotisha/panchangam/temporal/festival/data/lunar_month/tithi/05/12
+ #zakavrata-samapanam
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:शाकव्रतम्
+DTSTART;VALUE=DATE:20190711
+DTEND;VALUE=DATE:20190812
+DESCRIPTION:वासुदेव नमस्तुभ्यं प्र
+ थमे मासि मत्कृतम्।\nशाकव्रत
+ ं मया तेन संतुष्टो भव माधव॥\n
+ इदं व्रतं मया देव कृतं प्रीत
+ ्यै तव प्रभो।\nन्यूनं सम्पूर
+ ्णतां यातु त्वत्प्रसादज्जन
+ ार्दन॥\n\n\n\nhttps://github.com/sanskrit-coders/jyotisha/tree
+ /master/jyotisha/panchangam/temporal/festival/data/lunar_month/tithi/05/12
+ #zakavrata-samapanam
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:सोम-प्रदोष-व्रतम्
+DTSTART;VALUE=DATE:20190812
+DTEND;VALUE=DATE:20190813
+DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
+ ha/panchangam/temporal/festival/data/other/monthly-vratams/pradosha-vratam
+ -days#soma-pradosa-vratam
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ऋग्वेद-उपाकर्म
+DTSTART;VALUE=DATE:20190814
+DTEND;VALUE=DATE:20190815
+DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
+ ha/panchangam/temporal/festival/data/lunar_month/nakshatram/05/22#rgveda-u
+ pakarma
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:राखी-पूर्णिमा
+DTSTART;VALUE=DATE:20190814
+DTEND;VALUE=DATE:20190815
+DESCRIPTION:Rakshabandhanam\n\nhttps://github.com/sanskrit-coders/jyotisha
+ /tree/master/jyotisha/panchangam/temporal/festival/data/lunar_month/tithi/
+ 05/15#rakhi-purnima
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:यजुर्वेद-उपाकर्म
+DTSTART;VALUE=DATE:20190814
+DTEND;VALUE=DATE:20190815
+DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/05/15#yajurveda-upa
+ karma
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:गायत्री-जपः
+DTSTART;VALUE=DATE:20190815
+DTEND;VALUE=DATE:20190816
+DESCRIPTION:Perform 1008 Gayatri Japa.\n\nhttps://github.com/sanskrit-code
+ rs/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data/relativ
+ e_event/yajurvEda-upAkarma/offset__01#gayatri-japah
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:काञ्ची जगद्गुरु श्री जये
+ न्द्र सरस्वती जयन्ती #८५
+DTSTART;VALUE=DATE:20190815
+DTEND;VALUE=DATE:20190816
+DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
+ ha/panchangam/temporal/festival/data/solar_month/nakshatram/04/23#kajci-ja
+ gadguru-zri-jayendra-sarasvati-jayanti
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:विष्णुपदी-सिंहरविः
+DTSTART;VALUE=DATE:20190817
+DTEND;VALUE=DATE:20190818
+DESCRIPTION:Perform danam of ghee\, milk vessel\, "ghee cow" and fruits.\n
+ \nघृतं च क्षीरकुम्भश्च घृतधे
+ नु फलानि च।\nश्रावणे श्रीधरप
+ ्रीत्यै दातव्यानि विपश्चित
+ ा॥\n\n\n\nhttps://github.com/sanskrit-coders/jyotisha/tree/master/jyot
+ isha/panchangam/temporal/festival/data/solar_month/day/05/01#visnupadi-sim
+ haravih
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:श्री राघवेन्द्र स्वामी आ
+ राधना #३४८
+DTSTART;VALUE=DATE:20190817
+DTEND;VALUE=DATE:20190818
+DESCRIPTION:पुज्याय राघवेन्द्राय स
+ त्यधर्मरताय च।\nभजतां कलवृक
+ ्षाय नमतां कामधेनवे॥\n\n\n\nhttps://gi
+ thub.com/sanskrit-coders/jyotisha/tree/master/jyotisha/panchangam/temporal
+ /festival/data/lunar_month/tithi/05/17#zri-raghavendra-svami-aradhana
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:हेरम्ब-महागणपति महासङ्क
+ टहर-चतुर्थी-व्रतम्
+DTSTART;VALUE=DATE:20190818
+DTEND;VALUE=DATE:20190819
+DESCRIPTION:Special vrata day for Ganesha. In this month\, Ganesha is wors
+ hipped as हेरम्ब-महागणपतिः. Fast during the 
+ day and pray to Ganesha after moonrise\, as follows:\n\nगणाधिप
+ स्त्वं देवेश चतुर्थ्यां पू
+ जितो मया।\nकष्टान् मां मोचये
+ शान सर्वमिष्टं च देहि मे॥\n\n\n\
+ nhttps://github.com/sanskrit-coders/jyotisha/tree/master/jyotisha/panchang
+ am/temporal/festival/data/other/monthly-vratams/sankatahara-chaturthi-vrat
+ am-days#heramba-mahaganapati-mahasagkatahara-caturthi-vratam
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:भौमाश्विनी-पुण्यकालः
+DTSTART;VALUE=DATE:20190820
+DTEND;VALUE=DATE:20190821
+DESCRIPTION:When Ashwini nakshatram falls on a Tuesday\, it is a special 
+ पुण्यकालः. Do उपासना of Lakshmi Narasimha.\n
+ \nhttps://github.com/sanskrit-coders/jyotisha/tree/master/jyotisha/panchan
+ gam/temporal/festival/data/other/rare-days/combinations#bhaumazvini-punyak
+ alah
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:हल-षष्ठी
+DTSTART;VALUE=DATE:20190821
+DTEND;VALUE=DATE:20190822
+DESCRIPTION:Birth of Balarama\n\nhttps://github.com/sanskrit-coders/jyotis
+ ha/tree/master/jyotisha/panchangam/temporal/festival/data/lunar_month/tith
+ i/05/21#hala-sasthi
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:श्रीकृष्णजन्माष्टमी
+DTSTART;VALUE=DATE:20190822
+DTEND;VALUE=DATE:20190823
+DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/05/23#zrikrsnajanma
+ stami
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ஶ்ரீ ஜயந்தீ
+DTSTART;VALUE=DATE:20190823
+DTEND;VALUE=DATE:20190824
+DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
+ ha/panchangam/temporal/festival/data/solar_month/nakshatram/05/04#zri-jaya
+ nti
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:सर्व-अजा-एकादशी
+DTSTART;VALUE=DATE:20190826
+DTEND;VALUE=DATE:20190827
+DESCRIPTION:The Krishna-paksha Ekadashi of श्रवण month is known 
+ as अजा-एकादशी. Satya Harishchandra performed this to get
+  back family and kingdom.\n\nhttps://github.com/sanskrit-coders/jyotisha/t
+ ree/master/jyotisha/panchangam/temporal/festival/data/other/monthly-vratam
+ s/ekadashi-vratam-days#aja-ekadazi
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:जयन्ती महाद्वादशी
+DTSTART;VALUE=DATE:20190827
+DTEND;VALUE=DATE:20190828
+DESCRIPTION:Dvadashi tithi\, combined with Punarvasu nakshatram.\n\nhttps:
+ //github.com/sanskrit-coders/jyotisha/tree/master/jyotisha/panchangam/temp
+ oral/festival/data/other/rare-days/combinations#jayanti-mahadvadazi
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:प्रदोष-व्रतम्
+DTSTART;VALUE=DATE:20190827
+DTEND;VALUE=DATE:20190828
+DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
+ ha/panchangam/temporal/festival/data/other/monthly-vratams/pradosha-vratam
+ -days#pradosa-vratam
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:श्रवण-अमावस्या
+DTSTART;VALUE=DATE:20190829
+DTEND;VALUE=DATE:20190830
+DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
+ ha/panchangam/temporal/festival/data/other/amavasya-days#zravana-amavasya
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:सामवेद-उपाकर्म
+DTSTART;VALUE=DATE:20190901
+DTEND;VALUE=DATE:20190902
+DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
+ ha/panchangam/temporal/festival/data/solar_month/nakshatram/05/13#samaveda
+ -upakarma
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:वराह जयन्ती
+DTSTART;VALUE=DATE:20190901
+DTEND;VALUE=DATE:20190902
+DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/06/03#varaha-jayant
+ i
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ऋषि-पञ्चमी-व्रतम्
+DTSTART;VALUE=DATE:20190902
+DTEND;VALUE=DATE:20190903
+DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/06/05#rsi-pajcami-v
+ ratam
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:श्रीविनायक-चतुर्थी
+DTSTART;VALUE=DATE:20190902
+DTEND;VALUE=DATE:20190903
+DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/06/04#zrivinayaka-c
+ aturthi
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:षष्ठीदेवी-षष्ठी-व्रतम्
+DTSTART;VALUE=DATE:20190903
+DTEND;VALUE=DATE:20190904
+DESCRIPTION:Skanda darshanam is recommended\, removes sins including brahm
+ ahatya.\n\nयोऽस्यां पश्यति गाङ्गे
+ यं दक्षिणापथवासिनम्।\nब्रह
+ ्महत्यादि पापैस्तु मुच्यते
+  नात्र संशयः॥\n\n\n\nhttps://github.com/sanskrit-cod
+ ers/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data/other/
+ monthly-vratams/shashthi-vratam-days#sasthidevi-sasthi-vratam
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:राधाष्टमी
+DTSTART;VALUE=DATE:20190906
+DTEND;VALUE=DATE:20190907
+DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/06/08#radhastami
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:सर्व-परिवर्तिनी-एकादशी
+DTSTART;VALUE=DATE:20190909
+DTEND;VALUE=DATE:20190910
+DESCRIPTION:The Shukla-paksha Ekadashi of भाद्रपद month is k
+ nown as परिवर्तिनी-एकादशी. Sideways turn i
+ nside sleep of Lord Vishnu midway after Shayana Ekadashi.\n\nवासु
+ देव जगन्नाथ प्राप्तेयं द्व
+ ादशी तव।\nपार्श्वेन परिवर्त
+ स्व सुखं स्वपिहि माधव॥\n\n\n\nhttps:
+ //github.com/sanskrit-coders/jyotisha/tree/master/jyotisha/panchangam/temp
+ oral/festival/data/other/monthly-vratams/ekadashi-vratam-days#parivartini-
+ ekadazi
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:वामन जयन्ती
+DTSTART;VALUE=DATE:20190909
+DTEND;VALUE=DATE:20190910
+DESCRIPTION:Wednesday Shravana \; Vamana Jayanti\; Shravana Dvadashi\; Vij
+ aya Dvadashi\; Shakra Dvadashi\n\nhttps://github.com/sanskrit-coders/jyoti
+ sha/tree/master/jyotisha/panchangam/temporal/festival/data/lunar_month/tit
+ hi/06/12#vamana-jayanti
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:दधि-व्रत-समापनम्
+DTSTART;VALUE=DATE:20190910
+DTEND;VALUE=DATE:20190911
+DESCRIPTION:On this day the DadhiVratam in Chaaturmaasyam is completed\, h
+ ence perform danam of Dadhi (curd) to a Viprottama and recite the followin
+ g shloka.\n\nसङ्कर्षण नमस्तुभ्यं श
+ ्रवणे मत्कृतेन च।\nदधिव्रते
+ न देवेश तुष्टो भव जनार्दन॥\n
+ इदं व्रतं मया देव कृतं प्रीत
+ ्यै तव प्रभो।\nन्यूनं सम्पूर
+ ्णतां यातु त्वत्प्रसादज्जन
+ ार्दन॥\n\n\n\nhttps://github.com/sanskrit-coders/jyotisha/tree
+ /master/jyotisha/panchangam/temporal/festival/data/lunar_month/tithi/06/12
+ #dadhi-vrata-samapanam
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:दधि-व्रतम्
+DTSTART;VALUE=DATE:20190811
+DTEND;VALUE=DATE:20190911
+DESCRIPTION:On this day the DadhiVratam in Chaaturmaasyam is completed\, h
+ ence perform danam of Dadhi (curd) to a Viprottama and recite the followin
+ g shloka.\n\nसङ्कर्षण नमस्तुभ्यं श
+ ्रवणे मत्कृतेन च।\nदधिव्रते
+ न देवेश तुष्टो भव जनार्दन॥\n
+ इदं व्रतं मया देव कृतं प्रीत
+ ्यै तव प्रभो।\nन्यूनं सम्पूर
+ ्णतां यातु त्वत्प्रसादज्जन
+ ार्दन॥\n\n\n\nhttps://github.com/sanskrit-coders/jyotisha/tree
+ /master/jyotisha/panchangam/temporal/festival/data/lunar_month/tithi/06/12
+ #dadhi-vrata-samapanam
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:पयोव्रत-आरम्भः
+DTSTART;VALUE=DATE:20190910
+DTEND;VALUE=DATE:20190911
+DESCRIPTION:पयोव्रतम् in chaturmasyam begins today.\n\n
+ प्रद्युम्न तव तुष्ट्यर्थं 
+ प्रोष्टपद्यां तृतीयके।\nनि
+ र्विघ्नं कुरु देवेश करिष्य
+ ेऽहं पयोव्रतम्॥\n\n\n\nhttps://github.com/sans
+ krit-coders/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/dat
+ a/lunar_month/tithi/06/12#payovrata-arambhah
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:प्रदोष-व्रतम्
+DTSTART;VALUE=DATE:20190910
+DTEND;VALUE=DATE:20190911
+DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
+ ha/panchangam/temporal/festival/data/other/monthly-vratams/pradosha-vratam
+ -days#pradosa-vratam
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ஓணம்
+DTSTART;VALUE=DATE:20190910
+DTEND;VALUE=DATE:20190911
+DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
+ ha/panchangam/temporal/festival/data/solar_month/nakshatram/05/22#onam
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:विजया/श्रवण-महाद्वादशी
+DTSTART;VALUE=DATE:20190910
+DTEND;VALUE=DATE:20190911
+DESCRIPTION:Dvadashi tithi\, combined with Shravana nakshatram.\n\nhttps:/
+ /github.com/sanskrit-coders/jyotisha/tree/master/jyotisha/panchangam/tempo
+ ral/festival/data/other/rare-days/combinations/special-vratams#vijayazrava
+ na-mahadvadazi
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:अनन्त-चतुर्दशी
+DTSTART;VALUE=DATE:20190912
+DTEND;VALUE=DATE:20190913
+DESCRIPTION:Visarjan of Ganesha idols\n\nhttps://github.com/sanskrit-coder
+ s/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data/lunar_mo
+ nth/tithi/06/14#ananta-caturdazi
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:उमा-महेश्वर-व्रतम्
+DTSTART;VALUE=DATE:20190913
+DTEND;VALUE=DATE:20190914
+DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/06/15#uma-mahezvara
+ -vratam
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:विश्वरूप-यात्रा
+DTSTART;VALUE=DATE:20190913
+DTEND;VALUE=DATE:20190914
+DESCRIPTION:Shankaracharyas will resume their travel\, after being station
+ ed for Chaturmasya vratam for the last four pakshas.\n\nhttps://github.com
+ /sanskrit-coders/jyotisha/tree/master/jyotisha/panchangam/temporal/festiva
+ l/data/lunar_month/tithi/06/15#vizvarupa-yatra
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:यतिचातुर्मास्यव्रत-समा
+ पनम्
+DTSTART;VALUE=DATE:20190913
+DTEND;VALUE=DATE:20190914
+DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/06/15#yaticaturmasy
+ avrata-samapanam
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:यतिचातुर्मास्यव्रतम्
+DTSTART;VALUE=DATE:20190716
+DTEND;VALUE=DATE:20190914
+DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/06/15#yaticaturmasy
+ avrata-samapanam
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:षडशीति-कन्यारविः
+DTSTART;VALUE=DATE:20190917
+DTEND;VALUE=DATE:20190918
+DESCRIPTION:Perform danam of clothes/place to live.\n\nकन्याप
+ ्रवेशे वस्त्राणां वेश्मनां
+  दानमेव च\n\n\n\nhttps://github.com/sanskrit-coders/jyotisha
+ /tree/master/jyotisha/panchangam/temporal/festival/data/solar_month/day/06
+ /01#sadaziti-kanyaravih
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:अङ्गारकी विघ्नराज-महागण
+ पति सङ्कटहर-चतुर्थी-व्रतम्
+DTSTART;VALUE=DATE:20190917
+DTEND;VALUE=DATE:20190918
+DESCRIPTION:Special vrata day for Ganesha. In this month\, Ganesha is wors
+ hipped as विघ्नराज-महागणपतिः. Fast durin
+ g the day and pray to Ganesha after moonrise\, as follows:\n\nगणाध
+ िपस्त्वं देवेश चतुर्थ्यां 
+ पूजितो मया।\nकष्टान् मां मोच
+ येशान सर्वमिष्टं च देहि मे॥\
+ n\nWhen `caturthI` occurs on a Tuesday\, it is known as `aGgArakI` and is 
+ even more sacred.
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:अङ्गारक-चतुर्थी
+DTSTART;VALUE=DATE:20190917
+DTEND;VALUE=DATE:20190918
+DESCRIPTION:चतुर्थी तिथि on a Tuesday is as sacred a
+ s a solar eclipse. Good day for doing puja of Ganesha/Subrahmanya with nai
+ vedyam of modakam/millet flour respectively.\n\nअमावस्या 
+ तु सोमेन सप्तमी भानुना सह।\n
+ चतुर्थी भूमिपुत्रेण सोमपुत
+ ्रेण चाष्टमी।\nचतस्रस्तिथय
+ स्त्वेताः सूर्यग्रहणसन्नि
+ भाः॥\n\n\n\nhttps://github.com/sanskrit-coders/jyotisha/tree/maste
+ r/jyotisha/panchangam/temporal/festival/data/other/rare-days/combinations#
+ aggaraka-caturthi
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:भौमाश्विनी-पुण्यकालः
+DTSTART;VALUE=DATE:20190917
+DTEND;VALUE=DATE:20190918
+DESCRIPTION:When Ashwini nakshatram falls on a Tuesday\, it is a special 
+ पुण्यकालः. Do उपासना of Lakshmi Narasimha.\n
+ \nhttps://github.com/sanskrit-coders/jyotisha/tree/master/jyotisha/panchan
+ gam/temporal/festival/data/other/rare-days/combinations#bhaumazvini-punyak
+ alah
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:विघ्नराज-महागणपति सङ्कट
+ हर-चतुर्थी-व्रतम्
+DTSTART;VALUE=DATE:20190917
+DTEND;VALUE=DATE:20190918
+DESCRIPTION:Special vrata day for Ganesha. In this month\, Ganesha is wors
+ hipped as विघ्नराज-महागणपतिः. Fast durin
+ g the day and pray to Ganesha after moonrise\, as follows:\n\nगणाध
+ िपस्त्वं देवेश चतुर्थ्यां 
+ पूजितो मया।\nकष्टान् मां मोच
+ येशान सर्वमिष्टं च देहि मे॥\
+ n\n\n\nhttps://github.com/sanskrit-coders/jyotisha/tree/master/jyotisha/pa
+ nchangam/temporal/festival/data/other/monthly-vratams/sankatahara-chaturth
+ i-vratam-days#vighnaraja-mahaganapati-sagkatahara-caturthi-vratam
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:महाभरणी
+DTSTART;VALUE=DATE:20190918
+DTEND;VALUE=DATE:20190919
+DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
+ ha/panchangam/temporal/festival/data/lunar_month/nakshatram/06/02#mahabhar
+ ani
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:मध्याष्टमी
+DTSTART;VALUE=DATE:20190922
+DTEND;VALUE=DATE:20190923
+DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/06/23#madhyastami
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:सुमङ्गली नवमी
+DTSTART;VALUE=DATE:20190922
+DTEND;VALUE=DATE:20190923
+DESCRIPTION:In honour of Sumangalis (in the family)\, by holding a feast f
+ or Suvasinis and Kanyas.\n\nभर्तुरग्रे मृता 
+ नारी सहदाहेन वा मृता।\nतस्या
+ ः स्थाने नियुञ्जीत विप्रैः 
+ सह सुवासिनीम्॥\n\n\n\nhttps://github.com/sanskri
+ t-coders/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data/l
+ unar_month/tithi/06/24#sumaggali-navami
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:सर्व-इन्दिरा-एकादशी
+DTSTART;VALUE=DATE:20190924
+DTEND;VALUE=DATE:20190925
+DESCRIPTION:The Krishna-paksha Ekadashi of भाद्रपद month is 
+ known as इन्दिरा-एकादशी. Indrasena's son did Eka
+ dashi and as a result he was shifted from hell to heaven.\n\nhttps://githu
+ b.com/sanskrit-coders/jyotisha/tree/master/jyotisha/panchangam/temporal/fe
+ stival/data/other/monthly-vratams/ekadashi-vratam-days#indira-ekadazi
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:यति-महालयम्
+DTSTART;VALUE=DATE:20190925
+DTEND;VALUE=DATE:20190926
+DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/06/27#yati-mahalaya
+ m
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:श्री बोधेन्द्र सरस्वती आ
+ राधना
+DTSTART;VALUE=DATE:20190925
+DTEND;VALUE=DATE:20190926
+DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/06/27#zri-bodhendra
+ -sarasvati-aradhana
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:प्रदोष-व्रतम्
+DTSTART;VALUE=DATE:20190926
+DTEND;VALUE=DATE:20190927
+DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
+ ha/panchangam/temporal/festival/data/other/monthly-vratams/pradosha-vratam
+ -days#pradosa-vratam
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(भाद्रपद) महालय अमावस्या
+DTSTART;VALUE=DATE:20190927
+DTEND;VALUE=DATE:20190928
+DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
+ ha/panchangam/temporal/festival/data/other/amavasya-days#(bhadrapada)-maha
+ laya-amavasya
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:महालय-पक्ष-समापनम्
+DTSTART;VALUE=DATE:20190927
+DTEND;VALUE=DATE:20190928
+DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
+ ha/panchangam/temporal/festival/data/relative_event/(bhAdrapada) mahAlaya 
+ amAvasyA/offset__00#mahalaya-paksa-samapanam
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:महालय-पक्षः
+DTSTART;VALUE=DATE:20190914
+DTEND;VALUE=DATE:20190928
+DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
+ ha/panchangam/temporal/festival/data/relative_event/(bhAdrapada) mahAlaya 
+ amAvasyA/offset__00#mahalaya-paksa-samapanam
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:गजच्छाया-योगः
+DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20190928T093200
+DTEND;TZID=America/Los_Angeles;VALUE=DATE-TIME:20190928T112600
+DESCRIPTION:A very special yOga\, for doing Pitru Shraddha during Mahalaya
+  Paksham. A man that performs a sraddha in the conjunction called Gajaccha
+ ya at a place that is fanned by the leaves of the Aswattha tree enjoys the
+  fruits thereof\, O Yudhishthira\, for a hundred thousand kalpas.\n\nछ
+ ायायां करिणः श्राद्धं तत्क
+ र्म परिवीजितम्।\nदशकल्पायु
+ तानीह न क्षीयेत युधिष्ठिर॥
+ ३-२०३-१२१॥\nमहाभारते वनपर्वण
+ ि त्रयोत्तरद्विशततमेऽध्या
+ ये\n\n\n\nhttps://github.com/sanskrit-coders/jyotisha/tree/master/jyot
+ isha/panchangam/temporal/festival/data/other/rare-days/combinations#gajacc
+ haya-yogah
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:दौहित्र-प्रतिपत्
+DTSTART;VALUE=DATE:20190929
+DTEND;VALUE=DATE:20190930
+DESCRIPTION:Grandson must seek blessings of his maternal grandparents\, an
+ d bestow gifts.\n\nhttps://github.com/sanskrit-coders/jyotisha/tree/master
+ /jyotisha/panchangam/temporal/festival/data/lunar_month/tithi/07/01#dauhit
+ ra-pratipat
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:शरन्नवरात्रि-आरम्भः
+DTSTART;VALUE=DATE:20190929
+DTEND;VALUE=DATE:20190930
+DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/07/01#zarannavaratr
+ i-arambhah
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:सुखा अङ्गारक-चतुर्थी
+DTSTART;VALUE=DATE:20191001
+DTEND;VALUE=DATE:20191002
+DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
+ ha/panchangam/temporal/festival/data/other/rare-days/combinations#sukha-ag
+ garaka-caturthi
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:बुधानूराधा-पुण्यकालः
+DTSTART;VALUE=DATE:20191002
+DTEND;VALUE=DATE:20191003
+DESCRIPTION:When अनूराधा nakshatram falls on a Wednesday\, i
+ t is a special पुण्यकालः for performing दानम्.
+  One can do दानं of दध्योदनम् in Vishnu temples 
+ on this day.\n\nhttps://github.com/sanskrit-coders/jyotisha/tree/master/jy
+ otisha/panchangam/temporal/festival/data/other/rare-days/combinations#budh
+ anuradha-punyakalah
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ललिता-पञ्चमी
+DTSTART;VALUE=DATE:20191002
+DTEND;VALUE=DATE:20191003
+DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/07/05#lalita-pajcam
+ i
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:षष्ठी-व्रतम्
+DTSTART;VALUE=DATE:20191003
+DTEND;VALUE=DATE:20191004
+DESCRIPTION:Monthly Shashthi vratam for Lord Subrahmanya.\n\nhttps://githu
+ b.com/sanskrit-coders/jyotisha/tree/master/jyotisha/panchangam/temporal/fe
+ stival/data/other/monthly-vratams/shashthi-vratam-days#sasthi-vratam
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:सरस्वती-आवाहनम्
+DTSTART;VALUE=DATE:20191004
+DTEND;VALUE=DATE:20191005
+DESCRIPTION:Being मूला nakshatram\, it is another ideal day to beg
+ in Saraswati Puja. If not\, at least perform on Navami. During the Saraswa
+ ti Puja days\, those desirous of obtaining knowledge must not teach\, lear
+ n or write anything!\n\nअथवा  मूलनक्षत्रे  
+ समारभ्य  प्रपूजयेत्।\nतत्रा
+ प्यशक्तो  विप्रेन्द्रो  नवम
+ ्यां  तु  प्रपूजयेत्॥\nनाऽध्
+ यापयेन्न  च  लिखेन्नाऽधीयीत 
+  कदाचन।\nपुस्तके  स्थापिते  द
+ ेवीं  विद्याकामो  द्विजोत्त
+ मः॥\n\n\n\nhttps://github.com/sanskrit-coders/jyotisha/tree/master/j
+ yotisha/panchangam/temporal/festival/data/lunar_month/nakshatram/07/19#sar
+ asvati-avahanam
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:दुर्गाष्टमी
+DTSTART;VALUE=DATE:20191005
+DTEND;VALUE=DATE:20191006
+DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/07/08#durgastami
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:महानवमी/सरस्वती-पूजा
+DTSTART;VALUE=DATE:20191006
+DTEND;VALUE=DATE:20191007
+DESCRIPTION:Daanam is good\, get crore times punya.\nMaatruNavami\, NaamaN
+ avami Vratam\, DurgaNavami-Vratam\, Shourya-Vratam\, Mahaaphala Vratam\, P
+ radeeptaNavami\n\nhttps://github.com/sanskrit-coders/jyotisha/tree/master/
+ jyotisha/panchangam/temporal/festival/data/lunar_month/tithi/07/09#mahanav
+ amisarasvati-puja
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:शरन्नवरात्रि-समापनम्
+DTSTART;VALUE=DATE:20191006
+DTEND;VALUE=DATE:20191007
+DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/07/09#zarannavaratr
+ i-samapanam
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:शरन्नवरात्रिः
+DTSTART;VALUE=DATE:20190929
+DTEND;VALUE=DATE:20191007
+DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/07/09#zarannavaratr
+ i-samapanam
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:बुद्ध जयन्ती
+DTSTART;VALUE=DATE:20191007
+DTEND;VALUE=DATE:20191008
+DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/07/10#buddha-jayant
+ i
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:दशहरा
+DTSTART;VALUE=DATE:20191007
+DTEND;VALUE=DATE:20191008
+DESCRIPTION:Dussehra (Raama wins over Ravana)\n\nhttps://github.com/sanskr
+ it-coders/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data/
+ lunar_month/tithi/07/10#dazahara
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:दुर्गा-पूजा
+DTSTART;VALUE=DATE:20191007
+DTEND;VALUE=DATE:20191008
+DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/07/10#durga-puja
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ஆயுத பூஜை
+DTSTART;VALUE=DATE:20191007
+DTEND;VALUE=DATE:20191008
+DESCRIPTION:Arjuna wins over all Kauravas and Karna. Worship of all weapon
+ s\, or rather\, tools related to one's profession.\n\nhttps://github.com/s
+ anskrit-coders/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/
+ data/lunar_month/tithi/07/10#ayudha-pujai
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:विजयदशमी
+DTSTART;VALUE=DATE:20191007
+DTEND;VALUE=DATE:20191008
+DESCRIPTION:Arjuna wins over all Kauravas and Karna\nSri Rama's army built
+  tents on ocean bank before crossing on Shravana star (AnandaRamayanam)\nB
+ est day for AksharaaBhyaasam\n\nhttps://github.com/sanskrit-coders/jyotish
+ a/tree/master/jyotisha/panchangam/temporal/festival/data/lunar_month/tithi
+ /07/10#vijayadazami
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:सर्व-पापाङ्कुशा-एकादशी
+DTSTART;VALUE=DATE:20191008
+DTEND;VALUE=DATE:20191009
+DESCRIPTION:The Shukla-paksha Ekadashi of आश्वयुज month is k
+ nown as पापाङ्कुशा-एकादशी.\n\nhttps://gith
+ ub.com/sanskrit-coders/jyotisha/tree/master/jyotisha/panchangam/temporal/f
+ estival/data/other/monthly-vratams/ekadashi-vratam-days#papagkuza-ekadazi
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:द्विदल-व्रत-आरम्भः
+DTSTART;VALUE=DATE:20191009
+DTEND;VALUE=DATE:20191010
+DESCRIPTION:अनिरुद्ध सुरैर्वन्द्य 
+ द्विदलव्रतमुत्तमम्।\nकरोम्
+ यहमिषेमासे निर्विघ्नं कुरु
+  मे प्रभो॥\n\n\n\nhttps://github.com/sanskrit-coders/jyoti
+ sha/tree/master/jyotisha/panchangam/temporal/festival/data/lunar_month/tit
+ hi/07/12#dvidala-vrata-arambhah
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:पयोव्रत-समापनम्
+DTSTART;VALUE=DATE:20191009
+DTEND;VALUE=DATE:20191010
+DESCRIPTION:श्रीप्रद्युम्न नमस्तु
+ भ्यं मासमारभ्य यत्कृतम्।\nइ
+ ष्टदो भव सर्वेश गृहीत्वा तु 
+ पयोव्रतम्॥\nइदं व्रतं मया दे
+ व कृतं प्रीत्यै तव प्रभो।\nन
+ ्यूनं सम्पूर्णतां यातु त्व
+ त्प्रसादज्जनार्दन॥\n\n\n\nhttps://gith
+ ub.com/sanskrit-coders/jyotisha/tree/master/jyotisha/panchangam/temporal/f
+ estival/data/lunar_month/tithi/07/12#payovrata-samapanam
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:पयोव्रतम्
+DTSTART;VALUE=DATE:20190910
+DTEND;VALUE=DATE:20191010
+DESCRIPTION:श्रीप्रद्युम्न नमस्तु
+ भ्यं मासमारभ्य यत्कृतम्।\nइ
+ ष्टदो भव सर्वेश गृहीत्वा तु 
+ पयोव्रतम्॥\nइदं व्रतं मया दे
+ व कृतं प्रीत्यै तव प्रभो।\nन
+ ्यूनं सम्पूर्णतां यातु त्व
+ त्प्रसादज्जनार्दन॥\n\n\n\nhttps://gith
+ ub.com/sanskrit-coders/jyotisha/tree/master/jyotisha/panchangam/temporal/f
+ estival/data/lunar_month/tithi/07/12#payovrata-samapanam
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:व्यञ्जुली महाद्वादशी
+DTSTART;VALUE=DATE:20191009
+DTEND;VALUE=DATE:20191010
+DESCRIPTION:
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:प्रदोष-व्रतम्
+DTSTART;VALUE=DATE:20191010
+DTEND;VALUE=DATE:20191011
+DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
+ ha/panchangam/temporal/festival/data/other/monthly-vratams/pradosha-vratam
+ -days#pradosa-vratam
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:सर्व-पापाङ्कुशा-एकादशी
+DTSTART;VALUE=DATE:20191010
+DTEND;VALUE=DATE:20191011
+DESCRIPTION:The Shukla-paksha Ekadashi of आश्वयुज month is k
+ nown as पापाङ्कुशा-एकादशी.\n\nhttps://gith
+ ub.com/sanskrit-coders/jyotisha/tree/master/jyotisha/panchangam/temporal/f
+ estival/data/other/monthly-vratams/ekadashi-vratam-days#papagkuza-ekadazi
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:अप्पय्य-दीक्षित-जयन्ती #
+ ५०१
+DTSTART;VALUE=DATE:20191012
+DTEND;VALUE=DATE:20191013
+DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
+ ha/panchangam/temporal/festival/data/solar_month/nakshatram/06/26#appayya-
+ diksita-jayanti
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:को-जागर्ति-व्रतम्
+DTSTART;VALUE=DATE:20191012
+DTEND;VALUE=DATE:20191013
+DESCRIPTION:Have to play Aksha kreeda only on this day and Ko-jagarti-Vrat
+ am (Lakshmi will ask "who are awake"). Vaalakhilya Rushi mentioned Ko-jaga
+ rti Vratam\n\nनिशीथे वरदा लक्ष्मीः क
+ ो जागर्तीति भाषिणी।\nतस्मै व
+ ित्तं प्रयच्छामि अक्षैः क्
+ रीडां करोति यः॥\n\n\n\nhttps://github.com/sanskr
+ it-coders/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data/
+ lunar_month/tithi/07/15#ko-jagarti-vratam
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:मीराबाई जयन्ती #५२२
+DTSTART;VALUE=DATE:20191013
+DTEND;VALUE=DATE:20191014
+DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/07/15#mirabai-jayan
+ ti
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:वाल्मीकि महर्षि जयन्ती
+DTSTART;VALUE=DATE:20191013
+DTEND;VALUE=DATE:20191014
+DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/07/15#valmiki-mahar
+ si-jayanti
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:शरद्-पूर्णिमा
+DTSTART;VALUE=DATE:20191013
+DTEND;VALUE=DATE:20191014
+DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/07/15#zarad-purnima
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:वक्रतुण्ड-महागणपति सङ्क
+ टहर-चतुर्थी-व्रतम्
+DTSTART;VALUE=DATE:20191016
+DTEND;VALUE=DATE:20191017
+DESCRIPTION:Special vrata day for Ganesha. In this month\, Ganesha is wors
+ hipped as वक्रतुण्ड-महागणपतिः. Fast du
+ ring the day and pray to Ganesha after moonrise\, as follows:\n\nगणा
+ धिपस्त्वं देवेश चतुर्थ्यां
+  पूजितो मया।\nकष्टान् मां मो
+ चयेशान सर्वमिष्टं च देहि मे
+ ॥\n\n\n\nhttps://github.com/sanskrit-coders/jyotisha/tree/master/jyotish
+ a/panchangam/temporal/festival/data/other/monthly-vratams/sankatahara-chat
+ urthi-vratam-days#vakratunda-mahaganapati-sagkatahara-caturthi-vratam
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:तुला-विषु-पुण्यकालः
+DTSTART;VALUE=DATE:20191017
+DTEND;VALUE=DATE:20191018
+DESCRIPTION:Perform danam of rice/wheat/grains and cow ghee/curd etc.\n\n
+ तुलाप्रवेशे धान्यानां गोरस
+ ानामपीष्टदम्\n\n\n\nhttps://github.com/sanskrit-co
+ ders/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data/solar
+ _month/day/07/01#tula-visu-punyakalah
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:सेङ्गालिपुरम् अनन्तराम-
+ दीक्षित-आराधना #५०
+DTSTART;VALUE=DATE:20191019
+DTEND;VALUE=DATE:20191020
+DESCRIPTION:Aradhana Day of Sri Anantarama Dikshitar.\n\nhttps://github.co
+ m/sanskrit-coders/jyotisha/tree/master/jyotisha/panchangam/temporal/festiv
+ al/data/solar_month/tithi/07/21#seggalipuram-anantarama-diksita-aradhana
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:भानुसप्तमी
+DTSTART;VALUE=DATE:20191020
+DTEND;VALUE=DATE:20191021
+DESCRIPTION:सप्तमी तिथि on a Sunday is as sacred as a 
+ solar eclipse. Particularly good for worshipping Surya.\n\nअमावस
+ ्या तु सोमेन सप्तमी भानुना स
+ ह।\nचतुर्थी भूमिपुत्रेण सोम
+ पुत्रेण चाष्टमी।\nचतस्रस्त
+ िथयस्त्वेताः सूर्यग्रहणसन
+ ्निभाः॥\n\n\n\nhttps://github.com/sanskrit-coders/jyotisha/t
+ ree/master/jyotisha/panchangam/temporal/festival/data/other/rare-days/comb
+ inations#bhanusaptami
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:भीमा/ताम्रपर्णी-अन्त्य-प
+ ुष्कर-आरम्भः
+DTSTART;VALUE=DATE:20191024
+DTEND;VALUE=DATE:20191025
+DESCRIPTION:Coming from Brahma's Kamandalu\, Pushkara Raja resides in diff
+ erent rivers\, along with 3.5 crore tirthas\, following the Sankranti of G
+ uru\, for twelve days at the beginning of the Sankranti (आदि पु
+ ष्करम्) and at the end of the year (preceding transition to th
+ e next राशी\, अन्त्य पुष्करम्)\, and f
+ or two muhurtas during mid-day\, every day\, during the entire year.\n Fol
+ lowing the transition of Guru to वृश्चिक राशी\, प
+ ुष्करराज resides in भीमा/ताम्रपर्
+ णी river.\n\nयदा राशि-प्रवेशः स्या
+ त्तदा प्रभृति सर्वदा।\nद्वा
+ दशाहमिते काले वस्तव्यं तु म
+ माऽऽज्ञया॥\nआवत्सरं तु वस्त
+ व्यं मध्याह्ने द्विमुहूर्त
+ कम्।\nअन्ते द्वादश वस्तव्यं 
+ दिनानि च यथासुखम्॥\n\n\n\n\nhttps://github
+ .com/sanskrit-coders/jyotisha/tree/master/jyotisha/panchangam/temporal/fes
+ tival/data/other/rare-days/pushkara#bhimatamraparni-antya-puskara-arambhah
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:गोवत्स-द्वादशी
+DTSTART;VALUE=DATE:20191024
+DTEND;VALUE=DATE:20191025
+DESCRIPTION:Avoid cow's milk\, ghee\, curd and buttermilk on this day. Giv
+ e grass to cows and pray to them.\n\nगोक्षीरं गोघृ
+ तं चैव दधि तक्रं च वर्जयेत्।
+ \n\nसुरभि त्वं जगन्मातर्देवि 
+ विष्णुपदे स्थिता।\nसर्वदेव
+ मये ग्रासं मया दत्तमिदं ग्र
+ स॥\n\nसर्वदेवमये देवि सर्वेद
+ ेवैश्च सत्कृता।\nमातर्ममाऽ
+ भिलाषितं सफलं कुरु नन्दिनि
+ ॥\n\n\n\n\nhttps://github.com/sanskrit-coders/jyotisha/tree/master/jyoti
+ sha/panchangam/temporal/festival/data/lunar_month/tithi/07/27#govatsa-dvad
+ azi
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:सर्व-रमा-एकादशी
+DTSTART;VALUE=DATE:20191024
+DTEND;VALUE=DATE:20191025
+DESCRIPTION:The Krishna-paksha Ekadashi of आश्वयुज month is 
+ known as रमा-एकादशी.\n\nhttps://github.com/sanskrit-code
+ rs/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data/other/m
+ onthly-vratams/ekadashi-vratam-days#rama-ekadazi
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:त्रिस्पृशा महाद्वादशी
+DTSTART;VALUE=DATE:20191024
+DTEND;VALUE=DATE:20191025
+DESCRIPTION:
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(यम)-दीप-त्रयोदशी
+DTSTART;VALUE=DATE:20191025
+DTEND;VALUE=DATE:20191026
+DESCRIPTION:Do दानं of दीपम्\, light deepam outside the 
+ house.\n\nआश्विनस्यासिते पक्षे त
+ ्रयोदश्यां निशामुखे।\nयमदी
+ पं बहिर्दद्यात् अपमृत्युर्
+ विनश्यति॥\n\nमृत्युना पाशदण्
+ डाभ्यां कालेन श्यामया सह।\nत
+ ्रयोदश्यां दीपदानात् सूर्य
+ जः प्रीयतां मम॥\n\n\n\nhttps://github.com/sanskr
+ it-coders/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data/
+ lunar_month/tithi/07/28#(yama)-dipa-trayodazi
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:धन-त्रयोदशी
+DTSTART;VALUE=DATE:20191025
+DTEND;VALUE=DATE:20191026
+DESCRIPTION:Dhan-trayodashi in Gujarat\; Lakshmi pooja\n\nhttps://github.c
+ om/sanskrit-coders/jyotisha/tree/master/jyotisha/panchangam/temporal/festi
+ val/data/lunar_month/tithi/07/28#dhana-trayodazi
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:धन्वन्तरि जयन्ती
+DTSTART;VALUE=DATE:20191025
+DTEND;VALUE=DATE:20191026
+DESCRIPTION:Dhanvantari Jayanti (born as Divodaas King of Kaashi) as per B
+ rahmanda-Puraana (Dvadashi?)\n\nhttps://github.com/sanskrit-coders/jyotish
+ a/tree/master/jyotisha/panchangam/temporal/festival/data/lunar_month/tithi
+ /07/28#dhanvantari-jayanti
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:प्रदोष-व्रतम्
+DTSTART;VALUE=DATE:20191025
+DTEND;VALUE=DATE:20191026
+DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
+ ha/panchangam/temporal/festival/data/other/monthly-vratams/pradosha-vratam
+ -days#pradosa-vratam
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:दीपोत्सव-चतुर्दशी/यम-तर्
+ पणम्
+DTSTART;VALUE=DATE:20191026
+DTEND;VALUE=DATE:20191027
+DESCRIPTION:Perform Tarpana to Yamadharmaraja (even those with father). 
+ जीवत्पिताऽपि कुर्वीत तर्पण
+ ं यमभीष्मयोः\n\nhttps://github.com/sanskrit-coders/j
+ yotisha/tree/master/jyotisha/panchangam/temporal/festival/data/lunar_month
+ /tithi/07/29#dipotsava-caturdaziyama-tarpanam
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:नरक-चतुर्दशी
+DTSTART;VALUE=DATE:20191026
+DTEND;VALUE=DATE:20191027
+DESCRIPTION:*ShriKrishna killed Muraasura and Narakaasura on this day.\n*M
+ ust do Taila-abhyangana-snaanam in early morning before sunrise\, else Nar
+ akam (as per PadmaPurana) . If done\, equal to GangaSnanam and avoids Yama
+ Yaatanam. Use water stored from previous day. Previous day night do pooja 
+ to water. Use this water on Chaturdashi. With plough uproot Upaamaarga-vru
+ ksham (small one) and put in the water. (DO NOT PLUCK WITH HAND). Do dhyaa
+ nam of Seeta.\n* As per KalikaPuranam\, Naraka was also upraised by Janaka
+ . He was then sent to PraajyotishaPuram.\n\nhttps://github.com/sanskrit-co
+ ders/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data/lunar
+ _month/tithi/07/29#naraka-caturdazi
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:आश्वयुज-अमावस्या
+DTSTART;VALUE=DATE:20191027
+DTEND;VALUE=DATE:20191028
+DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
+ ha/panchangam/temporal/festival/data/other/amavasya-days#azvayuja-amavasya
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:दीपावली/लक्ष्मी-कुबेर-पू
+ जा
+DTSTART;VALUE=DATE:20191027
+DTEND;VALUE=DATE:20191028
+DESCRIPTION:Gives light even to Naraka-vasis\; Also\, Bali was sent to Paa
+ talam on this day.\n\nhttps://github.com/sanskrit-coders/jyotisha/tree/mas
+ ter/jyotisha/panchangam/temporal/festival/data/lunar_month/tithi/07/30#dip
+ avalilaksmi-kubera-puja
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:श्रीराम-पट्टाभिषेकः
+DTSTART;VALUE=DATE:20191027
+DTEND;VALUE=DATE:20191028
+DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/07/30#zrirama-patta
+ bhisekah
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:गोवर्धन-पूजा
+DTSTART;VALUE=DATE:20191028
+DTEND;VALUE=DATE:20191029
+DESCRIPTION:Commemoration of Govardhana Leela of Krishna. Offer naivedyam 
+ to Lord Krishna.\n\nhttps://github.com/sanskrit-coders/jyotisha/tree/maste
+ r/jyotisha/panchangam/temporal/festival/data/lunar_month/tithi/08/01#govar
+ dhana-puja
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:कृत्तिका सोमवासरः
+DTSTART;VALUE=DATE:20191028
+DTEND;VALUE=DATE:20191029
+DESCRIPTION:
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:यम/भ्रातृ-द्वितीया
+DTSTART;VALUE=DATE:20191029
+DTEND;VALUE=DATE:20191030
+DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/08/02#yamabhratr-dv
+ itiya
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:बुधानूराधा-पुण्यकालः
+DTSTART;VALUE=DATE:20191030
+DTEND;VALUE=DATE:20191031
+DESCRIPTION:When अनूराधा nakshatram falls on a Wednesday\, i
+ t is a special पुण्यकालः for performing दानम्.
+  One can do दानं of दध्योदनम् in Vishnu temples 
+ on this day.\n\nhttps://github.com/sanskrit-coders/jyotisha/tree/master/jy
+ otisha/panchangam/temporal/festival/data/other/rare-days/combinations#budh
+ anuradha-punyakalah
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:स्कन्दषष्ठी-व्रतम्
+DTSTART;VALUE=DATE:20191101
+DTEND;VALUE=DATE:20191102
+DESCRIPTION:One of the most important vratams\, alongside Krishnajanmashta
+ mi\, Shivaratri etc. Must observe fast. Offer Arghyam facing South\, using
+  Curd\, Akshata\, Water and Flowers (दध्नाक्षतोदक
+ ैः पुष्पैः) chanting the shloka below.\n\nअस्य
+ ां हि श्रीः समायुक्तः यस्मा
+ त् स्कन्दोऽभवत् पुरा।\nतस्म
+ ाट्षष्ठ्यां न भुञ्जीत प्रा
+ प्नुयाद्भार्गवी सदा॥\n\nसप्त
+ र्षिदारज स्कन्द सेनाधिप मह
+ ाबल।\nरुद्रोमाग्निज षड्वक्
+ त्र गङ्गागर्भ नमोऽस्तु ते॥\n
+ \n\n\nhttps://github.com/sanskrit-coders/jyotisha/tree/master/jyotisha/pan
+ changam/temporal/festival/data/other/monthly-vratams/shashthi-vratam-days#
+ skandasasthi-vratam
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:विजया भानुसप्तमी
+DTSTART;VALUE=DATE:20191103
+DTEND;VALUE=DATE:20191104
+DESCRIPTION:सप्तमी तिथि on a Sunday is as sacred as a 
+ solar eclipse. Particularly good for worshipping Surya. When शुक्
+ ल सप्तमी is present at sunrise\, it is called विजय
+ ा.\n\nअमावस्या तु सोमेन सप्तमी
+  भानुना सह।\nचतुर्थी भूमिपुत
+ ्रेण सोमपुत्रेण चाष्टमी।\nच
+ तस्रस्तिथयस्त्वेताः सूर्य
+ ग्रहणसन्निभाः॥\n\n\n\nhttps://github.com/sansk
+ rit-coders/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data
+ /other/rare-days/combinations#vijaya-bhanusaptami
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:भीमा/ताम्रपर्णी-अन्त्य-प
+ ुष्कर-समापनम्
+DTSTART;VALUE=DATE:20191104
+DTEND;VALUE=DATE:20191105
+DESCRIPTION:Coming from Brahma's Kamandalu\, Pushkara Raja resides in diff
+ erent rivers\, along with 3.5 crore tirthas\, following the Sankranti of G
+ uru\, for twelve days at the beginning of the Sankranti (आदि पु
+ ष्करम्) and at the end of the year (preceding transition to th
+ e next राशी\, अन्त्य पुष्करम्)\, and f
+ or two muhurtas during mid-day\, every day\, during the entire year.\n Fol
+ lowing the transition of Guru to वृश्चिक राशी\, प
+ ुष्करराज resides in भीमा/ताम्रपर्
+ णी river.\n\nयदा राशि-प्रवेशः स्या
+ त्तदा प्रभृति सर्वदा।\nद्वा
+ दशाहमिते काले वस्तव्यं तु म
+ माऽऽज्ञया॥\nआवत्सरं तु वस्त
+ व्यं मध्याह्ने द्विमुहूर्त
+ कम्।\nअन्ते द्वादश वस्तव्यं 
+ दिनानि च यथासुखम्॥\n\n\n\n\nhttps://github
+ .com/sanskrit-coders/jyotisha/tree/master/jyotisha/panchangam/temporal/fes
+ tival/data/other/rare-days/pushkara#bhimatamraparni-antya-puskara-samapana
+ m
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:भीमा/ताम्रपर्णी-अन्त्य-प
+ ुष्करम्
+DTSTART;VALUE=DATE:20191024
+DTEND;VALUE=DATE:20191105
+DESCRIPTION:Coming from Brahma's Kamandalu\, Pushkara Raja resides in diff
+ erent rivers\, along with 3.5 crore tirthas\, following the Sankranti of G
+ uru\, for twelve days at the beginning of the Sankranti (आदि पु
+ ष्करम्) and at the end of the year (preceding transition to th
+ e next राशी\, अन्त्य पुष्करम्)\, and f
+ or two muhurtas during mid-day\, every day\, during the entire year.\n Fol
+ lowing the transition of Guru to वृश्चिक राशी\, प
+ ुष्करराज resides in भीमा/ताम्रपर्
+ णी river.\n\nयदा राशि-प्रवेशः स्या
+ त्तदा प्रभृति सर्वदा।\nद्वा
+ दशाहमिते काले वस्तव्यं तु म
+ माऽऽज्ञया॥\nआवत्सरं तु वस्त
+ व्यं मध्याह्ने द्विमुहूर्त
+ कम्।\nअन्ते द्वादश वस्तव्यं 
+ दिनानि च यथासुखम्॥\n\n\n\n\nhttps://github
+ .com/sanskrit-coders/jyotisha/tree/master/jyotisha/panchangam/temporal/fes
+ tival/data/other/rare-days/pushkara#bhimatamraparni-antya-puskara-samapana
+ m
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:कृत्तिका सोमवासरः
+DTSTART;VALUE=DATE:20191104
+DTEND;VALUE=DATE:20191105
+DESCRIPTION:
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:गुरु-सङ्क्रान्तिः (वृश्च
+ िक▶धनुः)
+DTSTART;VALUE=DATE:20191105
+DTEND;VALUE=DATE:20191106
+DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
+ ha/panchangam/temporal/festival/data/other/sankranti#guru-sagkrantih
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:तपती-आदि-पुष्कर-आरम्भः
+DTSTART;VALUE=DATE:20191105
+DTEND;VALUE=DATE:20191106
+DESCRIPTION:Coming from Brahma's Kamandalu\, Pushkara Raja resides in diff
+ erent rivers\, along with 3.5 crore tirthas\, following the Sankranti of G
+ uru\, for twelve days at the beginning of the Sankranti (आदि पु
+ ष्करम्) and at the end of the year (preceding transition to th
+ e next राशी\, अन्त्य पुष्करम्)\, and f
+ or two muhurtas during mid-day\, every day\, during the entire year.\n Fol
+ lowing the transition of Guru to धनुः राशी\, पुष्
+ करराज resides in तपती river.\n\nयदा राशि-
+ प्रवेशः स्यात्तदा प्रभृति 
+ सर्वदा।\nद्वादशाहमिते काले 
+ वस्तव्यं तु ममाऽऽज्ञया॥\nआव
+ त्सरं तु वस्तव्यं मध्याह्न
+ े द्विमुहूर्तकम्।\nअन्ते द्
+ वादश वस्तव्यं दिनानि च यथास
+ ुखम्॥\n\n\n\n\nhttps://github.com/sanskrit-coders/jyotisha/tree/
+ master/jyotisha/panchangam/temporal/festival/data/other/rare-days/pushkara
+ #tapati-adi-puskara-arambhah
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:कंस-वधः
+DTSTART;VALUE=DATE:20191106
+DTEND;VALUE=DATE:20191107
+DESCRIPTION:Lord Krishna killed Kamsa on this day\; most popularly celebra
+ ted in Mathura and Uttar Pradesh.\n\nhttps://github.com/sanskrit-coders/jy
+ otisha/tree/master/jyotisha/panchangam/temporal/festival/data/lunar_month/
+ tithi/08/10#kamsa-vadhah
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:सर्व-उत्थान-एकादशी
+DTSTART;VALUE=DATE:20191107
+DTEND;VALUE=DATE:20191108
+DESCRIPTION:The Shukla-paksha Ekadashi of कार्तिक month is k
+ nown as उत्थान-एकादशी.\n\nhttps://github.com/sansk
+ rit-coders/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data
+ /other/monthly-vratams/ekadashi-vratam-days#utthana-ekadazi
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:बृन्दावन-द्वादशी
+DTSTART;VALUE=DATE:20191108
+DTEND;VALUE=DATE:20191109
+DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/08/12#brndavana-dva
+ dazi
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:द्विदल-व्रत-समापनम्
+DTSTART;VALUE=DATE:20191108
+DTEND;VALUE=DATE:20191109
+DESCRIPTION:अनिरुद्ध नमस्तुभ्यं द्
+ विदलाख्यव्रतेन च।\nमत्कृते
+ नाश्विने मासे प्रीत्यर्थं 
+ फलदो भव॥\nइदं व्रतं मया देव क
+ ृतं प्रीत्यै तव प्रभो।\nन्यू
+ नं सम्पूर्णतां यातु त्वत्प
+ ्रसादज्जनार्दन॥\n\n\n\nhttps://github.com/sa
+ nskrit-coders/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/d
+ ata/lunar_month/tithi/08/12#dvidala-vrata-samapanam
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:द्विदल-व्रतम्
+DTSTART;VALUE=DATE:20191009
+DTEND;VALUE=DATE:20191109
+DESCRIPTION:अनिरुद्ध नमस्तुभ्यं द्
+ विदलाख्यव्रतेन च।\nमत्कृते
+ नाश्विने मासे प्रीत्यर्थं 
+ फलदो भव॥\nइदं व्रतं मया देव क
+ ृतं प्रीत्यै तव प्रभो।\nन्यू
+ नं सम्पूर्णतां यातु त्वत्प
+ ्रसादज्जनार्दन॥\n\n\n\nhttps://github.com/sa
+ nskrit-coders/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/d
+ ata/lunar_month/tithi/08/12#dvidala-vrata-samapanam
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:प्रबोधोत्सवः
+DTSTART;VALUE=DATE:20191108
+DTEND;VALUE=DATE:20191109
+DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/08/12#prabodhotsava
+ h
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:तुलसी-विवाहः
+DTSTART;VALUE=DATE:20191108
+DTEND;VALUE=DATE:20191109
+DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/08/12#tulasi-vivaha
+ h
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:शनि-प्रदोष-व्रतम्
+DTSTART;VALUE=DATE:20191109
+DTEND;VALUE=DATE:20191110
+DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
+ ha/panchangam/temporal/festival/data/other/monthly-vratams/pradosha-vratam
+ -days#zani-pradosa-vratam
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:चातुर्मास्यव्रत-समापनम
+ ्
+DTSTART;VALUE=DATE:20191111
+DTEND;VALUE=DATE:20191112
+DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/08/15#caturmasyavra
+ ta-samapanam
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:चातुर्मास्यव्रतम्
+DTSTART;VALUE=DATE:20190711
+DTEND;VALUE=DATE:20191112
+DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/08/15#caturmasyavra
+ ta-samapanam
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:कृत्तिका सोमवासरः
+DTSTART;VALUE=DATE:20191111
+DTEND;VALUE=DATE:20191112
+DESCRIPTION:
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:महा अन्नाभिषेकः
+DTSTART;VALUE=DATE:20191111
+DTEND;VALUE=DATE:20191112
+DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
+ ha/panchangam/temporal/festival/data/solar_month/tithi/07/15#maha-annabhis
+ ekah
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:त्रिपुरोत्सवः
+DTSTART;VALUE=DATE:20191111
+DTEND;VALUE=DATE:20191112
+DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/08/15#tripurotsavah
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:गणाधिप-महागणपति सङ्कटहर-
+ चतुर्थी-व्रतम्
+DTSTART;VALUE=DATE:20191115
+DTEND;VALUE=DATE:20191116
+DESCRIPTION:Special vrata day for Ganesha. In this month\, Ganesha is wors
+ hipped as गणाधिप-महागणपतिः. Fast during the 
+ day and pray to Ganesha after moonrise\, as follows:\n\nगणाधिप
+ स्त्वं देवेश चतुर्थ्यां पू
+ जितो मया।\nकष्टान् मां मोचये
+ शान सर्वमिष्टं च देहि मे॥\n\n\n\
+ nhttps://github.com/sanskrit-coders/jyotisha/tree/master/jyotisha/panchang
+ am/temporal/festival/data/other/monthly-vratams/sankatahara-chaturthi-vrat
+ am-days#ganadhipa-mahaganapati-sagkatahara-caturthi-vratam
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:कृत्तिका मण्डल पारायणम्
+DTSTART;VALUE=DATE:20191116
+DTEND;VALUE=DATE:20200103
+DESCRIPTION:Conduct veda parayanam in the evening\, on one of these 48 day
+ s.\n\nhttps://github.com/sanskrit-coders/jyotisha/tree/master/jyotisha/pan
+ changam/temporal/festival/data/solar_month/day/08/01#krttika-mandala-paray
+ anam
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:முடவன் முழுக்கு
+DTSTART;VALUE=DATE:20191116
+DTEND;VALUE=DATE:20191117
+DESCRIPTION:Nadha Sharma (முடவன்\, i.e. lame man) and his wife
+  Anavidyambikai came to Mayavaram in order to perform a तुला स
+ ्नानम् in Kaveri. However\, by the time they arrived\, it was 
+ the last day of तुला मास and they could not complete the स
+ ्नानम्. They were disappointed yet spent their time doing Puja
+  of the Lord\, who appeared in their dreams and asked them to take a bath 
+ next morning (1st day of Vrschika) and reap full benefits of the Tula Kave
+ ri Snanam iteself!\n\nhttps://github.com/sanskrit-coders/jyotisha/tree/mas
+ ter/jyotisha/panchangam/temporal/festival/data/solar_month/day/08/01#mudav
+ an2-muzhukku
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:तपती-आदि-पुष्कर-समापनम्
+DTSTART;VALUE=DATE:20191116
+DTEND;VALUE=DATE:20191117
+DESCRIPTION:Coming from Brahma's Kamandalu\, Pushkara Raja resides in diff
+ erent rivers\, along with 3.5 crore tirthas\, following the Sankranti of G
+ uru\, for twelve days at the beginning of the Sankranti (आदि पु
+ ष्करम्) and at the end of the year (preceding transition to th
+ e next राशी\, अन्त्य पुष्करम्)\, and f
+ or two muhurtas during mid-day\, every day\, during the entire year.\n Fol
+ lowing the transition of Guru to धनुः राशी\, पुष्
+ करराज resides in तपती river.\n\nयदा राशि-
+ प्रवेशः स्यात्तदा प्रभृति 
+ सर्वदा।\nद्वादशाहमिते काले 
+ वस्तव्यं तु ममाऽऽज्ञया॥\nआव
+ त्सरं तु वस्तव्यं मध्याह्न
+ े द्विमुहूर्तकम्।\nअन्ते द्
+ वादश वस्तव्यं दिनानि च यथास
+ ुखम्॥\n\n\n\n\nhttps://github.com/sanskrit-coders/jyotisha/tree/
+ master/jyotisha/panchangam/temporal/festival/data/other/rare-days/pushkara
+ #tapati-adi-puskara-samapanam
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:तपती-आदि-पुष्करम्
+DTSTART;VALUE=DATE:20191105
+DTEND;VALUE=DATE:20191117
+DESCRIPTION:Coming from Brahma's Kamandalu\, Pushkara Raja resides in diff
+ erent rivers\, along with 3.5 crore tirthas\, following the Sankranti of G
+ uru\, for twelve days at the beginning of the Sankranti (आदि पु
+ ष्करम्) and at the end of the year (preceding transition to th
+ e next राशी\, अन्त्य पुष्करम्)\, and f
+ or two muhurtas during mid-day\, every day\, during the entire year.\n Fol
+ lowing the transition of Guru to धनुः राशी\, पुष्
+ करराज resides in तपती river.\n\nयदा राशि-
+ प्रवेशः स्यात्तदा प्रभृति 
+ सर्वदा।\nद्वादशाहमिते काले 
+ वस्तव्यं तु ममाऽऽज्ञया॥\nआव
+ त्सरं तु वस्तव्यं मध्याह्न
+ े द्विमुहूर्तकम्।\nअन्ते द्
+ वादश वस्तव्यं दिनानि च यथास
+ ुखम्॥\n\n\n\n\nhttps://github.com/sanskrit-coders/jyotisha/tree/
+ master/jyotisha/panchangam/temporal/festival/data/other/rare-days/pushkara
+ #tapati-adi-puskara-samapanam
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:विष्णुपदी-वृश्चिकरविः
+DTSTART;VALUE=DATE:20191116
+DTEND;VALUE=DATE:20191117
+DESCRIPTION:Do danam of deepam.\n\nhttps://github.com/sanskrit-coders/jyot
+ isha/tree/master/jyotisha/panchangam/temporal/festival/data/solar_month/da
+ y/08/01#visnupadi-vrzcikaravih
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:कृत्तिका सोमवासरः
+DTSTART;VALUE=DATE:20191118
+DTEND;VALUE=DATE:20191119
+DESCRIPTION:
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:सर्व-उत्पन्ना-एकादशी
+DTSTART;VALUE=DATE:20191122
+DTEND;VALUE=DATE:20191123
+DESCRIPTION:The Krishna-paksha Ekadashi of कार्तिक month is 
+ known as उत्पन्ना-एकादशी.\n\nhttps://github.co
+ m/sanskrit-coders/jyotisha/tree/master/jyotisha/panchangam/temporal/festiv
+ al/data/other/monthly-vratams/ekadashi-vratam-days#utpanna-ekadazi
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:शनि-प्रदोष-व्रतम्
+DTSTART;VALUE=DATE:20191123
+DTEND;VALUE=DATE:20191124
+DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
+ ha/panchangam/temporal/festival/data/other/monthly-vratams/pradosha-vratam
+ -days#zani-pradosa-vratam
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:कार्तिक-अमावस्या
+DTSTART;VALUE=DATE:20191125
+DTEND;VALUE=DATE:20191126
+DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
+ ha/panchangam/temporal/festival/data/other/amavasya-days#kartika-amavasya
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:कृत्तिका सोमवासरः
+DTSTART;VALUE=DATE:20191125
+DTEND;VALUE=DATE:20191126
+DESCRIPTION:
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:सुब्रह्मण्य-षष्ठी-व्रतम
+ ्
+DTSTART;VALUE=DATE:20191201
+DTEND;VALUE=DATE:20191202
+DESCRIPTION:Also known as चम्पा/चम्पक षष्ठी\
+ n\nसेनाविदारक स्कन्द महासेन 
+ महाबल।\nरुद्रोमाग्निज षड्व
+ क्त्र गङ्गागर्भ नमोऽस्तु त
+ े॥\n\n\n\nhttps://github.com/sanskrit-coders/jyotisha/tree/master/jyot
+ isha/panchangam/temporal/festival/data/other/monthly-vratams/shashthi-vrat
+ am-days#subrahmanya-sasthi-vratam
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:मित्र-सप्तमी
+DTSTART;VALUE=DATE:20191202
+DTEND;VALUE=DATE:20191203
+DESCRIPTION:Birth of Surya to Aditya-Kashyapa on this day.\n\nअदित
+ ्यां कश्यपाज्जज्ञे मित्रो 
+ नाम दिवाकरः।\nसप्तम्यां तेन 
+ सा ख्याता लोकेऽस्मिन् मित्
+ रसप्तमी॥\n\n\n\nhttps://github.com/sanskrit-coders/jyotish
+ a/tree/master/jyotisha/panchangam/temporal/festival/data/lunar_month/tithi
+ /09/07#mitra-saptami
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:बुधाष्टमी
+DTSTART;VALUE=DATE:20191204
+DTEND;VALUE=DATE:20191205
+DESCRIPTION:अष्टमी तिथि on a Wednesday is as sacred as
+  a solar eclipse.\n\nअमावस्या तु सोमेन स
+ प्तमी भानुना सह।\nचतुर्थी भू
+ मिपुत्रेण सोमपुत्रेण चाष्ट
+ मी।\nचतस्रस्तिथयस्त्वेताः 
+ सूर्यग्रहणसन्निभाः॥\n\n\n\nhttps://g
+ ithub.com/sanskrit-coders/jyotisha/tree/master/jyotisha/panchangam/tempora
+ l/festival/data/other/rare-days/combinations#budhastami
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:गीता जयन्ती
+DTSTART;VALUE=DATE:20191207
+DTEND;VALUE=DATE:20191208
+DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/09/11#gita-jayanti
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:कैशिक-एकादशी
+DTSTART;VALUE=DATE:20191207
+DTEND;VALUE=DATE:20191208
+DESCRIPTION:The Shukla-paksha Ekadashi of वृश्चिकमास i
+ s also celebrated as कैशिक-एकादशी. Kaisika Puranam\,
+  consisting of 82 shlokas describes the story of நம்பாடுவ
+ ாந் and a राक्षस who attained mukti by नामसङ
+ ्कीर्तनम् and the fruits of நம்பாடுவா
+ ந்'s नामसङ्कीर्तनम्\, respectively!\n\nhtt
+ ps://github.com/sanskrit-coders/jyotisha/tree/master/jyotisha/panchangam/t
+ emporal/festival/data/other/monthly-vratams/ekadashi-vratam-days#kaizika-e
+ kadazi
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:सर्व-गुरुवायुपुर-एकादशी
+DTSTART;VALUE=DATE:20191207
+DTEND;VALUE=DATE:20191208
+DESCRIPTION:The Shukla-paksha Ekadashi of वृश्चिकमास i
+ s known as गुरुवायुपुर-एकादशी.\n\nhttps:
+ //github.com/sanskrit-coders/jyotisha/tree/master/jyotisha/panchangam/temp
+ oral/festival/data/other/monthly-vratams/ekadashi-vratam-days/kerala-templ
+ e-festivals#guruvayupura-ekadazi
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:सर्व-मोक्षदा-एकादशी
+DTSTART;VALUE=DATE:20191207
+DTEND;VALUE=DATE:20191208
+DESCRIPTION:The Shukla-paksha Ekadashi of मार्गशीर्ष m
+ onth is known as मोक्षदा-एकादशी.\n\nhttps://gith
+ ub.com/sanskrit-coders/jyotisha/tree/master/jyotisha/panchangam/temporal/f
+ estival/data/other/monthly-vratams/ekadashi-vratam-days#moksada-ekadazi
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:सोम-प्रदोष-व्रतम्
+DTSTART;VALUE=DATE:20191209
+DTEND;VALUE=DATE:20191210
+DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
+ ha/panchangam/temporal/festival/data/other/monthly-vratams/pradosha-vratam
+ -days#soma-pradosa-vratam
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:பரணீ தீபம்
+DTSTART;VALUE=DATE:20191209
+DTEND;VALUE=DATE:20191210
+DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
+ ha/panchangam/temporal/festival/data/solar_month/nakshatram/08/02#bharani-
+ dipam
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:கார்த்திகை
+DTSTART;VALUE=DATE:20191209
+DTEND;VALUE=DATE:20191210
+DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
+ ha/panchangam/temporal/festival/data/solar_month/nakshatram/08/03#karttiga
+ i
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:திருவண்ணாமலை தீபம்
+DTSTART;VALUE=DATE:20191209
+DTEND;VALUE=DATE:20191210
+DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
+ ha/panchangam/temporal/festival/data/solar_month/nakshatram/08/03#tiruvann
+ amalai-dipam
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ஸர்வாலய தீபம்
+DTSTART;VALUE=DATE:20191210
+DTEND;VALUE=DATE:20191211
+DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
+ ha/panchangam/temporal/festival/data/solar_month/tithi/08/15#sarvalaya-dip
+ am
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:अन्नपूर्णा जयन्ती
+DTSTART;VALUE=DATE:20191211
+DTEND;VALUE=DATE:20191212
+DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/09/15#annapurna-jay
+ anti
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:दत्तात्रेय जयन्ती
+DTSTART;VALUE=DATE:20191211
+DTEND;VALUE=DATE:20191212
+DESCRIPTION:आदौ ब्रह्मा मध्ये विष्
+ णुरन्ते देवः सदाशिवः।\nमूर्
+ तित्रयस्वरूपाय दत्तात्रेय 
+ नमोऽस्तु ते॥\n\n\n\nhttps://github.com/sanskrit-code
+ rs/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data/lunar_m
+ onth/tithi/09/15#dattatreya-jayanti
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:नारायणीयं जयन्ती #४३४
+DTSTART;VALUE=DATE:20191213
+DTEND;VALUE=DATE:20191214
+DESCRIPTION:Celebration of completion of Narayaniyam (Kollam 762/1586 CE)\
+ , in Guruvayur temple.\n\nhttps://github.com/sanskrit-coders/jyotisha/tree
+ /master/jyotisha/panchangam/temporal/festival/data/solar_month/day/08/28#n
+ arayaniyam-jayanti
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:आखुरथ-महागणपति सङ्कटहर-च
+ तुर्थी-व्रतम्
+DTSTART;VALUE=DATE:20191214
+DTEND;VALUE=DATE:20191215
+DESCRIPTION:Special vrata day for Ganesha. In this month\, Ganesha is wors
+ hipped as आखुरथ-महागणपतिः. Fast during the day
+  and pray to Ganesha after moonrise\, as follows:\n\nगणाधिपस
+ ्त्वं देवेश चतुर्थ्यां पूज
+ ितो मया।\nकष्टान् मां मोचयेश
+ ान सर्वमिष्टं च देहि मे॥\n\n\n\nht
+ tps://github.com/sanskrit-coders/jyotisha/tree/master/jyotisha/panchangam/
+ temporal/festival/data/other/monthly-vratams/sankatahara-chaturthi-vratam-
+ days#akhuratha-mahaganapati-sagkatahara-caturthi-vratam
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:षडशीति-धनुर्रविः
+DTSTART;VALUE=DATE:20191216
+DTEND;VALUE=DATE:20191217
+DESCRIPTION:Perform danam of clothes/vehicle (e.g. bullock cart).\n\nध
+ नुःप्रवेशे वस्त्राणां याना
+ नां च महाफलम्\n\n\n\nhttps://github.com/sanskrit-cod
+ ers/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data/solar_
+ month/day/09/01#sadaziti-dhanurravih
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:आयुष्मान्-बव-सौम्य
+DTSTART;VALUE=DATE:20191218
+DTEND;VALUE=DATE:20191219
+DESCRIPTION:A rare combination of आयुष्मान् योग\, 
+ बव करण and सौम्यवासर. Also a source of the nor
+ mal blessing 'AyuSmAn bava saumya'!\n\nhttps://github.com/sanskrit-coders/
+ jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data/other/rare
+ -days/combinations#ayusman-bava-saumya
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:सर्व-सफला-एकादशी
+DTSTART;VALUE=DATE:20191221
+DTEND;VALUE=DATE:20191222
+DESCRIPTION:The Krishna-paksha Ekadashi of मार्गशीर्ष 
+ month is known as सफला-एकादशी.\n\nhttps://github.com/s
+ anskrit-coders/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/
+ data/other/monthly-vratams/ekadashi-vratam-days#saphala-ekadazi
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:काञ्ची ६८ जगद्गुरु श्री 
+ चन्द्रशेखरेन्द्र सरस्वती आ
+ राधना #२६
+DTSTART;VALUE=DATE:20191222
+DTEND;VALUE=DATE:20191223
+DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/09/27#kajci-68-jaga
+ dguru-zri-candrazekharendra-sarasvati-aradhana
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:मकरायण-पुण्यकालः/मित्रो
+ त्सवः
+DTSTART;VALUE=DATE:20191222
+DTEND;VALUE=DATE:20191223
+DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
+ ha/panchangam/temporal/festival/data/other/sun-sankranti#makarayana-punyak
+ alahmitrotsavah
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:सोम-प्रदोष-व्रतम्
+DTSTART;VALUE=DATE:20191223
+DTEND;VALUE=DATE:20191224
+DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
+ ha/panchangam/temporal/festival/data/other/monthly-vratams/pradosha-vratam
+ -days#soma-pradosa-vratam
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:कृष्णाङ्गारक-चतुर्दशी-प
+ ुण्यकालः/यमतर्पणम्
+DTSTART;VALUE=DATE:20191224
+DTEND;VALUE=DATE:20191225
+DESCRIPTION:कृष्ण चतुर्दशी तिथि on a Tue
+ sday is very sacred. Perform तर्पणम् to Yama Dharamaraja.\n\
+ nhttps://github.com/sanskrit-coders/jyotisha/tree/master/jyotisha/panchang
+ am/temporal/festival/data/other/rare-days/combinations#krsnaggaraka-caturd
+ azi-punyakalahyamatarpanam
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:मार्गशीर्ष-अमावस्या
+DTSTART;VALUE=DATE:20191225
+DTEND;VALUE=DATE:20191226
+DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
+ ha/panchangam/temporal/festival/data/other/amavasya-days#margazirsa-amavas
+ ya
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:श्री हनूमत् जयन्ती
+DTSTART;VALUE=DATE:20191225
+DTEND;VALUE=DATE:20191226
+DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
+ ha/panchangam/temporal/festival/data/solar_month/tithi/09/30#zri-hanumat-j
+ ayanti-1
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:षष्ठी-व्रतम्
+DTSTART;VALUE=DATE:20191231
+DTEND;VALUE=DATE:20200101
+DESCRIPTION:Monthly Shashthi vratam for Lord Subrahmanya.\n\nhttps://githu
+ b.com/sanskrit-coders/jyotisha/tree/master/jyotisha/panchangam/temporal/fe
+ stival/data/other/monthly-vratams/shashthi-vratam-days#sasthi-vratam
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+END:VCALENDAR
