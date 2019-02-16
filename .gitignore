@@ -12,3 +12,5 @@
 *.fdb_latexmk
 panchangam/event_rules.json
 panchangam/debug_logs/TODO.txt
+pdf/daily-cal-2019-Singapore-deva.pdf
+tex/data/daily-cal-2019-Singapore-deva.tex
