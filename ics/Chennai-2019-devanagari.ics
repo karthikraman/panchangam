@@ -1894,21 +1894,6 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:தை கிருத்திகை
-DTSTART;VALUE=DATE:20190213
-DTEND;VALUE=DATE:20190214
-DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/solar_month/nakshatram/10/03#tai-kiru
- ttikai
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT4H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:திருச்செந்தூர் முருகன் 
  மாசித் திருவிழா 6ம் நாள்—வெ
  ள்ளித் தேர் பவனி
@@ -2656,23 +2641,6 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:काञ्ची जगद्गुरु श्री शङ्
- कर विजयेन्द्र सरस्वती जयन्
- ती #५१
-DTSTART;VALUE=DATE:20190302
-DTEND;VALUE=DATE:20190303
-DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/solar_month/nakshatram/11/21#kāñch
- ī-jagadguru-śrī-śaṅkara-vijayendra-sarasvatī-jayantī
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT4H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:सर्व-विजया-एकादशी
 DTSTART;VALUE=DATE:20190302
 DTEND;VALUE=DATE:20190303
@@ -2695,6 +2663,23 @@ DTEND;VALUE=DATE:20190304
 DESCRIPTION:Perform Samudra Snanam and Shraddha\n\nhttps://github.com/sans
  krit-coders/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/dat
  a/lunar_month/tithi/11/28#dvāparayugādi
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:काञ्ची जगद्गुरु श्री शङ्
+ कर विजयेन्द्र सरस्वती जयन्
+ ती #५१
+DTSTART;VALUE=DATE:20190303
+DTEND;VALUE=DATE:20190304
+DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
+ ha/panchangam/temporal/festival/data/solar_month/nakshatram/11/21#kāñch
+ ī-jagadguru-śrī-śaṅkara-vijayendra-sarasvatī-jayantī
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -4515,22 +4500,6 @@ DESCRIPTION:Being the first day of the new year\, read the पञ्चा
  ेवताः.\n\nhttps://github.com/sanskrit-coders/jyotisha/tree/maste
  r/jyotisha/panchangam/temporal/festival/data/other/common-festivals#pañch
  āṅga-paṭhanam
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT4H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:முனையடுவார் நாயனார் குர
- ுபூஜை
-DTSTART;VALUE=DATE:20190414
-DTEND;VALUE=DATE:20190415
-DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/solar_month/nakshatram/12/08#munaiya
- ḍuvār-nāyanār-gurupūjai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -8068,38 +8037,6 @@ DTEND;VALUE=DATE:20190616
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/lunar_month/tithi/03/13#durgandha-dau
  rbhāgya-nāśaka-trayodaśī
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT4H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:நம்மாழ்வார் திருநக்ஷத்
- திரம்
-DTSTART;VALUE=DATE:20190615
-DTEND;VALUE=DATE:20190616
-DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/solar_month/nakshatram/02/16#nammā
- ḷvār-tirunakṣattiram
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT4H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:வைகாசி விஶாகம்
-DTSTART;VALUE=DATE:20190615
-DTEND;VALUE=DATE:20190616
-DESCRIPTION:Special puja for Subrahmanya Swami in temples. Birth of Subrah
- manya Swami. Worship Him with red flowers.\n\nhttps://github.com/sanskrit-
- coders/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data/sol
- ar_month/nakshatram/02/16#vaikāchi-viśākham
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -12109,7 +12046,9 @@ BEGIN:VEVENT
 SUMMARY:श्रावण-अमावस्या
 DTSTART;VALUE=DATE:20190830
 DTEND;VALUE=DATE:20190831
-DESCRIPTION:
+DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
+ ha/panchangam/temporal/festival/data/other/amavasya-days#śrāvaṇa-amāv
+ asyā
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -15311,22 +15250,6 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:திருநாளைப்போவார் நாயனா
- ர் குருபூஜை
-DTSTART;VALUE=DATE:20191018
-DTEND;VALUE=DATE:20191019
-DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/solar_month/nakshatram/06/04#tirunā
- ḻaippovār-nāyanār-gurupūjai
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT4H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:तुला-कावेरी-स्नान-आरम्भः
 DTSTART;VALUE=DATE:20191018
 DTEND;VALUE=DATE:20191019
@@ -17597,7 +17520,10 @@ SUMMARY:स्मार्त-उत्पन्ना-एकादशी
  (गृहस्थ)
 DTSTART;VALUE=DATE:20191122
 DTEND;VALUE=DATE:20191123
-DESCRIPTION:
+DESCRIPTION:The Krishna-paksha Ekadashi of कार्तिक month is 
+ known as उत्पन्ना-एकादशी.\n\nhttps://github.co
+ m/sanskrit-coders/jyotisha/tree/master/jyotisha/panchangam/temporal/festiv
+ al/data/other/monthly-vratams/ekadashi-vratam-days#utpannā-ekādaśī
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -17627,7 +17553,10 @@ SUMMARY:स्मार्त-उत्पन्ना-एकादशी
  (सन्न्यस्थ)
 DTSTART;VALUE=DATE:20191123
 DTEND;VALUE=DATE:20191124
-DESCRIPTION:
+DESCRIPTION:The Krishna-paksha Ekadashi of कार्तिक month is 
+ known as उत्पन्ना-एकादशी.\n\nhttps://github.co
+ m/sanskrit-coders/jyotisha/tree/master/jyotisha/panchangam/temporal/festiv
+ al/data/other/monthly-vratams/ekadashi-vratam-days#utpannā-ekādaśī
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -17970,6 +17899,21 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:மூர்க நாயனார் குருபூஜை
+DTSTART;VALUE=DATE:20191128
+DTEND;VALUE=DATE:20191129
+DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
+ ha/panchangam/temporal/festival/data/solar_month/nakshatram/08/19#mūrkha-
+ nāyanār-gurupūjai
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:तिन्त्रिणी-गौरी-व्रतम्
 DTSTART;VALUE=DATE:20191128
 DTEND;VALUE=DATE:20191129
@@ -17985,12 +17929,13 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:மூர்க நாயனார் குருபூஜை
+SUMMARY:சிரப்புலி நாயனார் குருப
+ ூஜை
 DTSTART;VALUE=DATE:20191129
 DTEND;VALUE=DATE:20191130
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/solar_month/nakshatram/08/19#mūrkha-
- nāyanār-gurupūjai
+ ha/panchangam/temporal/festival/data/solar_month/nakshatram/08/20#chirappu
+ li-nāyanār-gurupūjai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -18006,22 +17951,6 @@ DTEND;VALUE=DATE:20191201
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/lunar_month/tithi/09/04#badarī-gaur
  ī-vratam
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT4H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:சிரப்புலி நாயனார் குருப
- ூஜை
-DTSTART;VALUE=DATE:20191130
-DTEND;VALUE=DATE:20191201
-DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/solar_month/nakshatram/08/20#chirappu
- li-nāyanār-gurupūjai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
