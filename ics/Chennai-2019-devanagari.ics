@@ -16,22 +16,6 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:மானக்கஞ்சாற நாயனார் (11) க
- ுருபூஜை
-DTSTART;VALUE=DATE:20190101
-DTEND;VALUE=DATE:20190102
-DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/solar_month/nakshatram/09/15#mānakka
- ñchār̂a-nāyanār-11-gurupūjai
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT4H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:बुधानूराधा-पुण्यकालः
 DTSTART;VALUE=DATE:20190102
 DTEND;VALUE=DATE:20190103
@@ -728,6 +712,22 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:அரிவாட்டாய நாயனார் (12) கு
+ ருபூஜை
+DTSTART;VALUE=DATE:20190119
+DTEND;VALUE=DATE:20190120
+DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
+ ha/panchangam/temporal/festival/data/solar_month/nakshatram/10/06#arivā
+ ṭṭāya-nāyanār-12-gurupūjai
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:கண்ணப்ப நாயனார் (9) குருபூ
  ஜை
 DTSTART;VALUE=DATE:20190119
@@ -764,22 +764,6 @@ DESCRIPTION:Son of Śivayya of Śrīśaila\, known as Manganna\, held that
  मञ्जरी\n\n\n\nhttps://github.com/sanskrit-coders/jyotisha/tree
  /master/jyotisha/panchangam/temporal/festival/data/lunar_month/tithi/10/14
  #kāñchī-8-jagadguru-śrī-kaivalyānandayogendra-sarasvatī-ārādhanā
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT4H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:அரிவாட்டாய நாயனார் (12) கு
- ருபூஜை
-DTSTART;VALUE=DATE:20190120
-DTEND;VALUE=DATE:20190121
-DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/solar_month/nakshatram/10/06#arivā
- ṭṭāya-nāyanār-12-gurupūjai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -3665,8 +3649,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:காரைக்கால் அம்மையார் (23) 
  குருபூஜை
-DTSTART;VALUE=DATE:20190324
-DTEND;VALUE=DATE:20190325
+DTSTART;VALUE=DATE:20190323
+DTEND;VALUE=DATE:20190324
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/solar_month/nakshatram/12/15#kāraikk
  āl-ammaiyār-23-gurupūjai
@@ -4435,6 +4419,22 @@ DTEND;VALUE=DATE:20190414
 DESCRIPTION:Goddess Mahatara is 2nd of the Dasha Maha Vidyas.\n\nhttps://g
  ithub.com/sanskrit-coders/jyotisha/tree/master/jyotisha/panchangam/tempora
  l/festival/data/lunar_month/tithi/01/09#mahātārā-jayantī
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:முனையடுவார் நாயனார் (50) க
+ ுருபூஜை
+DTSTART;VALUE=DATE:20190413
+DTEND;VALUE=DATE:20190414
+DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
+ ha/panchangam/temporal/festival/data/solar_month/nakshatram/12/08#munaiya
+ ḍuvār-nāyanār-50-gurupūjai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -6452,6 +6452,29 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:वैशाख-पूर्णिमा-स्नानम्
+DTSTART;VALUE=DATE:20190518
+DTEND;VALUE=DATE:20190519
+DESCRIPTION:Perform snana four ghatikas before sunrise (during अरु
+ णोदयम्\, when the Moon is still up\, on the full-moon days of 
+ आषाढ\, कार्तिक\, माघ and वैशाख – h
+ ence the name आ-का-मा-वै) bestows strength\, beauty\, fame\,
+  dharma\, knowledge\, happiness\, fortitude and health.\n\nबलं र
+ ूपं यशो धर्मं ज्ञानमायुः सु
+ खं धृतिम्।\nआरोग्यं परमाप्न
+ ोति सम्यक् स्नानेन मानवः॥\n\n\
+ n\nhttps://github.com/sanskrit-coders/jyotisha/tree/master/jyotisha/pancha
+ ngam/temporal/festival/data/lunar_month/tithi/02/15#vaiśākha-pūrṇimā
+ -snānam
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:शरभ जयन्ती
 DTSTART;VALUE=DATE:20190518
 DTEND;VALUE=DATE:20190519
@@ -6475,29 +6498,6 @@ DTEND;VALUE=DATE:20190520
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/solar_month/nakshatram/02/17#kāñch
  ī-jagadguru-śrī-chandraśekharendra-sarasvatī-jayantī
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT4H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:वैशाख-पूर्णिमा-स्नानम्
-DTSTART;VALUE=DATE:20190519
-DTEND;VALUE=DATE:20190520
-DESCRIPTION:Perform snana four ghatikas before sunrise (during अरु
- णोदयम्\, when the Moon is still up\, on the full-moon days of 
- आषाढ\, कार्तिक\, माघ and वैशाख – h
- ence the name आ-का-मा-वै) bestows strength\, beauty\, fame\,
-  dharma\, knowledge\, happiness\, fortitude and health.\n\nबलं र
- ूपं यशो धर्मं ज्ञानमायुः सु
- खं धृतिम्।\nआरोग्यं परमाप्न
- ोति सम्यक् स्नानेन मानवः॥\n\n\
- n\nhttps://github.com/sanskrit-coders/jyotisha/tree/master/jyotisha/pancha
- ngam/temporal/festival/data/lunar_month/tithi/02/15#vaiśākha-pūrṇimā
- -snānam
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -17640,6 +17640,21 @@ DESCRIPTION:The Krishna-paksha Ekadashi of कार्तिक month is
  known as उत्पन्ना-एकादशी.\n\nhttps://github.co
  m/sanskrit-coders/jyotisha/tree/master/jyotisha/panchangam/temporal/festiv
  al/data/other/monthly-vratams/ekadashi-vratam-days#utpannā-ekādaśī
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:मासशिवरात्रिः
+DTSTART;VALUE=DATE:20191124
+DTEND;VALUE=DATE:20191125
+DESCRIPTION:Monthly Shivaratri day.\n\nhttps://github.com/sanskrit-coders/
+ jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data/lunar_mont
+ h/tithi/00/29#māsaśivarātriḥ
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE

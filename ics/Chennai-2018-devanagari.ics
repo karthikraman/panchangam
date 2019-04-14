@@ -66,6 +66,21 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:रमण महर्षि जयन्ती #१३९
+DTSTART;VALUE=DATE:20180102
+DTEND;VALUE=DATE:20180103
+DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
+ ha/panchangam/temporal/festival/data/solar_month/nakshatram/09/07#ramaṇa
+ -maharṣi-jayantī
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:ஆருத்ரா தரிசனம்/நடராஜர் 
  மஹாபிஷேகம்
 DTSTART;VALUE=DATE:20180102
@@ -217,21 +232,6 @@ DESCRIPTION:Preceptor Śrī Chandraśekharendra having remained in the Pī
  com/sanskrit-coders/jyotisha/tree/master/jyotisha/panchangam/temporal/fest
  ival/data/lunar_month/tithi/10/17#kāñchī-62-jagadguru-śrī-chandraśek
  harendra-sarasvatī-5-ārādhanā
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT4H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:रमण महर्षि जयन्ती #१३९
-DTSTART;VALUE=DATE:20180103
-DTEND;VALUE=DATE:20180104
-DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/solar_month/nakshatram/09/07#ramaṇa
- -maharṣi-jayantī
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -3423,6 +3423,21 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:கபாலீ த்வஜாரோஹணம்
+DTSTART;VALUE=DATE:20180321
+DTEND;VALUE=DATE:20180322
+DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
+ ha/panchangam/temporal/festival/data/relative_event/ta:kar2pagAmbAL–kapA
+ lIzvarar tirukkalyANam/offset__-9#kapālī-dvajārohaṇam
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:हय-पूजा
 DTSTART;VALUE=DATE:20180322
 DTEND;VALUE=DATE:20180323
@@ -3493,12 +3508,13 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:கபாலீ த்வஜாரோஹணம்
+SUMMARY:கபாலீ ஸூர்ய சந்த்ர வட்டம
+ ்
 DTSTART;VALUE=DATE:20180322
 DTEND;VALUE=DATE:20180323
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/relative_event/ta:kar2pagAmbAL–kapA
- lIzvarar tirukkalyANam/offset__-9#kapālī-dvajārohaṇam
+ lIzvarar tirukkalyANam/offset__-8#kapālī-sūrya-chandra-vaṭṭam
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -3539,13 +3555,27 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:கபாலீ ஸூர்ய சந்த்ர வட்டம
- ்
+SUMMARY:கபாலீ அதிகார நந்தி
 DTSTART;VALUE=DATE:20180323
 DTEND;VALUE=DATE:20180324
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/relative_event/ta:kar2pagAmbAL–kapA
- lIzvarar tirukkalyANam/offset__-8#kapālī-sūrya-chandra-vaṭṭam
+ lIzvarar tirukkalyANam/offset__-7#kapālī-adhikāra-nandi
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:கபாலீ பூதண் பூதகீ
+DTSTART;VALUE=DATE:20180323
+DTEND;VALUE=DATE:20180324
+DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
+ ha/panchangam/temporal/festival/data/relative_event/ta:kar2pagAmbAL–kapA
+ lIzvarar tirukkalyANam/offset__-7#kapālī-bhūtaṇ-bhūtakī
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -3576,36 +3606,6 @@ DTEND;VALUE=DATE:20180324
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/lunar_month/tithi/01/06#yamunā-jayan
  tī
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT4H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:கபாலீ அதிகார நந்தி
-DTSTART;VALUE=DATE:20180324
-DTEND;VALUE=DATE:20180325
-DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/relative_event/ta:kar2pagAmbAL–kapA
- lIzvarar tirukkalyANam/offset__-7#kapālī-adhikāra-nandi
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT4H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:கபாலீ பூதண் பூதகீ
-DTSTART;VALUE=DATE:20180324
-DTEND;VALUE=DATE:20180325
-DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/relative_event/ta:kar2pagAmbAL–kapA
- lIzvarar tirukkalyANam/offset__-7#kapālī-bhūtaṇ-bhūtakī
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -3703,6 +3703,36 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:கபாலீ சவுடல் விமானம்
+DTSTART;VALUE=DATE:20180325
+DTEND;VALUE=DATE:20180326
+DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
+ ha/panchangam/temporal/festival/data/relative_event/ta:kar2pagAmbAL–kapA
+ lIzvarar tirukkalyANam/offset__-5#kapālī-chavuḍal-vimānam
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:கபாலீ ரிஷப வாஹனம்
+DTSTART;VALUE=DATE:20180325
+DTEND;VALUE=DATE:20180326
+DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
+ ha/panchangam/temporal/festival/data/relative_event/ta:kar2pagAmbAL–kapA
+ lIzvarar tirukkalyANam/offset__-5#kapālī-riṣabha-vāhanam
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:वसन्तनवरात्रि-समापनम्
 DTSTART;VALUE=DATE:20180325
 DTEND;VALUE=DATE:20180326
@@ -3763,27 +3793,12 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:கபாலீ சவுடல் விமானம்
+SUMMARY:கபாலீ பல்லக்கு விழா
 DTSTART;VALUE=DATE:20180326
 DTEND;VALUE=DATE:20180327
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/relative_event/ta:kar2pagAmbAL–kapA
- lIzvarar tirukkalyANam/offset__-5#kapālī-chavuḍal-vimānam
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT4H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:கபாலீ ரிஷப வாஹனம்
-DTSTART;VALUE=DATE:20180326
-DTEND;VALUE=DATE:20180327
-DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/relative_event/ta:kar2pagAmbAL–kapA
- lIzvarar tirukkalyANam/offset__-5#kapālī-riṣabha-vāhanam
+ lIzvarar tirukkalyANam/offset__-4#kapālī-pallakku-viḷā
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -3826,12 +3841,12 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:கபாலீ பல்லக்கு விழா
+SUMMARY:கபாலீ தேர்
 DTSTART;VALUE=DATE:20180327
 DTEND;VALUE=DATE:20180328
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/relative_event/ta:kar2pagAmbAL–kapA
- lIzvarar tirukkalyANam/offset__-4#kapālī-pallakku-viḷā
+ lIzvarar tirukkalyANam/offset__-3#kapālī-ter
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -3889,12 +3904,12 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:கபாலீ தேர்
+SUMMARY:கபாலீ அறுபத்து மூவர்
 DTSTART;VALUE=DATE:20180328
 DTEND;VALUE=DATE:20180329
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/relative_event/ta:kar2pagAmbAL–kapA
- lIzvarar tirukkalyANam/offset__-3#kapālī-ter
+ lIzvarar tirukkalyANam/offset__-2#kapālī-ar̂upattu-mūvar
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -3987,21 +4002,6 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:கபாலீ அறுபத்து மூவர்
-DTSTART;VALUE=DATE:20180329
-DTEND;VALUE=DATE:20180330
-DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/relative_event/ta:kar2pagAmbAL–kapA
- lIzvarar tirukkalyANam/offset__-2#kapālī-ar̂upattu-mūvar
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT4H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:वेङ्कटाचले वसन्तोत्सवः
 DTSTART;VALUE=DATE:20180329
 DTEND;VALUE=DATE:20180330
@@ -4045,6 +4045,22 @@ DTEND;VALUE=DATE:20180331
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/lunar_month/tithi/01/14#madana-chatur
  daśī
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:கற்பகாம்பாள்–கபாலீஶ்வர
+ ர் திருக்கல்யாணம்
+DTSTART;VALUE=DATE:20180330
+DTEND;VALUE=DATE:20180331
+DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
+ ha/panchangam/temporal/festival/data/solar_month/tithi/12/15#kar̂pagāmb
+ āḻ–kapālīśvarar-tirukkalyāṇam
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -4221,13 +4237,29 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:கற்பகாம்பாள்–கபாலீஶ்வர
- ர் திருக்கல்யாணம்
+SUMMARY:கபாலீ உமா-மஹேஶ்வர தரிசனம
+ ்
 DTSTART;VALUE=DATE:20180331
 DTEND;VALUE=DATE:20180401
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/solar_month/tithi/12/15#kar̂pagāmb
- āḻ–kapālīśvarar-tirukkalyāṇam
+ ha/panchangam/temporal/festival/data/relative_event/ta:kar2pagAmbAL–kapA
+ lIzvarar tirukkalyANam/offset__01#kapālī-umā-maheśvara-darichanam
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:கபாலீ விடையாற்றி தொடக்க
+ ம்
+DTSTART;VALUE=DATE:20180331
+DTEND;VALUE=DATE:20180401
+DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
+ ha/panchangam/temporal/festival/data/relative_event/ta:kar2pagAmbAL–kapA
+ lIzvarar tirukkalyANam/offset__01#kapālī-viḍaiyār̂r̂i-tôḍakkam
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -4244,38 +4276,6 @@ DESCRIPTION:Hanuman born from Kaikeyi part of Payasam taken by Vulture and
   eaten by Anjana Devi\n\nhttps://github.com/sanskrit-coders/jyotisha/tree/
  master/jyotisha/panchangam/temporal/festival/data/lunar_month/tithi/01/15#
  śrī-hanūmat-jayantī
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT4H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:கபாலீ உமா-மஹேஶ்வர தரிசனம
- ்
-DTSTART;VALUE=DATE:20180401
-DTEND;VALUE=DATE:20180402
-DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/relative_event/ta:kar2pagAmbAL–kapA
- lIzvarar tirukkalyANam/offset__01#kapālī-umā-maheśvara-darichanam
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT4H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:கபாலீ விடையாற்றி தொடக்க
- ம்
-DTSTART;VALUE=DATE:20180401
-DTEND;VALUE=DATE:20180402
-DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/relative_event/ta:kar2pagAmbAL–kapA
- lIzvarar tirukkalyANam/offset__01#kapālī-viḍaiyār̂r̂i-tôḍakkam
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -4450,8 +4450,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:கபாலீ விடையாற்றி நிறைவு
-DTSTART;VALUE=DATE:20180411
-DTEND;VALUE=DATE:20180412
+DTSTART;VALUE=DATE:20180410
+DTEND;VALUE=DATE:20180411
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/relative_event/ta:kar2pagAmbAL–kapA
  lIzvarar tirukkalyANam/offset__11#kapālī-viḍaiyār̂r̂i-nir̂aivu
@@ -9869,6 +9869,22 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:கூற்றுவ நாயனார் (38) குருப
+ ூஜை
+DTSTART;VALUE=DATE:20180808
+DTEND;VALUE=DATE:20180809
+DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
+ ha/panchangam/temporal/festival/data/solar_month/nakshatram/04/06#kūr̂r
+ ̂uva-nāyanār-38-gurupūjai
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:मासशिवरात्रिः
 DTSTART;VALUE=DATE:20180809
 DTEND;VALUE=DATE:20180810
@@ -9890,22 +9906,6 @@ DTEND;VALUE=DATE:20180810
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/other/monthly-vratams/pradosha-vratam
  -days#pradoṣa-vratam
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT4H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:கூற்றுவ நாயனார் (38) குருப
- ூஜை
-DTSTART;VALUE=DATE:20180809
-DTEND;VALUE=DATE:20180810
-DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/solar_month/nakshatram/04/06#kūr̂r
- ̂uva-nāyanār-38-gurupūjai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -11855,6 +11855,22 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:இளையான்குடி மாற நாயனார் 
+ (3) குருபூஜை
+DTSTART;VALUE=DATE:20180908
+DTEND;VALUE=DATE:20180909
+DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
+ ha/panchangam/temporal/festival/data/solar_month/nakshatram/05/10#iḻaiy
+ ānkuḍi-mār̂a-nāyanār-3-gurupūjai
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:திருச்செந்தூர் முருகன் 
  ஆவணித் திருவிழா 6ம் நாள்—வெ
  ள்ளித் தேர் பவனி
@@ -11909,22 +11925,6 @@ DTEND;VALUE=DATE:20180910
 DESCRIPTION:Do puja to Surya/Suryanamaskaram.\n\nhttps://github.com/sanskr
  it-coders/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data/
  other/month-weekday-festivals#āvaṇi-ñāyir̂r̂ukkiḷamai
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT4H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:இளையான்குடி மாற நாயனார் 
- (3) குருபூஜை
-DTSTART;VALUE=DATE:20180909
-DTEND;VALUE=DATE:20180910
-DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/solar_month/nakshatram/05/10#iḻaiy
- ānkuḍi-mār̂a-nāyanār-3-gurupūjai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -15328,6 +15328,22 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:இடங்கழி நாயனார் (52) குருப
+ ூஜை
+DTSTART;VALUE=DATE:20181026
+DTEND;VALUE=DATE:20181027
+DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
+ ha/panchangam/temporal/festival/data/solar_month/nakshatram/07/03#iḍaṅ
+ kaḷi-nāyanār-52-gurupūjai
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:நின்றசீர் நெடுமாற நாயனா
  ர் (48) குருபூஜை
 DTSTART;VALUE=DATE:20181026
@@ -15395,22 +15411,6 @@ DTEND;VALUE=DATE:20181028
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/lunar_month/tithi/07/18#lalitā-gaur
  ī-vratam
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT4H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:இடங்கழி நாயனார் (52) குருப
- ூஜை
-DTSTART;VALUE=DATE:20181027
-DTEND;VALUE=DATE:20181028
-DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/solar_month/nakshatram/07/03#iḍaṅ
- kaḷi-nāyanār-52-gurupūjai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -15745,6 +15745,21 @@ DTEND;VALUE=DATE:20181106
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/lunar_month/tithi/07/28#go-trirātri-
  vratam
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:मासशिवरात्रिः
+DTSTART;VALUE=DATE:20181105
+DTEND;VALUE=DATE:20181106
+DESCRIPTION:Monthly Shivaratri day.\n\nhttps://github.com/sanskrit-coders/
+ jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data/lunar_mont
+ h/tithi/00/29#māsaśivarātriḥ
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -18725,6 +18740,22 @@ DESCRIPTION:करुणासागरं शान्तम् अरु
  ोनिधिम्॥\n\n\n\nhttps://github.com/sanskrit-coders/jyotish
  a/tree/master/jyotisha/panchangam/temporal/festival/data/lunar_month/tithi
  /09/24#śrī-śeṣādri-svāmī-ārādhanā
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:மானக்கஞ்சாற நாயனார் (11) க
+ ுருபூஜை
+DTSTART;VALUE=DATE:20181231
+DTEND;VALUE=DATE:20190101
+DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
+ ha/panchangam/temporal/festival/data/solar_month/nakshatram/09/15#mānakka
+ ñchār̂a-nāyanār-11-gurupūjai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
