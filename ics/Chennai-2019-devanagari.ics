@@ -22,7 +22,7 @@ DTSTART;VALUE=DATE:20190101
 DTEND;VALUE=DATE:20190102
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/solar_month/nakshatram/09/15#mānakka
- ñchār̂a-nāyanār-(11)-gurupūjai
+ ñchār̂a-nāyanār-11-gurupūjai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -281,7 +281,7 @@ DTSTART;VALUE=DATE:20190106
 DTEND;VALUE=DATE:20190107
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/solar_month/nakshatram/09/20#chākkiy
- a-nāyanār-(33)-gurupūjai
+ a-nāyanār-33-gurupūjai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -432,7 +432,7 @@ DTSTART;VALUE=DATE:20190114
 DTEND;VALUE=DATE:20190115
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/solar_month/nakshatram/09/27#vāyilā
- r-nāyanār-(49)-gurupūjai
+ r-nāyanār-49-gurupūjai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -624,8 +624,8 @@ SUMMARY:मन्वादि (चाक्षुष)
 DTSTART;VALUE=DATE:20190117
 DTEND;VALUE=DATE:20190118
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/lunar_month/tithi/10/11#manvādi-(ch
- ākṣuṣa)
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/10/11#manvādi-chā
+ kṣuṣa
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -734,7 +734,7 @@ DTSTART;VALUE=DATE:20190119
 DTEND;VALUE=DATE:20190120
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/solar_month/nakshatram/10/05#kaṇṇ
- appa-nāyanār-(9)-gurupūjai
+ appa-nāyanār-9-gurupūjai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -779,7 +779,7 @@ DTSTART;VALUE=DATE:20190120
 DTEND;VALUE=DATE:20190121
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/solar_month/nakshatram/10/06#arivā
- ṭṭāya-nāyanār-(12)-gurupūjai
+ ṭṭāya-nāyanār-12-gurupūjai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -1082,7 +1082,7 @@ DTSTART;VALUE=DATE:20190125
 DTEND;VALUE=DATE:20190126
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/solar_month/nakshatram/10/12#chaṇ
- ḍeśvara-nāyanār-(19)-gurupūjai
+ ḍeśvara-nāyanār-19-gurupūjai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -1201,7 +1201,7 @@ DTSTART;VALUE=DATE:20190129
 DTEND;VALUE=DATE:20190130
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/solar_month/nakshatram/10/16#tirunīl
- akaṇṭha-nāyanār-(1)-gurupūjai
+ akaṇṭha-nāyanār-1-gurupūjai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -1489,7 +1489,7 @@ DTSTART;VALUE=DATE:20190207
 DTEND;VALUE=DATE:20190208
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/solar_month/nakshatram/10/24#appūdiy
- aḍigaḻ-nāyanār-(24)-gurupūjai
+ aḍigaḻ-nāyanār-24-gurupūjai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -1617,7 +1617,7 @@ DTSTART;VALUE=DATE:20190210
 DTEND;VALUE=DATE:20190211
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/solar_month/nakshatram/10/27#kalikkam
- ba-nāyanār-(42)-gurupūjai
+ ba-nāyanār-42-gurupūjai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -1767,8 +1767,8 @@ SUMMARY:मन्वादि (सावर्णि)
 DTSTART;VALUE=DATE:20190212
 DTEND;VALUE=DATE:20190213
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/lunar_month/tithi/11/07#manvādi-(sā
- varṇi)
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/11/07#manvādi-sāv
+ arṇi
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -2058,7 +2058,7 @@ DTEND;VALUE=DATE:20190216
 DESCRIPTION:साम्ब\, the son of Sri Krishna\, was cured of lepros
  y after performing तपः to propitiate Surya Bhagavan.\n\nhttps://gith
  ub.com/sanskrit-coders/jyotisha/tree/master/jyotisha/panchangam/temporal/f
- estival/data/lunar_month/tithi/11/10#sāmba-daśamī-(sūryapūjā)
+ estival/data/lunar_month/tithi/11/10#sāmba-daśamī-sūryapūjā
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -2506,7 +2506,7 @@ DTSTART;VALUE=DATE:20190222
 DTEND;VALUE=DATE:20190223
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/solar_month/nakshatram/11/13#êr̂ipa
- tta-nāyanār-(7)-gurupūjai
+ tta-nāyanār-7-gurupūjai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -2616,7 +2616,7 @@ DTSTART;VALUE=DATE:20190301
 DTEND;VALUE=DATE:20190302
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/solar_month/nakshatram/11/20#kāri-n
- āyanār-(47)-gurupūjai
+ āyanār-47-gurupūjai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -2838,7 +2838,7 @@ DTSTART;VALUE=DATE:20190306
 DTEND;VALUE=DATE:20190307
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/solar_month/nakshatram/11/24#kôchch
- êṅgaṭ-choḷa-nāyanār-(59)-gurupūjai
+ êṅgaṭ-choḷa-nāyanār-59-gurupūjai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -3134,7 +3134,7 @@ DTSTART;VALUE=DATE:20190315
 DTEND;VALUE=DATE:20190316
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/solar_month/nakshatram/12/06#gaṇan
- ātha-nāyanār-(37)-gurupūjai
+ ātha-nāyanār-37-gurupūjai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -3272,7 +3272,7 @@ DTSTART;VALUE=DATE:20190317
 DTEND;VALUE=DATE:20190318
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/solar_month/nakshatram/12/08#munaiya
- ḍuvār-nāyanār-(50)-gurupūjai
+ ḍuvār-nāyanār-50-gurupūjai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -3535,8 +3535,8 @@ SUMMARY:मन्वादि (धर्म-सावर्णि)
 DTSTART;VALUE=DATE:20190321
 DTEND;VALUE=DATE:20190322
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/lunar_month/tithi/12/15#manvādi-(dha
- rma-sāvarṇi)
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/12/15#manvādi-dhar
+ ma-sāvarṇi
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -3669,7 +3669,7 @@ DTSTART;VALUE=DATE:20190324
 DTEND;VALUE=DATE:20190325
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/solar_month/nakshatram/12/15#kāraikk
- āl-ammaiyār-(23)-gurupūjai
+ āl-ammaiyār-23-gurupūjai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -3793,7 +3793,7 @@ DTSTART;VALUE=DATE:20190402
 DTEND;VALUE=DATE:20190403
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/solar_month/nakshatram/12/24#daṇḍ
- iyaḍigaḻ-nāyanār-(30)-gurupūjai
+ iyaḍigaḻ-nāyanār-30-gurupūjai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -4014,8 +4014,8 @@ SUMMARY:मन्वादि (तामस)
 DTSTART;VALUE=DATE:20190405
 DTEND;VALUE=DATE:20190406
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/lunar_month/tithi/12/30#manvādi-(tā
- masa)
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/12/30#manvādi-tām
+ asa
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -4187,8 +4187,8 @@ SUMMARY:मन्वादि (उत्तम)
 DTSTART;VALUE=DATE:20190408
 DTEND;VALUE=DATE:20190409
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/lunar_month/tithi/01/03#manvādi-(utt
- ama)
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/01/03#manvādi-utta
+ ma
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -4300,7 +4300,7 @@ DTSTART;VALUE=DATE:20190410
 DTEND;VALUE=DATE:20190411
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/solar_month/nakshatram/12/04#necha-n
- āyanār-(58)-gurupūjai
+ āyanār-58-gurupūjai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -4362,7 +4362,7 @@ DTSTART;VALUE=DATE:20190412
 DTEND;VALUE=DATE:20190413
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/solar_month/nakshatram/12/06#gaṇan
- ātha-nāyanār-(37)-gurupūjai
+ ātha-nāyanār-37-gurupūjai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -4913,8 +4913,8 @@ SUMMARY:मन्वादि (रौच्य)
 DTSTART;VALUE=DATE:20190419
 DTEND;VALUE=DATE:20190420
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/lunar_month/tithi/01/15#manvādi-(rau
- chya)
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/01/15#manvādi-rauc
+ hya
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -4928,8 +4928,8 @@ SUMMARY:मन्वादि (स्वारोचिष)
 DTSTART;VALUE=DATE:20190419
 DTEND;VALUE=DATE:20190420
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/lunar_month/tithi/01/15#manvādi-(sv
- ārochiṣa)
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/01/15#manvādi-svā
+ rochiṣa
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -4961,7 +4961,7 @@ DTSTART;VALUE=DATE:20190419
 DTEND;VALUE=DATE:20190420
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/solar_month/nakshatram/01/14#ichaiñ
- āniyār-nāyanār-(62)-gurupūjai
+ āniyār-nāyanār-62-gurupūjai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -5043,7 +5043,7 @@ DTSTART;VALUE=DATE:20190420
 DTEND;VALUE=DATE:20190421
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/solar_month/nakshatram/01/15#tirukkur
- ̂ipput-tôṇḍa-nāyanār-(18)-gurupūjai
+ ̂ipput-tôṇḍa-nāyanār-18-gurupūjai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -5209,7 +5209,7 @@ DTSTART;VALUE=DATE:20190429
 DTEND;VALUE=DATE:20190430
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/solar_month/nakshatram/01/24#tirunāv
- ukkarachha-nāyanār-(20)-gurupūjai
+ ukkarachha-nāyanār-20-gurupūjai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -5462,7 +5462,7 @@ DTSTART;VALUE=DATE:20190505
 DTEND;VALUE=DATE:20190506
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/solar_month/nakshatram/01/02#chirutt
- ôṇḍa-nāyanār-(35)-gurupūjai
+ ôṇḍa-nāyanār-35-gurupūjai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -5608,7 +5608,7 @@ DTSTART;VALUE=DATE:20190507
 DTEND;VALUE=DATE:20190508
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/solar_month/nakshatram/01/04#maṅgai
- yarkkarachiyār-nāyanār-(57)-gurupūjai
+ yarkkarachiyār-nāyanār-57-gurupūjai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -5699,7 +5699,7 @@ DTSTART;VALUE=DATE:20190509
 DTEND;VALUE=DATE:20190510
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/solar_month/nakshatram/01/06#vir̂anm
- iṇḍa-nāyanār-(5)-gurupūjai
+ iṇḍa-nāyanār-5-gurupūjai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -6062,7 +6062,7 @@ DTSTART;VALUE=DATE:20190514
 DTEND;VALUE=DATE:20190515
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/lunar_month/tithi/02/10#veṅkaṭāc
- hale-padmāvatī-pariṇayam-(aśva-vāhanam)
+ hale-padmāvatī-pariṇayam-aśva-vāhanam
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -6122,6 +6122,23 @@ SUMMARY:वेङ्कटाचले पद्मावती-परि
  णयोत्सव-समापनम् (गरुड-वाहनम
  ्)
 DTSTART;VALUE=DATE:20190515
+DTEND;VALUE=DATE:20190516
+DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
+ ha/panchangam/temporal/festival/data/relative_event/vEGkaTAcalE padmAvatI-
+ pariNayam (azva-vAhanam)/offset__01#veṅkaṭāchale-padmāvatī-pariṇa
+ yotsava-samāpanam-(garuḍa-vāhanam)
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:वेङ्कटाचले पद्मावती-परि
+ णयोत्सवः (गरुड-वाहनम्)
+DTSTART;VALUE=DATE:20190513
 DTEND;VALUE=DATE:20190516
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/relative_event/vEGkaTAcalE padmAvatI-
@@ -6512,7 +6529,7 @@ DTSTART;VALUE=DATE:20190521
 DTEND;VALUE=DATE:20190522
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/solar_month/nakshatram/02/19#muruga-n
- āyanār-(15)-gurupūjai
+ āyanār-15-gurupūjai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -6528,7 +6545,7 @@ DTSTART;VALUE=DATE:20190521
 DTEND;VALUE=DATE:20190522
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/solar_month/nakshatram/02/19#tiruñā
- nasambandhamūrtti-nāyanār-(27)-gurupūjai
+ nasambandhamūrtti-nāyanār-27-gurupūjai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -6544,7 +6561,7 @@ DTSTART;VALUE=DATE:20190521
 DTEND;VALUE=DATE:20190522
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/solar_month/nakshatram/02/19#tirunīl
- akaṇṭha-yāḷppāṇa-nāyanār-(60)-gurupūjai
+ akaṇṭha-yāḷppāṇa-nāyanār-60-gurupūjai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -6560,7 +6577,7 @@ DTSTART;VALUE=DATE:20190521
 DTEND;VALUE=DATE:20190522
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/solar_month/nakshatram/02/19#tirunīl
- anakka-nāyanār-(25)-gurupūjai
+ anakka-nāyanār-25-gurupūjai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -6879,7 +6896,7 @@ DTSTART;VALUE=DATE:20190601
 DTEND;VALUE=DATE:20190602
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/solar_month/nakshatram/02/02#kaḷar
- ̂chiṅga-nāyanār-(51)-gurupūjai
+ ̂chiṅga-nāyanār-51-gurupūjai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -7232,7 +7249,7 @@ DTSTART;VALUE=DATE:20190607
 DTEND;VALUE=DATE:20190608
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/solar_month/nakshatram/02/08#naminand
- iyaḍigaḻ-nāyanār-(26)-gurupūjai
+ iyaḍigaḻ-nāyanār-26-gurupūjai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -7375,7 +7392,7 @@ DTSTART;VALUE=DATE:20190608
 DTEND;VALUE=DATE:20190609
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/solar_month/nakshatram/02/09#somāsim
- āra-nāyanār-(32)-gurupūjai
+ āra-nāyanār-32-gurupūjai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -8217,8 +8234,8 @@ SUMMARY:मन्वादि (भौत्य)
 DTSTART;VALUE=DATE:20190617
 DTEND;VALUE=DATE:20190618
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/lunar_month/tithi/03/15#manvādi-(bha
- utya)
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/03/15#manvādi-bhau
+ tya
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -8232,8 +8249,8 @@ SUMMARY:मन्वादि (तामस)
 DTSTART;VALUE=DATE:20190617
 DTEND;VALUE=DATE:20190618
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/lunar_month/tithi/03/15#manvādi-(tā
- masa)
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/03/15#manvādi-tām
+ asa
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -8280,7 +8297,7 @@ DTSTART;VALUE=DATE:20190617
 DTEND;VALUE=DATE:20190618
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/lunar_month/tithi/03/15#veṅkaṭāc
- hale-jyeṣṭha-abhidyeyakābhiṣekaḥ-(svarṇa-kavacham)
+ hale-jyeṣṭha-abhidyeyakābhiṣekaḥ-svarṇa-kavacham
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -8442,7 +8459,7 @@ DTSTART;VALUE=DATE:20190626
 DTEND;VALUE=DATE:20190627
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/solar_month/nakshatram/03/27#êyarkon
- -kalikkāma-nāyanār-(28)-gurupūjai
+ -kalikkāma-nāyanār-28-gurupūjai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -8804,7 +8821,7 @@ DTSTART;VALUE=DATE:20190705
 DTEND;VALUE=DATE:20190706
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/solar_month/nakshatram/03/09#pugaḷt
- tuṇai-nāyanār-(54)-gurupūjai
+ tuṇai-nāyanār-54-gurupūjai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -8934,7 +8951,7 @@ DTSTART;VALUE=DATE:20190707
 DTEND;VALUE=DATE:20190708
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/solar_month/nakshatram/03/11#amaranī
- ti-nāyanār-(6)-gurupūjai
+ ti-nāyanār-6-gurupūjai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -9196,7 +9213,7 @@ DTSTART;VALUE=DATE:20190711
 DTEND;VALUE=DATE:20190712
 DESCRIPTION:Do danam of curd (but do not consume\, on this day)\n\nhttps:/
  /github.com/sanskrit-coders/jyotisha/tree/master/jyotisha/panchangam/tempo
- ral/festival/data/lunar_month/tithi/04/10#dadhi-vratam-(mahālakṣmī)
+ ral/festival/data/lunar_month/tithi/04/10#dadhi-vratam-mahālakṣmī
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -9257,8 +9274,8 @@ SUMMARY:मन्वादि (चाक्षुष)
 DTSTART;VALUE=DATE:20190711
 DTEND;VALUE=DATE:20190712
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/lunar_month/tithi/04/10#manvādi-(ch
- ākṣuṣa)
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/04/10#manvādi-chā
+ kṣuṣa
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -9272,8 +9289,8 @@ SUMMARY:मन्वादि (वैवस्वत)
 DTSTART;VALUE=DATE:20190711
 DTEND;VALUE=DATE:20190712
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/lunar_month/tithi/04/10#manvādi-(vai
- vasvata)
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/04/10#manvādi-vaiv
+ asvata
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -9304,8 +9321,8 @@ DTSTART;VALUE=DATE:20190711
 DTEND;VALUE=DATE:20190712
 DESCRIPTION:Do danam of leafy vegetables (but do not consume\, on this day
  )\n\nhttps://github.com/sanskrit-coders/jyotisha/tree/master/jyotisha/panc
- hangam/temporal/festival/data/lunar_month/tithi/04/10#śāka-vratam-(mahā
- lakṣmī)
+ hangam/temporal/festival/data/lunar_month/tithi/04/10#śāka-vratam-mahāl
+ akṣmī
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -9602,8 +9619,8 @@ SUMMARY:मन्वादि (रुद्र-सावर्णि)
 DTSTART;VALUE=DATE:20190716
 DTEND;VALUE=DATE:20190717
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/lunar_month/tithi/04/15#manvādi-(rud
- ra-sāvarṇi)
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/04/15#manvādi-rudr
+ a-sāvarṇi
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -9928,7 +9945,7 @@ DTSTART;VALUE=DATE:20190727
 DTEND;VALUE=DATE:20190728
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/solar_month/nakshatram/04/03#mūrtti-
- nāyanār-(15)-gurupūjai
+ nāyanār-15-gurupūjai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -9944,7 +9961,7 @@ DTSTART;VALUE=DATE:20190727
 DTEND;VALUE=DATE:20190728
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/solar_month/nakshatram/04/03#pugaḷc
- hchoḷa-nāyanār-(39)-gurupūjai
+ hchoḷa-nāyanār-39-gurupūjai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -10022,7 +10039,7 @@ DTSTART;VALUE=DATE:20190730
 DTEND;VALUE=DATE:20190731
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/solar_month/nakshatram/04/06#kūr̂r
- ̂uva-nāyanār-(38)-gurupūjai
+ ̂uva-nāyanār-38-gurupūjai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -10557,7 +10574,7 @@ DTSTART;VALUE=DATE:20190806
 DTEND;VALUE=DATE:20190807
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/solar_month/nakshatram/04/14#pêrumi
- ḷalaik-kur̂umba-nāyanār-(22)-gurupūjai
+ ḷalaik-kur̂umba-nāyanār-22-gurupūjai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -10618,7 +10635,7 @@ DTSTART;VALUE=DATE:20190807
 DTEND;VALUE=DATE:20190808
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/solar_month/nakshatram/04/15#chundara
- mūrtti-nāyanār-(63)-gurupūjai
+ mūrtti-nāyanār-63-gurupūjai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -10634,7 +10651,7 @@ DTSTART;VALUE=DATE:20190807
 DTEND;VALUE=DATE:20190808
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/solar_month/nakshatram/04/15#kaḷar
- ̂ir̂r̂ar̂ivār/cheramān-pêrumāḻ-nāyanār-(36)-gurupūjai
+ ̂ir̂r̂ar̂ivār/cheramān-pêrumāḻ-nāyanār-36-gurupūjai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -10825,7 +10842,7 @@ DTSTART;VALUE=DATE:20190810
 DTEND;VALUE=DATE:20190811
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/solar_month/nakshatram/04/18#koṭpul
- i-nāyanār-(55)-gurupūjai
+ i-nāyanār-55-gurupūjai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -10840,7 +10857,7 @@ DTSTART;VALUE=DATE:20190810
 DTEND;VALUE=DATE:20190811
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/solar_month/nakshatram/04/18#kaliya-n
- āyanār-(43)-gurupūjai
+ āyanār-43-gurupūjai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -11588,8 +11605,8 @@ SUMMARY:मन्वादि (ब्रह्म-सावर्णि)
 DTSTART;VALUE=DATE:20190824
 DTEND;VALUE=DATE:20190825
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/lunar_month/tithi/05/23#manvādi-(bra
- hma-sāvarṇi)
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/05/23#manvādi-brah
+ ma-sāvarṇi
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -11890,7 +11907,7 @@ DTSTART;VALUE=DATE:20190828
 DTEND;VALUE=DATE:20190829
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/solar_month/nakshatram/05/08#chêrutt
- uṇai-nāyanār-(53)-gurupūjai
+ uṇai-nāyanār-53-gurupūjai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -11938,7 +11955,7 @@ DTSTART;VALUE=DATE:20190829
 DTEND;VALUE=DATE:20190830
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/solar_month/nakshatram/05/09#atipatta
- -nāyanār-(41)-gurupūjai
+ -nāyanār-41-gurupūjai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -12002,7 +12019,7 @@ DTSTART;VALUE=DATE:20190830
 DTEND;VALUE=DATE:20190831
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/solar_month/nakshatram/05/10#iḻaiy
- ānkuḍi-mār̂a-nāyanār-(3)-gurupūjai
+ ānkuḍi-mār̂a-nāyanār-3-gurupūjai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -12149,8 +12166,8 @@ SUMMARY:मन्वादि (रैवत)
 DTSTART;VALUE=DATE:20190901
 DTEND;VALUE=DATE:20190902
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/lunar_month/tithi/06/03#manvādi-(rai
- vata)
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/06/03#manvādi-raiv
+ ata
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -12453,7 +12470,7 @@ DTSTART;VALUE=DATE:20190905
 DTEND;VALUE=DATE:20190906
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/solar_month/nakshatram/05/17#kulachch
- irai-nāyanār-(21)-gurupūjai
+ irai-nāyanār-21-gurupūjai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -12618,7 +12635,7 @@ DTSTART;VALUE=DATE:20190907
 DTEND;VALUE=DATE:20190908
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/solar_month/nakshatram/05/19#kuṅgil
- iyakkalaya-nāyanār-(10)-gurupūjai
+ iyakkalaya-nāyanār-10-gurupūjai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -13307,7 +13324,7 @@ DTSTART;VALUE=DATE:20190917
 DTEND;VALUE=DATE:20190918
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/solar_month/nakshatram/06/01#rudra-pa
- śupati-nāyanār-(16)-gurupūjai
+ śupati-nāyanār-16-gurupūjai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -13533,7 +13550,7 @@ DTSTART;VALUE=DATE:20190921
 DTEND;VALUE=DATE:20190922
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/solar_month/nakshatram/06/04#tirunā
- ḻaippovār-nāyanār-(17)-gurupūjai
+ ḻaippovār-nāyanār-17-gurupūjai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -14440,8 +14457,8 @@ SUMMARY:मन्वादि (स्वायम्भुव)
 DTSTART;VALUE=DATE:20191007
 DTEND;VALUE=DATE:20191008
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/lunar_month/tithi/07/09#manvādi-(sv
- āyambhuva)
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/07/09#manvādi-svā
+ yambhuva
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -14457,7 +14474,7 @@ DTSTART;VALUE=DATE:20191007
 DTEND;VALUE=DATE:20191008
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/solar_month/nakshatram/06/21#enādin
- ātha-nāyanār-(8)-gurupūjai
+ ātha-nāyanār-8-gurupūjai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -14732,7 +14749,7 @@ DTSTART;VALUE=DATE:20191010
 DTEND;VALUE=DATE:20191011
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/solar_month/nakshatram/06/24#narachi
- ṅgamunaiyaraiya-nāyanār-(40)-gurupūjai
+ ṅgamunaiyaraiya-nāyanār-40-gurupūjai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -14897,7 +14914,7 @@ DESCRIPTION:Kunti-vratam done today will remove all paapams (including Goh
  e people worship Yudhisthira's mother Kunti. In AP/TEL\, eldest child is g
  iven new clothes\, harti and blessed "Deerghayushman".\n\nhttps://github.c
  om/sanskrit-coders/jyotisha/tree/master/jyotisha/panchangam/temporal/festi
- val/data/lunar_month/tithi/07/15#kuntī-(pārvatī)-vratam
+ val/data/lunar_month/tithi/07/15#kuntī-pārvatī-vratam
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -15070,7 +15087,7 @@ DTSTART;VALUE=DATE:20191015
 DTEND;VALUE=DATE:20191016
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/solar_month/nakshatram/06/01#rudra-pa
- śupati-nāyanār-(16)-gurupūjai
+ śupati-nāyanār-16-gurupūjai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -15521,7 +15538,7 @@ DTSTART;VALUE=DATE:20191025
 DTEND;VALUE=DATE:20191026
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/solar_month/nakshatram/07/11#chatti-n
- āyanār-(44)-gurupūjai
+ āyanār-44-gurupūjai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -15573,7 +15590,7 @@ DESCRIPTION:Do दानं of दीपम्\, light deepam outside the
  ्रयोदश्यां दीपदानात् सूर्य
  जः प्रीयतां मम॥\n\n\n\nhttps://github.com/sanskr
  it-coders/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data/
- lunar_month/tithi/07/28#(yama)-dīpa-trayodaśī
+ lunar_month/tithi/07/28#yama-dīpa-trayodaśī
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -15997,7 +16014,7 @@ DTSTART;VALUE=DATE:20191030
 DTEND;VALUE=DATE:20191031
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/solar_month/nakshatram/07/17#pūchal
- ār-nāyanār-(56)-gurupūjai
+ ār-nāyanār-56-gurupūjai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -16027,7 +16044,7 @@ DTSTART;VALUE=DATE:20191101
 DTEND;VALUE=DATE:20191102
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/lunar_month/tithi/08/05#pāṇḍava-
- (lābha)-pañchamī
+ lābha-pañchamī
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -16058,7 +16075,7 @@ DTSTART;VALUE=DATE:20191101
 DTEND;VALUE=DATE:20191102
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/solar_month/nakshatram/07/19#aiyaḍi
- gaḻ-kāḍavarkon-nāyanār-(45)-gurupūjai
+ gaḻ-kāḍavarkon-nāyanār-45-gurupūjai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -16578,8 +16595,8 @@ SUMMARY:मन्वादि (स्वारोचिष)
 DTSTART;VALUE=DATE:20191109
 DTEND;VALUE=DATE:20191110
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/lunar_month/tithi/08/12#manvādi-(sv
- ārochiṣa)
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/08/12#manvādi-svā
+ rochiṣa
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -16677,8 +16694,8 @@ SUMMARY:मन्वादि (उत्तम)
 DTSTART;VALUE=DATE:20191111
 DTEND;VALUE=DATE:20191112
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/lunar_month/tithi/08/15#manvādi-(utt
- ama)
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/08/15#manvādi-utta
+ ma
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -16694,7 +16711,7 @@ DTSTART;VALUE=DATE:20191111
 DTEND;VALUE=DATE:20191112
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/solar_month/nakshatram/07/01#tirumūl
- a-nāyanār-(29)-gurupūjai
+ a-nāyanār-29-gurupūjai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -16851,8 +16868,8 @@ SUMMARY:मन्वादि (दक्ष-सावर्णि)
 DTSTART;VALUE=DATE:20191112
 DTEND;VALUE=DATE:20191113
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/lunar_month/tithi/08/15#manvādi-(dak
- ṣa-sāvarṇi)
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/08/15#manvādi-dak
+ ṣa-sāvarṇi
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -16884,7 +16901,7 @@ DTSTART;VALUE=DATE:20191112
 DTEND;VALUE=DATE:20191113
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/solar_month/nakshatram/07/02#ninr̂ac
- hīr-nêḍumār̂a-nāyanār-(48)-gurupūjai
+ hīr-nêḍumār̂a-nāyanār-48-gurupūjai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -17009,7 +17026,7 @@ DTSTART;VALUE=DATE:20191113
 DTEND;VALUE=DATE:20191114
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/solar_month/nakshatram/07/03#iḍaṅ
- kaḷi-nāyanār-(52)-gurupūjai
+ kaḷi-nāyanār-52-gurupūjai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -17558,7 +17575,7 @@ DTSTART;VALUE=DATE:20191122
 DTEND;VALUE=DATE:20191123
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/solar_month/nakshatram/08/12#mêyppô
- ruḻ-nāyanār-(4)-gurupūjai
+ ruḻ-nāyanār-4-gurupūjai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -17590,7 +17607,7 @@ DTSTART;VALUE=DATE:20191123
 DTEND;VALUE=DATE:20191124
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/solar_month/nakshatram/08/13#ānāya-
- nāyanār-(13)-gurupūjai
+ nāyanār-13-gurupūjai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -17924,7 +17941,7 @@ DTSTART;VALUE=DATE:20191128
 DTEND;VALUE=DATE:20191129
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/solar_month/nakshatram/08/19#mūrkha-
- nāyanār-(31)-gurupūjai
+ nāyanār-31-gurupūjai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -17955,7 +17972,7 @@ DTSTART;VALUE=DATE:20191129
 DTEND;VALUE=DATE:20191130
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/solar_month/nakshatram/08/20#chirappu
- li-nāyanār-(34)-gurupūjai
+ li-nāyanār-34-gurupūjai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -18415,7 +18432,7 @@ DTSTART;VALUE=DATE:20191210
 DTEND;VALUE=DATE:20191211
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/solar_month/nakshatram/08/03#kaṇamp
- ulla-nāyanār-(46)-gurupūjai
+ ulla-nāyanār-46-gurupūjai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -18785,7 +18802,7 @@ DTSTART;VALUE=DATE:20191219
 DTEND;VALUE=DATE:20191220
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/solar_month/nakshatram/09/12#iyarpaga
- i-nāyanār-(2)-gurupūjai
+ i-nāyanār-2-gurupūjai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -18894,7 +18911,7 @@ DTSTART;VALUE=DATE:20191222
 DTEND;VALUE=DATE:20191223
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/solar_month/nakshatram/09/15#mānakka
- ñchār̂a-nāyanār-(11)-gurupūjai
+ ñchār̂a-nāyanār-11-gurupūjai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -19113,7 +19130,7 @@ DTSTART;VALUE=DATE:20191227
 DTEND;VALUE=DATE:20191228
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/solar_month/nakshatram/09/20#chākkiy
- a-nāyanār-(33)-gurupūjai
+ a-nāyanār-33-gurupūjai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE

@@ -87,12 +87,12 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:சடைய நாயனார் குருபூஜை
+SUMMARY:சடைய நாயனார் (61) குருபூஜை
 DTSTART;VALUE=DATE:20180102
 DTEND;VALUE=DATE:20180103
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/solar_month/nakshatram/09/06#chaḍai
- ya-nāyanār-gurupūjai
+ ya-nāyanār-61-gurupūjai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -311,13 +311,13 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:இயர்பகை நாயனார் குருபூஜ
- ை
+SUMMARY:இயர்பகை நாயனார் (2) குருபூ
+ ஜை
 DTSTART;VALUE=DATE:20180107
 DTEND;VALUE=DATE:20180108
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/solar_month/nakshatram/09/12#iyarpaga
- i-nāyanār-gurupūjai
+ i-nāyanār-2-gurupūjai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -357,13 +357,13 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:மானக்கஞ்சாற நாயனார் குர
- ுபூஜை
+SUMMARY:மானக்கஞ்சாற நாயனார் (11) க
+ ுருபூஜை
 DTSTART;VALUE=DATE:20180110
 DTEND;VALUE=DATE:20180111
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/solar_month/nakshatram/09/15#mānakka
- ñchār̂a-nāyanār-gurupūjai
+ ñchār̂a-nāyanār-11-gurupūjai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -710,13 +710,13 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:அப்பூதியடிகள் நாயனார் க
- ுருபூஜை
+SUMMARY:அப்பூதியடிகள் நாயனார் (24)
+  குருபூஜை
 DTSTART;VALUE=DATE:20180120
 DTEND;VALUE=DATE:20180121
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/solar_month/nakshatram/10/24#appūdiy
- aḍigaḻ-nāyanār-gurupūjai
+ aḍigaḻ-nāyanār-24-gurupūjai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -840,13 +840,13 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:கலிக்கம்ப நாயனார் குருப
- ூஜை
+SUMMARY:கலிக்கம்ப நாயனார் (42) குர
+ ுபூஜை
 DTSTART;VALUE=DATE:20180123
 DTEND;VALUE=DATE:20180124
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/solar_month/nakshatram/10/27#kalikkam
- ba-nāyanār-gurupūjai
+ ba-nāyanār-42-gurupūjai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -893,8 +893,8 @@ SUMMARY:मन्वादि (सावर्णि)
 DTSTART;VALUE=DATE:20180124
 DTEND;VALUE=DATE:20180125
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/lunar_month/tithi/11/07#manvādi-(sā
- varṇi)
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/11/07#manvādi-sāv
+ arṇi
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -1125,7 +1125,7 @@ DTEND;VALUE=DATE:20180128
 DESCRIPTION:साम्ब\, the son of Sri Krishna\, was cured of lepros
  y after performing तपः to propitiate Surya Bhagavan.\n\nhttps://gith
  ub.com/sanskrit-coders/jyotisha/tree/master/jyotisha/panchangam/temporal/f
- estival/data/lunar_month/tithi/11/10#sāmba-daśamī-(sūryapūjā)
+ estival/data/lunar_month/tithi/11/10#sāmba-daśamī-sūryapūjā
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -1184,13 +1184,13 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:கண்ணப்ப நாயனார் குருபூஜ
- ை
+SUMMARY:கண்ணப்ப நாயனார் (9) குருபூ
+ ஜை
 DTSTART;VALUE=DATE:20180128
 DTEND;VALUE=DATE:20180129
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/solar_month/nakshatram/10/05#kaṇṇ
- appa-nāyanār-gurupūjai
+ appa-nāyanār-9-gurupūjai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -1300,13 +1300,13 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:அரிவாட்டாய நாயனார் குரு
- பூஜை
+SUMMARY:அரிவாட்டாய நாயனார் (12) கு
+ ருபூஜை
 DTSTART;VALUE=DATE:20180129
 DTEND;VALUE=DATE:20180130
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/solar_month/nakshatram/10/06#arivā
- ṭṭāya-nāyanār-gurupūjai
+ ṭṭāya-nāyanār-12-gurupūjai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -1605,13 +1605,13 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:சண்டேஶ்வர நாயனார் குருப
- ூஜை
+SUMMARY:சண்டேஶ்வர நாயனார் (19) குர
+ ுபூஜை
 DTSTART;VALUE=DATE:20180204
 DTEND;VALUE=DATE:20180205
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/solar_month/nakshatram/10/12#chaṇ
- ḍeśvara-nāyanār-gurupūjai
+ ḍeśvara-nāyanār-19-gurupūjai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -1719,13 +1719,13 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:திருநீலகண்ட நாயனார் குர
- ுபூஜை
+SUMMARY:திருநீலகண்ட நாயனார் (1) கு
+ ருபூஜை
 DTSTART;VALUE=DATE:20180208
 DTEND;VALUE=DATE:20180209
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/solar_month/nakshatram/10/16#tirunīl
- akaṇṭha-nāyanār-gurupūjai
+ akaṇṭha-nāyanār-1-gurupūjai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -2049,12 +2049,12 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:கொச்செங்கட் சோழ நாயனார் 
- குருபூஜை
+ (59) குருபூஜை
 DTSTART;VALUE=DATE:20180217
 DTEND;VALUE=DATE:20180218
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/solar_month/nakshatram/11/24#kôchch
- êṅgaṭ-choḷa-nāyanār-gurupūjai
+ êṅgaṭ-choḷa-nāyanār-59-gurupūjai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -2606,8 +2606,8 @@ SUMMARY:मन्वादि (धर्म-सावर्णि)
 DTSTART;VALUE=DATE:20180301
 DTEND;VALUE=DATE:20180302
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/lunar_month/tithi/12/15#manvādi-(dha
- rma-sāvarṇi)
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/12/15#manvādi-dhar
+ ma-sāvarṇi
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -2792,13 +2792,13 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:எறிபத்த நாயனார் குருபூஜ
- ை
+SUMMARY:எறிபத்த நாயனார் (7) குருபூ
+ ஜை
 DTSTART;VALUE=DATE:20180304
 DTEND;VALUE=DATE:20180305
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/solar_month/nakshatram/11/13#êr̂ipa
- tta-nāyanār-gurupūjai
+ tta-nāyanār-7-gurupūjai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -2877,12 +2877,12 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:காரி நாயனார் குருபூஜை
+SUMMARY:காரி நாயனார் (47) குருபூஜை
 DTSTART;VALUE=DATE:20180312
 DTEND;VALUE=DATE:20180313
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/solar_month/nakshatram/11/20#kāri-n
- āyanār-gurupūjai
+ āyanār-47-gurupūjai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -3018,13 +3018,13 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:தண்டியடிகள் நாயனார் குர
- ுபூஜை
+SUMMARY:தண்டியடிகள் நாயனார் (30) க
+ ுருபூஜை
 DTSTART;VALUE=DATE:20180316
 DTEND;VALUE=DATE:20180317
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/solar_month/nakshatram/12/24#daṇḍ
- iyaḍigaḻ-nāyanār-gurupūjai
+ iyaḍigaḻ-nāyanār-30-gurupūjai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -3071,8 +3071,8 @@ SUMMARY:मन्वादि (तामस)
 DTSTART;VALUE=DATE:20180317
 DTEND;VALUE=DATE:20180318
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/lunar_month/tithi/12/30#manvādi-(tā
- masa)
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/12/30#manvādi-tām
+ asa
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -3106,25 +3106,25 @@ DTEND;VALUE=DATE:20180319
 DESCRIPTION:Gaṅgādharagīṣpatiḥ\, known as Subhadra\, son of Kāñc
  i Bhadragiri\, got initiated in the twelfth year of age by Śrī Vidyāgha
  na whom He had served became a realised soul when He as twenty-four years 
- old and reached the eternal abode of Śrī vidyā and Śrī Śiva. He\, th
- e Omnipotent\, omniscient and pure reached the eternal abode by his glory 
- on the first day of the bright fortnight in the month of Caitra of the yea
- r Sarvadhari.\n\nसूनुर्भद्रगिरेः सुभ
- द्र इति यः काञ्च्य(कप्य?)न्व
- यो द्वादशे\nवर्षे संयमम् आश्
- रितोऽनुचरिताद् आचार्यविद्
- याघनात्।\nश्रीगङ्गाधरगीष्प
- तिः स च चतुर्विंशे वयस्यात्
- मवित्\nश्रीविद्याशिवयोर्नि
- रन्तरधृतेराप्नोत् पदं शाश्
- वतम्॥३०॥\nसर्वधारिणि स सर्व
- धारकश्चित्रशक्तिरधिचैत्र
- म् अर्जुने।\nअर्जुनः स्वयशस
- ाऽऽदिमे दिनेऽनादिधाम महसा 
- जगाम ह॥३१॥\n—पुण्यश्लोकमञ्
- जरी\n\n\n\nhttps://github.com/sanskrit-coders/jyotisha/tree/master/j
- yotisha/panchangam/temporal/festival/data/lunar_month/tithi/01/01#kāñch
- ī-15-jagadguru-śrī-gaṅgādharendra-sarasvatī-ārādhanā
+ old and reached the eternal abode of Śrīvidyā and Śrī Śiva. He\, the
+  Omnipotent\, omniscient and pure reached the eternal abode by his glory o
+ n the first day of the bright fortnight in the month of Caitra of the year
+  Sarvadhari.\n\nसूनुर्भद्रगिरेः सुभद
+ ्र इति यः काञ्च्य(कप्य?)न्वय
+ ो द्वादशे\nवर्षे संयमम् आश्र
+ ितोऽनुचरिताद् आचार्यविद्य
+ ाघनात्।\nश्रीगङ्गाधरगीष्पत
+ िः स च चतुर्विंशे वयस्यात्म
+ वित्\nश्रीविद्याशिवयोर्निर
+ न्तरधृतेराप्नोत् पदं शाश्व
+ तम्॥३०॥\nसर्वधारिणि स सर्वध
+ ारकश्चित्रशक्तिरधिचैत्रम
+ ् अर्जुने।\nअर्जुनः स्वयशसा
+ ऽऽदिमे दिनेऽनादिधाम महसा ज
+ गाम ह॥३१॥\n—पुण्यश्लोकमञ्ज
+ री\n\n\n\nhttps://github.com/sanskrit-coders/jyotisha/tree/master/jyot
+ isha/panchangam/temporal/festival/data/lunar_month/tithi/01/01#kāñchī-1
+ 5-jagadguru-śrī-gaṅgādharendra-sarasvatī-ārādhanā
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -3330,40 +3330,6 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:काञ्ची ६० जगद्गुरु श्री 
- अद्वैतात्मप्रकाशेन्द्र सर
- स्वती आराधना #३१५
-DTSTART;VALUE=DATE:20180319
-DTEND;VALUE=DATE:20180320
-DESCRIPTION:Then\, son of Paraśurāma on the banks of river Vaśiṣṭha
- \, well-versed in scriptures\, touring all around bore the burden (or prec
- eptor) on him. This sage by name Govinda with the appellation Ātmaprakā
- śendra carried out the responsibilities of preceptor for twelve years. He
-  attained siddhi on the second day of Kṛṣṇapakṣa in the month Cait
- ra of the year Svabhānu. This preceptor remained in Shahajipuram for a lo
- ng period hailed as Govindajagadguru by Śrīdhara Veṅkateśa and other 
- learned men.\n\nअथ वसिष्ठनदीतटसम्भवः
-  परशुरामसुतः श्रुतिपण्डितः
- ।\nअचकलद् गुरुराजधुरां गुरो
- र्वचनतो रचयन् परितोऽटनम्॥\n
- आत्मप्रकाशेन्द्रसमाख्यया
- ऽसावाचार्यकं द्वादशवर्षम् 
- आर्च्छत्।\nगोविन्दनामा निय
- तः स्वभानुचैत्रद्वितीयानि
- शि सिद्धिमापत्॥१४॥\n-\n—पुण्
- यश्लोकमञ्जरी\n\n\n\nhttps://github.com/sanskrit-co
- ders/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data/lunar
- _month/tithi/01/02#kāñchī-60-jagadguru-śrī-advaitātmaprakāśendra-s
- arasvatī-ārādhanā
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT4H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:भौमाश्विनी-पुण्यकालः
 DTSTART;VALUE=DATE:20180320
 DTEND;VALUE=DATE:20180321
@@ -3401,8 +3367,8 @@ SUMMARY:मन्वादि (उत्तम)
 DTSTART;VALUE=DATE:20180320
 DTEND;VALUE=DATE:20180321
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/lunar_month/tithi/01/03#manvādi-(utt
- ama)
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/01/03#manvādi-utta
+ ma
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -3448,21 +3414,6 @@ DTEND;VALUE=DATE:20180322
 DESCRIPTION:Kalpadi\n\nhttps://github.com/sanskrit-coders/jyotisha/tree/ma
  ster/jyotisha/panchangam/temporal/festival/data/lunar_month/tithi/01/05#ka
  lpādi
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT4H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:கபாலீ த்வஜாரோஹணம்
-DTSTART;VALUE=DATE:20180321
-DTEND;VALUE=DATE:20180322
-DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/relative_event/ta:paGgun2i~uttiram/of
- fset__-9#kapālī-dvajārohaṇam
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -3542,13 +3493,12 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:கபாலீ ஸூர்ய சந்த்ர வட்டம
- ்
+SUMMARY:கபாலீ த்வஜாரோஹணம்
 DTSTART;VALUE=DATE:20180322
 DTEND;VALUE=DATE:20180323
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/relative_event/ta:paGgun2i~uttiram/of
- fset__-8#kapālī-sūrya-chandra-vaṭṭam
+ ha/panchangam/temporal/festival/data/relative_event/ta:kar2pagAmbAL–kapA
+ lIzvarar tirukkalyANam/offset__-9#kapālī-dvajārohaṇam
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -3589,12 +3539,13 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:கபாலீ அதிகார நந்தி
+SUMMARY:கபாலீ ஸூர்ய சந்த்ர வட்டம
+ ்
 DTSTART;VALUE=DATE:20180323
 DTEND;VALUE=DATE:20180324
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/relative_event/ta:paGgun2i~uttiram/of
- fset__-7#kapālī-adhikāra-nandi
+ ha/panchangam/temporal/festival/data/relative_event/ta:kar2pagAmbAL–kapA
+ lIzvarar tirukkalyANam/offset__-8#kapālī-sūrya-chandra-vaṭṭam
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -3604,27 +3555,12 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:கபாலீ பூதண் பூதகீ
-DTSTART;VALUE=DATE:20180323
-DTEND;VALUE=DATE:20180324
-DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/relative_event/ta:paGgun2i~uttiram/of
- fset__-7#kapālī-bhūtaṇ-bhūtakī
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT4H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:நேச நாயனார் குருபூஜை
+SUMMARY:நேச நாயனார் (58) குருபூஜை
 DTSTART;VALUE=DATE:20180323
 DTEND;VALUE=DATE:20180324
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/solar_month/nakshatram/12/04#necha-n
- āyanār-gurupūjai
+ āyanār-58-gurupūjai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -3640,6 +3576,36 @@ DTEND;VALUE=DATE:20180324
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/lunar_month/tithi/01/06#yamunā-jayan
  tī
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:கபாலீ அதிகார நந்தி
+DTSTART;VALUE=DATE:20180324
+DTEND;VALUE=DATE:20180325
+DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
+ ha/panchangam/temporal/festival/data/relative_event/ta:kar2pagAmbAL–kapA
+ lIzvarar tirukkalyANam/offset__-7#kapālī-adhikāra-nandi
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:கபாலீ பூதண் பூதகீ
+DTSTART;VALUE=DATE:20180324
+DTEND;VALUE=DATE:20180325
+DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
+ ha/panchangam/temporal/festival/data/relative_event/ta:kar2pagAmbAL–kapA
+ lIzvarar tirukkalyANam/offset__-7#kapālī-bhūtaṇ-bhūtakī
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -3685,18 +3651,18 @@ SUMMARY:काञ्ची ४३ जगद्गुरु श्री
 DTSTART;VALUE=DATE:20180325
 DTEND;VALUE=DATE:20180326
 DESCRIPTION:Preceptor Ānandaghana\, known as Śaṅkarapaṇḍita (befor
- e initiation) was the son of Sudevabhaṭṭā living on the banks of rive
- r Tuṅgabhadrā and He held the preceptorship for thirty-six years. He le
- ft his physical coil on the Navami (ninth day) of the bright fortnight in 
- the month of Caitra of the year Pramādi.\n\nश्रीतुङ्ग
- भद्रातटभूः सुदेवभट्टात्मज
- ः शङ्करपण्डिताख्यः।\nअभूद् 
- अथानन्दघनश्चलाब्दैः (३६) प्
- रमादिचैत्राच्छनवम्यहेऽगा
- त्॥८६॥\n—पुण्यश्लोकमञ्जरी\n\
- n\n\nhttps://github.com/sanskrit-coders/jyotisha/tree/master/jyotisha/panc
- hangam/temporal/festival/data/lunar_month/tithi/01/09#kāñchī-43-jagadgu
- ru-śrī-ānandaghanendra-sarasvatī-ārādhanā
+ e initiation) was the son of Sudevabhaṭṭa living on the banks of river
+  Tuṅgabhadrā and He held the preceptorship for thirty-six years. He lef
+ t his physical coil on the Navami (ninth day) of the bright fortnight in t
+ he month of Caitra of the year Pramādi.\n\nश्रीतुङ्गभ
+ द्रातटभूः सुदेवभट्टात्मजः 
+ शङ्करपण्डिताख्यः।\nअभूद् अ
+ थानन्दघनश्चलाब्दैः (३६) प्र
+ मादिचैत्राच्छनवम्यहेऽगात
+ ्॥८६॥\n—पुण्यश्लोकमञ्जरी\n\n\n
+ \nhttps://github.com/sanskrit-coders/jyotisha/tree/master/jyotisha/panchan
+ gam/temporal/festival/data/lunar_month/tithi/01/09#kāñchī-43-jagadguru-
+ śrī-ānandaghanendra-sarasvatī-ārādhanā
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -3721,42 +3687,13 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:கணநாத நாயனார் குருபூஜை
+SUMMARY:கணநாத நாயனார் (37) குருபூஜ
+ ை
 DTSTART;VALUE=DATE:20180325
 DTEND;VALUE=DATE:20180326
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/solar_month/nakshatram/12/06#gaṇan
- ātha-nāyanār-gurupūjai
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT4H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:கபாலீ சவுடல் விமானம்
-DTSTART;VALUE=DATE:20180325
-DTEND;VALUE=DATE:20180326
-DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/relative_event/ta:paGgun2i~uttiram/of
- fset__-5#kapālī-chavuḍal-vimānam
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT4H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:கபாலீ ரிஷப வாஹனம்
-DTSTART;VALUE=DATE:20180325
-DTEND;VALUE=DATE:20180326
-DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/relative_event/ta:paGgun2i~uttiram/of
- fset__-5#kapālī-riṣabha-vāhanam
+ ātha-nāyanār-37-gurupūjai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -3826,12 +3763,27 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:கபாலீ பல்லக்கு விழா
+SUMMARY:கபாலீ சவுடல் விமானம்
 DTSTART;VALUE=DATE:20180326
 DTEND;VALUE=DATE:20180327
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/relative_event/ta:paGgun2i~uttiram/of
- fset__-4#kapālī-pallakku-viḷā
+ ha/panchangam/temporal/festival/data/relative_event/ta:kar2pagAmbAL–kapA
+ lIzvarar tirukkalyANam/offset__-5#kapālī-chavuḍal-vimānam
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:கபாலீ ரிஷப வாஹனம்
+DTSTART;VALUE=DATE:20180326
+DTEND;VALUE=DATE:20180327
+DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
+ ha/panchangam/temporal/festival/data/relative_event/ta:kar2pagAmbAL–kapA
+ lIzvarar tirukkalyANam/offset__-5#kapālī-riṣabha-vāhanam
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -3874,12 +3826,12 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:கபாலீ தேர்
+SUMMARY:கபாலீ பல்லக்கு விழா
 DTSTART;VALUE=DATE:20180327
 DTEND;VALUE=DATE:20180328
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/relative_event/ta:paGgun2i~uttiram/of
- fset__-3#kapālī-ter
+ ha/panchangam/temporal/festival/data/relative_event/ta:kar2pagAmbAL–kapA
+ lIzvarar tirukkalyANam/offset__-4#kapālī-pallakku-viḷā
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -3889,13 +3841,13 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:முனையடுவார் நாயனார் குர
- ுபூஜை
+SUMMARY:முனையடுவார் நாயனார் (50) க
+ ுருபூஜை
 DTSTART;VALUE=DATE:20180327
 DTEND;VALUE=DATE:20180328
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/solar_month/nakshatram/12/08#munaiya
- ḍuvār-nāyanār-gurupūjai
+ ḍuvār-nāyanār-50-gurupūjai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -3937,12 +3889,12 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:கபாலீ அறுபத்து மூவர்
+SUMMARY:கபாலீ தேர்
 DTSTART;VALUE=DATE:20180328
 DTEND;VALUE=DATE:20180329
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/relative_event/ta:paGgun2i~uttiram/of
- fset__-2#kapālī-ar̂upattu-mūvar
+ ha/panchangam/temporal/festival/data/relative_event/ta:kar2pagAmbAL–kapA
+ lIzvarar tirukkalyANam/offset__-3#kapālī-ter
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -4026,6 +3978,21 @@ DTEND;VALUE=DATE:20180330
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/other/monthly-vratams/pradosha-vratam
  -days#pradoṣa-vratam
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:கபாலீ அறுபத்து மூவர்
+DTSTART;VALUE=DATE:20180329
+DTEND;VALUE=DATE:20180330
+DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
+ ha/panchangam/temporal/festival/data/relative_event/ta:kar2pagAmbAL–kapA
+ lIzvarar tirukkalyANam/offset__-2#kapālī-ar̂upattu-mūvar
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -4212,8 +4179,8 @@ SUMMARY:मन्वादि (रौच्य)
 DTSTART;VALUE=DATE:20180331
 DTEND;VALUE=DATE:20180401
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/lunar_month/tithi/01/15#manvādi-(rau
- chya)
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/01/15#manvādi-rauc
+ hya
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -4227,8 +4194,8 @@ SUMMARY:मन्वादि (स्वारोचिष)
 DTSTART;VALUE=DATE:20180331
 DTEND;VALUE=DATE:20180401
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/lunar_month/tithi/01/15#manvādi-(sv
- ārochiṣa)
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/01/15#manvādi-svā
+ rochiṣa
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -4254,29 +4221,13 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:கபாலீ உமா-மஹேஶ்வர தரிசனம
- ்
+SUMMARY:கற்பகாம்பாள்–கபாலீஶ்வர
+ ர் திருக்கல்யாணம்
 DTSTART;VALUE=DATE:20180331
 DTEND;VALUE=DATE:20180401
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/relative_event/ta:paGgun2i~uttiram/of
- fset__01#kapālī-umā-maheśvara-darichanam
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT4H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:கபாலீ விடையாற்றி தொடக்க
- ம்
-DTSTART;VALUE=DATE:20180331
-DTEND;VALUE=DATE:20180401
-DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/relative_event/ta:paGgun2i~uttiram/of
- fset__01#kapālī-viḍaiyār̂r̂i-tôḍakkam
+ ha/panchangam/temporal/festival/data/solar_month/tithi/12/15#kar̂pagāmb
+ āḻ–kapālīśvarar-tirukkalyāṇam
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -4302,13 +4253,79 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:காரைக்கால் அம்மையார் கு
- ருபூஜை
+SUMMARY:கபாலீ உமா-மஹேஶ்வர தரிசனம
+ ்
+DTSTART;VALUE=DATE:20180401
+DTEND;VALUE=DATE:20180402
+DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
+ ha/panchangam/temporal/festival/data/relative_event/ta:kar2pagAmbAL–kapA
+ lIzvarar tirukkalyANam/offset__01#kapālī-umā-maheśvara-darichanam
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:கபாலீ விடையாற்றி தொடக்க
+ ம்
+DTSTART;VALUE=DATE:20180401
+DTEND;VALUE=DATE:20180402
+DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
+ ha/panchangam/temporal/festival/data/relative_event/ta:kar2pagAmbAL–kapA
+ lIzvarar tirukkalyANam/offset__01#kapālī-viḍaiyār̂r̂i-tôḍakkam
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:काञ्ची ६० जगद्गुरु श्री 
+ अद्वैतात्मप्रकाशेन्द्र सर
+ स्वती आराधना #३१५
+DTSTART;VALUE=DATE:20180402
+DTEND;VALUE=DATE:20180403
+DESCRIPTION:Then\, son of Paraśurāma on the banks of river Vaśiṣṭha
+ \, well-versed in scriptures\, touring all around bore the burden (or prec
+ eptor) on him. This sage by name Govinda with the appellation Ātmaprakā
+ śendra carried out the responsibilities of preceptor for twelve years. He
+  attained siddhi on the second day of Kṛṣṇapakṣa in the month Cait
+ ra of the year Svabhānu. This preceptor remained in Shahajipuram for a lo
+ ng period hailed as Govindajagadguru by Śrīdhara Veṅkateśa and other 
+ learned men.\n\nअथ वसिष्ठनदीतटसम्भवः
+  परशुरामसुतः श्रुतिपण्डितः
+ ।\nअचकलद् गुरुराजधुरां गुरो
+ र्वचनतो रचयन् परितोऽटनम्॥\n
+ आत्मप्रकाशेन्द्रसमाख्यया
+ ऽसावाचार्यकं द्वादशवर्षम् 
+ आर्च्छत्।\nगोविन्दनामा निय
+ तः स्वभानुचैत्रद्वितीयानि
+ शि सिद्धिमापत्॥१४॥\n-\n—पुण्
+ यश्लोकमञ्जरी\n\n\n\nhttps://github.com/sanskrit-co
+ ders/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data/lunar
+ _month/tithi/01/17#kāñchī-60-jagadguru-śrī-advaitātmaprakāśendra-s
+ arasvatī-ārādhanā
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:காரைக்கால் அம்மையார் (23) 
+ குருபூஜை
 DTSTART;VALUE=DATE:20180402
 DTEND;VALUE=DATE:20180403
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/solar_month/nakshatram/12/15#kāraikk
- āl-ammaiyār-gurupūjai
+ āl-ammaiyār-23-gurupūjai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -4433,11 +4450,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:கபாலீ விடையாற்றி நிறைவு
-DTSTART;VALUE=DATE:20180410
-DTEND;VALUE=DATE:20180411
+DTSTART;VALUE=DATE:20180411
+DTEND;VALUE=DATE:20180412
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/relative_event/ta:paGgun2i~uttiram/of
- fset__11#kapālī-viḍaiyār̂r̂i-nir̂aivu
+ ha/panchangam/temporal/festival/data/relative_event/ta:kar2pagAmbAL–kapA
+ lIzvarar tirukkalyANam/offset__11#kapālī-viḍaiyār̂r̂i-nir̂aivu
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -4463,13 +4480,13 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:தண்டியடிகள் நாயனார் குர
- ுபூஜை
+SUMMARY:தண்டியடிகள் நாயனார் (30) க
+ ுருபூஜை
 DTSTART;VALUE=DATE:20180412
 DTEND;VALUE=DATE:20180413
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/solar_month/nakshatram/12/24#daṇḍ
- iyaḍigaḻ-nāyanār-gurupūjai
+ iyaḍigaḻ-nāyanār-30-gurupūjai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -4787,13 +4804,13 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:சிருத்தொண்ட நாயனார் குர
- ுபூஜை
+SUMMARY:சிருத்தொண்ட நாயனார் (35) க
+ ுருபூஜை
 DTSTART;VALUE=DATE:20180417
 DTEND;VALUE=DATE:20180418
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/solar_month/nakshatram/01/02#chirutt
- ôṇḍa-nāyanār-gurupūjai
+ ôṇḍa-nāyanār-35-gurupūjai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -4929,12 +4946,12 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:மங்கையர்க்கரசியார் நாய
- னார் குருபூஜை
+ னார் (57) குருபூஜை
 DTSTART;VALUE=DATE:20180419
 DTEND;VALUE=DATE:20180420
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/solar_month/nakshatram/01/04#maṅgai
- yarkkarachiyār-nāyanār-gurupūjai
+ yarkkarachiyār-nāyanār-57-gurupūjai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -5079,13 +5096,13 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:விறன்மிண்ட நாயனார் குரு
- பூஜை
+SUMMARY:விறன்மிண்ட நாயனார் (5) குர
+ ுபூஜை
 DTSTART;VALUE=DATE:20180421
 DTEND;VALUE=DATE:20180422
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/solar_month/nakshatram/01/06#vir̂anm
- iṇḍa-nāyanār-gurupūjai
+ iṇḍa-nāyanār-5-gurupūjai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -5379,7 +5396,7 @@ DTSTART;VALUE=DATE:20180425
 DTEND;VALUE=DATE:20180426
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/lunar_month/tithi/02/10#veṅkaṭāc
- hale-padmāvatī-pariṇayam-(aśva-vāhanam)
+ hale-padmāvatī-pariṇayam-aśva-vāhanam
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -5439,6 +5456,23 @@ SUMMARY:वेङ्कटाचले पद्मावती-परि
  णयोत्सव-समापनम् (गरुड-वाहनम
  ्)
 DTSTART;VALUE=DATE:20180426
+DTEND;VALUE=DATE:20180427
+DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
+ ha/panchangam/temporal/festival/data/relative_event/vEGkaTAcalE padmAvatI-
+ pariNayam (azva-vAhanam)/offset__01#veṅkaṭāchale-padmāvatī-pariṇa
+ yotsava-samāpanam-(garuḍa-vāhanam)
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:वेङ्कटाचले पद्मावती-परि
+ णयोत्सवः (गरुड-वाहनम्)
+DTSTART;VALUE=DATE:20180424
 DTEND;VALUE=DATE:20180427
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/relative_event/vEGkaTAcalE padmAvatI-
@@ -5614,13 +5648,13 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:இசைஞானியார் நாயனார் குர
- ுபூஜை
+SUMMARY:இசைஞானியார் நாயனார் (62) க
+ ுருபூஜை
 DTSTART;VALUE=DATE:20180429
 DTEND;VALUE=DATE:20180430
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/solar_month/nakshatram/01/14#ichaiñ
- āniyār-nāyanār-gurupūjai
+ āniyār-nāyanār-62-gurupūjai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -5758,12 +5792,12 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:திருக்குறிப்புத் தொண்ட 
- நாயனார் குருபூஜை
+ நாயனார் (18) குருபூஜை
 DTSTART;VALUE=DATE:20180430
 DTEND;VALUE=DATE:20180501
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/solar_month/nakshatram/01/15#tirukkur
- ̂ipput-tôṇḍa-nāyanār-gurupūjai
+ ̂ipput-tôṇḍa-nāyanār-18-gurupūjai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -5992,34 +6026,34 @@ DTEND;VALUE=DATE:20180510
 DESCRIPTION:A native of Chera country\, son of Sūryanārāyaṇamakhi\, b
  y name Chinnaya\, having secured excellence in Sāhitya by the infinite or
   immeasurable or unbound grace of goddess Gaurī\, who was pleased with wo
- rship\, the sage by name Ānāndajñānanā prefixed with the term ‘Bhag
- avat’ the author of a collection of expository texts on the works of Āc
- ārya\, lived in the Kāmakoṭi Pīṭha of the Ācārya\, the author of 
- a commentary on Brahmasūtras. This accomplished knower of Brahman having 
- got rid of the ignorance by the immaculate splendour of the moon-like Śud
- dhānandamunīndra\, spreading the path of non-dualism protecting the worl
- d/earth for sixty-nine years\, then approaching Śrīśailā\, on the way\
- , attained blissful liberation on the ninth day of the dark fortnight in t
- he month of Rādhā (Vaiśākha) of the year Krodhana.\n\nआनन्द
- ाराद्धगौरीनिरवधिकरुणालब्
- धसाहित्यविद्या-\nसौहित्यः स
- ूर्यनारायणमखितनयश्चेरभूश
- ्चिन्नयाख्यः।\nआनन्दज्ञानन
- ामा भगवदुपपदः सम्बभौ भाष्य
- कर्तुः\nपीठे श्रीकामकोट्या
- ं प्रकटितपरमाचार्यभाष्यौघ
- भाष्यः॥१४॥\nशुद्धानन्दमुनी
- न्द्रचन्द्रविमलालोकास्तच
- ेतस्तमाः\nविस्तार्याद्वयवर
- ्त्म सप्ततिमथो नैकां समा गा
- मवन्।\nश्रीशैलान्तिकम् आसद
- न् पथिवशाद् आनन्दसिद्धिं य
- यौ\nसिद्धः क्रोधनराधकृष्णन
- वमीसन्ध्यामनु ब्रह्मवित्॥
- १५॥\n—पुण्यश्लोकमञ्जरी\n\n\n\nhttp
- s://github.com/sanskrit-coders/jyotisha/tree/master/jyotisha/panchangam/te
- mporal/festival/data/lunar_month/tithi/02/24#kāñchī-7-jagadguru-śrī-
- ānandajñānendra-sarasvatī-ārādhanā
+ rship\, the sage by name Ānāndajñāna prefixed with the term ‘Bhagava
+ t’ the author of a collection of expository texts on the works of Ācār
+ ya\, lived in the Kāmakoṭi Pīṭha of the Ācārya\, the author of a c
+ ommentary on Brahmasūtras. This accomplished knower of Brahman having got
+  rid of the ignorance by the immaculate splendour of the moon-like Śuddh
+ ānandamunīndra\, spreading the path of non-dualism protecting the world/
+ earth for sixty-nine years\, then approaching Śrīśailā\, on the way\, 
+ attained blissful liberation on the ninth day of the dark fortnight in the
+  month of Rādhā (Vaiśākha) of the year Krodhana.\n\nआनन्दा
+ राद्धगौरीनिरवधिकरुणालब्ध
+ साहित्यविद्या-\nसौहित्यः सू
+ र्यनारायणमखितनयश्चेरभूश्
+ चिन्नयाख्यः।\nआनन्दज्ञानना
+ मा भगवदुपपदः सम्बभौ भाष्यक
+ र्तुः\nपीठे श्रीकामकोट्यां 
+ प्रकटितपरमाचार्यभाष्यौघभ
+ ाष्यः॥१४॥\nशुद्धानन्दमुनीन
+ ्द्रचन्द्रविमलालोकास्तचे
+ तस्तमाः\nविस्तार्याद्वयवर्
+ त्म सप्ततिमथो नैकां समा गाम
+ वन्।\nश्रीशैलान्तिकम् आसदन
+ ् पथिवशाद् आनन्दसिद्धिं यय
+ ौ\nसिद्धः क्रोधनराधकृष्णनव
+ मीसन्ध्यामनु ब्रह्मवित्॥१
+ ५॥\n—पुण्यश्लोकमञ्जरी\n\n\n\nhttps:/
+ /github.com/sanskrit-coders/jyotisha/tree/master/jyotisha/panchangam/tempo
+ ral/festival/data/lunar_month/tithi/02/24#kāñchī-7-jagadguru-śrī-āna
+ ndajñānendra-sarasvatī-ārādhanā
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -6029,13 +6063,13 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:திருநாவுக்கரச நாயனார் க
- ுருபூஜை
+SUMMARY:திருநாவுக்கரச நாயனார் (20)
+  குருபூஜை
 DTSTART;VALUE=DATE:20180510
 DTEND;VALUE=DATE:20180511
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/solar_month/nakshatram/01/24#tirunāv
- ukkarachha-nāyanār-gurupūjai
+ ukkarachha-nāyanār-20-gurupūjai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -6212,13 +6246,13 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:கழற்சிங்க நாயனார் குருப
- ூஜை
+SUMMARY:கழற்சிங்க நாயனார் (51) குர
+ ுபூஜை
 DTSTART;VALUE=DATE:20180515
 DTEND;VALUE=DATE:20180516
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/solar_month/nakshatram/02/02#kaḷar
- ̂chiṅga-nāyanār-gurupūjai
+ ̂chiṅga-nāyanār-51-gurupūjai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -6374,13 +6408,13 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:நமிநந்தியடிகள் நாயனார் 
- குருபூஜை
+SUMMARY:நமிநந்தியடிகள் நாயனார் (
+ 26) குருபூஜை
 DTSTART;VALUE=DATE:20180520
 DTEND;VALUE=DATE:20180521
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/solar_month/nakshatram/02/08#naminand
- iyaḍigaḻ-nāyanār-gurupūjai
+ iyaḍigaḻ-nāyanār-26-gurupūjai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -6390,91 +6424,13 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:काञ्ची २३ जगद्गुरु श्री 
- सच्चित्सुखेन्द्र सरस्वती आ
- राधना #१५०७
-DTSTART;VALUE=DATE:20180521
-DTEND;VALUE=DATE:20180522
-DESCRIPTION:Son of Śrī Cikkākula Somanārya\, named Girīśa earlier. i
- nitiated with the tile Saccitsukha by Paripūrṇabodha\; an ardent devote
- e of Lord Subrahmanya\, He made pious the astrologer Āryabhaṭṭa by ma
- king him carry out the expiatory rite for his long voyage (on sea). He\, S
- accitsukha\, having instituted Citsukha in his place\, attained siddhi on 
- the seventh day of the bright fortnight of the month of Vṛṣabha in the
-  year Khara.\n\nश्रीचिक्काकुलसोमणार
- ्यतनयः सोऽयं गिरीशः पुरा\nसन
- ्न्यस्तः परिपूर्णबोधगुरुण
- ा सच्चित्सुखः षण्मुखम्।\nध्
- यायन् कालविदं सुदूरम् उदधौ 
- प्रोष्यार्यभट्टाभिधं\nप्रत
- ्यावृत्तम् अधाद् अथास्तिकम
- ् अनुष्ठाप्योदितं निष्क्रय
- म्॥४८॥\nचित्सुखं विनिवेश्य 
- स्वे पदे सच्चित्सुखः सिते।\n
- खरे खरांशौ वृषगे सप्तम्यां 
- सिद्धिम् आप सः॥४९॥\n—पुण्यश
- ्लोकमञ्जरी\n\n\n\nhttps://github.com/sanskrit-coders/j
- yotisha/tree/master/jyotisha/panchangam/temporal/festival/data/solar_month
- /tithi/02/07#kāñchī-23-jagadguru-śrī-sachchitsukhendra-sarasvatī-ār
- ādhanā
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT4H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ஸோமாஸிமார நாயனார் குருப
- ூஜை
+SUMMARY:ஸோமாஸிமார நாயனார் (32) குர
+ ுபூஜை
 DTSTART;VALUE=DATE:20180521
 DTEND;VALUE=DATE:20180522
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/solar_month/nakshatram/02/09#somāsim
- āra-nāyanār-gurupūjai
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT4H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:काञ्ची १६ जगद्गुरु श्री 
- उज्ज्वल शङ्करेन्द्र सरस्वत
- ी आराधना #१६५२
-DTSTART;VALUE=DATE:20180522
-DTEND;VALUE=DATE:20180523
-DESCRIPTION:Born on the banks of river Tapati as the son of Śaṅkarakeś
- avasya and avowed to rigid celibacy Śrī Acyutakeśava\, known as Ujjvala
- śaṅkara\, after being initiated by Gīṣpati\, patronised by Vañcīś
- avara\, uprooted the rival schools and with fame the great saint reached K
- ashmir. Then having spent thirty-eight years in the Pīṭha of the Univer
- sal Preceptor\, He merged in Brahman\, the eternal free from joy and sorro
- w and the everlasting on the eighth day of the bright fortnight in Vṛṣ
- a month of the year Akṣaya in the Kali era 3468 in the place called Kal
- āpur in Kashmir.\n\nसूनुः केशवशङ्करस्य 
- तपतीतीरोद्भवो नैष्ठिकः\nश्
- रीमान् अच्युतकेशवः श्रितपद
- ो वञ्चीश्वरे गीष्पतेः।\nआदे
- शात् कृतसंयमश्च विमतान् आम
- ूलम् उन्मूलयन्\nआकाश्मीरम् 
- अगान्महायतिरिति ख्यात्योज
- ्ज्वलः शङ्करः॥३२॥\nअष्टात्
- रिंशद् अथातिवाह्य शरदः पीठ
- े जगद्देशिक-\nस्यासीद् दिग्-
- रस-वार्धि-वह्निषु (३४६८) कले
- र्यात्स्वक्षयेऽच्छे वृषे।\
- nअष्टम्याम् अपहर्षशोकम् अज
- रं ब्रह्मैव यः शाश्वतं\nकाश्
- मीरेषु कलापुरे यदधुनाऽप्या
- ख्यायतेऽस्याख्यया॥३३॥\n—पु
- ण्यश्लोकमञ्जरी\n\n\n\nhttps://github.com/sansk
- rit-coders/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data
- /solar_month/tithi/02/08#kāñchī-16-jagadguru-śrī-ujjvala-śaṅkarend
- ra-sarasvatī-ārādhanā
+ āra-nāyanār-32-gurupūjai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -6660,12 +6616,13 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:முருக நாயனார் குருபூஜை
+SUMMARY:முருக நாயனார் (15) குருபூஜ
+ ை
 DTSTART;VALUE=DATE:20180531
 DTEND;VALUE=DATE:20180601
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/solar_month/nakshatram/02/19#muruga-n
- āyanār-gurupūjai
+ āyanār-15-gurupūjai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -6676,12 +6633,12 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:திருஞானஸம்பந்தமூர்த்தி
-  நாயனார் குருபூஜை
+  நாயனார் (27) குருபூஜை
 DTSTART;VALUE=DATE:20180531
 DTEND;VALUE=DATE:20180601
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/solar_month/nakshatram/02/19#tiruñā
- nasambandhamūrtti-nāyanār-gurupūjai
+ nasambandhamūrtti-nāyanār-27-gurupūjai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -6692,12 +6649,12 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:திருநீலகண்ட யாழ்ப்பாண ந
- ாயனார் குருபூஜை
+ ாயனார் (60) குருபூஜை
 DTSTART;VALUE=DATE:20180531
 DTEND;VALUE=DATE:20180601
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/solar_month/nakshatram/02/19#tirunīl
- akaṇṭha-yāḷppāṇa-nāyanār-gurupūjai
+ akaṇṭha-yāḷppāṇa-nāyanār-60-gurupūjai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -6707,13 +6664,13 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:திருநீலநக்க நாயனார் குர
- ுபூஜை
+SUMMARY:திருநீலநக்க நாயனார் (25) க
+ ுருபூஜை
 DTSTART;VALUE=DATE:20180531
 DTEND;VALUE=DATE:20180601
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/solar_month/nakshatram/02/19#tirunīl
- anakka-nāyanār-gurupūjai
+ anakka-nāyanār-25-gurupūjai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -6808,13 +6765,13 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:கழற்சிங்க நாயனார் குருப
- ூஜை
+SUMMARY:கழற்சிங்க நாயனார் (51) குர
+ ுபூஜை
 DTSTART;VALUE=DATE:20180611
 DTEND;VALUE=DATE:20180612
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/solar_month/nakshatram/02/02#kaḷar
- ̂chiṅga-nāyanār-gurupūjai
+ ̂chiṅga-nāyanār-51-gurupūjai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -7119,13 +7076,13 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:புகழ்த்துணை நாயனார் குர
- ுபூஜை
+SUMMARY:புகழ்த்துணை நாயனார் (54) க
+ ுருபூஜை
 DTSTART;VALUE=DATE:20180617
 DTEND;VALUE=DATE:20180618
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/solar_month/nakshatram/03/09#pugaḷt
- tuṇai-nāyanār-gurupūjai
+ tuṇai-nāyanār-54-gurupūjai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -7308,13 +7265,49 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:அமரநீதி நாயனார் குருபூஜ
- ை
+SUMMARY:काञ्ची २३ जगद्गुरु श्री 
+ सच्चित्सुखेन्द्र सरस्वती आ
+ राधना #१५०७
+DTSTART;VALUE=DATE:20180619
+DTEND;VALUE=DATE:20180620
+DESCRIPTION:Son of Śrī Cikkākula Somanārya\, named Girīśa earlier. i
+ nitiated with the tile Saccitsukha by Paripūrṇabodha\; an ardent devote
+ e of Lord Subrahmanya\, He made pious the astrologer Āryabhaṭṭa by ma
+ king him carry out the expiatory rite for his long voyage (on sea). He\, S
+ accitsukha\, having instituted Citsukha in his place\, attained siddhi on 
+ the seventh day of the bright fortnight of the month of Vṛṣabha in the
+  year Khara.\n\nश्रीचिक्काकुलसोमणार
+ ्यतनयः सोऽयं गिरीशः पुरा\nसन
+ ्न्यस्तः परिपूर्णबोधगुरुण
+ ा सच्चित्सुखः षण्मुखम्।\nध्
+ यायन् कालविदं सुदूरम् उदधौ 
+ प्रोष्यार्यभट्टाभिधं\nप्रत
+ ्यावृत्तम् अधाद् अथास्तिकम
+ ् अनुष्ठाप्योदितं निष्क्रय
+ म्॥४८॥\nचित्सुखं विनिवेश्य 
+ स्वे पदे सच्चित्सुखः सिते।\n
+ खरे खरांशौ वृषगे सप्तम्यां 
+ सिद्धिम् आप सः॥४९॥\n—पुण्यश
+ ्लोकमञ्जरी\n\n\n\nhttps://github.com/sanskrit-coders/j
+ yotisha/tree/master/jyotisha/panchangam/temporal/festival/data/lunar_month
+ /tithi/03/07#kāñchī-23-jagadguru-śrī-sachchitsukhendra-sarasvatī-ār
+ ādhanā
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:அமரநீதி நாயனார் (6) குருபூ
+ ஜை
 DTSTART;VALUE=DATE:20180619
 DTEND;VALUE=DATE:20180620
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/solar_month/nakshatram/03/11#amaranī
- ti-nāyanār-gurupūjai
+ ti-nāyanār-6-gurupūjai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -7450,6 +7443,48 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:काञ्ची १६ जगद्गुरु श्री 
+ उज्ज्वल शङ्करेन्द्र सरस्वत
+ ी आराधना #१६५२
+DTSTART;VALUE=DATE:20180620
+DTEND;VALUE=DATE:20180621
+DESCRIPTION:Born on the banks of river Tapati as the son of Śaṅkarakeś
+ avasya and avowed to rigid celibacy Śrī Acyutakeśava\, known as Ujjvala
+ śaṅkara\, after being initiated by Gīṣpati\, patronised by Vañcīś
+ avara\, uprooted the rival schools and with fame the great saint reached K
+ ashmir. Then having spent thirty-eight years in the Pīṭha of the Univer
+ sal Preceptor\, He merged in Brahman\, the eternal free from joy and sorro
+ w and the everlasting on the eighth day of the bright fortnight in Vṛṣ
+ a month of the year Akṣaya in the Kali era 3468 in the place called Kal
+ āpur in Kashmir.\n\nसूनुः केशवशङ्करस्य 
+ तपतीतीरोद्भवो नैष्ठिकः\nश्
+ रीमान् अच्युतकेशवः श्रितपद
+ ो वञ्चीश्वरे गीष्पतेः।\nआदे
+ शात् कृतसंयमश्च विमतान् आम
+ ूलम् उन्मूलयन्\nआकाश्मीरम् 
+ अगान्महायतिरिति ख्यात्योज
+ ्ज्वलः शङ्करः॥३२॥\nअष्टात्
+ रिंशद् अथातिवाह्य शरदः पीठ
+ े जगद्देशिक-\nस्यासीद् दिग्-
+ रस-वार्धि-वह्निषु (३४६८) कले
+ र्यात्स्वक्षयेऽच्छे वृषे।\
+ nअष्टम्याम् अपहर्षशोकम् अज
+ रं ब्रह्मैव यः शाश्वतं\nकाश्
+ मीरेषु कलापुरे यदधुनाऽप्या
+ ख्यायतेऽस्याख्यया॥३३॥\n—पु
+ ण्यश्लोकमञ्जरी\n\n\n\nhttps://github.com/sansk
+ rit-coders/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data
+ /lunar_month/tithi/03/08#kāñchī-16-jagadguru-śrī-ujjvala-śaṅkarend
+ ra-sarasvatī-ārādhanā
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:நடராஜர் ஆனி திருமஞ்சனம்
 DTSTART;VALUE=DATE:20180620
 DTEND;VALUE=DATE:20180621
@@ -7556,8 +7591,8 @@ DESCRIPTION:Here (in this world) the best among preceptors by name Mahāde
  us the great Yogi realised the Self and attained siddhi on the ninth day o
  f bright fortnight in the month of Jyeṣṭha in the year Krodhana. Ātma
  bodha\, who wrote a commentary Suṣamā on Śrī Sadāśivabrahmendra’s
-  Gururatnamālika also belonged to this period (aa contemporary of this pr
- eceptor). Only during this period\, the Jagadguru Maṭha moved out of Kā
+  Gururatnamālika also belonged to this period (a contemporary of this pre
+ ceptor). Only during this period\, the Jagadguru Maṭha moved out of Kā
  ñci. The place where this present preeptor attained siddhi was the wellkn
  own Tiruvottiyur situated in the north of Madras (Śalivahana era 1664).\n
  \nअद्वैतात्मप्रकाशेन्द्राद
@@ -7850,37 +7885,36 @@ SUMMARY:काञ्ची २ जगद्गुरु श्री स
 DTSTART;VALUE=DATE:20180624
 DTEND;VALUE=DATE:20180625
 DESCRIPTION:A native of Gauḍadeśa\, born in Kashmir\, pious\, Śri Sure
- śvara\, secured the knowledge of Pūrva Mīmāṁsā from Kumārila bha
- ṭṭā\, well-versed in Vedas\, and avowed to house-holder’s life\; he
-  engaged in debate with Ācārya and got initiated into asceticism. Then\,
-  attending on Ācārya\, he reached the highest level in yogic practices a
- nd by the directions of the Ācārya\, he lived forseventy years at the K
- āmapīṭha in Kāñci. Then\, in the year 2695 of the Kali era\, on the 
- night of the twelfth day of the bright fortnight in the month of Jyeṣṭ
- ha of the Bhava year that revered Sureśa\, having taken the world by surp
- rise through his fame by traversing throughout the earth\, united/merged w
- ith the Supreme Being in the path known as Laya obtained the state of beau
- tiful form of Śivaliṅga verily in the presence of on-lookers.\n\nगौ
- डः काश्मीरजन्मा कलितपरिचित
- िः पूर्वतन्त्रे कुमाराद्\nब
- ्रह्मण्यः सर्ववेदः स्फुटशप
- थपथं श्रीमदाचार्ययोधी।\nसन
- ्न्यासं प्रापितस्तं तदनु प
- रिचरन् योगभूमैकसीमा\nतस्या
- देशेन काञ्च्याम् अवसदथ समा
- ः सप्ततिं कामपीठे॥५॥\nवर्षे 
- शुद्धतरे (२६९५) कलेरथ भवे ज्
- येष्ठे सितद्वादशी-\nरात्रौ च
- ित्रितसर्वभूः स यशसा श्रीम
- ान् सुरेशः स्वयम्।\nश्रित्व
- ा पुण्यरसां रसेन महता युञ्ज
- न् लयाख्ये पथि\nश्लक्ष्णश्र
- ीशिवलिङ्गभूयम् अभजत् साक्ष
- ात् सतां पश्यताम्॥६॥\n—पुण्
- यश्लोकमञ्जरी\n\n\n\nhttps://github.com/sanskrit-co
- ders/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data/lunar
- _month/tithi/03/12#kāñchī-2-jagadguru-śrī-sureśvarāchārya-ārādha
- nā
+ śvara\, secured the knowledge of Pūrva Mīmāṁsa from Kumārila bhaṭ
+ ṭa\, well-versed in Vedas\, and avowed to house-holder’s life\; he eng
+ aged in debate with Ācārya and got initiated into asceticism. Then\, att
+ ending on Ācārya\, he reached the highest level in yogic practices and b
+ y the directions of the Ācārya\, he lived forseventy years at the Kāmap
+ īṭha in Kāñci. Then\, in the year 2695 of the Kali era\, on the night
+  of the twelfth day of the bright fortnight in the month of Jyeṣṭha of
+  the Bhava year that revered Sureśa\, having taken the world by surprise 
+ through his fame by traversing throughout the earth\, united/merged with t
+ he Supreme Being in the path known as Laya obtained the state of beautiful
+  form of Śivaliṅga verily in the presence of on-lookers.\n\nगौड
+ ः काश्मीरजन्मा कलितपरिचिति
+ ः पूर्वतन्त्रे कुमाराद्\nब्
+ रह्मण्यः सर्ववेदः स्फुटशपथ
+ पथं श्रीमदाचार्ययोधी।\nसन्
+ न्यासं प्रापितस्तं तदनु पर
+ िचरन् योगभूमैकसीमा\nतस्याद
+ ेशेन काञ्च्याम् अवसदथ समाः 
+ सप्ततिं कामपीठे॥५॥\nवर्षे श
+ ुद्धतरे (२६९५) कलेरथ भवे ज्य
+ ेष्ठे सितद्वादशी-\nरात्रौ चि
+ त्रितसर्वभूः स यशसा श्रीमा
+ न् सुरेशः स्वयम्।\nश्रित्वा 
+ पुण्यरसां रसेन महता युञ्जन
+ ् लयाख्ये पथि\nश्लक्ष्णश्री
+ शिवलिङ्गभूयम् अभजत् साक्षा
+ त् सतां पश्यताम्॥६॥\n—पुण्य
+ श्लोकमञ्जरी\n\n\n\nhttps://github.com/sanskrit-coder
+ s/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data/lunar_mo
+ nth/tithi/03/12#kāñchī-2-jagadguru-śrī-sureśvarāchārya-ārādhanā
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -8154,8 +8188,8 @@ SUMMARY:मन्वादि (भौत्य)
 DTSTART;VALUE=DATE:20180628
 DTEND;VALUE=DATE:20180629
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/lunar_month/tithi/03/15#manvādi-(bha
- utya)
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/03/15#manvādi-bhau
+ tya
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -8169,8 +8203,8 @@ SUMMARY:मन्वादि (तामस)
 DTSTART;VALUE=DATE:20180628
 DTEND;VALUE=DATE:20180629
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/lunar_month/tithi/03/15#manvādi-(tā
- masa)
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/03/15#manvādi-tām
+ asa
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -8202,7 +8236,7 @@ DTSTART;VALUE=DATE:20180628
 DTEND;VALUE=DATE:20180629
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/lunar_month/tithi/03/15#veṅkaṭāc
- hale-jyeṣṭha-abhidyeyakābhiṣekaḥ-(svarṇa-kavacham)
+ hale-jyeṣṭha-abhidyeyakābhiṣekaḥ-svarṇa-kavacham
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -8283,12 +8317,12 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:எயர்கோன் கலிக்காம நாயனா
- ர் குருபூஜை
+ ர் (28) குருபூஜை
 DTSTART;VALUE=DATE:20180706
 DTEND;VALUE=DATE:20180707
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/solar_month/nakshatram/03/27#êyarkon
- -kalikkāma-nāyanār-gurupūjai
+ -kalikkāma-nāyanār-28-gurupūjai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -8627,13 +8661,13 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:புகழ்த்துணை நாயனார் குர
- ுபூஜை
+SUMMARY:புகழ்த்துணை நாயனார் (54) க
+ ுருபூஜை
 DTSTART;VALUE=DATE:20180715
 DTEND;VALUE=DATE:20180716
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/solar_month/nakshatram/03/09#pugaḷt
- tuṇai-nāyanār-gurupūjai
+ tuṇai-nāyanār-54-gurupūjai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -8837,12 +8871,12 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:பெருமிழலைக் குறும்ப நாய
- னார் குருபூஜை
+ னார் (22) குருபூஜை
 DTSTART;VALUE=DATE:20180719
 DTEND;VALUE=DATE:20180720
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/solar_month/nakshatram/04/14#pêrumi
- ḷalaik-kur̂umba-nāyanār-gurupūjai
+ ḷalaik-kur̂umba-nāyanār-22-gurupūjai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -8995,8 +9029,8 @@ SUMMARY:मन्वादि (चाक्षुष)
 DTSTART;VALUE=DATE:20180721
 DTEND;VALUE=DATE:20180722
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/lunar_month/tithi/04/10#manvādi-(ch
- ākṣuṣa)
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/04/10#manvādi-chā
+ kṣuṣa
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -9010,8 +9044,8 @@ SUMMARY:मन्वादि (वैवस्वत)
 DTSTART;VALUE=DATE:20180721
 DTEND;VALUE=DATE:20180722
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/lunar_month/tithi/04/10#manvādi-(vai
- vasvata)
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/04/10#manvādi-vaiv
+ asvata
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -9021,13 +9055,13 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:சுந்தரமூர்த்தி நாயனார் 
- குருபூஜை
+SUMMARY:சுந்தரமூர்த்தி நாயனார் (
+ 63) குருபூஜை
 DTSTART;VALUE=DATE:20180721
 DTEND;VALUE=DATE:20180722
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/solar_month/nakshatram/04/15#chundara
- mūrtti-nāyanār-gurupūjai
+ mūrtti-nāyanār-63-gurupūjai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -9037,13 +9071,13 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:கழறிற்றறிவார் நாயனார் க
- ுருபூஜை
+SUMMARY:கழறிற்றறிவார்/சேரமான் ப
+ ெருமாள் நாயனார் (36) குருபூஜை
 DTSTART;VALUE=DATE:20180721
 DTEND;VALUE=DATE:20180722
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/solar_month/nakshatram/04/15#kaḷar
- ̂ir̂r̂ar̂ivār-nāyanār-gurupūjai
+ ̂ir̂r̂ar̂ivār/cheramān-pêrumāḻ-nāyanār-36-gurupūjai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -9135,7 +9169,7 @@ DTSTART;VALUE=DATE:20180722
 DTEND;VALUE=DATE:20180723
 DESCRIPTION:Do danam of curd (but do not consume\, on this day)\n\nhttps:/
  /github.com/sanskrit-coders/jyotisha/tree/master/jyotisha/panchangam/tempo
- ral/festival/data/lunar_month/tithi/04/10#dadhi-vratam-(mahālakṣmī)
+ ral/festival/data/lunar_month/tithi/04/10#dadhi-vratam-mahālakṣmī
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -9150,8 +9184,8 @@ DTSTART;VALUE=DATE:20180722
 DTEND;VALUE=DATE:20180723
 DESCRIPTION:Do danam of leafy vegetables (but do not consume\, on this day
  )\n\nhttps://github.com/sanskrit-coders/jyotisha/tree/master/jyotisha/panc
- hangam/temporal/festival/data/lunar_month/tithi/04/10#śāka-vratam-(mahā
- lakṣmī)
+ hangam/temporal/festival/data/lunar_month/tithi/04/10#śāka-vratam-mahāl
+ akṣmī
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -9307,13 +9341,13 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:கோட்புலி நாயனார் குருபூ
- ஜை
+SUMMARY:கோட்புலி நாயனார் (55) குரு
+ பூஜை
 DTSTART;VALUE=DATE:20180724
 DTEND;VALUE=DATE:20180725
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/solar_month/nakshatram/04/18#koṭpul
- i-nāyanār-gurupūjai
+ i-nāyanār-55-gurupūjai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -9323,12 +9357,12 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:கலிய நாயனார் குருபூஜை
+SUMMARY:கலிய நாயனார் (43) குருபூஜை
 DTSTART;VALUE=DATE:20180724
 DTEND;VALUE=DATE:20180725
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/solar_month/nakshatram/04/18#kaliya-n
- āyanār-gurupūjai
+ āyanār-43-gurupūjai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -9496,8 +9530,8 @@ SUMMARY:मन्वादि (रुद्र-सावर्णि)
 DTSTART;VALUE=DATE:20180727
 DTEND;VALUE=DATE:20180728
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/lunar_month/tithi/04/15#manvādi-(rud
- ra-sāvarṇi)
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/04/15#manvādi-rudr
+ a-sāvarṇi
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -9771,13 +9805,13 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:மூர்த்தி நாயனார் குருபூ
- ஜை
+SUMMARY:மூர்த்தி நாயனார் (15) குரு
+ பூஜை
 DTSTART;VALUE=DATE:20180806
 DTEND;VALUE=DATE:20180807
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/solar_month/nakshatram/04/03#mūrtti-
- nāyanār-gurupūjai
+ nāyanār-15-gurupūjai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -9787,13 +9821,13 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:புகழ்ச்சோழ நாயனார் குரு
- பூஜை
+SUMMARY:புகழ்ச்சோழ நாயனார் (39) கு
+ ருபூஜை
 DTSTART;VALUE=DATE:20180806
 DTEND;VALUE=DATE:20180807
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/solar_month/nakshatram/04/03#pugaḷc
- hchoḷa-nāyanār-gurupūjai
+ hchoḷa-nāyanār-39-gurupūjai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -9865,13 +9899,13 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:கூற்றுவ நாயனார் குருபூஜ
- ை
+SUMMARY:கூற்றுவ நாயனார் (38) குருப
+ ூஜை
 DTSTART;VALUE=DATE:20180809
 DTEND;VALUE=DATE:20180810
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/solar_month/nakshatram/04/06#kūr̂r
- ̂uva-nāyanār-gurupūjai
+ ̂uva-nāyanār-38-gurupūjai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -10379,12 +10413,12 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:பெருமிழலைக் குறும்ப நாய
- னார் குருபூஜை
+ னார் (22) குருபூஜை
 DTSTART;VALUE=DATE:20180816
 DTEND;VALUE=DATE:20180817
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/solar_month/nakshatram/04/14#pêrumi
- ḷalaik-kur̂umba-nāyanār-gurupūjai
+ ḷalaik-kur̂umba-nāyanār-22-gurupūjai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -10564,13 +10598,13 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:குலச்சிரை நாயனார் குருப
- ூஜை
+SUMMARY:குலச்சிரை நாயனார் (21) குர
+ ுபூஜை
 DTSTART;VALUE=DATE:20180819
 DTEND;VALUE=DATE:20180820
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/solar_month/nakshatram/05/17#kulachch
- irai-nāyanār-gurupūjai
+ irai-nāyanār-21-gurupūjai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -10693,13 +10727,13 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:குங்கிலியக்கலய நாயனார் 
- குருபூஜை
+SUMMARY:குங்கிலியக்கலய நாயனார் (
+ 10) குருபூஜை
 DTSTART;VALUE=DATE:20180821
 DTEND;VALUE=DATE:20180822
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/solar_month/nakshatram/05/19#kuṅgil
- iyakkalaya-nāyanār-gurupūjai
+ iyakkalaya-nāyanār-10-gurupūjai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -11459,8 +11493,8 @@ SUMMARY:मन्वादि (ब्रह्म-सावर्णि)
 DTSTART;VALUE=DATE:20180903
 DTEND;VALUE=DATE:20180904
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/lunar_month/tithi/05/23#manvādi-(bra
- hma-sāvarṇi)
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/05/23#manvādi-brah
+ ma-sāvarṇi
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -11742,13 +11776,13 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:செருத்துணை நாயனார் குரு
- பூஜை
+SUMMARY:செருத்துணை நாயனார் (53) கு
+ ருபூஜை
 DTSTART;VALUE=DATE:20180907
 DTEND;VALUE=DATE:20180908
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/solar_month/nakshatram/05/08#chêrutt
- uṇai-nāyanār-gurupūjai
+ uṇai-nāyanār-53-gurupūjai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -11805,13 +11839,13 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:அதிபத்த நாயனார் குருபூஜ
- ை
+SUMMARY:அதிபத்த நாயனார் (41) குருப
+ ூஜை
 DTSTART;VALUE=DATE:20180908
 DTEND;VALUE=DATE:20180909
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/solar_month/nakshatram/05/09#atipatta
- -nāyanār-gurupūjai
+ -nāyanār-41-gurupūjai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -11885,12 +11919,12 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:இளையான்குடி மாற நாயனார் 
- குருபூஜை
+ (3) குருபூஜை
 DTSTART;VALUE=DATE:20180909
 DTEND;VALUE=DATE:20180910
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/solar_month/nakshatram/05/10#iḻaiy
- ānkuḍi-mār̂a-nāyanār-gurupūjai
+ ānkuḍi-mār̂a-nāyanār-3-gurupūjai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -12069,8 +12103,8 @@ SUMMARY:मन्वादि (रैवत)
 DTSTART;VALUE=DATE:20180912
 DTEND;VALUE=DATE:20180913
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/lunar_month/tithi/06/03#manvādi-(rai
- vata)
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/06/03#manvādi-raiv
+ ata
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -12290,13 +12324,13 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:குலச்சிரை நாயனார் குருப
- ூஜை
+SUMMARY:குலச்சிரை நாயனார் (21) குர
+ ுபூஜை
 DTSTART;VALUE=DATE:20180915
 DTEND;VALUE=DATE:20180916
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/solar_month/nakshatram/05/17#kulachch
- irai-nāyanār-gurupūjai
+ irai-nāyanār-21-gurupūjai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -12613,13 +12647,13 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ஏனாதிநாத நாயனார் குருபூ
- ஜை
+SUMMARY:ஏனாதிநாத நாயனார் (8) குருப
+ ூஜை
 DTSTART;VALUE=DATE:20180920
 DTEND;VALUE=DATE:20180921
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/solar_month/nakshatram/06/21#enādin
- ātha-nāyanār-gurupūjai
+ ātha-nāyanār-8-gurupūjai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -12869,12 +12903,12 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:நரசிங்கமுனையரைய நாயனார
- ் குருபூஜை
+ ் (40) குருபூஜை
 DTSTART;VALUE=DATE:20180923
 DTEND;VALUE=DATE:20180924
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/solar_month/nakshatram/06/24#narachi
- ṅgamunaiyaraiya-nāyanār-gurupūjai
+ ṅgamunaiyaraiya-nāyanār-40-gurupūjai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -13131,13 +13165,13 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ருத்ர பஶுபதி நாயனார் குர
- ுபூஜை
+SUMMARY:ருத்ர பஶுபதி நாயனார் (16) க
+ ுருபூஜை
 DTSTART;VALUE=DATE:20180927
 DTEND;VALUE=DATE:20180928
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/solar_month/nakshatram/06/01#rudra-pa
- śupati-nāyanār-gurupūjai
+ śupati-nāyanār-16-gurupūjai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -13396,12 +13430,12 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:திருநாளைப்போவார் நாயனா
- ர் குருபூஜை
+ ர் (17) குருபூஜை
 DTSTART;VALUE=DATE:20180930
 DTEND;VALUE=DATE:20181001
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/solar_month/nakshatram/06/04#tirunā
- ḻaippovār-nāyanār-gurupūjai
+ ḻaippovār-nāyanār-17-gurupūjai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -13681,8 +13715,8 @@ DESCRIPTION:Son of Śiva of Karnataka called Haripaṇḍita subsequently
  known by the name Śrī Pūrṇabodha (after initiation) held the precepto
  rship of the Pīṭha (Jagatgurupada) for twenty-six years. This realised 
  preceptor merged in his illustrious effulgence in the early hours on the t
- rayodaśī of Kṛṣṇapakṣā in the month Bhādrapada of the year Pra
- māthī.\n\nकार्णाटो हरिपण्डितः शि
+ rayodaśī of Kṛṣṇapakṣa in the month Bhādrapada of the year Pram
+ āthī.\n\nकार्णाटो हरिपण्डितः शि
  वसुतः श्रीपूर्णबोधाख्यया ब
  िभ्राणोऽनुपदं जगद्गुरुपदं 
  वर्षांश्च षड्विंशतिम्।\nधा
@@ -14435,13 +14469,13 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ஏனாதிநாத நாயனார் குருபூ
- ஜை
+SUMMARY:ஏனாதிநாத நாயனார் (8) குருப
+ ூஜை
 DTSTART;VALUE=DATE:20181017
 DTEND;VALUE=DATE:20181018
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/solar_month/nakshatram/06/21#enādin
- ātha-nāyanār-gurupūjai
+ ātha-nāyanār-8-gurupūjai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -14526,8 +14560,8 @@ SUMMARY:मन्वादि (स्वायम्भुव)
 DTSTART;VALUE=DATE:20181018
 DTEND;VALUE=DATE:20181019
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/lunar_month/tithi/07/09#manvādi-(sv
- āyambhuva)
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/07/09#manvādi-svā
+ yambhuva
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -15079,7 +15113,7 @@ DESCRIPTION:Kunti-vratam done today will remove all paapams (including Goh
  e people worship Yudhisthira's mother Kunti. In AP/TEL\, eldest child is g
  iven new clothes\, harti and blessed "Deerghayushman".\n\nhttps://github.c
  om/sanskrit-coders/jyotisha/tree/master/jyotisha/panchangam/temporal/festi
- val/data/lunar_month/tithi/07/15#kuntī-(pārvatī)-vratam
+ val/data/lunar_month/tithi/07/15#kuntī-pārvatī-vratam
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -15229,13 +15263,13 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:திருமூல நாயனார் குருபூஜ
- ை
+SUMMARY:திருமூல நாயனார் (29) குருப
+ ூஜை
 DTSTART;VALUE=DATE:20181025
 DTEND;VALUE=DATE:20181026
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/solar_month/nakshatram/07/01#tirumūl
- a-nāyanār-gurupūjai
+ a-nāyanār-29-gurupūjai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -15295,12 +15329,12 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:நின்றசீர் நெடுமாற நாயனா
- ர் குருபூஜை
+ ர் (48) குருபூஜை
 DTSTART;VALUE=DATE:20181026
 DTEND;VALUE=DATE:20181027
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/solar_month/nakshatram/07/02#ninr̂ac
- hīr-nêḍumār̂a-nāyanār-gurupūjai
+ hīr-nêḍumār̂a-nāyanār-48-gurupūjai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -15370,13 +15404,13 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:இடங்கழி நாயனார் குருபூஜ
- ை
+SUMMARY:இடங்கழி நாயனார் (52) குருப
+ ூஜை
 DTSTART;VALUE=DATE:20181027
 DTEND;VALUE=DATE:20181028
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/solar_month/nakshatram/07/03#iḍaṅ
- kaḷi-nāyanār-gurupūjai
+ kaḷi-nāyanār-52-gurupūjai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -15432,57 +15466,6 @@ DESCRIPTION:Aradhana Day of Sri Anantarama Dikshitar.\n\nhttps://github.co
  m/sanskrit-coders/jyotisha/tree/master/jyotisha/panchangam/temporal/festiv
  al/data/solar_month/tithi/07/21#seṅgālipuram-anantarāma-dīkṣita-ār
  ādhanā
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT4H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:काञ्ची ५८ जगद्गुरु श्री 
- आत्मबोधेन्द्र सरस्वती आराध
- ना #३८१
-DTSTART;VALUE=DATE:20181031
-DTEND;VALUE=DATE:20181101
-DESCRIPTION:Viśveśvara was the son of Viśvamakhindra\; resorting to the
-  fact of Paraśivārya\, known as Navaśaṅkara from the first preceptor 
- toured all places successfully\, from Setu (Rāmeśvaram) to Sītāgiri (H
- imalayas). Since He possessed intellect more than anyone in the Universe\,
-  men of wisdom call him Viśvādhika and Navaśaṅkara. His erudition in 
- composing works such as Rudra bhāṣya is beyond words—immeasurable. Th
- e preceptor Viśvādhikendra carrying out the responsibilities of precepto
- r for fifty-two years\, (later) handing over the responsibilities to Bodhe
- ndrārya\, and proceeding in southern direction reached eternal abode\, me
- ditating on Lord Śiva with the crescent moon in the crown\, on the banks 
- of river Garuḍa on the eighth day of the black fortnight in the month of
-  Tulā of the year Ăśvara. This preceptor Śrī Navaśaṅkara residing 
- on the banks of river Tridaśa was revered by eminent men\, departed in th
- e southern direction and attained siddhi on the banks of river Garuḍa af
- ter handing over the responsibilities to the disciple Śrī Bhagavannāma 
- Bodhendra. \n\nवृद्धाचलप्रभवविश्वम
- खीन्द्रसूनुर्विश्वेश्वरः 
- परशिवार्यपदं प्रपन्नः।\nआस
- ेतुशीतगिरि कल्पितजैत्रयात
- ्र आद्यात् स शङ्करगुरोरतिह
- ृद्य आसीत्॥६॥\nविश्वाधिकस्
- वधिषणत्वत एनमाहुर्विश्वाध
- िकेन्द्रम् अनघा नवशङ्करं च
- ।\nश्रीरुद्रभाष्यमुखभूरितर
- प्रबन्धसन्धानकौशलम् अमुष्
- य किमप्यमेयम्॥७॥\nद्वापञ्च
- ाशतम् उद्वहन् गुरुधुराम् अ
- ब्दानवाच्यां दिशि प्रस्थान
- े गरुडापगातटभुवि प्रापत् प
- दं शाश्वतम्।\nबोधेन्द्रार्
- यविसृष्टविष्टरधुरो विश्वा
- धिकेन्द्रस्तुलाकृष्णाष्ट
- म्यहनीश्वरे हृदि दधत् सोमा
- र्धचूडामणिम्॥८॥\n—पुण्यश्ल
- ोकमञ्जरी\n\n\n\nhttps://github.com/sanskrit-coders/jyotish
- a/tree/master/jyotisha/panchangam/temporal/festival/data/solar_month/tithi
- /07/23#kāñchī-58-jagadguru-śrī-ātmabodhendra-sarasvatī-ārādhanā
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -15598,12 +15581,13 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:சத்தி நாயனார் குருபூஜை
+SUMMARY:சத்தி நாயனார் (44) குருபூஜ
+ ை
 DTSTART;VALUE=DATE:20181103
 DTEND;VALUE=DATE:20181104
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/solar_month/nakshatram/07/11#chatti-n
- āyanār-gurupūjai
+ āyanār-44-gurupūjai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -15714,7 +15698,7 @@ DESCRIPTION:Do दानं of दीपम्\, light deepam outside the
  ्रयोदश्यां दीपदानात् सूर्य
  जः प्रीयतां मम॥\n\n\n\nhttps://github.com/sanskr
  it-coders/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data/
- lunar_month/tithi/07/28#(yama)-dīpa-trayodaśī
+ lunar_month/tithi/07/28#yama-dīpa-trayodaśī
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -16054,13 +16038,13 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:பூசலார் நாயனார் குருபூஜ
- ை
+SUMMARY:பூசலார் நாயனார் (56) குருப
+ ூஜை
 DTSTART;VALUE=DATE:20181109
 DTEND;VALUE=DATE:20181110
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/solar_month/nakshatram/07/17#pūchal
- ār-nāyanār-gurupūjai
+ ār-nāyanār-56-gurupūjai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -16086,12 +16070,12 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ஐயடிகள் காடவர்கோன் நாயன
- ார் குருபூஜை
+ ார் (45) குருபூஜை
 DTSTART;VALUE=DATE:20181111
 DTEND;VALUE=DATE:20181112
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/solar_month/nakshatram/07/19#aiyaḍi
- gaḻ-kāḍavarkon-nāyanār-gurupūjai
+ gaḻ-kāḍavarkon-nāyanār-45-gurupūjai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -16136,7 +16120,7 @@ DTSTART;VALUE=DATE:20181112
 DTEND;VALUE=DATE:20181113
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/lunar_month/tithi/08/05#pāṇḍava-
- (lābha)-pañchamī
+ lābha-pañchamī
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -16702,8 +16686,8 @@ SUMMARY:मन्वादि (स्वारोचिष)
 DTSTART;VALUE=DATE:20181120
 DTEND;VALUE=DATE:20181121
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/lunar_month/tithi/08/12#manvādi-(sv
- ārochiṣa)
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/08/12#manvādi-svā
+ rochiṣa
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -16816,8 +16800,8 @@ SUMMARY:मन्वादि (उत्तम)
 DTSTART;VALUE=DATE:20181122
 DTEND;VALUE=DATE:20181123
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/lunar_month/tithi/08/15#manvādi-(utt
- ama)
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/08/15#manvādi-utta
+ ma
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -17098,8 +17082,8 @@ SUMMARY:मन्वादि (दक्ष-सावर्णि)
 DTSTART;VALUE=DATE:20181123
 DTEND;VALUE=DATE:20181124
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/lunar_month/tithi/08/15#manvādi-(dak
- ṣa-sāvarṇi)
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/08/15#manvādi-dak
+ ṣa-sāvarṇi
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -17140,13 +17124,13 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:கணம்புல்ல நாயனார் குருப
- ூஜை
+SUMMARY:கணம்புல்ல நாயனார் (46) குர
+ ுபூஜை
 DTSTART;VALUE=DATE:20181123
 DTEND;VALUE=DATE:20181124
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/solar_month/nakshatram/08/03#kaṇamp
- ulla-nāyanār-gurupūjai
+ ulla-nāyanār-46-gurupūjai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -17331,20 +17315,20 @@ DESCRIPTION:Then Narasambhaṭṭa\, son of Subrahmanya\, having been init
  iated by Gaṅgādhara got the appellation Brahmānandaghana held the prec
  eptorship of the Pīṭha for twenty-eight years. This great preceptor mer
  ged in the Lord Ăśvara as He ws teaching the disciples the Brahmasūtra\
- , bhāṣya etc. in the early morning of Aṣṭami of Kṛṣṇapakṣā
-  in the month of Kārtika in the year Ăśvara.\n\nसुब्रह्
- मण्यभवो नियम्य नरसम्भट्टोऽ
- थ गङ्गाधराद्\nब्रह्मानन्दघ
- नाभिधोऽधित धुरां द्व्यूनाः
-  समास्त्रिंशतम्।\nलिल्येऽध
- ीश्वरम् ईश्वरोर्जबहुलाष्ट
- म्याम् असौ सङ्गवे\nघुष्यन्न
- ेव हि सूत्रभाष्यविषयान् अन
- ्तेवसद्भ्यः पटु॥८५॥\n—पुण्
- यश्लोकमञ्जरी\n\n\n\nhttps://github.com/sanskrit-co
- ders/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data/lunar
- _month/tithi/08/23#kāñchī-42-jagadguru-śrī-brahmānandaghanendra-sara
- svatī-2-ārādhanā
+ , bhāṣya etc. in the early morning of Aṣṭami of Kṛṣṇapakṣa 
+ in the month of Kārtika in the year Ăśvara.\n\nसुब्रह्म
+ ण्यभवो नियम्य नरसम्भट्टोऽथ
+  गङ्गाधराद्\nब्रह्मानन्दघन
+ ाभिधोऽधित धुरां द्व्यूनाः 
+ समास्त्रिंशतम्।\nलिल्येऽधी
+ श्वरम् ईश्वरोर्जबहुलाष्टम
+ ्याम् असौ सङ्गवे\nघुष्यन्ने
+ व हि सूत्रभाष्यविषयान् अन्
+ तेवसद्भ्यः पटु॥८५॥\n—पुण्य
+ श्लोकमञ्जरी\n\n\n\nhttps://github.com/sanskrit-coder
+ s/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data/lunar_mo
+ nth/tithi/08/23#kāñchī-42-jagadguru-śrī-brahmānandaghanendra-sarasva
+ tī-2-ārādhanā
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -17372,6 +17356,57 @@ DESCRIPTION:Son of Chāyāvana Acyuta\, He was Gurumūrthi by name (before
  n\n\nhttps://github.com/sanskrit-coders/jyotisha/tree/master/jyotisha/panc
  hangam/temporal/festival/data/lunar_month/tithi/08/23#kāñchī-49-jagadgu
  ru-śrī-mahādevendra-sarasvatī-3-ārādhanā
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:काञ्ची ५८ जगद्गुरु श्री 
+ आत्मबोधेन्द्र सरस्वती आराध
+ ना #३८१
+DTSTART;VALUE=DATE:20181130
+DTEND;VALUE=DATE:20181201
+DESCRIPTION:Viśveśvara was the son of Viśvamakhindra\; resorting to the
+  fact of Paraśivārya\, known as Navaśaṅkara from the first preceptor 
+ toured all places successfully\, from Setu (Rāmeśvaram) to Sītāgiri (H
+ imalayas). Since He possessed intellect more than anyone in the Universe\,
+  men of wisdom call him Viśvādhika and Navaśaṅkara. His erudition in 
+ composing works such as Rudra bhāṣya is beyond words—immeasurable. Th
+ e preceptor Viśvādhikendra carrying out the responsibilities of precepto
+ r for fifty-two years\, (later) handing over the responsibilities to Bodhe
+ ndrārya\, and proceeding in southern direction reached eternal abode\, me
+ ditating on Lord Śiva with the crescent moon in the crown\, on the banks 
+ of river Garuḍa on the eighth day of the black fortnight in the month of
+  Tulā of the year Ăśvara. This preceptor Śrī Navaśaṅkara residing 
+ on the banks of river Tridaśa was revered by eminent men\, departed in th
+ e southern direction and attained siddhi on the banks of river Garuḍa af
+ ter handing over the responsibilities to the disciple Śrī Bhagavannāma 
+ Bodhendra. \n\nवृद्धाचलप्रभवविश्वम
+ खीन्द्रसूनुर्विश्वेश्वरः 
+ परशिवार्यपदं प्रपन्नः।\nआस
+ ेतुशीतगिरि कल्पितजैत्रयात
+ ्र आद्यात् स शङ्करगुरोरतिह
+ ृद्य आसीत्॥६॥\nविश्वाधिकस्
+ वधिषणत्वत एनमाहुर्विश्वाध
+ िकेन्द्रम् अनघा नवशङ्करं च
+ ।\nश्रीरुद्रभाष्यमुखभूरितर
+ प्रबन्धसन्धानकौशलम् अमुष्
+ य किमप्यमेयम्॥७॥\nद्वापञ्च
+ ाशतम् उद्वहन् गुरुधुराम् अ
+ ब्दानवाच्यां दिशि प्रस्थान
+ े गरुडापगातटभुवि प्रापत् प
+ दं शाश्वतम्।\nबोधेन्द्रार्
+ यविसृष्टविष्टरधुरो विश्वा
+ धिकेन्द्रस्तुलाकृष्णाष्ट
+ म्यहनीश्वरे हृदि दधत् सोमा
+ र्धचूडामणिम्॥८॥\n—पुण्यश्ल
+ ोकमञ्जरी\n\n\n\nhttps://github.com/sanskrit-coders/jyotish
+ a/tree/master/jyotisha/panchangam/temporal/festival/data/lunar_month/tithi
+ /08/23#kāñchī-58-jagadguru-śrī-ātmabodhendra-sarasvatī-ārādhanā
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -17440,13 +17475,13 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:மெய்ப்பொருள் நாயனார் கு
- ருபூஜை
+SUMMARY:மெய்ப்பொருள் நாயனார் (4) க
+ ுருபூஜை
 DTSTART;VALUE=DATE:20181201
 DTEND;VALUE=DATE:20181202
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/solar_month/nakshatram/08/12#mêyppô
- ruḻ-nāyanār-gurupūjai
+ ruḻ-nāyanār-4-gurupūjai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -17456,12 +17491,12 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ஆனாய நாயனார் குருபூஜை
+SUMMARY:ஆனாய நாயனார் (13) குருபூஜை
 DTSTART;VALUE=DATE:20181202
 DTEND;VALUE=DATE:20181203
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/solar_month/nakshatram/08/13#ānāya-
- nāyanār-gurupūjai
+ nāyanār-13-gurupūjai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -17753,12 +17788,13 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:மூர்க நாயனார் குருபூஜை
+SUMMARY:மூர்க நாயனார் (31) குருபூஜ
+ ை
 DTSTART;VALUE=DATE:20181208
 DTEND;VALUE=DATE:20181209
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/solar_month/nakshatram/08/19#mūrkha-
- nāyanār-gurupūjai
+ nāyanār-31-gurupūjai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -17816,13 +17852,13 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:சிரப்புலி நாயனார் குருப
- ூஜை
+SUMMARY:சிரப்புலி நாயனார் (34) குர
+ ுபூஜை
 DTSTART;VALUE=DATE:20181210
 DTEND;VALUE=DATE:20181211
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/solar_month/nakshatram/08/20#chirappu
- li-nāyanār-gurupūjai
+ li-nāyanār-34-gurupūjai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -18123,13 +18159,13 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:வாயிலார் நாயனார் குருபூ
- ஜை
+SUMMARY:வாயிலார் நாயனார் (49) குரு
+ பூஜை
 DTSTART;VALUE=DATE:20181217
 DTEND;VALUE=DATE:20181218
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/solar_month/nakshatram/09/27#vāyilā
- r-nāyanār-gurupūjai
+ r-nāyanār-49-gurupūjai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -18556,12 +18592,12 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:சடைய நாயனார் குருபூஜை
+SUMMARY:சடைய நாயனார் (61) குருபூஜை
 DTSTART;VALUE=DATE:20181223
 DTEND;VALUE=DATE:20181224
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/solar_month/nakshatram/09/06#chaḍai
- ya-nāyanār-gurupūjai
+ ya-nāyanār-61-gurupūjai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -18663,13 +18699,13 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:இயர்பகை நாயனார் குருபூஜ
- ை
+SUMMARY:இயர்பகை நாயனார் (2) குருபூ
+ ஜை
 DTSTART;VALUE=DATE:20181229
 DTEND;VALUE=DATE:20181230
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/solar_month/nakshatram/09/12#iyarpaga
- i-nāyanār-gurupūjai
+ i-nāyanār-2-gurupūjai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
