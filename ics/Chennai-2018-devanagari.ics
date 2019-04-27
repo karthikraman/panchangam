@@ -241,12 +241,12 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:वैधृति-श्राद्धः
+SUMMARY:वैधृति-श्राद्धम्
 DTSTART;VALUE=DATE:20180103
 DTEND;VALUE=DATE:20180104
 DESCRIPTION:Monthly Vaidhrti Shraddha day.\n\nhttps://github.com/sanskrit-
  coders/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data/sol
- ar_month/yogam/00/27#vaidhṛti-śrāddhaḥ
+ ar_month/yogam/00/27#vaidhṛti-śrāddham
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -695,12 +695,12 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:व्यतीपात-श्राद्धः
+SUMMARY:व्यतीपात-श्राद्धम्
 DTSTART;VALUE=DATE:20180119
 DTEND;VALUE=DATE:20180120
 DESCRIPTION:Monthly Vyatipata Shraddha day.\n\nhttps://github.com/sanskrit
  -coders/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data/so
- lar_month/yogam/00/17#vyatīpāta-śrāddhaḥ
+ lar_month/yogam/00/17#vyatīpāta-śrāddham
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -1331,12 +1331,12 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:वैधृति-श्राद्धः
+SUMMARY:वैधृति-श्राद्धम्
 DTSTART;VALUE=DATE:20180129
 DTEND;VALUE=DATE:20180130
 DESCRIPTION:Monthly Vaidhrti Shraddha day.\n\nhttps://github.com/sanskrit-
  coders/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data/sol
- ar_month/yogam/00/27#vaidhṛti-śrāddhaḥ
+ ar_month/yogam/00/27#vaidhṛti-śrāddham
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -1383,6 +1383,70 @@ DTEND;TZID=Asia/Calcutta;VALUE=DATE-TIME:20180131T204100
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/other/rare-days/eclipses#chandra-grah
  aṇam-(rāhugrasta)
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:काञ्ची ५१ जगद्गुरु श्री 
+ विद्यातीर्थेन्द्र सरस्वती 
+ आराधना #६३३
+DTSTART;VALUE=DATE:20180131
+DTEND;VALUE=DATE:20180201
+DESCRIPTION:Sarvajñaviṣṇu (name of Śrī Vidyātīrtha before initiat
+ ion)\, son of Śārṅgapāṇi) f Bilvaranya received initiation into asc
+ eticism from the sage preceptor Chandraśekhara\; remaining in the seat of
+  the master\, engrossed in/attached to the worship of Lord Yogeśaand the 
+ goddess who dwells in the Cakrarāja\, He was surrounded by the eminent sa
+ ints—Śrī Mādhava\, Bukka and Bhārati tīrtha. He decorated the seat 
+ by remaining in Kāṅci only for seventy-three years and after directing 
+ eight disciples who shone like the presiding deities of eight quarters to 
+ take care of the Pīṭha\, He\, the steadfast one\, resorting to the peak
+ s of Himalayas with the only companion disciple\, Śaṅkarānanda\, obser
+ ved severe penance for fifteen years. This preceptor\, in the course of pe
+ nance itself\, as the attending disciple was looking at\, merged in the Su
+ preme Effulgence of the Sun on the pratipad (first day) of the bright fort
+ night of the Māgha month in the year raktākṣī. The disciple too affli
+ cted with grief heavily returned to his Maṭha. In the meantime\, the eig
+ ht disciples too protected the Pīṭha as per the directions\; gladdened 
+ on seeing the disciple Śaṅkarānanda\, they entered into that Maṭha o
+ f their preceptor. This preceptor\, adored by Śrī Vidyāraṇya\, Saccid
+ ānanda and others is also known popularly as Vidyānātha\, Vidyeśa\, Vi
+ dyāśaṅkara\, Vidyātīrtha and Śaṅkarānandaguru.\n\nबिल्
+ वारण्यजशार्ङ्गपाणितनयः सर
+ ्वज्ञविष्णुः श्रयन् सन्न्य
+ ासं गुरुचन्द्रशेखरमुनेरास
+ ्थाय पीठीं गुरोः\nयोगेशस्य च
+  चक्रराजवसतेर्देव्याश्च सक
+ ्तोऽर्चने श्रीमन्माधवबुक्
+ कभारतियतिप्रष्ठैर्महिष्ठ
+ ैर्वृतः॥९८॥\nकाञ्च्यामेव स 
+ सप्ततिं त्रिसहितां वर्षान्
+  विभूष्यासनं\nशिष्यानष्ट दि
+ शागजायितयतीन् आदिश्य पीठाव
+ ने।\nयावत्पञ्चदशाब्दपूर्ति
+  हिमवच्छृङ्गाश्रयः शङ्करा-\n
+ नन्दैकानुचरश्चचार परमं धीर
+ स्तपो दुश्चरम्॥९९॥\nतपस्यन
+ ्नेवासौ तरुणतरणेर्धाम्नि प
+ रमे\nनिलीनोऽन्तर्हित्या नि
+ मिषति च पार्श्वे परिचरे।\nश्
+ रितो रक्ताक्ष्यब्दे प्रतिप
+ दि तपस्येष बहुले\nश्वसन् शिष
+ ्योऽप्यार्त्या न्यवृतद् अस
+ दत् स्वं च स मठम्॥१००॥\nअत्र
+ ान्तरेऽष्टापि यथानियोगम् आ
+ चार्यपीठीम् अविरोधमावुः।\n
+ तं शङ्करानन्दम् उदीक्ष्य ह
+ ृष्टाः देष्टुर्मठं तं निरव
+ ीविशन्त॥१०१॥\n—पुण्यश्लोकम
+ ञ्जरी\n\n\n\nhttps://github.com/sanskrit-coders/jyotisha/tree/ma
+ ster/jyotisha/panchangam/temporal/festival/data/lunar_month/tithi/11/16#k
+ āñchī-51-jagadguru-śrī-vidyātīrthendra-sarasvatī-ārādhanā
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT4H
@@ -1478,70 +1542,6 @@ DESCRIPTION:Lord Malayappa rides on Garuda Vahanam in all four mada street
  een happening on every पौर्णमी.\n\nhttps://github.com/sanskr
  it-coders/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data/
  lunar_month/tithi/00/15#veṅkaṭāchale-paurṇamī-garuḍa-sevā
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT4H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:काञ्ची ५१ जगद्गुरु श्री 
- विद्यातीर्थेन्द्र सरस्वती 
- आराधना #६३३
-DTSTART;VALUE=DATE:20180201
-DTEND;VALUE=DATE:20180202
-DESCRIPTION:Sarvajñaviṣṇu (name of Śrī Vidyātīrtha before initiat
- ion)\, son of Śārṅgapāṇi) f Bilvaranya received initiation into asc
- eticism from the sage preceptor Chandraśekhara\; remaining in the seat of
-  the master\, engrossed in/attached to the worship of Lord Yogeśaand the 
- goddess who dwells in the Cakrarāja\, He was surrounded by the eminent sa
- ints—Śrī Mādhava\, Bukka and Bhārati tīrtha. He decorated the seat 
- by remaining in Kāṅci only for seventy-three years and after directing 
- eight disciples who shone like the presiding deities of eight quarters to 
- take care of the Pīṭha\, He\, the steadfast one\, resorting to the peak
- s of Himalayas with the only companion disciple\, Śaṅkarānanda\, obser
- ved severe penance for fifteen years. This preceptor\, in the course of pe
- nance itself\, as the attending disciple was looking at\, merged in the Su
- preme Effulgence of the Sun on the pratipad (first day) of the bright fort
- night of the Māgha month in the year raktākṣī. The disciple too affli
- cted with grief heavily returned to his Maṭha. In the meantime\, the eig
- ht disciples too protected the Pīṭha as per the directions\; gladdened 
- on seeing the disciple Śaṅkarānanda\, they entered into that Maṭha o
- f their preceptor. This preceptor\, adored by Śrī Vidyāraṇya\, Saccid
- ānanda and others is also known popularly as Vidyānātha\, Vidyeśa\, Vi
- dyāśaṅkara\, Vidyātīrtha and Śaṅkarānandaguru.\n\nबिल्
- वारण्यजशार्ङ्गपाणितनयः सर
- ्वज्ञविष्णुः श्रयन् सन्न्य
- ासं गुरुचन्द्रशेखरमुनेरास
- ्थाय पीठीं गुरोः\nयोगेशस्य च
-  चक्रराजवसतेर्देव्याश्च सक
- ्तोऽर्चने श्रीमन्माधवबुक्
- कभारतियतिप्रष्ठैर्महिष्ठ
- ैर्वृतः॥९८॥\nकाञ्च्यामेव स 
- सप्ततिं त्रिसहितां वर्षान्
-  विभूष्यासनं\nशिष्यानष्ट दि
- शागजायितयतीन् आदिश्य पीठाव
- ने।\nयावत्पञ्चदशाब्दपूर्ति
-  हिमवच्छृङ्गाश्रयः शङ्करा-\n
- नन्दैकानुचरश्चचार परमं धीर
- स्तपो दुश्चरम्॥९९॥\nतपस्यन
- ्नेवासौ तरुणतरणेर्धाम्नि प
- रमे\nनिलीनोऽन्तर्हित्या नि
- मिषति च पार्श्वे परिचरे।\nश्
- रितो रक्ताक्ष्यब्दे प्रतिप
- दि तपस्येष बहुले\nश्वसन् शिष
- ्योऽप्यार्त्या न्यवृतद् अस
- दत् स्वं च स मठम्॥१००॥\nअत्र
- ान्तरेऽष्टापि यथानियोगम् आ
- चार्यपीठीम् अविरोधमावुः।\n
- तं शङ्करानन्दम् उदीक्ष्य ह
- ृष्टाः देष्टुर्मठं तं निरव
- ीविशन्त॥१०१॥\n—पुण्यश्लोकम
- ञ्जरी\n\n\n\nhttps://github.com/sanskrit-coders/jyotisha/tree/ma
- ster/jyotisha/panchangam/temporal/festival/data/lunar_month/tithi/11/16#k
- āñchī-51-jagadguru-śrī-vidyātīrthendra-sarasvatī-ārādhanā
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -1875,12 +1875,12 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:व्यतीपात-श्राद्धः
+SUMMARY:व्यतीपात-श्राद्धम्
 DTSTART;VALUE=DATE:20180213
 DTEND;VALUE=DATE:20180214
 DESCRIPTION:Monthly Vyatipata Shraddha day.\n\nhttps://github.com/sanskrit
  -coders/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data/so
- lar_month/yogam/00/17#vyatīpāta-śrāddhaḥ
+ lar_month/yogam/00/17#vyatīpāta-śrāddham
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -2268,12 +2268,12 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:वैधृति-श्राद्धः
+SUMMARY:वैधृति-श्राद्धम्
 DTSTART;VALUE=DATE:20180223
 DTEND;VALUE=DATE:20180224
 DESCRIPTION:Monthly Vaidhrti Shraddha day.\n\nhttps://github.com/sanskrit-
  coders/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data/sol
- ar_month/yogam/00/27#vaidhṛti-śrāddhaḥ
+ ar_month/yogam/00/27#vaidhṛti-śrāddham
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -2862,12 +2862,12 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:व्यतीपात-श्राद्धः
+SUMMARY:व्यतीपात-श्राद्धम्
 DTSTART;VALUE=DATE:20180311
 DTEND;VALUE=DATE:20180312
 DESCRIPTION:Monthly Vyatipata Shraddha day.\n\nhttps://github.com/sanskrit
  -coders/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data/so
- lar_month/yogam/00/17#vyatīpāta-śrāddhaḥ
+ lar_month/yogam/00/17#vyatīpāta-śrāddham
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -3393,12 +3393,12 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:वैधृति-श्राद्धः
+SUMMARY:वैधृति-श्राद्धम्
 DTSTART;VALUE=DATE:20180320
 DTEND;VALUE=DATE:20180321
 DESCRIPTION:Monthly Vaidhrti Shraddha day.\n\nhttps://github.com/sanskrit-
  coders/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data/sol
- ar_month/yogam/00/27#vaidhṛti-śrāddhaḥ
+ ar_month/yogam/00/27#vaidhṛti-śrāddham
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -4395,12 +4395,12 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:व्यतीपात-श्राद्धः
+SUMMARY:व्यतीपात-श्राद्धम्
 DTSTART;VALUE=DATE:20180405
 DTEND;VALUE=DATE:20180406
 DESCRIPTION:Monthly Vyatipata Shraddha day.\n\nhttps://github.com/sanskrit
  -coders/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data/so
- lar_month/yogam/00/17#vyatīpāta-śrāddhaḥ
+ lar_month/yogam/00/17#vyatīpāta-śrāddham
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -4676,12 +4676,12 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:वैधृति-श्राद्धः
+SUMMARY:वैधृति-श्राद्धम्
 DTSTART;VALUE=DATE:20180415
 DTEND;VALUE=DATE:20180416
 DESCRIPTION:Monthly Vaidhrti Shraddha day.\n\nhttps://github.com/sanskrit-
  coders/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data/sol
- ar_month/yogam/00/27#vaidhṛti-śrāddhaḥ
+ ar_month/yogam/00/27#vaidhṛti-śrāddham
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -5128,6 +5128,32 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:काञ्ची २६ जगद्गुरु श्री 
+ प्रज्ञाघनेन्द्र सरस्वती आर
+ ाधना #१४५५
+DTSTART;VALUE=DATE:20180422
+DTEND;VALUE=DATE:20180423
+DESCRIPTION:Śoṇagiri\, son of Prabhākaraśarma\, who lived on the bank
+ s of river Pinākinī\, became Jagadguru Prajñāghana and attained blissf
+ ul state on the night of the eighty day of the bright fortnight of the mon
+ th of Vaiśāka in the year Subhānu/Svabhānu.\n\nप्रभाकर
+ स्यात्मभवः पिनाकिनीतटीभवः 
+ शोणगिरिर्जगद्गुरुः।\nस्वभा
+ नुवैशाखसिताष्टमीनिशि प्रज
+ ्ञाघनः प्राप परं पदं मुदा॥५
+ ५॥\n—पुण्यश्लोकमञ्जरी\n\n\n\nhttps:/
+ /github.com/sanskrit-coders/jyotisha/tree/master/jyotisha/panchangam/tempo
+ ral/festival/data/lunar_month/tithi/02/08#kāñchī-26-jagadguru-śrī-pra
+ jñāghanendra-sarasvatī-ārādhanā
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:त्यागराज जयन्ती #२५२
 DTSTART;VALUE=DATE:20180422
 DTEND;VALUE=DATE:20180423
@@ -5206,32 +5232,6 @@ DTEND;VALUE=DATE:20180424
 DESCRIPTION:Goddess Bagalamukhi is 8th of the Dasha Maha Vidyas.\n\nhttps:
  //github.com/sanskrit-coders/jyotisha/tree/master/jyotisha/panchangam/temp
  oral/festival/data/lunar_month/tithi/02/08#bagalāmukhī-jayantī
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT4H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:काञ्ची २६ जगद्गुरु श्री 
- प्रज्ञाघनेन्द्र सरस्वती आर
- ाधना #१४५५
-DTSTART;VALUE=DATE:20180423
-DTEND;VALUE=DATE:20180424
-DESCRIPTION:Śoṇagiri\, son of Prabhākaraśarma\, who lived on the bank
- s of river Pinākinī\, became Jagadguru Prajñāghana and attained blissf
- ul state on the night of the eighty day of the bright fortnight of the mon
- th of Vaiśāka in the year Subhānu/Svabhānu.\n\nप्रभाकर
- स्यात्मभवः पिनाकिनीतटीभवः 
- शोणगिरिर्जगद्गुरुः।\nस्वभा
- नुवैशाखसिताष्टमीनिशि प्रज
- ्ञाघनः प्राप परं पदं मुदा॥५
- ५॥\n—पुण्यश्लोकमञ्जरी\n\n\n\nhttps:/
- /github.com/sanskrit-coders/jyotisha/tree/master/jyotisha/panchangam/tempo
- ral/festival/data/lunar_month/tithi/02/08#kāñchī-26-jagadguru-śrī-pra
- jñāghanendra-sarasvatī-ārādhanā
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -5830,12 +5830,12 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:व्यतीपात-श्राद्धः
+SUMMARY:व्यतीपात-श्राद्धम्
 DTSTART;VALUE=DATE:20180430
 DTEND;VALUE=DATE:20180501
 DESCRIPTION:Monthly Vyatipata Shraddha day.\n\nhttps://github.com/sanskrit
  -coders/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data/so
- lar_month/yogam/00/17#vyatīpāta-śrāddhaḥ
+ lar_month/yogam/00/17#vyatīpāta-śrāddham
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -6079,12 +6079,12 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:वैधृति-श्राद्धः
+SUMMARY:वैधृति-श्राद्धम्
 DTSTART;VALUE=DATE:20180510
 DTEND;VALUE=DATE:20180511
 DESCRIPTION:Monthly Vaidhrti Shraddha day.\n\nhttps://github.com/sanskrit-
  coders/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data/sol
- ar_month/yogam/00/27#vaidhṛti-śrāddhaḥ
+ ar_month/yogam/00/27#vaidhṛti-śrāddham
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -6473,12 +6473,12 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:व्यतीपात-श्राद्धः
+SUMMARY:व्यतीपात-श्राद्धम्
 DTSTART;VALUE=DATE:20180526
 DTEND;VALUE=DATE:20180527
 DESCRIPTION:Monthly Vyatipata Shraddha day.\n\nhttps://github.com/sanskrit
  -coders/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data/so
- lar_month/yogam/00/17#vyatīpāta-śrāddhaḥ
+ lar_month/yogam/00/17#vyatīpāta-śrāddham
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -6702,12 +6702,12 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:वैधृति-श्राद्धः
+SUMMARY:वैधृति-श्राद्धम्
 DTSTART;VALUE=DATE:20180605
 DTEND;VALUE=DATE:20180606
 DESCRIPTION:Monthly Vaidhrti Shraddha day.\n\nhttps://github.com/sanskrit-
  coders/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data/sol
- ar_month/yogam/00/27#vaidhṛti-śrāddhaḥ
+ ar_month/yogam/00/27#vaidhṛti-śrāddham
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -7500,12 +7500,12 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:व्यतीपात-श्राद्धः
+SUMMARY:व्यतीपात-श्राद्धम्
 DTSTART;VALUE=DATE:20180620
 DTEND;VALUE=DATE:20180621
 DESCRIPTION:Monthly Vyatipata Shraddha day.\n\nhttps://github.com/sanskrit
  -coders/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data/so
- lar_month/yogam/00/17#vyatīpāta-śrāddhaḥ
+ lar_month/yogam/00/17#vyatīpāta-śrāddham
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -8263,12 +8263,12 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:वैधृति-श्राद्धः
+SUMMARY:वैधृति-श्राद्धम्
 DTSTART;VALUE=DATE:20180630
 DTEND;VALUE=DATE:20180701
 DESCRIPTION:Monthly Vaidhrti Shraddha day.\n\nhttps://github.com/sanskrit-
  coders/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data/sol
- ar_month/yogam/00/27#vaidhṛti-śrāddhaḥ
+ ar_month/yogam/00/27#vaidhṛti-śrāddham
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -8692,12 +8692,12 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:व्यतीपात-श्राद्धः
+SUMMARY:व्यतीपात-श्राद्धम्
 DTSTART;VALUE=DATE:20180716
 DTEND;VALUE=DATE:20180717
 DESCRIPTION:Monthly Vyatipata Shraddha day.\n\nhttps://github.com/sanskrit
  -coders/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data/so
- lar_month/yogam/00/17#vyatīpāta-śrāddhaḥ
+ lar_month/yogam/00/17#vyatīpāta-śrāddham
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -8713,6 +8713,39 @@ DTEND;VALUE=DATE:20180718
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/solar_month/day/04/01#dakṣiṇāyan
  a-puṇyakālaḥ
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:काञ्ची ३५ जगद्गुरु श्री 
+ चित्सुखेन्द्र सरस्वती आराध
+ ना #१२८२
+DTSTART;VALUE=DATE:20180717
+DTEND;VALUE=DATE:20180718
+DESCRIPTION:Born near the Vedāchala mountain as the son of Vimalākṣa a
+ nd well-known as Suśīlakamalākṣa\, after renunciation became Citsukha
+ \; having had the authority of the preceptorship of Kāñci\, He lived in 
+ the caves of Sahya mountain. He\, having installed/deputed Citsukhānanda 
+ Yogīndra in his place\, vanished fully on the sixth day of the bright for
+ tnight of the month of Āṣāḍha of the year Dhātu. His preceptorship 
+ was for twenty-seven years.\n\nवेदाचलान्तिकभव
+ ो विमलाक्षनाम्नः सूनुः सुश
+ ीलकमलाक्ष इति प्रसिद्धः।\nस
+ ंयम्य चित्सुखतनुः श्रितकाम
+ कोटीपीठाधिपत्यविभवोऽप्यव
+ सत् स सह्ये॥६८॥\nचित्सुखानन
+ ्दयोगीन्द्रं निवेश्य निजवि
+ ष्टरे।\nसर्वात्मना तिरोऽधा
+ त् स धात्वाषाढाच्छषष्ठ्यहे
+ ॥६९॥\n—पुण्यश्लोकमञ्जरी\n\n\n\nh
+ ttps://github.com/sanskrit-coders/jyotisha/tree/master/jyotisha/panchangam
+ /temporal/festival/data/lunar_month/tithi/04/06#kāñchī-35-jagadguru-śr
+ ī-chitsukhendra-sarasvatī-ārādhanā
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -8778,39 +8811,6 @@ DTEND;VALUE=DATE:20180718
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/lunar_month/tithi/04/05#śamī-gaurī
  -vratam
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT4H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:काञ्ची ३५ जगद्गुरु श्री 
- चित्सुखेन्द्र सरस्वती आराध
- ना #१२८२
-DTSTART;VALUE=DATE:20180718
-DTEND;VALUE=DATE:20180719
-DESCRIPTION:Born near the Vedāchala mountain as the son of Vimalākṣa a
- nd well-known as Suśīlakamalākṣa\, after renunciation became Citsukha
- \; having had the authority of the preceptorship of Kāñci\, He lived in 
- the caves of Sahya mountain. He\, having installed/deputed Citsukhānanda 
- Yogīndra in his place\, vanished fully on the sixth day of the bright for
- tnight of the month of Āṣāḍha of the year Dhātu. His preceptorship 
- was for twenty-seven years.\n\nवेदाचलान्तिकभव
- ो विमलाक्षनाम्नः सूनुः सुश
- ीलकमलाक्ष इति प्रसिद्धः।\nस
- ंयम्य चित्सुखतनुः श्रितकाम
- कोटीपीठाधिपत्यविभवोऽप्यव
- सत् स सह्ये॥६८॥\nचित्सुखानन
- ्दयोगीन्द्रं निवेश्य निजवि
- ष्टरे।\nसर्वात्मना तिरोऽधा
- त् स धात्वाषाढाच्छषष्ठ्यहे
- ॥६९॥\n—पुण्यश्लोकमञ्जरी\n\n\n\nh
- ttps://github.com/sanskrit-coders/jyotisha/tree/master/jyotisha/panchangam
- /temporal/festival/data/lunar_month/tithi/04/06#kāñchī-35-jagadguru-śr
- ī-chitsukhendra-sarasvatī-ārādhanā
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -9402,12 +9402,12 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:वैधृति-श्राद्धः
+SUMMARY:वैधृति-श्राद्धम्
 DTSTART;VALUE=DATE:20180725
 DTEND;VALUE=DATE:20180726
 DESCRIPTION:Monthly Vaidhrti Shraddha day.\n\nhttps://github.com/sanskrit-
  coders/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data/sol
- ar_month/yogam/00/27#vaidhṛti-śrāddhaḥ
+ ar_month/yogam/00/27#vaidhṛti-śrāddham
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -9915,85 +9915,11 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ஆடி வெள்ளிக்கிழமை
-DTSTART;VALUE=DATE:20180810
-DTEND;VALUE=DATE:20180811
-DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/other/month-weekday-festivals#āḍi-
- vêḻḻikkiḷamai
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT4H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:व्यतीपात-श्राद्धः
-DTSTART;VALUE=DATE:20180810
-DTEND;VALUE=DATE:20180811
-DESCRIPTION:Monthly Vyatipata Shraddha day.\n\nhttps://github.com/sanskrit
- -coders/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data/so
- lar_month/yogam/00/17#vyatīpāta-śrāddhaḥ
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT4H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:आषाढ (कटक) अमावस्या
-DTSTART;VALUE=DATE:20180811
-DTEND;VALUE=DATE:20180812
-DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/other/amavasya-days#āṣāḍha-(ka
- ṭaka)-amāvasyā
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT4H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:आषाढ-स्नानपूर्तिः
-DTSTART;VALUE=DATE:20180811
-DTEND;VALUE=DATE:20180812
-DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/lunar_month/tithi/04/30#āṣāḍha-
- snānapūrtiḥ
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT4H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:दीप-पूजा
-DTSTART;VALUE=DATE:20180811
-DTEND;VALUE=DATE:20180812
-DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/lunar_month/tithi/04/30#dīpa-pūjā
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT4H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:काञ्ची ३८ जगद्गुरु श्री 
  अभिनवशङ्करेन्द्र सरस्वती आ
  राधना #११७९
-DTSTART;VALUE=DATE:20180811
-DTEND;VALUE=DATE:20180812
+DTSTART;VALUE=DATE:20180810
+DTEND;VALUE=DATE:20180811
 DESCRIPTION:This preceptor was the son of Viśvajit of Cidambaram through 
  viśiṣṭā\; like the Sun who dispels the dense darkness veiling his pr
  esence\, He was born on the tenth day of the bright fortnight in the month
@@ -10083,41 +10009,11 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:काञ्ची ४१ जगद्गुरु श्री 
- गङ्गाधरेन्द्र सरस्वती २ आर
- ाधना #१०६९
-DTSTART;VALUE=DATE:20180811
-DTEND;VALUE=DATE:20180812
-DESCRIPTION:Appanna\, son of Umeśabhaṭṭa\, on the banks of river Bhī
- mā\, engrossed in Śrīvidyā became preceptor after initiation and remai
- ned in KāmakoṭiPīṭha adorning the Śāradāpīṭhikā for thirty-fi
- ve years. The noble Gaṅgādhara attained siddhi on the pratipad (first d
- ay) of bright fortnight in the month Śravaṇa of the year Saumya.\n\nअ
- प्पण्णाख्य उमेशभट्टतनयो भी
- मातटीसम्भवः श्रीविद्यानिर
- तः श्रितो गुरुपदं श्रीकामक
- ोटीमठे।\nपञ्चत्रिंशतम् अध्
- युवास शरदः श्रीशारदापीठिका
- ं सौम्यः सौम्यनभस्सितप्रति
- पदि प्रेयाय गङ्गाधरः॥८४॥\n—
- पुण्यश्लोकमञ्जरी\n\n\n\nhttps://github.com
- /sanskrit-coders/jyotisha/tree/master/jyotisha/panchangam/temporal/festiva
- l/data/lunar_month/tithi/05/01#kāñchī-41-jagadguru-śrī-gaṅgādharen
- dra-sarasvatī-2-ārādhanā
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT4H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:काञ्ची ४६ जगद्गुरु श्री 
  सान्द्रानन्दबोधेन्द्र सरस
  ्वती आराधना #९२१
-DTSTART;VALUE=DATE:20180811
-DTEND;VALUE=DATE:20180812
+DTSTART;VALUE=DATE:20180810
+DTEND;VALUE=DATE:20180811
 DESCRIPTION:He\, Soma\, initiated with the title Bodhendra by the precepto
  r Paraśivendra adorned the Pīṭha and visiting countries in the palanqu
  in exquisitely decked with gems offered by Bhoja\, the king of Dhārā\, i
@@ -10145,6 +10041,110 @@ DESCRIPTION:He\, Soma\, initiated with the title Bodhendra by the precepto
  thub.com/sanskrit-coders/jyotisha/tree/master/jyotisha/panchangam/temporal
  /festival/data/lunar_month/tithi/04/30#kāñchī-46-jagadguru-śrī-sāndr
  ānandabodhendra-sarasvatī-ārādhanā
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ஆடி வெள்ளிக்கிழமை
+DTSTART;VALUE=DATE:20180810
+DTEND;VALUE=DATE:20180811
+DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
+ ha/panchangam/temporal/festival/data/other/month-weekday-festivals#āḍi-
+ vêḻḻikkiḷamai
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:व्यतीपात-श्राद्धम्
+DTSTART;VALUE=DATE:20180810
+DTEND;VALUE=DATE:20180811
+DESCRIPTION:Monthly Vyatipata Shraddha day.\n\nhttps://github.com/sanskrit
+ -coders/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data/so
+ lar_month/yogam/00/17#vyatīpāta-śrāddham
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:आषाढ (कटक) अमावस्या
+DTSTART;VALUE=DATE:20180811
+DTEND;VALUE=DATE:20180812
+DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
+ ha/panchangam/temporal/festival/data/other/amavasya-days#āṣāḍha-(ka
+ ṭaka)-amāvasyā
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:आषाढ-स्नानपूर्तिः
+DTSTART;VALUE=DATE:20180811
+DTEND;VALUE=DATE:20180812
+DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/04/30#āṣāḍha-
+ snānapūrtiḥ
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:दीप-पूजा
+DTSTART;VALUE=DATE:20180811
+DTEND;VALUE=DATE:20180812
+DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
+ ha/panchangam/temporal/festival/data/lunar_month/tithi/04/30#dīpa-pūjā
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:काञ्ची ४१ जगद्गुरु श्री 
+ गङ्गाधरेन्द्र सरस्वती २ आर
+ ाधना #१०६९
+DTSTART;VALUE=DATE:20180811
+DTEND;VALUE=DATE:20180812
+DESCRIPTION:Appanna\, son of Umeśabhaṭṭa\, on the banks of river Bhī
+ mā\, engrossed in Śrīvidyā became preceptor after initiation and remai
+ ned in KāmakoṭiPīṭha adorning the Śāradāpīṭhikā for thirty-fi
+ ve years. The noble Gaṅgādhara attained siddhi on the pratipad (first d
+ ay) of bright fortnight in the month Śravaṇa of the year Saumya.\n\nअ
+ प्पण्णाख्य उमेशभट्टतनयो भी
+ मातटीसम्भवः श्रीविद्यानिर
+ तः श्रितो गुरुपदं श्रीकामक
+ ोटीमठे।\nपञ्चत्रिंशतम् अध्
+ युवास शरदः श्रीशारदापीठिका
+ ं सौम्यः सौम्यनभस्सितप्रति
+ पदि प्रेयाय गङ्गाधरः॥८४॥\n—
+ पुण्यश्लोकमञ्जरी\n\n\n\nhttps://github.com
+ /sanskrit-coders/jyotisha/tree/master/jyotisha/panchangam/temporal/festiva
+ l/data/lunar_month/tithi/05/01#kāñchī-41-jagadguru-śrī-gaṅgādharen
+ dra-sarasvatī-2-ārādhanā
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -10614,12 +10614,12 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:वैधृति-श्राद्धः
+SUMMARY:वैधृति-श्राद्धम्
 DTSTART;VALUE=DATE:20180819
 DTEND;VALUE=DATE:20180820
 DESCRIPTION:Monthly Vaidhrti Shraddha day.\n\nhttps://github.com/sanskrit-
  coders/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data/sol
- ar_month/yogam/00/27#vaidhṛti-śrāddhaḥ
+ ar_month/yogam/00/27#vaidhṛti-śrāddham
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -10923,47 +10923,6 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:काञ्ची २० जगद्गुरु श्री 
- मूकशङ्करेन्द्र सरस्वती आरा
- धना #१५८२
-DTSTART;VALUE=DATE:20180825
-DTEND;VALUE=DATE:20180826
-DESCRIPTION:Dumb boy\, as He was named born of Khalvāṭavīra\, the gem 
- in the family of gaṇakas\, got the ability to speak eloquently through t
- he greatness of (the grace of) the Universal Preceptor\, invested with sac
- red thread\, and initiated into the entire scripture by his father and tak
- ing up asceticism\, He remained in the seat of Universal preceptor. Precep
- tor Śaṅkarendra (Arbhakaśaṅkara)\, after installing Mātṛgupta\, t
- he ardent follower of theprecepts of varṇāśrama (enjoined for respecti
- ve classes of people) attained Siddhi on the full moon day in the month of
-  Śravaṇa of the Śaka year 359. (In the sanskrit and tamil explanations
-  on Pages 22 & 23\, Matrugupta appears to be a patron of Sankarendra along
-  with Ramilla\, Sri Harsha etc.).\n\nजातः खल्वाटवी
- राद् गणककुलमणेः साधु विद्य
- ावतीतो\nमूको मूकार्भनामा भु
- वनगुरुपदाम्भोजरेणोर्महिम
- ्ना।\nव्यक्तप्रौढोक्तिराप्
- त्वोपनयनमखिलाम्नायजातं च त
- ाताद्\nगृह्णन् सन्न्यासम् आ
- सीत् परम् अधिजगदाचार्यपीठं
-  स धीरः॥४३॥\nश्रीशङ्करेन्द्
- रः श्रितमातृगुप्तम् आधाय व
- र्णाश्रमधर्मपालम्।\nसैकोनष
- ष्टित्रिशते शकेऽब्दे सिद्ध
- िं गतः श्रावणपूर्णिमायाम्॥
- ४४॥\n—पुण्यश्लोकमञ्जरी\n\n\n\nhttp
- s://github.com/sanskrit-coders/jyotisha/tree/master/jyotisha/panchangam/te
- mporal/festival/data/lunar_month/tithi/05/15#kāñchī-20-jagadguru-śrī-
- mūkaśaṅkarendra-sarasvatī-ārādhanā
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT4H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ஓணம்
 DTSTART;VALUE=DATE:20180825
 DTEND;VALUE=DATE:20180826
@@ -11039,6 +10998,47 @@ DESCRIPTION:Lord Hayagriva did upadesham of all four vedas to Brahma.\n\n
  ु ते॥\n\n\n\nhttps://github.com/sanskrit-coders/jyotisha/tree/mast
  er/jyotisha/panchangam/temporal/festival/data/lunar_month/tithi/05/15#haya
  grīva-jayantī
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:काञ्ची २० जगद्गुरु श्री 
+ मूकशङ्करेन्द्र सरस्वती आरा
+ धना #१५८२
+DTSTART;VALUE=DATE:20180826
+DTEND;VALUE=DATE:20180827
+DESCRIPTION:Dumb boy\, as He was named born of Khalvāṭavīra\, the gem 
+ in the family of gaṇakas\, got the ability to speak eloquently through t
+ he greatness of (the grace of) the Universal Preceptor\, invested with sac
+ red thread\, and initiated into the entire scripture by his father and tak
+ ing up asceticism\, He remained in the seat of Universal preceptor. Precep
+ tor Śaṅkarendra (Arbhakaśaṅkara)\, after installing Mātṛgupta\, t
+ he ardent follower of theprecepts of varṇāśrama (enjoined for respecti
+ ve classes of people) attained Siddhi on the full moon day in the month of
+  Śravaṇa of the Śaka year 359. (In the sanskrit and tamil explanations
+  on Pages 22 & 23\, Matrugupta appears to be a patron of Sankarendra along
+  with Ramilla\, Sri Harsha etc.).\n\nजातः खल्वाटवी
+ राद् गणककुलमणेः साधु विद्य
+ ावतीतो\nमूको मूकार्भनामा भु
+ वनगुरुपदाम्भोजरेणोर्महिम
+ ्ना।\nव्यक्तप्रौढोक्तिराप्
+ त्वोपनयनमखिलाम्नायजातं च त
+ ाताद्\nगृह्णन् सन्न्यासम् आ
+ सीत् परम् अधिजगदाचार्यपीठं
+  स धीरः॥४३॥\nश्रीशङ्करेन्द्
+ रः श्रितमातृगुप्तम् आधाय व
+ र्णाश्रमधर्मपालम्।\nसैकोनष
+ ष्टित्रिशते शकेऽब्दे सिद्ध
+ िं गतः श्रावणपूर्णिमायाम्॥
+ ४४॥\n—पुण्यश्लोकमञ्जरी\n\n\n\nhttp
+ s://github.com/sanskrit-coders/jyotisha/tree/master/jyotisha/panchangam/te
+ mporal/festival/data/lunar_month/tithi/05/15#kāñchī-20-jagadguru-śrī-
+ mūkaśaṅkarendra-sarasvatī-ārādhanā
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -11680,12 +11680,12 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:व्यतीपात-श्राद्धः
+SUMMARY:व्यतीपात-श्राद्धम्
 DTSTART;VALUE=DATE:20180905
 DTEND;VALUE=DATE:20180906
 DESCRIPTION:Monthly Vyatipata Shraddha day.\n\nhttps://github.com/sanskrit
  -coders/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data/so
- lar_month/yogam/00/17#vyatīpāta-śrāddhaḥ
+ lar_month/yogam/00/17#vyatīpāta-śrāddham
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -12225,12 +12225,12 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:वैधृति-श्राद्धः
+SUMMARY:वैधृति-श्राद्धम्
 DTSTART;VALUE=DATE:20180914
 DTEND;VALUE=DATE:20180915
 DESCRIPTION:Monthly Vaidhrti Shraddha day.\n\nhttps://github.com/sanskrit-
  coders/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data/sol
- ar_month/yogam/00/27#vaidhṛti-śrāddhaḥ
+ ar_month/yogam/00/27#vaidhṛti-śrāddham
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -13489,12 +13489,12 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:व्यतीपात-श्राद्धः
+SUMMARY:व्यतीपात-श्राद्धम्
 DTSTART;VALUE=DATE:20181001
 DTEND;VALUE=DATE:20181002
 DESCRIPTION:Monthly Vyatipata Shraddha day.\n\nhttps://github.com/sanskrit
  -coders/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data/so
- lar_month/yogam/00/17#vyatīpāta-śrāddhaḥ
+ lar_month/yogam/00/17#vyatīpāta-śrāddham
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -13644,6 +13644,37 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:काञ्ची ४४ जगद्गुरु श्री 
+ पूर्णबोधेन्द्र सरस्वती २ आ
+ राधना #९७९
+DTSTART;VALUE=DATE:20181006
+DTEND;VALUE=DATE:20181007
+DESCRIPTION:Son of Śiva of Karnataka called Haripaṇḍita subsequently 
+ known by the name Śrī Pūrṇabodha (after initiation) held the precepto
+ rship of the Pīṭha (Jagatgurupada) for twenty-six years. This realised 
+ preceptor merged in his illustrious effulgence in the early hours on the t
+ rayodaśī of Kṛṣṇapakṣa in the month Bhādrapada of the year Pram
+ āthī.\n\nकार्णाटो हरिपण्डितः शि
+ वसुतः श्रीपूर्णबोधाख्यया ब
+ िभ्राणोऽनुपदं जगद्गुरुपदं 
+ वर्षांश्च षड्विंशतिम्।\nधा
+ म्नि स्वे परमे जगाम निलयं वर
+ ्षे प्रमाथ्याह्वये कृष्णप्
+ रौष्ठपदत्रयोदशतिथौ ब्राह्
+ मे क्षणे ब्रह्मवित्॥८७॥\n—प
+ ुण्यश्लोकमञ्जरी\n\n\n\nhttps://github.com/sa
+ nskrit-coders/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/d
+ ata/lunar_month/tithi/06/28#kāñchī-44-jagadguru-śrī-pūrṇabodhendra
+ -sarasvatī-2-ārādhanā
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:புரட்டாசி சனிக்கிழமை
 DTSTART;VALUE=DATE:20181006
 DTEND;VALUE=DATE:20181007
@@ -13697,37 +13728,6 @@ DTEND;VALUE=DATE:20181007
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/lunar_month/tithi/06/27#śrī-bodhend
  ra-sarasvatī-ārādhanā
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT4H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:काञ्ची ४४ जगद्गुरु श्री 
- पूर्णबोधेन्द्र सरस्वती २ आ
- राधना #९७९
-DTSTART;VALUE=DATE:20181007
-DTEND;VALUE=DATE:20181008
-DESCRIPTION:Son of Śiva of Karnataka called Haripaṇḍita subsequently 
- known by the name Śrī Pūrṇabodha (after initiation) held the precepto
- rship of the Pīṭha (Jagatgurupada) for twenty-six years. This realised 
- preceptor merged in his illustrious effulgence in the early hours on the t
- rayodaśī of Kṛṣṇapakṣa in the month Bhādrapada of the year Pram
- āthī.\n\nकार्णाटो हरिपण्डितः शि
- वसुतः श्रीपूर्णबोधाख्यया ब
- िभ्राणोऽनुपदं जगद्गुरुपदं 
- वर्षांश्च षड्विंशतिम्।\nधा
- म्नि स्वे परमे जगाम निलयं वर
- ्षे प्रमाथ्याह्वये कृष्णप्
- रौष्ठपदत्रयोदशतिथौ ब्राह्
- मे क्षणे ब्रह्मवित्॥८७॥\n—प
- ुण्यश्लोकमञ्जरी\n\n\n\nhttps://github.com/sa
- nskrit-coders/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/d
- ata/lunar_month/tithi/06/28#kāñchī-44-jagadguru-śrī-pūrṇabodhendra
- -sarasvatī-2-ārādhanā
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -13952,12 +13952,12 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:वैधृति-श्राद्धः
+SUMMARY:वैधृति-श्राद्धम्
 DTSTART;VALUE=DATE:20181009
 DTEND;VALUE=DATE:20181010
 DESCRIPTION:Monthly Vaidhrti Shraddha day.\n\nhttps://github.com/sanskrit-
  coders/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data/sol
- ar_month/yogam/00/27#vaidhṛti-śrāddhaḥ
+ ar_month/yogam/00/27#vaidhṛti-śrāddham
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -14413,47 +14413,6 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:काञ्ची १९ जगद्गुरु श्री 
- मार्ताण्ड विद्याघनेन्द्र स
- रस्वती आराधना #१६२१
-DTSTART;VALUE=DATE:20181017
-DTEND;VALUE=DATE:20181018
-DESCRIPTION:The preceptor Śrīkaṇṭha\, son of Umeśa Śaṅkara\, suf
- fering from leprosy\, worshipped Sūrya everyday with a thousand salutatio
- ns to get rid of the disease and became healthy due to the japa of Śrīvi
- dyā\, renounced at the age of eighteen and reached with a tranquil mind t
- he holy feet of the preceptor Surendradeśika. Avowed to rigoroaus practic
- e of adhering to silence\, austere\, blessed with a virtue of opting his d
- eath day at his will\, governed the seat of the Chief of Preceptors for th
- irteen years and after deputing Śaṅkarendra with due instructions\, rea
- ched the beatitude on the ninth day of the bright fortnight in the month o
- f Bhādrapada of the year Hevilambi.\n\nश्रीकण्ठोऽय
- म् उमेशशङ्करसुतः श्वित्री 
- वयस्यष्टमे\nनिर्हन्तुं गदम
- ् अन्वहं कृतनमःसाहस्रम् अर
- ्कं भजन्।\nश्रीविद्याजपतश्
- च नीरुजतनुर्जातस्तथाऽष्टा
- दशे\nसन्न्यस्यन् स सुरेन्द्
- रदेशिकपदं प्रापत् प्रशान्त
- ान्तरः॥४१॥\nमौनी तपःस्ववशम
- ृत्युरधिस्वपीठम् अब्दांस्
- त्रयोदश विहृत्य च शङ्करेन्
- द्रम्।\nनिक्षिप्य दत्तगुरु
- वाचम् अलब्ध सिद्धिं सद्धेम
- लम्बिनि तथाऽह्नि महानवम्या
- म्॥४२॥\n—पुण्यश्लोकमञ्जरी\n\
- n\n\nhttps://github.com/sanskrit-coders/jyotisha/tree/master/jyotisha/panc
- hangam/temporal/festival/data/lunar_month/tithi/07/09#kāñchī-19-jagadgu
- ru-śrī-mārtāṇḍa-vidyāghanendra-sarasvatī-ārādhanā
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT4H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:काल-त्रिरात्रि-व्रतम्
 DTSTART;VALUE=DATE:20181017
 DTEND;VALUE=DATE:20181018
@@ -14530,6 +14489,47 @@ DTEND;VALUE=DATE:20181019
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/lunar_month/tithi/07/10#buddha-jayant
  ī
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:काञ्ची १९ जगद्गुरु श्री 
+ मार्ताण्ड विद्याघनेन्द्र स
+ रस्वती आराधना #१६२१
+DTSTART;VALUE=DATE:20181018
+DTEND;VALUE=DATE:20181019
+DESCRIPTION:The preceptor Śrīkaṇṭha\, son of Umeśa Śaṅkara\, suf
+ fering from leprosy\, worshipped Sūrya everyday with a thousand salutatio
+ ns to get rid of the disease and became healthy due to the japa of Śrīvi
+ dyā\, renounced at the age of eighteen and reached with a tranquil mind t
+ he holy feet of the preceptor Surendradeśika. Avowed to rigoroaus practic
+ e of adhering to silence\, austere\, blessed with a virtue of opting his d
+ eath day at his will\, governed the seat of the Chief of Preceptors for th
+ irteen years and after deputing Śaṅkarendra with due instructions\, rea
+ ched the beatitude on the ninth day of the bright fortnight in the month o
+ f Bhādrapada of the year Hevilambi.\n\nश्रीकण्ठोऽय
+ म् उमेशशङ्करसुतः श्वित्री 
+ वयस्यष्टमे\nनिर्हन्तुं गदम
+ ् अन्वहं कृतनमःसाहस्रम् अर
+ ्कं भजन्।\nश्रीविद्याजपतश्
+ च नीरुजतनुर्जातस्तथाऽष्टा
+ दशे\nसन्न्यस्यन् स सुरेन्द्
+ रदेशिकपदं प्रापत् प्रशान्त
+ ान्तरः॥४१॥\nमौनी तपःस्ववशम
+ ृत्युरधिस्वपीठम् अब्दांस्
+ त्रयोदश विहृत्य च शङ्करेन्
+ द्रम्।\nनिक्षिप्य दत्तगुरु
+ वाचम् अलब्ध सिद्धिं सद्धेम
+ लम्बिनि तथाऽह्नि महानवम्या
+ म्॥४२॥\n—पुण्यश्लोकमञ्जरी\n\
+ n\n\nhttps://github.com/sanskrit-coders/jyotisha/tree/master/jyotisha/panc
+ hangam/temporal/festival/data/lunar_month/tithi/07/09#kāñchī-19-jagadgu
+ ru-śrī-mārtāṇḍa-vidyāghanendra-sarasvatī-ārādhanā
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -15360,12 +15360,12 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:व्यतीपात-श्राद्धः
+SUMMARY:व्यतीपात-श्राद्धम्
 DTSTART;VALUE=DATE:20181026
 DTEND;VALUE=DATE:20181027
 DESCRIPTION:Monthly Vyatipata Shraddha day.\n\nhttps://github.com/sanskrit
  -coders/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data/so
- lar_month/yogam/00/17#vyatīpāta-śrāddhaḥ
+ lar_month/yogam/00/17#vyatīpāta-śrāddham
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -15641,12 +15641,12 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:वैधृति-श्राद्धः
+SUMMARY:वैधृति-श्राद्धम्
 DTSTART;VALUE=DATE:20181104
 DTEND;VALUE=DATE:20181105
 DESCRIPTION:Monthly Vaidhrti Shraddha day.\n\nhttps://github.com/sanskrit-
  coders/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data/sol
- ar_month/yogam/00/27#vaidhṛti-śrāddhaḥ
+ ar_month/yogam/00/27#vaidhṛti-śrāddham
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -16780,12 +16780,12 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:व्यतीपात-श्राद्धः
+SUMMARY:व्यतीपात-श्राद्धम्
 DTSTART;VALUE=DATE:20181121
 DTEND;VALUE=DATE:20181122
 DESCRIPTION:Monthly Vyatipata Shraddha day.\n\nhttps://github.com/sanskrit
  -coders/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data/so
- lar_month/yogam/00/17#vyatīpāta-śrāddhaḥ
+ lar_month/yogam/00/17#vyatīpāta-śrāddham
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -17306,12 +17306,12 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:वैधृति-श्राद्धः
+SUMMARY:वैधृति-श्राद्धम्
 DTSTART;VALUE=DATE:20181129
 DTEND;VALUE=DATE:20181130
 DESCRIPTION:Monthly Vaidhrti Shraddha day.\n\nhttps://github.com/sanskrit-
  coders/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data/sol
- ar_month/yogam/00/27#vaidhṛti-śrāddhaḥ
+ ar_month/yogam/00/27#vaidhṛti-śrāddham
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -18159,12 +18159,12 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:व्यतीपात-श्राद्धः
+SUMMARY:व्यतीपात-श्राद्धम्
 DTSTART;VALUE=DATE:20181216
 DTEND;VALUE=DATE:20181217
 DESCRIPTION:Monthly Vyatipata Shraddha day.\n\nhttps://github.com/sanskrit
  -coders/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data/so
- lar_month/yogam/00/17#vyatīpāta-śrāddhaḥ
+ lar_month/yogam/00/17#vyatīpāta-śrāddham
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -18658,12 +18658,12 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:वैधृति-श्राद्धः
+SUMMARY:वैधृति-श्राद्धम्
 DTSTART;VALUE=DATE:20181225
 DTEND;VALUE=DATE:20181226
 DESCRIPTION:Monthly Vaidhrti Shraddha day.\n\nhttps://github.com/sanskrit-
  coders/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data/sol
- ar_month/yogam/00/27#vaidhṛti-śrāddhaḥ
+ ar_month/yogam/00/27#vaidhṛti-śrāddham
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
