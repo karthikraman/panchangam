@@ -150,7 +150,12 @@
 {\small{\mbox{सन्ध्या \ प्रातः \textsf{\arg[1]}{\scriptsize\RIGHTarrow}\textsf{\arg[2]} माध्याह्निक \textsf{\arg[4]}{\scriptsize\RIGHTarrow}\textsf{\arg[5]} 
 सायं \textsf{\arg[9]}{\scriptsize\RIGHTarrow}\textsf{\arg[10]}}\hfill {दिनान्तः{\scriptsize\RIGHTarrow}\textsf{\arg[13]}}}\\[-5ex]}
 }
-\newcommand{\sunmoondata}[5]{%
+\newcommand{\sunmoonrsdata}[5]{%moonrise, moonset
+\mbox{\large\sun{\small\UParrow}\textsf{#1}~\sun{\small\DOWNarrow}\textsf{#2}}\hfill
+\mbox{\large\rightmoon{\small\UParrow}\textsf{#3}~\rightmoon{\small\DOWNarrow}\textsf{#4}}\\
+#5
+ }
+\newcommand{\sunmoonsrdata}[5]{% moonset, moonrise
 \mbox{\large\sun{\small\UParrow}\textsf{#1}~\sun{\small\DOWNarrow}\textsf{#2}}\hfill
 \mbox{\large\rightmoon{\small\UParrow}\textsf{#3}~\rightmoon{\small\DOWNarrow}\textsf{#4}}\\
 #5

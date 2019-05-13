@@ -313,9 +313,9 @@ BEGIN:VEVENT
 SUMMARY:व्यतीपात-श्राद्धम्
 DTSTART;VALUE=DATE:20190110
 DTEND;VALUE=DATE:20190111
-DESCRIPTION:Monthly Vyatipata Shraddha day.\n\nhttps://github.com/sanskrit
- -coders/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data/so
- lar_month/yoga/00/17#vyatīpāta-śrāddham
+DESCRIPTION:Vyatipata Shraddha day.\n\nhttps://github.com/sanskrit-coders/
+ jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data/solar_mont
+ h/yoga/00/17#vyatīpāta-śrāddham
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -809,9 +809,9 @@ BEGIN:VEVENT
 SUMMARY:वैधृति-श्राद्धम्
 DTSTART;VALUE=DATE:20190120
 DTEND;VALUE=DATE:20190121
-DESCRIPTION:Monthly Vaidhrti Shraddha day.\n\nhttps://github.com/sanskrit-
- coders/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data/sol
- ar_month/yoga/00/27#vaidhṛti-śrāddham
+DESCRIPTION:Vaidhrti Shraddha day.\n\nhttps://github.com/sanskrit-coders/j
+ yotisha/tree/master/jyotisha/panchangam/temporal/festival/data/solar_month
+ /yoga/00/27#vaidhṛti-śrāddham
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -1419,9 +1419,9 @@ BEGIN:VEVENT
 SUMMARY:व्यतीपात-श्राद्धम्
 DTSTART;VALUE=DATE:20190204
 DTEND;VALUE=DATE:20190205
-DESCRIPTION:Monthly Vyatipata Shraddha day.\n\nhttps://github.com/sanskrit
- -coders/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data/so
- lar_month/yoga/00/17#vyatīpāta-śrāddham
+DESCRIPTION:Vyatipata Shraddha day.\n\nhttps://github.com/sanskrit-coders/
+ jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data/solar_mont
+ h/yoga/00/17#vyatīpāta-śrāddham
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -1993,9 +1993,9 @@ BEGIN:VEVENT
 SUMMARY:वैधृति-श्राद्धम्
 DTSTART;VALUE=DATE:20190214
 DTEND;VALUE=DATE:20190215
-DESCRIPTION:Monthly Vaidhrti Shraddha day.\n\nhttps://github.com/sanskrit-
- coders/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data/sol
- ar_month/yoga/00/27#vaidhṛti-śrāddham
+DESCRIPTION:Vaidhrti Shraddha day.\n\nhttps://github.com/sanskrit-coders/j
+ yotisha/tree/master/jyotisha/panchangam/temporal/festival/data/solar_month
+ /yoga/00/27#vaidhṛti-śrāddham
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -2011,7 +2011,7 @@ DTSTART;VALUE=DATE:20190214
 DTEND;VALUE=DATE:20190215
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/lunar_month/tithi/11/09#śyāmaḻān
- avarātri-samāpanam
+ avarātri-samāpanam\n\n#navaratri #special-period-end
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -2026,7 +2026,7 @@ DTSTART;VALUE=DATE:20190205
 DTEND;VALUE=DATE:20190215
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/lunar_month/tithi/11/09#śyāmaḻān
- avarātri-samāpanam
+ avarātri-samāpanam\n\n#navaratri #special-period-end
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -2613,9 +2613,9 @@ BEGIN:VEVENT
 SUMMARY:व्यतीपात-श्राद्धम्
 DTSTART;VALUE=DATE:20190301
 DTEND;VALUE=DATE:20190302
-DESCRIPTION:Monthly Vyatipata Shraddha day.\n\nhttps://github.com/sanskrit
- -coders/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data/so
- lar_month/yoga/00/17#vyatīpāta-śrāddham
+DESCRIPTION:Vyatipata Shraddha day.\n\nhttps://github.com/sanskrit-coders/
+ jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data/solar_mont
+ h/yoga/00/17#vyatīpāta-śrāddham
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -3024,9 +3024,9 @@ BEGIN:VEVENT
 SUMMARY:वैधृति-श्राद्धम्
 DTSTART;VALUE=DATE:20190312
 DTEND;VALUE=DATE:20190313
-DESCRIPTION:Monthly Vaidhrti Shraddha day.\n\nhttps://github.com/sanskrit-
- coders/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data/sol
- ar_month/yoga/00/27#vaidhṛti-śrāddham
+DESCRIPTION:Vaidhrti Shraddha day.\n\nhttps://github.com/sanskrit-coders/j
+ yotisha/tree/master/jyotisha/panchangam/temporal/festival/data/solar_month
+ /yoga/00/27#vaidhṛti-śrāddham
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -3450,7 +3450,7 @@ DESCRIPTION:On the first day\, Lord Rama with Sita and Lakshmana is offere
   ride on the impressively decorated float for seven rounds.\n\nhttps://git
  hub.com/sanskrit-coders/jyotisha/tree/master/jyotisha/panchangam/temporal/
  festival/data/lunar_month/tithi/12/15#veṅkaṭāchale-plavotsava-samāpa
- nam
+ nam\n\n#andhra-temple-festivals
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -3474,7 +3474,7 @@ DESCRIPTION:On the first day\, Lord Rama with Sita and Lakshmana is offere
   ride on the impressively decorated float for seven rounds.\n\nhttps://git
  hub.com/sanskrit-coders/jyotisha/tree/master/jyotisha/panchangam/temporal/
  festival/data/lunar_month/tithi/12/15#veṅkaṭāchale-plavotsava-samāpa
- nam
+ nam\n\n#andhra-temple-festivals
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -3681,9 +3681,9 @@ BEGIN:VEVENT
 SUMMARY:व्यतीपात-श्राद्धम्
 DTSTART;VALUE=DATE:20190327
 DTEND;VALUE=DATE:20190328
-DESCRIPTION:Monthly Vyatipata Shraddha day.\n\nhttps://github.com/sanskrit
- -coders/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data/so
- lar_month/yoga/00/17#vyatīpāta-śrāddham
+DESCRIPTION:Vyatipata Shraddha day.\n\nhttps://github.com/sanskrit-coders/
+ jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data/solar_mont
+ h/yoga/00/17#vyatīpāta-śrāddham
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -4047,9 +4047,9 @@ BEGIN:VEVENT
 SUMMARY:वैधृति-श्राद्धम्
 DTSTART;VALUE=DATE:20190406
 DTEND;VALUE=DATE:20190407
-DESCRIPTION:Monthly Vaidhrti Shraddha day.\n\nhttps://github.com/sanskrit-
- coders/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data/sol
- ar_month/yoga/00/27#vaidhṛti-śrāddham
+DESCRIPTION:Vaidhrti Shraddha day.\n\nhttps://github.com/sanskrit-coders/j
+ yotisha/tree/master/jyotisha/panchangam/temporal/festival/data/solar_month
+ /yoga/00/27#vaidhṛti-śrāddham
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -4512,7 +4512,7 @@ DTSTART;VALUE=DATE:20190414
 DTEND;VALUE=DATE:20190415
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/lunar_month/tithi/01/09#vasantanavar
- ātri-samāpanam
+ ātri-samāpanam\n\n#common-festivals #navaratri #special-period-end
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -4527,7 +4527,7 @@ DTSTART;VALUE=DATE:20190406
 DTEND;VALUE=DATE:20190415
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/lunar_month/tithi/01/09#vasantanavar
- ātri-samāpanam
+ ātri-samāpanam\n\n#common-festivals #navaratri #special-period-end
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -4833,7 +4833,7 @@ DESCRIPTION:Vasantotsava is an annual festival conducted for three days (T
   Sri Krishna (with Rukmini and Satyabhama) are brought to Vasanta Mandapam
   in procession.\n\nhttps://github.com/sanskrit-coders/jyotisha/tree/master
  /jyotisha/panchangam/temporal/festival/data/lunar_month/tithi/01/15#veṅk
- aṭāchale-vasantotsava-samāpanam
+ aṭāchale-vasantotsava-samāpanam\n\n#andhra-temple-festivals
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -4854,7 +4854,7 @@ DESCRIPTION:Vasantotsava is an annual festival conducted for three days (T
   Sri Krishna (with Rukmini and Satyabhama) are brought to Vasanta Mandapam
   in procession.\n\nhttps://github.com/sanskrit-coders/jyotisha/tree/master
  /jyotisha/panchangam/temporal/festival/data/lunar_month/tithi/01/15#veṅk
- aṭāchale-vasantotsava-samāpanam
+ aṭāchale-vasantotsava-samāpanam\n\n#andhra-temple-festivals
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -5056,9 +5056,9 @@ BEGIN:VEVENT
 SUMMARY:व्यतीपात-श्राद्धम्
 DTSTART;VALUE=DATE:20190421
 DTEND;VALUE=DATE:20190422
-DESCRIPTION:Monthly Vyatipata Shraddha day.\n\nhttps://github.com/sanskrit
- -coders/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data/so
- lar_month/yoga/00/17#vyatīpāta-śrāddham
+DESCRIPTION:Vyatipata Shraddha day.\n\nhttps://github.com/sanskrit-coders/
+ jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data/solar_mont
+ h/yoga/00/17#vyatīpāta-śrāddham
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -5253,9 +5253,9 @@ BEGIN:VEVENT
 SUMMARY:वैधृति-श्राद्धम्
 DTSTART;VALUE=DATE:20190501
 DTEND;VALUE=DATE:20190502
-DESCRIPTION:Monthly Vaidhrti Shraddha day.\n\nhttps://github.com/sanskrit-
- coders/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data/sol
- ar_month/yoga/00/27#vaidhṛti-śrāddham
+DESCRIPTION:Vaidhrti Shraddha day.\n\nhttps://github.com/sanskrit-coders/j
+ yotisha/tree/master/jyotisha/panchangam/temporal/festival/data/solar_month
+ /yoga/00/27#vaidhṛti-śrāddham
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -5343,9 +5343,22 @@ BEGIN:VEVENT
 SUMMARY:चैत्र-अमावस्या
 DTSTART;VALUE=DATE:20190504
 DTEND;VALUE=DATE:20190505
-DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/other/amavasya-days#chaitra-amāvasy
- ā
+DESCRIPTION:On Chaitra Amavasya\, who gives a pot filled with पानक
+ म्\, he has indeed performed a hundred गयाश्राद्ध
+ म्! He also gets the benefit of performing षण्णवतिश्
+ राद्धम्!\n\nयो दद्याच्चैत्रद
+ र्शे तु कुम्भं पूर्णं तु पान
+ कैः।\nगयाश्राद्धशतं तेन कृत
+ मेव न संशयः॥५२॥\nकस्तूरी कर्
+ पुरोपेतं मल्लिकोशीरसंयुतम
+ ्।\nकलशं पानकैः पूर्णं चैत्र
+ दर्शे तु मानवः।\nदद्यात्पित
+ ॄन्समुद्दिश्य स षण्णवतिदो 
+ भवेत्॥५३॥\n-- स्कन्दपुराणे द
+ ्वितीये वैष्णवखण्डे वैशाखम
+ ाहात्म्ये तृतीये अध्याये\n\n\n
+ \nhttps://github.com/sanskrit-coders/jyotisha/tree/master/jyotisha/panchan
+ gam/temporal/festival/data/other/amavasya-days#chaitra-amāvasyā
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -5456,13 +5469,69 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:சிருத்தொண்ட நாயனார் (35) க
+SUMMARY:சிறுத்தொண்ட நாயனார் (35) க
  ுருபூஜை
 DTSTART;VALUE=DATE:20190505
 DTEND;VALUE=DATE:20190506
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/solar_month/nakshatram/01/02#chirutt
- ôṇḍa-nāyanār-35-gurupūjai
+ ha/panchangam/temporal/festival/data/solar_month/nakshatram/01/02#chir̂ut
+ tôṇḍa-nāyanār-35-gurupūjai
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:वैशाख-मास-आरम्भः
+DTSTART;VALUE=DATE:20190505
+DTEND;VALUE=DATE:20190506
+DESCRIPTION:वैशाख-मासः begins today --- special for vari
+ ous दानम्'s such as buttermilk\, पानकम् etc. Brings 
+ unlimited पुण्यम्!\n\nवैशाखे मासियो
+ दद्यात्तक्रंतापविनाशनम्॥
+ ४१॥\nविद्यावान्धनवान्भूमौ 
+ जायते नात्र संशयः ॥\nन तक्रस
+ दृशं दानं घर्मकालेषु विद्य
+ ते॥४२॥\nतस्मात्तक्रं प्रदा
+ तव्यमध्वश्रांतद्विजातये ॥\
+ nजंबीरसुरसोपेतं लसल्लवणमिश
+ ्रितम्॥४३॥\nयस्तक्रमरुचिघ्
+ नंतुदत्त्वामोक्षमवाप्नुय
+ ात् ॥\nयो दद्याद्दधिखंडंतुव
+ ैशाखेघर्मशांतये॥४४॥\nतस्य 
+ पुण्यफलं वक्तुं नाहं शक्नो
+ मि भूमिप ॥\nयो दद्यात्तंडुला
+ न्दिव्यान्मधुसूदनवल्लभे॥
+ ४५॥\nस लभेत्पूर्णमायुष्यं स
+ र्वयज्ञफलं लभेत् ॥\nयो घृतं 
+ तेजसो रूपं गव्यं दद्याद्द्
+ विजातये ॥\nसोऽश्वमेधफलं प्र
+ ाप्य मोदते विष्णुमंदिरे॥४६
+ ॥\nउर्वारुगुडसंमिश्रं वैशा
+ खे मेषगे रवौ ॥\nसर्वपापविनिर
+ ्मुक्तः श्वेतद्वीपे वसेद्ध
+ ्रुवम्॥४७॥\nयश्चेक्षुदंडं 
+ सायाह्ने दिवा तापोपशान्तये
+  ॥\nब्राह्मणायचयोदद्यात्तस
+ ्य पुण्यमनंतकम्॥४८॥\nवैशाख
+ े पानकं दत्त्वा सायाह्ने श्
+ रमशान्तये ॥\nसर्वपापविनिर्
+ मुक्तो विष्णोः सायुज्यमाप्
+ नुयात् ॥४९॥\nसफलं पानकं मेषम
+ ासे सायं द्विजातये ॥\nदद्यात
+ ्तेन पितॄणांतुसुधापानंनसं
+ शयः।५०॥\nवैशाखे पानकं चूतसु
+ पक्वफलसंयुतम् ॥\nतस्य सर्वा
+ णि पापानि विनाशं यांति निश्
+ चितम्॥५१॥\n-- स्कन्दपुराणे द
+ ्वितीये वैष्णवखण्डे वैशाखम
+ ाहात्म्ये तृतीये अध्याये\n\n\n
+ \nhttps://github.com/sanskrit-coders/jyotisha/tree/master/jyotisha/panchan
+ gam/temporal/festival/data/lunar_month/tithi/02/01#vaiśākha-māsa-āramb
+ haḥ
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -5526,13 +5595,24 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:अक्षय-तृतीया
+SUMMARY:अक्षय्य-तृतीया
 DTSTART;VALUE=DATE:20190507
 DTEND;VALUE=DATE:20190508
 DESCRIPTION:Daanam of Dadhyodanam\, Vyanjanam\, Chatram\, Paduka\, Udaka K
- umbham\, Mangos\, Jackfruit\; Lakshmi Narayana Pooja\; Gouri Pooja\;\n\nht
- tps://github.com/sanskrit-coders/jyotisha/tree/master/jyotisha/panchangam/
- temporal/festival/data/lunar_month/tithi/02/03#akṣaya-tṛtīyā
+ umbham\, Mangos\, Jackfruit\; Lakshmi Narayana Pooja\; Gauri Pooja\;\n\n
+ कण्डूय पृष्ठतो गां तु स्नात
+ ्वा पिप्पल-तर्पणम्।\nकृत्वा 
+ गॊविन्दमभ्यर्च्य न दुर्गति
+ मवाप्नुयात्॥\nछत्रोपानत् प
+ ्रदानं वा गो-भू-काञ्चन-वाससी
+ ।\nयद्यदिष्टतमं चान्यत्तद्
+ देयम् अविशङ्कया॥\nयस्यां स्
+ नानं जपो होमः स्वाध्यायः पि
+ तृतर्पणम्।\nदानं च क्रियते क
+ िञ्चित्तत्सर्वं स्यादिहाक
+ ्षयम्॥\n\n\n\nhttps://github.com/sanskrit-coders/jyotisha/tree
+ /master/jyotisha/panchangam/temporal/festival/data/lunar_month/tithi/02/03
+ #akṣayya-tṛtīyā
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -5575,9 +5655,15 @@ BEGIN:VEVENT
 SUMMARY:परशुराम जयन्ती
 DTSTART;VALUE=DATE:20190507
 DTEND;VALUE=DATE:20190508
-DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
- ha/panchangam/temporal/festival/data/lunar_month/tithi/02/03#paraśurāma-
- jayantī
+DESCRIPTION:वैशाखस्य सिते पक्षे तृ
+ तीयायां पुनर्वसौ।\nनिशायाः 
+ प्रथमे यामे रामाख्यः समये ह
+ रिः॥\nस्वोच्चगैः षड्ग्रहैर
+ ्युक्ते मिथुने राहुसंस्थित
+ े।\nरेणुकायास्तु यो गर्भादव
+ तीर्णो हरिः स्वयम्॥\n\n\n\nhttps://githu
+ b.com/sanskrit-coders/jyotisha/tree/master/jyotisha/panchangam/temporal/fe
+ stival/data/lunar_month/tithi/02/03#paraśurāma-jayantī
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -6126,7 +6212,7 @@ DTEND;VALUE=DATE:20190516
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/relative_event/vEGkaTAcalE padmAvatI-
  pariNayam (azva-vAhanam)/offset__01#veṅkaṭāchale-padmāvatī-pariṇa
- yotsava-samāpanam-(garuḍa-vāhanam)
+ yotsava-samāpanam-(garuḍa-vāhanam)\n\n#andhra-temple-festivals
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -6143,7 +6229,7 @@ DTEND;VALUE=DATE:20190516
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/relative_event/vEGkaTAcalE padmAvatI-
  pariNayam (azva-vAhanam)/offset__01#veṅkaṭāchale-padmāvatī-pariṇa
- yotsava-samāpanam-(garuḍa-vāhanam)
+ yotsava-samāpanam-(garuḍa-vāhanam)\n\n#andhra-temple-festivals
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -6282,9 +6368,9 @@ BEGIN:VEVENT
 SUMMARY:व्यतीपात-श्राद्धम्
 DTSTART;VALUE=DATE:20190517
 DTEND;VALUE=DATE:20190518
-DESCRIPTION:Monthly Vyatipata Shraddha day.\n\nhttps://github.com/sanskrit
- -coders/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data/so
- lar_month/yoga/00/17#vyatīpāta-śrāddham
+DESCRIPTION:Vyatipata Shraddha day.\n\nhttps://github.com/sanskrit-coders/
+ jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data/solar_mont
+ h/yoga/00/17#vyatīpāta-śrāddham
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -6742,9 +6828,9 @@ BEGIN:VEVENT
 SUMMARY:वैधृति-श्राद्धम्
 DTSTART;VALUE=DATE:20190526
 DTEND;VALUE=DATE:20190527
-DESCRIPTION:Monthly Vaidhrti Shraddha day.\n\nhttps://github.com/sanskrit-
- coders/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data/sol
- ar_month/yoga/00/27#vaidhṛti-śrāddham
+DESCRIPTION:Vaidhrti Shraddha day.\n\nhttps://github.com/sanskrit-coders/j
+ yotisha/tree/master/jyotisha/panchangam/temporal/festival/data/solar_month
+ /yoga/00/27#vaidhṛti-śrāddham
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -6804,7 +6890,7 @@ DTSTART;VALUE=DATE:20190529
 DTEND;VALUE=DATE:20190530
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/other/special-period-end#agninakṣat
- ra-samāpanam
+ ra-samāpanam\n\n#special-period-end
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -6819,7 +6905,7 @@ DTSTART;VALUE=DATE:20190505
 DTEND;VALUE=DATE:20190530
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/other/special-period-end#agninakṣat
- ra-samāpanam
+ ra-samāpanam\n\n#special-period-end
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -7049,6 +7135,38 @@ DTEND;VALUE=DATE:20190604
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/other/amavasya-days#vaiśākha-amāva
  syā
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:वैशाख-मास-समापनम्
+DTSTART;VALUE=DATE:20190603
+DTEND;VALUE=DATE:20190604
+DESCRIPTION:वैशाख-मासः ends today\n\nhttps://github.com/
+ sanskrit-coders/jyotisha/tree/master/jyotisha/panchangam/temporal/festival
+ /data/lunar_month/tithi/02/30#vaiśākha-māsa-samāpanam\n\n#special-days
+  #special-period-end
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:वैशाख-मासः
+DTSTART;VALUE=DATE:20190505
+DTEND;VALUE=DATE:20190604
+DESCRIPTION:वैशाख-मासः ends today\n\nhttps://github.com/
+ sanskrit-coders/jyotisha/tree/master/jyotisha/panchangam/temporal/festival
+ /data/lunar_month/tithi/02/30#vaiśākha-māsa-samāpanam\n\n#special-days
+  #special-period-end
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -7526,7 +7644,7 @@ DTEND;VALUE=DATE:20190610
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/relative_event/zrInivAsamaGgApurE sAk
  SAtkAra-vaibhavOtsavaH/offset__01#śrīnivāsamaṅgāpure-sākṣātkāra
- -vaibhavotsava-samāpanam
+ -vaibhavotsava-samāpanam\n\n#andhra-temple-festivals
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -7543,7 +7661,7 @@ DTEND;VALUE=DATE:20190610
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/relative_event/zrInivAsamaGgApurE sAk
  SAtkAra-vaibhavOtsavaH/offset__01#śrīnivāsamaṅgāpure-sākṣātkāra
- -vaibhavotsava-samāpanam
+ -vaibhavotsava-samāpanam\n\n#andhra-temple-festivals
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -7696,9 +7814,9 @@ BEGIN:VEVENT
 SUMMARY:व्यतीपात-श्राद्धम्
 DTSTART;VALUE=DATE:20190611
 DTEND;VALUE=DATE:20190612
-DESCRIPTION:Monthly Vyatipata Shraddha day.\n\nhttps://github.com/sanskrit
- -coders/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data/so
- lar_month/yoga/00/17#vyatīpāta-śrāddham
+DESCRIPTION:Vyatipata Shraddha day.\n\nhttps://github.com/sanskrit-coders/
+ jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data/solar_mont
+ h/yoga/00/17#vyatīpāta-śrāddham
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -8173,7 +8291,7 @@ DTEND;VALUE=DATE:20190618
 DESCRIPTION:Padmavati Devi is taken out on the प्लव (last three da
  ys).\n\nhttps://github.com/sanskrit-coders/jyotisha/tree/master/jyotisha/p
  anchangam/temporal/festival/data/lunar_month/tithi/03/15#alarmelmaṅgāpu
- re-plavotsava-samāpanam
+ re-plavotsava-samāpanam\n\n#andhra-temple-festivals
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -8190,7 +8308,7 @@ DTEND;VALUE=DATE:20190618
 DESCRIPTION:Padmavati Devi is taken out on the प्लव (last three da
  ys).\n\nhttps://github.com/sanskrit-coders/jyotisha/tree/master/jyotisha/p
  anchangam/temporal/festival/data/lunar_month/tithi/03/15#alarmelmaṅgāpu
- re-plavotsava-samāpanam
+ re-plavotsava-samāpanam\n\n#andhra-temple-festivals
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -8365,9 +8483,9 @@ BEGIN:VEVENT
 SUMMARY:वैधृति-श्राद्धम्
 DTSTART;VALUE=DATE:20190621
 DTEND;VALUE=DATE:20190622
-DESCRIPTION:Monthly Vaidhrti Shraddha day.\n\nhttps://github.com/sanskrit-
- coders/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data/sol
- ar_month/yoga/00/27#vaidhṛti-śrāddham
+DESCRIPTION:Vaidhrti Shraddha day.\n\nhttps://github.com/sanskrit-coders/j
+ yotisha/tree/master/jyotisha/panchangam/temporal/festival/data/solar_month
+ /yoga/00/27#vaidhṛti-śrāddham
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -8964,9 +9082,9 @@ BEGIN:VEVENT
 SUMMARY:व्यतीपात-श्राद्धम्
 DTSTART;VALUE=DATE:20190707
 DTEND;VALUE=DATE:20190708
-DESCRIPTION:Monthly Vyatipata Shraddha day.\n\nhttps://github.com/sanskrit
- -coders/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data/so
- lar_month/yoga/00/17#vyatīpāta-śrāddham
+DESCRIPTION:Vyatipata Shraddha day.\n\nhttps://github.com/sanskrit-coders/
+ jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data/solar_mont
+ h/yoga/00/17#vyatīpāta-śrāddham
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -9151,7 +9269,7 @@ DTSTART;VALUE=DATE:20190710
 DTEND;VALUE=DATE:20190711
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/lunar_month/tithi/04/09#vārāhī-nav
- arātri-samāpanam
+ arātri-samāpanam\n\n#navaratri #special-period-end
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -9166,7 +9284,7 @@ DTSTART;VALUE=DATE:20190703
 DTEND;VALUE=DATE:20190711
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/lunar_month/tithi/04/09#vārāhī-nav
- arātri-samāpanam
+ arātri-samāpanam\n\n#navaratri #special-period-end
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -9546,7 +9664,7 @@ DTSTART;TZID=Asia/Calcutta;VALUE=DATE-TIME:20190717T013100
 DTEND;TZID=Asia/Calcutta;VALUE=DATE-TIME:20190717T042900
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/other/rare-days/eclipses#chandra-grah
- aṇam-(ketugrasta)
+ aṇam-(ketugrasta)\n\n#special-snanam
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT4H
@@ -9667,9 +9785,9 @@ BEGIN:VEVENT
 SUMMARY:वैधृति-श्राद्धम्
 DTSTART;VALUE=DATE:20190716
 DTEND;VALUE=DATE:20190717
-DESCRIPTION:Monthly Vaidhrti Shraddha day.\n\nhttps://github.com/sanskrit-
- coders/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data/sol
- ar_month/yoga/00/27#vaidhṛti-śrāddham
+DESCRIPTION:Vaidhrti Shraddha day.\n\nhttps://github.com/sanskrit-coders/j
+ yotisha/tree/master/jyotisha/panchangam/temporal/festival/data/solar_month
+ /yoga/00/27#vaidhṛti-śrāddham
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -10298,9 +10416,9 @@ BEGIN:VEVENT
 SUMMARY:व्यतीपात-श्राद्धम्
 DTSTART;VALUE=DATE:20190801
 DTEND;VALUE=DATE:20190802
-DESCRIPTION:Monthly Vyatipata Shraddha day.\n\nhttps://github.com/sanskrit
- -coders/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data/so
- lar_month/yoga/00/17#vyatīpāta-śrāddham
+DESCRIPTION:Vyatipata Shraddha day.\n\nhttps://github.com/sanskrit-coders/
+ jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data/solar_mont
+ h/yoga/00/17#vyatīpāta-śrāddham
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -10885,9 +11003,9 @@ BEGIN:VEVENT
 SUMMARY:वैधृति-श्राद्धम्
 DTSTART;VALUE=DATE:20190810
 DTEND;VALUE=DATE:20190811
-DESCRIPTION:Monthly Vaidhrti Shraddha day.\n\nhttps://github.com/sanskrit-
- coders/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data/sol
- ar_month/yoga/00/27#vaidhṛti-śrāddham
+DESCRIPTION:Vaidhrti Shraddha day.\n\nhttps://github.com/sanskrit-coders/j
+ yotisha/tree/master/jyotisha/panchangam/temporal/festival/data/solar_month
+ /yoga/00/27#vaidhṛti-śrāddham
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -10972,7 +11090,8 @@ DESCRIPTION:वासुदेव नमस्तुभ्यं प्र
  ्णतां यातु त्वत्प्रसादज्जन
  ार्दन॥\n\n\n\nhttps://github.com/sanskrit-coders/jyotisha/tree
  /master/jyotisha/panchangam/temporal/festival/data/lunar_month/tithi/05/12
- #śākavrata-samāpanam
+ #śākavrata-samāpanam\n\n#vratam-end #special-period-end #common-festiva
+ ls
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -10993,7 +11112,8 @@ DESCRIPTION:वासुदेव नमस्तुभ्यं प्र
  ्णतां यातु त्वत्प्रसादज्जन
  ार्दन॥\n\n\n\nhttps://github.com/sanskrit-coders/jyotisha/tree
  /master/jyotisha/panchangam/temporal/festival/data/lunar_month/tithi/05/12
- #śākavrata-samāpanam
+ #śākavrata-samāpanam\n\n#vratam-end #special-period-end #common-festiva
+ ls
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -11859,9 +11979,9 @@ BEGIN:VEVENT
 SUMMARY:व्यतीपात-श्राद्धम्
 DTSTART;VALUE=DATE:20190827
 DTEND;VALUE=DATE:20190828
-DESCRIPTION:Monthly Vyatipata Shraddha day.\n\nhttps://github.com/sanskrit
- -coders/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data/so
- lar_month/yoga/00/17#vyatīpāta-śrāddham
+DESCRIPTION:Vyatipata Shraddha day.\n\nhttps://github.com/sanskrit-coders/
+ jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data/solar_mont
+ h/yoga/00/17#vyatīpāta-śrāddham
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -12483,9 +12603,9 @@ BEGIN:VEVENT
 SUMMARY:वैधृति-श्राद्धम्
 DTSTART;VALUE=DATE:20190905
 DTEND;VALUE=DATE:20190906
-DESCRIPTION:Monthly Vaidhrti Shraddha day.\n\nhttps://github.com/sanskrit-
- coders/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data/sol
- ar_month/yoga/00/27#vaidhṛti-śrāddham
+DESCRIPTION:Vaidhrti Shraddha day.\n\nhttps://github.com/sanskrit-coders/j
+ yotisha/tree/master/jyotisha/panchangam/temporal/festival/data/solar_month
+ /yoga/00/27#vaidhṛti-śrāddham
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -12799,7 +12919,8 @@ DESCRIPTION:On this day the DadhiVratam in Chaaturmaasyam is completed\, h
  ्णतां यातु त्वत्प्रसादज्जन
  ार्दन॥\n\n\n\nhttps://github.com/sanskrit-coders/jyotisha/tree
  /master/jyotisha/panchangam/temporal/festival/data/lunar_month/tithi/06/12
- #dadhi-vrata-samāpanam
+ #dadhi-vrata-samāpanam\n\n#vratam-end #special-period-end #common-festiva
+ ls
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -12822,7 +12943,8 @@ DESCRIPTION:On this day the DadhiVratam in Chaaturmaasyam is completed\, h
  ्णतां यातु त्वत्प्रसादज्जन
  ार्दन॥\n\n\n\nhttps://github.com/sanskrit-coders/jyotisha/tree
  /master/jyotisha/panchangam/temporal/festival/data/lunar_month/tithi/06/12
- #dadhi-vrata-samāpanam
+ #dadhi-vrata-samāpanam\n\n#vratam-end #special-period-end #common-festiva
+ ls
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -13178,7 +13300,8 @@ DTSTART;VALUE=DATE:20190914
 DTEND;VALUE=DATE:20190915
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/lunar_month/tithi/06/15#yatichāturm
- āsyavrata-samāpanam
+ āsyavrata-samāpanam\n\n#special-period-end #vratam-end #common-festivals
+  #common-festivals
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -13193,7 +13316,8 @@ DTSTART;VALUE=DATE:20190716
 DTEND;VALUE=DATE:20190915
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/lunar_month/tithi/06/15#yatichāturm
- āsyavrata-samāpanam
+ āsyavrata-samāpanam\n\n#special-period-end #vratam-end #common-festivals
+  #common-festivals
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -13503,7 +13627,7 @@ DTSTART;VALUE=DATE:20190921
 DTEND;VALUE=DATE:20190922
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/lunar_month/tithi/06/22#mahālakṣm
- ī-vrata-samāpanam
+ ī-vrata-samāpanam\n\n#special-vratams
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -13518,7 +13642,7 @@ DTSTART;VALUE=DATE:20190907
 DTEND;VALUE=DATE:20190922
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/lunar_month/tithi/06/22#mahālakṣm
- ī-vrata-samāpanam
+ ī-vrata-samāpanam\n\n#special-vratams
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -13645,9 +13769,9 @@ BEGIN:VEVENT
 SUMMARY:व्यतीपात-श्राद्धम्
 DTSTART;VALUE=DATE:20190922
 DTEND;VALUE=DATE:20190923
-DESCRIPTION:Monthly Vyatipata Shraddha day.\n\nhttps://github.com/sanskrit
- -coders/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data/so
- lar_month/yoga/00/17#vyatīpāta-śrāddham
+DESCRIPTION:Vyatipata Shraddha day.\n\nhttps://github.com/sanskrit-coders/
+ jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data/solar_mont
+ h/yoga/00/17#vyatīpāta-śrāddham
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -13892,7 +14016,7 @@ DESCRIPTION:A very special yOga\, for doing Pitru Shraddha during Mahalaya
  ि त्रयोत्तरद्विशततमेऽध्या
  ये\n\n\n\nhttps://github.com/sanskrit-coders/jyotisha/tree/master/jyot
  isha/panchangam/temporal/festival/data/other/rare-days/combinations#gajach
- chhāyā-yogaḥ
+ chhāyā-yogaḥ\n\n#devata-pujas
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT4H
@@ -13919,7 +14043,8 @@ DTSTART;VALUE=DATE:20190928
 DTEND;VALUE=DATE:20190929
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/relative_event/(bhAdrapada) mahAlaya 
- amAvasyA/offset__00#mahālaya-pakṣa-samāpanam
+ amAvasyA/offset__00#mahālaya-pakṣa-samāpanam\n\n#special-period-end #c
+ ommon-festivals
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -13934,7 +14059,8 @@ DTSTART;VALUE=DATE:20190914
 DTEND;VALUE=DATE:20190929
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/relative_event/(bhAdrapada) mahAlaya 
- amAvasyA/offset__00#mahālaya-pakṣa-samāpanam
+ amAvasyA/offset__00#mahālaya-pakṣa-samāpanam\n\n#special-period-end #c
+ ommon-festivals
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -14094,9 +14220,9 @@ BEGIN:VEVENT
 SUMMARY:वैधृति-श्राद्धम्
 DTSTART;VALUE=DATE:20190930
 DTEND;VALUE=DATE:20191001
-DESCRIPTION:Monthly Vaidhrti Shraddha day.\n\nhttps://github.com/sanskrit-
- coders/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data/sol
- ar_month/yoga/00/27#vaidhṛti-śrāddham
+DESCRIPTION:Vaidhrti Shraddha day.\n\nhttps://github.com/sanskrit-coders/j
+ yotisha/tree/master/jyotisha/panchangam/temporal/festival/data/solar_month
+ /yoga/00/27#vaidhṛti-śrāddham
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -14489,7 +14615,7 @@ DTSTART;VALUE=DATE:20191007
 DTEND;VALUE=DATE:20191008
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/lunar_month/tithi/07/09#śarannavarā
- tri-samāpanam
+ tri-samāpanam\n\n#navaratri #special-period-end #common-festivals
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -14504,7 +14630,7 @@ DTSTART;VALUE=DATE:20190929
 DTEND;VALUE=DATE:20191008
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/lunar_month/tithi/07/09#śarannavarā
- tri-samāpanam
+ tri-samāpanam\n\n#navaratri #special-period-end #common-festivals
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -14712,7 +14838,8 @@ DESCRIPTION:श्रीप्रद्युम्न नमस्तु
  ्यूनं सम्पूर्णतां यातु त्व
  त्प्रसादज्जनार्दन॥\n\n\n\nhttps://gith
  ub.com/sanskrit-coders/jyotisha/tree/master/jyotisha/panchangam/temporal/f
- estival/data/lunar_month/tithi/07/12#payovrata-samāpanam
+ estival/data/lunar_month/tithi/07/12#payovrata-samāpanam\n\n#vratam-end #
+ special-period-end #common-festivals
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -14733,7 +14860,8 @@ DESCRIPTION:श्रीप्रद्युम्न नमस्तु
  ्यूनं सम्पूर्णतां यातु त्व
  त्प्रसादज्जनार्दन॥\n\n\n\nhttps://gith
  ub.com/sanskrit-coders/jyotisha/tree/master/jyotisha/panchangam/temporal/f
- estival/data/lunar_month/tithi/07/12#payovrata-samāpanam
+ estival/data/lunar_month/tithi/07/12#payovrata-samāpanam\n\n#vratam-end #
+ special-period-end #common-festivals
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -15216,9 +15344,9 @@ BEGIN:VEVENT
 SUMMARY:व्यतीपात-श्राद्धम्
 DTSTART;VALUE=DATE:20191017
 DTEND;VALUE=DATE:20191018
-DESCRIPTION:Monthly Vyatipata Shraddha day.\n\nhttps://github.com/sanskrit
- -coders/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data/so
- lar_month/yoga/00/17#vyatīpāta-śrāddham
+DESCRIPTION:Vyatipata Shraddha day.\n\nhttps://github.com/sanskrit-coders/
+ jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data/solar_mont
+ h/yoga/00/17#vyatīpāta-śrāddham
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -15664,9 +15792,9 @@ BEGIN:VEVENT
 SUMMARY:वैधृति-श्राद्धम्
 DTSTART;VALUE=DATE:20191026
 DTEND;VALUE=DATE:20191027
-DESCRIPTION:Monthly Vaidhrti Shraddha day.\n\nhttps://github.com/sanskrit-
- coders/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data/sol
- ar_month/yoga/00/27#vaidhṛti-śrāddham
+DESCRIPTION:Vaidhrti Shraddha day.\n\nhttps://github.com/sanskrit-coders/j
+ yotisha/tree/master/jyotisha/panchangam/temporal/festival/data/solar_month
+ /yoga/00/27#vaidhṛti-śrāddham
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -15768,7 +15896,7 @@ DTSTART;VALUE=DATE:20191027
 DTEND;VALUE=DATE:20191028
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/relative_event/Azvayuja-amAvasyA/offs
- et__00#saptama-aparapakṣa-samāpanam
+ et__00#saptama-aparapakṣa-samāpanam\n\n#special-period-end
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -15783,7 +15911,7 @@ DTSTART;VALUE=DATE:20191014
 DTEND;VALUE=DATE:20191028
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/relative_event/Azvayuja-amAvasyA/offs
- et__00#saptama-aparapakṣa-samāpanam
+ et__00#saptama-aparapakṣa-samāpanam\n\n#special-period-end
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -16220,7 +16348,8 @@ DESCRIPTION:Coming from Brahma's Kamandalu\, Pushkara Raja resides in diff
  nअन्ते द्वादश वस्तव्यं दिना
  नि च यथासुखम्॥\n\n\n\n\nhttps://github.com/sanskri
  t-coders/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data/o
- ther/rare-days/pushkara#tāmraparṇī-antya-puṣkara-samāpanam
+ ther/rare-days/pushkara#tāmraparṇī-antya-puṣkara-samāpanam\n\n#rare
+ -days #pushkara
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -16250,7 +16379,8 @@ DESCRIPTION:Coming from Brahma's Kamandalu\, Pushkara Raja resides in diff
  nअन्ते द्वादश वस्तव्यं दिना
  नि च यथासुखम्॥\n\n\n\n\nhttps://github.com/sanskri
  t-coders/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data/o
- ther/rare-days/pushkara#tāmraparṇī-antya-puṣkara-samāpanam
+ ther/rare-days/pushkara#tāmraparṇī-antya-puṣkara-samāpanam\n\n#rare
+ -days #pushkara
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -16530,7 +16660,8 @@ DESCRIPTION:अनिरुद्ध नमस्तुभ्यं द्
  नं सम्पूर्णतां यातु त्वत्प
  ्रसादज्जनार्दन॥\n\n\n\nhttps://github.com/sa
  nskrit-coders/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/d
- ata/lunar_month/tithi/08/12#dvidala-vrata-samāpanam
+ ata/lunar_month/tithi/08/12#dvidala-vrata-samāpanam\n\n#vratam-end #speci
+ al-period-end #common-festivals
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -16551,7 +16682,8 @@ DESCRIPTION:अनिरुद्ध नमस्तुभ्यं द्
  नं सम्पूर्णतां यातु त्वत्प
  ्रसादज्जनार्दन॥\n\n\n\nhttps://github.com/sa
  nskrit-coders/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/d
- ata/lunar_month/tithi/08/12#dvidala-vrata-samāpanam
+ ata/lunar_month/tithi/08/12#dvidala-vrata-samāpanam\n\n#vratam-end #speci
+ al-period-end #common-festivals
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -16566,7 +16698,7 @@ DTSTART;VALUE=DATE:20191109
 DTEND;VALUE=DATE:20191110
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/lunar_month/tithi/08/12#gopadma-vrata
- -samāpanam
+ -samāpanam\n\n#special-vratams
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -16581,7 +16713,7 @@ DTSTART;VALUE=DATE:20190712
 DTEND;VALUE=DATE:20191110
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/lunar_month/tithi/08/12#gopadma-vrata
- -samāpanam
+ -samāpanam\n\n#special-vratams
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -16739,9 +16871,9 @@ BEGIN:VEVENT
 SUMMARY:व्यतीपात-श्राद्धम्
 DTSTART;VALUE=DATE:20191111
 DTEND;VALUE=DATE:20191112
-DESCRIPTION:Monthly Vyatipata Shraddha day.\n\nhttps://github.com/sanskrit
- -coders/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data/so
- lar_month/yoga/00/17#vyatīpāta-śrāddham
+DESCRIPTION:Vyatipata Shraddha day.\n\nhttps://github.com/sanskrit-coders/
+ jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data/solar_mont
+ h/yoga/00/17#vyatīpāta-śrāddham
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -16772,7 +16904,8 @@ DTEND;VALUE=DATE:20191113
 DESCRIPTION:Bhishma\, lying on शरतल्प performed upadesha to Yu
  dhisthira and other Pandavas for these five days.\n\nhttps://github.com/sa
  nskrit-coders/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/d
- ata/lunar_month/tithi/08/15#bhīṣma-pañchaka-vrata-samāpanam
+ ata/lunar_month/tithi/08/15#bhīṣma-pañchaka-vrata-samāpanam\n\n#less-
+ common-festivals
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -16788,7 +16921,8 @@ DTEND;VALUE=DATE:20191113
 DESCRIPTION:Bhishma\, lying on शरतल्प performed upadesha to Yu
  dhisthira and other Pandavas for these five days.\n\nhttps://github.com/sa
  nskrit-coders/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/d
- ata/lunar_month/tithi/08/15#bhīṣma-pañchaka-vrata-samāpanam
+ ata/lunar_month/tithi/08/15#bhīṣma-pañchaka-vrata-samāpanam\n\n#less-
+ common-festivals
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -16804,7 +16938,7 @@ DTSTART;VALUE=DATE:20191112
 DTEND;VALUE=DATE:20191113
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/lunar_month/tithi/08/15#chāturmāsya
- vrata-samāpanam
+ vrata-samāpanam\n\n#special-period-end #common-festivals
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -16819,7 +16953,7 @@ DTSTART;VALUE=DATE:20190711
 DTEND;VALUE=DATE:20191113
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/lunar_month/tithi/08/15#chāturmāsya
- vrata-samāpanam
+ vrata-samāpanam\n\n#special-period-end #common-festivals
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -17128,7 +17262,7 @@ DTEND;VALUE=DATE:20191117
 DESCRIPTION:End of a month long offering of Akasha Dipam.\n\nhttps://githu
  b.com/sanskrit-coders/jyotisha/tree/master/jyotisha/panchangam/temporal/fe
  stival/data/relative_event/kRttikA-maNDala-pArAyaNam/offset__-1#ākāśad
- īpa-samāpanam
+ īpa-samāpanam\n\n#tamilnadu-temple-festivals
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -17144,7 +17278,7 @@ DTEND;VALUE=DATE:20191117
 DESCRIPTION:End of a month long offering of Akasha Dipam.\n\nhttps://githu
  b.com/sanskrit-coders/jyotisha/tree/master/jyotisha/panchangam/temporal/fe
  stival/data/relative_event/kRttikA-maNDala-pArAyaNam/offset__-1#ākāśad
- īpa-samāpanam
+ īpa-samāpanam\n\n#tamilnadu-temple-festivals
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -17174,7 +17308,7 @@ DESCRIPTION:Coming from Brahma's Kamandalu\, Pushkara Raja resides in diff
  द्वादश वस्तव्यं दिनानि च यथ
  ासुखम्॥\n\n\n\n\nhttps://github.com/sanskrit-coders/jyotisha
  /tree/master/jyotisha/panchangam/temporal/festival/data/other/rare-days/pu
- shkara#sindhu-ādi-puṣkara-samāpanam
+ shkara#sindhu-ādi-puṣkara-samāpanam\n\n#rare-days #pushkara
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -17203,7 +17337,7 @@ DESCRIPTION:Coming from Brahma's Kamandalu\, Pushkara Raja resides in diff
  द्वादश वस्तव्यं दिनानि च यथ
  ासुखम्॥\n\n\n\n\nhttps://github.com/sanskrit-coders/jyotisha
  /tree/master/jyotisha/panchangam/temporal/festival/data/other/rare-days/pu
- shkara#sindhu-ādi-puṣkara-samāpanam
+ shkara#sindhu-ādi-puṣkara-samāpanam\n\n#rare-days #pushkara
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -17220,7 +17354,7 @@ DTEND;VALUE=DATE:20191117
 DESCRIPTION:End of Tula Kaveri Snanam. Also known as கடைமுகம
  ்.\n\nhttps://github.com/sanskrit-coders/jyotisha/tree/master/jyotisha/p
  anchangam/temporal/festival/data/relative_event/ta:muDavan2 muzhukku/offse
- t__-1#tulā-kāverī-snāna-samāpanam
+ t__-1#tulā-kāverī-snāna-samāpanam\n\n#tamilnadu-temple-festivals
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -17236,7 +17370,7 @@ DTEND;VALUE=DATE:20191117
 DESCRIPTION:End of Tula Kaveri Snanam. Also known as கடைமுகம
  ்.\n\nhttps://github.com/sanskrit-coders/jyotisha/tree/master/jyotisha/p
  anchangam/temporal/festival/data/relative_event/ta:muDavan2 muzhukku/offse
- t__-1#tulā-kāverī-snāna-samāpanam
+ t__-1#tulā-kāverī-snāna-samāpanam\n\n#tamilnadu-temple-festivals
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -17252,7 +17386,7 @@ DTEND;VALUE=DATE:20200104
 DESCRIPTION:Conduct veda parayanam in the evening\, on one of these 48 day
  s.\n\nhttps://github.com/sanskrit-coders/jyotisha/tree/master/jyotisha/pan
  changam/temporal/festival/data/solar_month/day/08/01#kṛttikā-maṇḍal
- a-pārāyaṇam
+ a-pārāyaṇam\n\n#special-period-start #common-festivals
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -17540,9 +17674,9 @@ BEGIN:VEVENT
 SUMMARY:वैधृति-श्राद्धम्
 DTSTART;VALUE=DATE:20191121
 DTEND;VALUE=DATE:20191122
-DESCRIPTION:Monthly Vaidhrti Shraddha day.\n\nhttps://github.com/sanskrit-
- coders/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data/sol
- ar_month/yoga/00/27#vaidhṛti-śrāddham
+DESCRIPTION:Vaidhrti Shraddha day.\n\nhttps://github.com/sanskrit-coders/j
+ yotisha/tree/master/jyotisha/panchangam/temporal/festival/data/solar_month
+ /yoga/00/27#vaidhṛti-śrāddham
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -17761,7 +17895,7 @@ DTSTART;VALUE=DATE:20191126
 DTEND;VALUE=DATE:20191127
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/relative_event/kArtika-amAvasyA/offse
- t__00#navama-aparapakṣa-samāpanam
+ t__00#navama-aparapakṣa-samāpanam\n\n#special-period-end
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -17776,7 +17910,7 @@ DTSTART;VALUE=DATE:20191113
 DTEND;VALUE=DATE:20191127
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/relative_event/kArtika-amAvasyA/offse
- t__00#navama-aparapakṣa-samāpanam
+ t__00#navama-aparapakṣa-samāpanam\n\n#special-period-end
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -17822,7 +17956,8 @@ DESCRIPTION:Thiruvisanallur Sridhara Aiyyaval brought Ganga to his house w
  रिपुं श्रीवेङ्कटेशं गुरुम्
  ॥\n\n\n\nhttps://github.com/sanskrit-coders/jyotisha/tree/master/jyotish
  a/panchangam/temporal/festival/data/lunar_month/tithi/08/30#tiruviśalūr-
- gaṅgākarṣaṇa-mahotsava-samāpanam
+ gaṅgākarṣaṇa-mahotsava-samāpanam\n\n#mahapurusha-events #tamilnadu
+ -temple-festivals
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -17847,7 +17982,8 @@ DESCRIPTION:Thiruvisanallur Sridhara Aiyyaval brought Ganga to his house w
  रिपुं श्रीवेङ्कटेशं गुरुम्
  ॥\n\n\n\nhttps://github.com/sanskrit-coders/jyotisha/tree/master/jyotish
  a/panchangam/temporal/festival/data/lunar_month/tithi/08/30#tiruviśalūr-
- gaṅgākarṣaṇa-mahotsava-samāpanam
+ gaṅgākarṣaṇa-mahotsava-samāpanam\n\n#mahapurusha-events #tamilnadu
+ -temple-festivals
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -18220,7 +18356,7 @@ DTEND;VALUE=DATE:20191206
 DESCRIPTION:Vanadurga Navaratri. Specially celebrated in Karthiramangalam.
  \n\nhttps://github.com/sanskrit-coders/jyotisha/tree/master/jyotisha/panch
  angam/temporal/festival/data/lunar_month/tithi/09/09#vanadurgānavarātri-
- samāpanam
+ samāpanam\n\n#navaratri #special-period-end
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -18236,7 +18372,7 @@ DTEND;VALUE=DATE:20191206
 DESCRIPTION:Vanadurga Navaratri. Specially celebrated in Karthiramangalam.
  \n\nhttps://github.com/sanskrit-coders/jyotisha/tree/master/jyotisha/panch
  angam/temporal/festival/data/lunar_month/tithi/09/09#vanadurgānavarātri-
- samāpanam
+ samāpanam\n\n#navaratri #special-period-end
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -18249,9 +18385,9 @@ BEGIN:VEVENT
 SUMMARY:व्यतीपात-श्राद्धम्
 DTSTART;VALUE=DATE:20191207
 DTEND;VALUE=DATE:20191208
-DESCRIPTION:Monthly Vyatipata Shraddha day.\n\nhttps://github.com/sanskrit
- -coders/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data/so
- lar_month/yoga/00/17#vyatīpāta-śrāddham
+DESCRIPTION:Vyatipata Shraddha day.\n\nhttps://github.com/sanskrit-coders/
+ jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data/solar_mont
+ h/yoga/00/17#vyatīpāta-śrāddham
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -18742,9 +18878,9 @@ BEGIN:VEVENT
 SUMMARY:वैधृति-श्राद्धम्
 DTSTART;VALUE=DATE:20191216
 DTEND;VALUE=DATE:20191217
-DESCRIPTION:Monthly Vaidhrti Shraddha day.\n\nhttps://github.com/sanskrit-
- coders/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data/sol
- ar_month/yoga/00/27#vaidhṛti-śrāddham
+DESCRIPTION:Vaidhrti Shraddha day.\n\nhttps://github.com/sanskrit-coders/j
+ yotisha/tree/master/jyotisha/panchangam/temporal/festival/data/solar_month
+ /yoga/00/27#vaidhṛti-śrāddham
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -19097,7 +19233,7 @@ DTSTART;TZID=Asia/Calcutta;VALUE=DATE-TIME:20191226T080800
 DTEND;TZID=Asia/Calcutta;VALUE=DATE-TIME:20191226T111900
 DESCRIPTION:https://github.com/sanskrit-coders/jyotisha/tree/master/jyotis
  ha/panchangam/temporal/festival/data/other/rare-days/eclipses#sūrya-graha
- ṇam
+ ṇam\n\n#rare-days #combinations #amavasya-days
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT4H
