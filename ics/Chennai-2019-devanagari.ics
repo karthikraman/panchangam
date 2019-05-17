@@ -6074,43 +6074,6 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:काञ्ची १ जगद्गुरु श्री आ
- दि-शङ्कर भगवत्पाद आराधना #२४
- ९५
-DTSTART;VALUE=DATE:20190514
-DTEND;VALUE=DATE:20190515
-DESCRIPTION:Born as an aṁśa of Lord Maheśa (Śiva)\, the sweet or luci
- d instructor of the principles of non-dualism\, the Sun in dispelling the 
- dense darkness (the great delusion)\, the preceptor of the six cults\, mer
- ged in Supreme in the thirty-second year of his life span\, in the Kali er
- a 2625 on the eleventh day of the bright fortnight in the month of Vṛṣ
- abha of the year Raktākṣi. This venerable Śri Śaṅkarābhagavatpāda
-  established the Advaita school everywhere after winning over the scholars
-  (of rival schools) through commentarial works on Brahmasūtra etc. His na
- tive is Kerala\; belonged to Nampūthiri group\; father was Śivaguru\, mo
- ther Āryāmbā\, preceptor - Śri Govindabhagavatpāda\, life span - 32 y
- ears\; realisation - on the eleventh day of the bright fortnight of the mo
- nth Vṛṣabha in the year Raktākṣi of Kali era - 2625 in Kāñci itse
- lf.\n\nमहेशांशाज्जातो मधुरम् उ
- पदिष्टाद्वयनयो\nमहामोहध्वा
- न्तप्रशमनरविः षण्मतगुरुः।\
- nफले (३२) स्वस्मिन् स्वायुष्
- यपि शरचराब्देऽपि (२६२५) च कल
- ेः\nविलिल्ये रक्ताक्षिण्यध
- िवृषसितैकादशि परे॥४॥\n—पुण
- ्यश्लोकमञ्जरी\n\n\n\nhttps://github.com/sanskrit
- -coders/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data/lu
- nar_month/tithi/02/11#kāñchī-1-jagadguru-śrī-ādi-śaṅkara-bhagavat
- pāda-ārādhanā
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT4H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:निमिषाम्बा जयन्ती
 DTSTART;VALUE=DATE:20190514
 DTEND;VALUE=DATE:20190515
@@ -6322,25 +6285,25 @@ DTEND;VALUE=DATE:20190518
 DESCRIPTION:Son of Kamaleśvara Śrīpati\, having received the initiation
   from Śaṅkara\, the sage (preceptor) with an ability to endure heat and
   cold easily\, remained in the guru Pīṭha. Adorned by the erudites like
-  Ānandavardhana etc.\, residing at Pamapuram for a long time and then\, h
- aving reached Kāñci\, He attained siddhi on the night of Narasimha Jayan
- ti in the year Nandana. This saint Saccidvilāsa\, adored by Śrī Ānanda
- vardhana\, Muktākaṇa\, Śivasāmi and Rājāakaralākara remained in th
- e Pīṭha for thirty-three years and attained siddhi near Kāñci on the 
- full moon day of Vaiśāka month in the year Nandana.\n\nकान्य
- कुब्जकमलेश्वरात्मजः श्रीप
- तिः श्रितयमश्च शङ्करात्।\nअ
- ध्युवास गुरुपीठम् अश्रमं ब
- ाल(३३)वर्षधृतिशील आश्रमी॥८
- १॥\nआनन्दवर्धनमुखैः अभिरूप
- वर्यैः आराधिताङ्घ्रिः अधिप
- द्मपुरं चिराय।\nअध्युष्य का
- ञ्चिम् उपगम्य च नन्दनाब्दे 
- सिद्धिं गतो निशि नृसिंहजयन
- ्तिकायाः॥८२॥\n—पुण्यश्लोकम
- ञ्जरी\n\n\n\nhttps://github.com/sanskrit-coders/jyotisha/tree/ma
- ster/jyotisha/panchangam/temporal/festival/data/lunar_month/tithi/02/14#k
- āñchī-39-jagadguru-śrī-sachchidvilāsendra-sarasvatī-ārādhanā
+  Ānandavardhana etc.\, residing at Padmapuram for a long time and then\, 
+ having reached Kāñci\, He attained siddhi on the night of Narasimha Jaya
+ nti in the year Nandana. This saint Saccidvilāsa\, adored by Śrī Ānand
+ avardhana\, Muktākaṇa\, Śivaswāmi and Rājānakaratnākara remained i
+ n the Pīṭha for thirty-three years and attained siddhi near Kāñci on 
+ the full moon day of Vaiśāka month in the year Nandana.\n\nकान्
+ यकुब्जकमलेश्वरात्मजः श्री
+ पतिः श्रितयमश्च शङ्करात्।\n
+ अध्युवास गुरुपीठम् अश्रमं 
+ बाल(३३)वर्षधृतिशील आश्रमी॥
+ ८१॥\nआनन्दवर्धनमुखैः अभिरू
+ पवर्यैः आराधिताङ्घ्रिः अधि
+ पद्मपुरं चिराय।\nअध्युष्य क
+ ाञ्चिम् उपगम्य च नन्दनाब्द
+ े सिद्धिं गतो निशि नृसिंहजय
+ न्तिकायाः॥८२॥\n—पुण्यश्लोक
+ मञ्जरी\n\n\n\nhttps://github.com/sanskrit-coders/jyotisha/tree
+ /master/jyotisha/panchangam/temporal/festival/data/lunar_month/tithi/02/14
+ #kāñchī-39-jagadguru-śrī-sachchidvilāsendra-sarasvatī-ārādhanā
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -6686,27 +6649,6 @@ DESCRIPTION:Special vrata day for Ganesha. In this month\, Ganesha is wors
  nhttps://github.com/sanskrit-coders/jyotisha/tree/master/jyotisha/panchang
  am/temporal/festival/data/other/monthly-vratams/sankatahara-chaturthi-vrat
  am-days#ekadanta-mahāgaṇapati-saṅkaṭahara-chaturthī-vratam
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT4H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:अङ्गारकी एकदन्त-महागणपत
- ि सङ्कटहर-चतुर्थी-व्रतम्
-DTSTART;VALUE=DATE:20190522
-DTEND;VALUE=DATE:20190523
-DESCRIPTION:Special vrata day for Ganesha. In this month\, Ganesha is wors
- hipped as एकदन्त-महागणपतिः. Fast during the 
- day and pray to Ganesha after moonrise\, as follows:\n\nगणाधिप
- स्त्वं देवेश चतुर्थ्यां पू
- जितो मया।\nकष्टान् मां मोचये
- शान सर्वमिष्टं च देहि मे॥\n\nWhe
- n `caturthI` occurs on a Tuesday\, it is known as `aGgArakI` and is even m
- ore sacred.
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -7981,6 +7923,43 @@ DESCRIPTION:Rukmini Satyabhama sahita Krishna are taken out on the प्
  लव.\n\nhttps://github.com/sanskrit-coders/jyotisha/tree/master/jyotish
  a/panchangam/temporal/festival/data/relative_event/alarmElmaGgApurE plavOt
  sava-samApanam/offset__-4#alarmelmaṅgāpure-plavotsava-ārambhaḥ
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:काञ्ची १ जगद्गुरु श्री आ
+ दि-शङ्कर भगवत्पाद आराधना #२४
+ ९५
+DTSTART;VALUE=DATE:20190613
+DTEND;VALUE=DATE:20190614
+DESCRIPTION:Born as an aṁśa of Lord Maheśa (Śiva)\, the sweet or luci
+ d instructor of the principles of non-dualism\, the Sun in dispelling the 
+ dense darkness (the great delusion)\, the preceptor of the six cults\, mer
+ ged in Supreme in the thirty-second year of his life span\, in the Kali er
+ a 2625 on the eleventh day of the bright fortnight in the month of Vṛṣ
+ abha of the year Raktākṣi. This venerable Śri Śaṅkarābhagavatpāda
+  established the Advaita school everywhere after winning over the scholars
+  (of rival schools) through commentarial works on Brahmasūtra etc. His na
+ tive is Kerala\; belonged to Nampūthiri group\; father was Śivaguru\, mo
+ ther Āryāmbā\, preceptor - Śri Govindabhagavatpāda\, life span - 32 y
+ ears\; realisation - on the eleventh day of the bright fortnight of the mo
+ nth Vṛṣabha in the year Raktākṣi of Kali era - 2625 in Kāñci itse
+ lf.\n\nमहेशांशाज्जातो मधुरम् उ
+ पदिष्टाद्वयनयो\nमहामोहध्वा
+ न्तप्रशमनरविः षण्मतगुरुः।\
+ nफले (३२) स्वस्मिन् स्वायुष्
+ यपि शरचराब्देऽपि (२६२५) च कल
+ ेः\nविलिल्ये रक्ताक्षिण्यध
+ िवृषसितैकादशि परे॥४॥\n—पुण
+ ्यश्लोकमञ्जरी\n\n\n\nhttps://github.com/sanskrit
+ -coders/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data/so
+ lar_month/tithi/02/11#kāñchī-1-jagadguru-śrī-ādi-śaṅkara-bhagavat
+ pāda-ārādhanā
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -17751,13 +17730,13 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:त्रिस्पृशा महाद्वादशी
+SUMMARY:त्रिस्पर्शा महाद्वादशी
 DTSTART;VALUE=DATE:20191123
 DTEND;VALUE=DATE:20191124
 DESCRIPTION:Dvadashi tithi\, which starts after sunrise on a day and ends 
  before sunrise on the next.\n\nhttps://github.com/sanskrit-coders/jyotisha
  /tree/master/jyotisha/panchangam/temporal/festival/data/other/rare-days/co
- mbinations/special-vratams#trispṛśā-mahādvādaśī
+ mbinations/special-vratams#trisparśā-mahādvādaśī
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
