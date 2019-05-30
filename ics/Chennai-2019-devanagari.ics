@@ -3824,6 +3824,29 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:काञ्ची जगद्गुरु श्री जये
+ न्द्र सरस्वती पीठारोहण जयन
+ ्ती #६६
+DTSTART;VALUE=DATE:20190323
+DTEND;VALUE=DATE:20190324
+DESCRIPTION:जगद्गुरु श्री~जयेन्द्र
+  सरस्वती was inducted into the कामकोटि-पी
+ ठम् on 22nd March 1954\, विजय year\, मीन/फाल्
+ गुन मास कृष्ण द्वितीया सॊमव
+ ासर चित्रा उपरि स्वाती नक्ष
+ त्रम्.<br/><br/><a href="https://github.com/sanskrit-coders/jyot
+ isha/tree/master/jyotisha/panchangam/temporal/festival/data/solar_month/na
+ kshatram/12/15#kāñchī-jagadguru-śrī-jayendra-sarasvatī-pīṭhāroha
+ ṇa-jayantī">more ...</a><br/><br/>#mahapurusha-events #common-festivals
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:காரைக்கால் அம்மையார் (23) 
  குருபூஜை
 DTSTART;VALUE=DATE:20190323
@@ -6877,6 +6900,30 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:काञ्ची जगद्गुरु श्री शङ्
+ कर विजयेन्द्र सरस्वती पीठा
+ रोहण जयन्ती #३७
+DTSTART;VALUE=DATE:20190521
+DTEND;VALUE=DATE:20190522
+DESCRIPTION:जगद्गुरु श्री~शङ्कर वि
+ जयेन्द्र सरस्वती was inducted into the क
+ ामकोटि-पीठम् on 29th May 1983\, रुधिरो
+ द्गारी year\, वृषभ/वैशाख मास कृष
+ ्ण तृतीया भानुवासर मूला नक्
+ षत्रम्.<br/><br/><a href="https://github.com/sanskrit-coders/j
+ yotisha/tree/master/jyotisha/panchangam/temporal/festival/data/solar_month
+ /nakshatram/02/19#kāñchī-jagadguru-śrī-śaṅkara-vijayendra-sarasvat
+ ī-pīṭhārohaṇa-jayantī">more ...</a><br/><br/>#mahapurusha-events #
+ common-festivals
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:முருக நாயனார் (15) குருபூஜ
  ை
 DTSTART;VALUE=DATE:20190521
@@ -7132,6 +7179,23 @@ DESCRIPTION:A native of Chera country\, son of Sūryanārāyaṇamakhi\, b
  s/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data/lunar_mo
  nth/tithi/02/24#kāñchī-7-jagadguru-śrī-ānandajñānendra-sarasvatī-
  ārādhanā">more ...</a><br/><br/>#kanchi-aradhana-days
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:आयुष्मान्-बव-सौम्य
+DTSTART;VALUE=DATE:20190529
+DTEND;VALUE=DATE:20190530
+DESCRIPTION:A rare combination of आयुष्मान् योग\, 
+ बव करण and सौम्यवासर.<br/><br/><a href="https:
+ //github.com/sanskrit-coders/jyotisha/tree/master/jyotisha/panchangam/temp
+ oral/festival/data/other/rare-days/combinations#āyuṣmān-bava-saumya">m
+ ore ...</a><br/><br/>#rare-days #combinations
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
