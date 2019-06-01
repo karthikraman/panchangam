@@ -1468,6 +1468,23 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:सोमश्रावणी-पुण्यकालः
+DTSTART;VALUE=DATE:20190204
+DTEND;VALUE=DATE:20190205
+DESCRIPTION:When Shravana nakshatram falls on a Monday\, it is a special 
+ पुण्यकालः.<br/><br/><a href="https://github.com/sanskrit
+ -coders/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data/ot
+ her/rare-days/combinations#somaśrāvaṇī-puṇyakālaḥ">more ...</a><
+ br/><br/>#rare-days #combinations
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:திருநெல்வேலி நெல்லையப்
  பர் பத்ர தீப திருவிழா
 DTSTART;VALUE=DATE:20190204
@@ -2865,6 +2882,23 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:सोमश्रावणी-पुण्यकालः
+DTSTART;VALUE=DATE:20190304
+DTEND;VALUE=DATE:20190305
+DESCRIPTION:When Shravana nakshatram falls on a Monday\, it is a special 
+ पुण्यकालः.<br/><br/><a href="https://github.com/sanskrit
+ -coders/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data/ot
+ her/rare-days/combinations#somaśrāvaṇī-puṇyakālaḥ">more ...</a><
+ br/><br/>#rare-days #combinations
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:कृष्णाङ्गारक-चतुर्दशी-प
  ुण्यकालः/यमतर्पणम्
 DTSTART;VALUE=DATE:20190305
@@ -3368,6 +3402,23 @@ DESCRIPTION:<a href="https://github.com/sanskrit-coders/jyotisha/tree/mast
  er/jyotisha/panchangam/temporal/festival/data/lunar_month/tithi/12/11#ra
  ṃgabharī-ekādaśī">more ...</a><br/><br/>#uttar-pradesh-temple-festiv
  als
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:रविपुष्ययोग-पुण्यकालः
+DTSTART;VALUE=DATE:20190317
+DTEND;VALUE=DATE:20190318
+DESCRIPTION:When Pushya nakshatram falls on a Sunday\, it is a special प
+ ुण्यकालः.<br/><br/><a href="https://github.com/sanskrit-co
+ ders/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data/other
+ /rare-days/combinations#ravipuṣyayoga-puṇyakālaḥ">more ...</a><br/>
+ <br/>#rare-days #combinations
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -4070,6 +4121,23 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:भृगुरेवती-पुण्यकालः
+DTSTART;VALUE=DATE:20190405
+DTEND;VALUE=DATE:20190406
+DESCRIPTION:When Revati nakshatram falls on a Friday\, it is a special प
+ ुण्यकालः.<br/><br/><a href="https://github.com/sanskrit-co
+ ders/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data/other
+ /rare-days/combinations#bhṛgurevatī-puṇyakālaḥ">more ...</a><br/><
+ br/>#rare-days #combinations
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:काञ्ची १५ जगद्गुरु श्री 
  गङ्गाधरेन्द्र सरस्वती आराध
  ना #१६९१
@@ -4720,6 +4788,23 @@ DESCRIPTION:Being the first day of the new year\, read the पञ्चा
  ेवताः.<br/><br/><a href="https://github.com/sanskrit-coders/jyot
  isha/tree/master/jyotisha/panchangam/temporal/festival/data/other/common-f
  estivals#pañchāṅga-paṭhanam">more ...</a><br/><br/>#common-festivals
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:रविपुष्ययोग-पुण्यकालः
+DTSTART;VALUE=DATE:20190414
+DTEND;VALUE=DATE:20190415
+DESCRIPTION:When Pushya nakshatram falls on a Sunday\, it is a special प
+ ुण्यकालः.<br/><br/><a href="https://github.com/sanskrit-co
+ ders/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data/other
+ /rare-days/combinations#ravipuṣyayoga-puṇyakālaḥ">more ...</a><br/>
+ <br/>#rare-days #combinations
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -5570,6 +5655,23 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:भृगुरेवती-पुण्यकालः
+DTSTART;VALUE=DATE:20190503
+DTEND;VALUE=DATE:20190504
+DESCRIPTION:When Revati nakshatram falls on a Friday\, it is a special प
+ ुण्यकालः.<br/><br/><a href="https://github.com/sanskrit-co
+ ders/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data/other
+ /rare-days/combinations#bhṛgurevatī-puṇyakālaḥ">more ...</a><br/><
+ br/>#rare-days #combinations
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:गङ्गा-स्नानम्
 DTSTART;VALUE=DATE:20190503
 DTEND;VALUE=DATE:20190504
@@ -6010,6 +6112,22 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:बगलामुखी जयन्ती
+DTSTART;VALUE=DATE:20190508
+DTEND;VALUE=DATE:20190509
+DESCRIPTION:Goddess Bagalamukhi is 8th of the Dasha Maha Vidyas.<br/><br/>
+ <a href="https://github.com/sanskrit-coders/jyotisha/tree/master/jyotisha/
+ panchangam/temporal/festival/data/lunar_month/tithi/02/04#bagalāmukhī-ja
+ yantī">more ...</a><br/><br/>#dashamahavidya
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:वार्ता-गौरी-व्रतम्
 DTSTART;VALUE=DATE:20190508
 DTEND;VALUE=DATE:20190509
@@ -6227,22 +6345,6 @@ DESCRIPTION:Worship Surya Bhagavan in a vessel (कुम्भ) filled wi
  https://github.com/sanskrit-coders/jyotisha/tree/master/jyotisha/panchanga
  m/temporal/festival/data/lunar_month/tithi/02/07#śarkarā-saptamī">more 
  ...</a><br/><br/>#special-pujas
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT4H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:बगलामुखी जयन्ती
-DTSTART;VALUE=DATE:20190512
-DTEND;VALUE=DATE:20190513
-DESCRIPTION:Goddess Bagalamukhi is 8th of the Dasha Maha Vidyas.<br/><br/>
- <a href="https://github.com/sanskrit-coders/jyotisha/tree/master/jyotisha/
- panchangam/temporal/festival/data/lunar_month/tithi/02/08#bagalāmukhī-ja
- yantī">more ...</a><br/><br/>#dashamahavidya
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -9340,6 +9442,23 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:गुरुपुष्य-पुण्यकालः
+DTSTART;VALUE=DATE:20190704
+DTEND;VALUE=DATE:20190705
+DESCRIPTION:When Pushya nakshatram falls on a Thursday\, it is a special 
+ पुण्यकालः.<br/><br/><a href="https://github.com/sanskrit
+ -coders/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data/ot
+ her/rare-days/combinations#gurupuṣya-puṇyakālaḥ">more ...</a><br/><
+ br/>#rare-days #combinations
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:जगन्नाथ-रथ-यात्रा
 DTSTART;VALUE=DATE:20190704
 DTEND;VALUE=DATE:20190705
@@ -10834,6 +10953,23 @@ DTEND;VALUE=DATE:20190802
 DESCRIPTION:<a href="https://github.com/sanskrit-coders/jyotisha/tree/mast
  er/jyotisha/panchangam/temporal/festival/data/lunar_month/tithi/04/30#dīp
  a-pūjā">more ...</a><br/><br/>#less-common-festivals
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:गुरुपुष्य-पुण्यकालः
+DTSTART;VALUE=DATE:20190801
+DTEND;VALUE=DATE:20190802
+DESCRIPTION:When Pushya nakshatram falls on a Thursday\, it is a special 
+ पुण्यकालः.<br/><br/><a href="https://github.com/sanskrit
+ -coders/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data/ot
+ her/rare-days/combinations#gurupuṣya-puṇyakālaḥ">more ...</a><br/><
+ br/>#rare-days #combinations
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -12355,6 +12491,23 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:शनिरोहिणी-पुण्यकालः
+DTSTART;VALUE=DATE:20190824
+DTEND;VALUE=DATE:20190825
+DESCRIPTION:When Rohini nakshatram falls on a Saturday\, it is a special 
+ पुण्यकालः.<br/><br/><a href="https://github.com/sanskrit
+ -coders/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data/ot
+ her/rare-days/combinations#śanirohiṇī-puṇyakālaḥ">more ...</a><br
+ /><br/>#rare-days #combinations
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:श्रीकृष्णदेवराय-राज्या
  भिषेकः
 DTSTART;VALUE=DATE:20190824
@@ -12814,6 +12967,23 @@ DESCRIPTION:<a href="https://github.com/sanskrit-coders/jyotisha/tree/mast
  r AvaNit tiruvizhA nir2aivu/offset__-4#tiruchchêndūr-murugan-āvaṇit-t
  iruviḷā-8m-nāḻ—pachchai-chātti-alaṅkāram">more ...</a><br/><br
  />#tamilnadu-temple-festivals
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:आदित्यहस्त-पुण्यकालः
+DTSTART;VALUE=DATE:20190901
+DTEND;VALUE=DATE:20190902
+DESCRIPTION:When Hasta nakshatram falls on a Sunday\, it is a special प
+ ुण्यकालः.<br/><br/><a href="https://github.com/sanskrit-co
+ ders/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data/other
+ /rare-days/combinations#ādityahasta-puṇyakālaḥ">more ...</a><br/><br
+ />#rare-days #combinations
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -14330,6 +14500,23 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:शनिरोहिणी-पुण्यकालः
+DTSTART;VALUE=DATE:20190921
+DTEND;VALUE=DATE:20190922
+DESCRIPTION:When Rohini nakshatram falls on a Saturday\, it is a special 
+ पुण्यकालः.<br/><br/><a href="https://github.com/sanskrit
+ -coders/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data/ot
+ her/rare-days/combinations#śanirohiṇī-puṇyakālaḥ">more ...</a><br
+ /><br/>#rare-days #combinations
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:अशोकाष्टमी-व्रत-आरम्भः
 DTSTART;VALUE=DATE:20190922
 DTEND;VALUE=DATE:20190923
@@ -14754,6 +14941,23 @@ DESCRIPTION:सदाऽऽत्मध्याननिरतं वि
  estival/data/lunar_month/tithi/06/30#śṛṅgerī-34-jagadguru-śrī-chan
  draśekhara-bhāratī-ārādhanā">more ...</a><br/><br/>#mahapurusha-even
  ts #sringeri-aradhana-days
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:आदित्यहस्त-पुण्यकालः
+DTSTART;VALUE=DATE:20190929
+DTEND;VALUE=DATE:20190930
+DESCRIPTION:When Hasta nakshatram falls on a Sunday\, it is a special प
+ ुण्यकालः.<br/><br/><a href="https://github.com/sanskrit-co
+ ders/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data/other
+ /rare-days/combinations#ādityahasta-puṇyakālaḥ">more ...</a><br/><br
+ />#rare-days #combinations
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -17059,6 +17263,23 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:सोमश्रावणी-पुण्यकालः
+DTSTART;VALUE=DATE:20191104
+DTEND;VALUE=DATE:20191105
+DESCRIPTION:When Shravana nakshatram falls on a Monday\, it is a special 
+ पुण्यकालः.<br/><br/><a href="https://github.com/sanskrit
+ -coders/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data/ot
+ her/rare-days/combinations#somaśrāvaṇī-puṇyakālaḥ">more ...</a><
+ br/><br/>#rare-days #combinations
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:ताम्रपर्णी-अन्त्य-पुष्क
  र-समापनम्
 DTSTART;VALUE=DATE:20191104
@@ -19038,6 +19259,23 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:सोमश्रावणी-पुण्यकालः
+DTSTART;VALUE=DATE:20191202
+DTEND;VALUE=DATE:20191203
+DESCRIPTION:When Shravana nakshatram falls on a Monday\, it is a special 
+ पुण्यकालः.<br/><br/><a href="https://github.com/sanskrit
+ -coders/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data/ot
+ her/rare-days/combinations#somaśrāvaṇī-puṇyakālaḥ">more ...</a><
+ br/><br/>#rare-days #combinations
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:सुब्रह्मण्य-षष्ठी-व्रतम
  ्
 DTSTART;VALUE=DATE:20191202
@@ -19670,6 +19908,23 @@ DESCRIPTION:Special vrata day for Ganesha. In this month\, Ganesha is wors
  /sankatahara-chaturthi-vratam-days#ākhuratha-mahāgaṇapati-saṅkaṭah
  ara-chaturthī-vratam">more ...</a><br/><br/>#monthly-vratams #sankatahara
  -chaturthi-vratam-days
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:रविपुष्ययोग-पुण्यकालः
+DTSTART;VALUE=DATE:20191215
+DTEND;VALUE=DATE:20191216
+DESCRIPTION:When Pushya nakshatram falls on a Sunday\, it is a special प
+ ुण्यकालः.<br/><br/><a href="https://github.com/sanskrit-co
+ ders/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data/other
+ /rare-days/combinations#ravipuṣyayoga-puṇyakālaḥ">more ...</a><br/>
+ <br/>#rare-days #combinations
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
