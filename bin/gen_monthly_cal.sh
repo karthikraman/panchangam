@@ -29,7 +29,6 @@ scr=${script:0:4}
 
 echo "Computing $y monthly panchangam for $city_name ($lat,$lon) - $tz in $script script... "
 echo "***"
-cd ../panchangam/
 python3 -m jyotisha.panchangam.scripts.write_monthly_panchangam_tex $city_name $lat $lon $tz $y $script > ../tex/data/cal-$y-$city_name-$scr.tex
 
 if [[ $? -eq 0 ]]
