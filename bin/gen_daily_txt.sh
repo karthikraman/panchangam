@@ -41,8 +41,7 @@ scr=${script:0:4}
 
 echo "Computing $y daily panchangam for $city_name ($lat,$lon) - $tz in $script script... "
 echo "***"
-cd ../panchangam/
-python3 -m jyotisha.panchangam.scripts.write_daily_panchangam_csv $city_name $lat $lon $tz $y $script $fmt $lagna > ../txt/daily-cal-$y-$city_name-$scr$lagnasuff.txt
+python3 -m jyotisha.panchangam.scripts.write_daily_panchangam_txt $city_name $lat $lon $tz $y $script $fmt $lagna
 # mv -f cal-*-log* debug_logs/
 
 if [[ $? -eq 0 ]]
