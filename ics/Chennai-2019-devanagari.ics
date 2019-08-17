@@ -35,7 +35,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:काञ्ची ६८ जगद्गुरु श्री 
- चन्द्रशेखरेन्द्र सरस्वती ८
+ चन्द्रशेखरेन्द्र सरस्वती ७
   आराधना #२५
 DTSTART;VALUE=DATE:20190102
 DTEND;VALUE=DATE:20190103
@@ -58,7 +58,7 @@ DESCRIPTION:Observed on Kṛṣṇa-Dvādaśī tithi of Mārgaśīrṣaḥ
  यनाम ...<br/><br/>### References<br/>* Punya Shloka Manjari<br/><b
  r/><br/>https://github.com/sanskrit-coders/adyatithi/tree/master/data/luna
  r_month/tithi/09/27#kāñchī-68-jagadguru-śrī-chandraśekharendra-saras
- vatī-8-ārādhanā<br/><br/>#KanchiAradhanaDays #CommonFestivals
+ vatī-7-ārādhanā<br/><br/>#KanchiAradhanaDays #CommonFestivals
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -177,7 +177,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:काञ्ची ३४ जगद्गुरु श्री 
- चन्द्रशेखरेन्द्र सरस्वती ३
+ चन्द्रशेखरेन्द्र सरस्वती २
   आराधना #१३०९
 DTSTART;VALUE=DATE:20190105
 DTEND;VALUE=DATE:20190106
@@ -190,7 +190,7 @@ DESCRIPTION:Observed on Amāvāsyā tithi of Mārgaśīrṣaḥ (lunar) mo
  ant and enduring preceptor Sri ...<br/><br/>### References<br/>* Punya Shl
  oka Manjari<br/><br/><br/>https://github.com/sanskrit-coders/adyatithi/tre
  e/master/data/lunar_month/tithi/09/30#kāñchī-34-jagadguru-śrī-chandra
- śekharendra-sarasvatī-3-ārādhanā<br/><br/>#KanchiAradhanaDays
+ śekharendra-sarasvatī-2-ārādhanā<br/><br/>#KanchiAradhanaDays
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -504,6 +504,25 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:कृत्तिका-व्रतम्
+DTSTART;VALUE=DATE:20190116
+DTEND;VALUE=DATE:20190117
+DESCRIPTION:Observed on Kṛttikā nakṣhatram day of every solar month (
+ sunset/puurvaviddha (default)).<br/>कृत्तिका-व्रत
+ म् for Lord Subrahmanya. Observe fast for the entire day\, and obtain 
+ blessings of all the कृत्तिका-स्त्रियः who
+  raised स्कन्द after His birth.<br/><br/>https://github.com/sa
+ nskrit-coders/adyatithi/tree/master/data/solar_month/nakshatram/00/03#kṛ
+ ttikā-vratam<br/><br/>#SpecialVratam
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:கனுப் பொங்கல்
 DTSTART;VALUE=DATE:20190116
 DTEND;VALUE=DATE:20190117
@@ -520,7 +539,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:काञ्ची ५५ जगद्गुरु श्री 
- चन्द्रचूडेन्द्र सरस्वती २ 
+ चन्द्रचूडेन्द्र सरस्वती ३ 
  आराधना #४९५
 DTSTART;VALUE=DATE:20190117
 DTEND;VALUE=DATE:20190118
@@ -533,27 +552,8 @@ DESCRIPTION:Observed on Śukla-Ekādaśī tithi of Pauṣaḥ (lunar) mont
  t disciple and guiding me through various aspects ...<br/><br/>### Referen
  ces<br/>* Punya Shloka Manjari<br/><br/><br/>https://github.com/sanskrit-c
  oders/adyatithi/tree/master/data/lunar_month/tithi/10/11#kāñchī-55-jaga
- dguru-śrī-chandrachūḍendra-sarasvatī-2-ārādhanā<br/><br/>#KanchiA
+ dguru-śrī-chandrachūḍendra-sarasvatī-3-ārādhanā<br/><br/>#KanchiA
  radhanaDays
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT4H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:कृत्तिका-व्रतम्
-DTSTART;VALUE=DATE:20190117
-DTEND;VALUE=DATE:20190118
-DESCRIPTION:Observed on Kṛttikā nakṣhatram day of every solar month (
- sangava/puurvaviddha (default)).<br/>कृत्तिका-व्रत
- म् for Lord Subrahmanya. Observe fast for the entire day\, and obtain 
- blessings of all the कृत्तिका-स्त्रियः who
-  raised स्कन्द after His birth.<br/><br/>https://github.com/sa
- nskrit-coders/adyatithi/tree/master/data/solar_month/nakshatram/00/03#kṛ
- ttikā-vratam<br/><br/>#SpecialVratam
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -916,7 +916,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:काञ्ची ६२ जगद्गुरु श्री 
- चन्द्रशेखरेन्द्र सरस्वती ५
+ चन्द्रशेखरेन्द्र सरस्वती ४
   आराधना #२३६
 DTSTART;VALUE=DATE:20190122
 DTEND;VALUE=DATE:20190123
@@ -929,7 +929,7 @@ DESCRIPTION:Observed on Kṛṣṇa-Dvitīyā tithi of Pauṣaḥ (lunar)
  Gitagovinda of Śrī Jayadeva was composed only by this ācārya. His ...<
  br/><br/>### References<br/>* Punya Shloka Manjari<br/><br/><br/>https://g
  ithub.com/sanskrit-coders/adyatithi/tree/master/data/lunar_month/tithi/10/
- 17#kāñchī-62-jagadguru-śrī-chandraśekharendra-sarasvatī-5-ārādhan
+ 17#kāñchī-62-jagadguru-śrī-chandraśekharendra-sarasvatī-4-ārādhan
  ā<br/><br/>#KanchiAradhanaDays
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -963,12 +963,12 @@ DESCRIPTION:Special vrata day for Ganesha. In this month\, Ganesha is wors
  hipped as लम्बोदर-महागणपतिः. Fast during t
  he day and pray to Ganesha after moonrise\, as follows:<br/><br/>गणा
  धिपस्त्वं देवेश चतुर्थ्यां
-  पूजितो मया।<br/>कष्टान् मां म
- ोचयेशान सर्वमिष्टं च देहि म
- े॥<br/><br/><br/><br/>https://github.com/sanskrit-coders/adyatithi/tre
- e/master/data/other/monthly-vratam/sankatahara-chaturthi-vratam#lambodara-
- mahāgaṇapati-saṅkaṭahara-chaturthī-vratam<br/><br/>#MonthlyVratam 
- #SankataharaChaturthiVratam
+  पूजितो मया।<br/>कष्टान्मां मो
+ चयेशान सर्वमिष्टं च देहि मे
+ ॥<br/><br/><br/><br/>https://github.com/sanskrit-coders/adyatithi/tree/m
+ aster/data/other/monthly-vratam/sankatahara-chaturthi-vratam#lambodara-mah
+ āgaṇapati-saṅkaṭahara-chaturthī-vratam<br/><br/>#MonthlyVratam #Sa
+ nkataharaChaturthiVratam
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -1268,22 +1268,6 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:दर्भ-सङ्ग्रहः
-DTSTART;VALUE=DATE:20190204
-DTEND;VALUE=DATE:20190205
-DESCRIPTION:Observed on Amāvāsyā tithi of Makaraḥ (solar) month (madh
- yaahna/puurvaviddha).<br/><br/>### References<br/>* Vaidikasri Feb 2010<br
- /><br/><br/>https://github.com/sanskrit-coders/adyatithi/tree/master/data/
- solar_month/tithi/10/30#darbha-saṅgrahaḥ<br/><br/>#SpecialDays
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT4H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:महोदय-पुण्यकालः
 DTSTART;VALUE=DATE:20190204
 DTEND;VALUE=DATE:20190205
@@ -1300,35 +1284,13 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:मौनि (पौष/मकर) अमावस्या
+SUMMARY:मौनि (पौष/मकर) अमावस्या (अ
+ लभ्यम्–पुष्कला)
 DTSTART;VALUE=DATE:20190204
 DTEND;VALUE=DATE:20190205
 DESCRIPTION:https://github.com/sanskrit-coders/adyatithi/tree/master/data/
  other/amavasya-days#mauni-(pauṣa/makara)-amāvasyā<br/><br/>#AmavasyaDa
  ys
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT4H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:पुष्कला अमावस्या (अलभ्यम
- ्)
-DTSTART;VALUE=DATE:20190204
-DTEND;VALUE=DATE:20190205
-DESCRIPTION:If\, अमावस्या occurs on a Monday\, Tuesday or 
- Thursday\, the combination gives the tithi the name पुष्कला 
- and is equal to a solar eclipse.<br/><br/>अमा सोमेन भौ
- मेन गुरुणा वा युता यदि।<br/>सा 
- तिथिः पुष्कला नाम सूर्यग्र
- हणसन्निभा॥<br/><br/><br/><br/>### References<br/>* Smr
- ti Mukthaphalam Shraddha Kandam Uttara Bhaga<br/><br/><br/>https://github.
- com/sanskrit-coders/adyatithi/tree/master/data/other/rare-days/combination
- s/amavasya-days#puṣkalā-amāvasyā-(alabhyam)<br/><br/>#RareDays #Combi
- nations #AmavasyaDays
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -1864,7 +1826,7 @@ SUMMARY:कृत्तिका-व्रतम्
 DTSTART;VALUE=DATE:20190213
 DTEND;VALUE=DATE:20190214
 DESCRIPTION:Observed on Kṛttikā nakṣhatram day of every solar month (
- sangava/puurvaviddha (default)).<br/>कृत्तिका-व्रत
+ sunset/puurvaviddha (default)).<br/>कृत्तिका-व्रत
  म् for Lord Subrahmanya. Observe fast for the entire day\, and obtain 
  blessings of all the कृत्तिका-स्त्रियः who
   raised स्कन्द after His birth.<br/><br/>https://github.com/sa
@@ -2255,9 +2217,9 @@ SUMMARY:நடராஜர் மஹாபிஷேகம்
 DTSTART;VALUE=DATE:20190218
 DTEND;VALUE=DATE:20190219
 DESCRIPTION:Observed on Śukla-Caturdaśī tithi of Kumbhaḥ (solar) mont
- h (sunrise (default)/puurvaviddha (default)).<br/><br/><br/>https://github
- .com/sanskrit-coders/adyatithi/tree/master/data/solar_month/tithi/11/14#na
- ṭarājar-mahābhiṣekam<br/><br/>#TamilnaduTempleFestivals
+ h (sunset/puurvaviddha).<br/><br/><br/>https://github.com/sanskrit-coders/
+ adyatithi/tree/master/data/solar_month/tithi/11/14#naṭarājar-mahābhi
+ ṣekam<br/><br/>#TamilnaduTempleFestivals
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -2322,12 +2284,12 @@ DTEND;VALUE=DATE:20190220
 DESCRIPTION:Observed on Paurṇamāsī tithi of Māghaḥ (lunar) month (a
  runodaya/paraviddha).<br/>Perform snana four ghatikas before sunrise (duri
  ng अरुणोदयम्\, when the Moon is still up\, on the full-m
- oon days of आषाढ\, कार्तिक\, माघ and वैश
- ाख – hence the name आ-का-मा-वै) bestows strength\, bea
- uty\, fame\, dharma\, knowledge\, happiness\, fortitude and health.<br/>##
- # References<br/>* Satyavrata Smriti<br/><br/><br/>https://github.com/sans
- krit-coders/adyatithi/tree/master/data/lunar_month/tithi/11/15#māgha-pūr
- ṇimā-snānam<br/><br/>#SpecialSnanam
+ oon days of आषाढ\, कार्त्तिक\, माघ and व
+ ैशाख – hence the name आ-का-मा-वै) bestows strength
+ \, beauty\, fame\, dharma\, knowledge\, happiness\, fortitude and health.<
+ br/>### References<br/>* Satyavrata Smriti<br/><br/><br/>https://github.co
+ m/sanskrit-coders/adyatithi/tree/master/data/lunar_month/tithi/11/15#māgh
+ a-pūrṇimā-snānam<br/><br/>#SpecialSnanam
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -2456,7 +2418,7 @@ DESCRIPTION:Special vrata day for Ganesha. In this month\, Ganesha is wors
  hipped as द्विजप्रिय-महागणपतिः. Fast
   during the day and pray to Ganesha after moonrise\, as follows:<br/><br/>
  गणाधिपस्त्वं देवेश चतुर्थ्
- यां पूजितो मया।<br/>कष्टान् मा
+ यां पूजितो मया।<br/>कष्टान्मा
  ं मोचयेशान सर्वमिष्टं च देह
  ि मे॥<br/><br/><br/><br/>https://github.com/sanskrit-coders/adyati
  thi/tree/master/data/other/monthly-vratam/sankatahara-chaturthi-vratam#dvi
@@ -2539,7 +2501,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:काञ्ची ६६ जगद्गुरु श्री 
- चन्द्रशेखरेन्द्र सरस्वती ७
+ चन्द्रशेखरेन्द्र सरस्वती ६
   आराधना #११२
 DTSTART;VALUE=DATE:20190226
 DTEND;VALUE=DATE:20190227
@@ -2552,7 +2514,7 @@ DESCRIPTION:Observed on Kṛṣṇa-Aṣṭamī tithi of Māghaḥ (lunar)
  of siddhi was village Kalavai in Śalivahana era ...<br/><br/>### Referenc
  es<br/>* Punya Shloka Manjari<br/><br/><br/>https://github.com/sanskrit-co
  ders/adyatithi/tree/master/data/lunar_month/tithi/11/23#kāñchī-66-jagad
- guru-śrī-chandraśekharendra-sarasvatī-7-ārādhanā<br/><br/>#KanchiAr
+ guru-śrī-chandraśekharendra-sarasvatī-6-ārādhanā<br/><br/>#KanchiAr
  adhanaDays #CommonFestivals
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -2981,7 +2943,7 @@ SUMMARY:कृत्तिका-व्रतम्
 DTSTART;VALUE=DATE:20190312
 DTEND;VALUE=DATE:20190313
 DESCRIPTION:Observed on Kṛttikā nakṣhatram day of every solar month (
- sangava/puurvaviddha (default)).<br/>कृत्तिका-व्रत
+ sunset/puurvaviddha (default)).<br/>कृत्तिका-व्रत
  म् for Lord Subrahmanya. Observe fast for the entire day\, and obtain 
  blessings of all the कृत्तिका-स्त्रियः who
   raised स्कन्द after His birth.<br/><br/>https://github.com/sa
@@ -3644,8 +3606,8 @@ DESCRIPTION:Special vrata day for Ganesha. In this month\, Ganesha is wors
  hipped as भालचन्द्र-महागणपतिः. Fast du
  ring the day and pray to Ganesha after moonrise\, as follows:<br/><br/>ग
  णाधिपस्त्वं देवेश चतुर्थ्य
- ां पूजितो मया।<br/>कष्टान् मां
-  मोचयेशान सर्वमिष्टं च देहि 
+ ां पूजितो मया।<br/>कष्टान्मां 
+ मोचयेशान सर्वमिष्टं च देहि 
  मे॥<br/><br/><br/><br/>https://github.com/sanskrit-coders/adyatithi/
  tree/master/data/other/monthly-vratam/sankatahara-chaturthi-vratam#bhālac
  handra-mahāgaṇapati-saṅkaṭahara-chaturthī-vratam<br/><br/>#Monthly
@@ -3768,8 +3730,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:गुरु-सङ्क्रान्तिः (वृश्च
  िकः▶धनुः)
-DTSTART;VALUE=DATE:20190330
-DTEND;VALUE=DATE:20190331
+DTSTART;VALUE=DATE:20190329
+DTEND;VALUE=DATE:20190330
 DESCRIPTION:https://github.com/sanskrit-coders/adyatithi/tree/master/data/
  other/sankranti#guru-saṅkrāntiḥ<br/><br/>#Sankranti
 TRANSP:TRANSPARENT
@@ -3781,7 +3743,7 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:सर्व-पापमोचनी-एकादशी
+SUMMARY:स्मार्त-पापमोचनी-एकादशी
 DTSTART;VALUE=DATE:20190331
 DTEND;VALUE=DATE:20190401
 DESCRIPTION:The Krishna-paksha Ekadashi of फाल्गुन month is 
@@ -3804,6 +3766,23 @@ DTEND;VALUE=DATE:20190401
 DESCRIPTION:https://github.com/sanskrit-coders/adyatithi/tree/master/data/
  relative_event/ta:kar2pagAmbAL–kapAlIzvarar tirukkalyANam/offset__11#kap
  ālī-viḍaiyār̂r̂i-nir̂aivu<br/><br/>#TamilnaduTempleFestivals
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:वैष्णव-पापमोचनी-एकादशी
+DTSTART;VALUE=DATE:20190401
+DTEND;VALUE=DATE:20190402
+DESCRIPTION:The Krishna-paksha Ekadashi of फाल्गुन month is 
+ known as पापमोचनी-एकादशी.<br/><br/>https://git
+ hub.com/sanskrit-coders/adyatithi/tree/master/data/other/monthly-vratam/ek
+ adashi-vratam#pāpamochanī-ekādaśī<br/><br/>#MonthlyVratam #EkadashiVr
+ atam
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -3868,29 +3847,6 @@ DESCRIPTION:Observed on Kṛṣṇa-Caturdaśī tithi of every lunar month
   (nishita/paraviddha).<br/>Monthly Shivaratri day.<br/><br/>https://github
  .com/sanskrit-coders/adyatithi/tree/master/data/lunar_month/tithi/00/29#m
  āsaśivarātriḥ<br/><br/>#MonthlyFestivals
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT4H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:पुष्कला अमावस्या (अलभ्यम
- ्)
-DTSTART;VALUE=DATE:20190404
-DTEND;VALUE=DATE:20190405
-DESCRIPTION:If\, अमावस्या occurs on a Monday\, Tuesday or 
- Thursday\, the combination gives the tithi the name पुष्कला 
- and is equal to a solar eclipse.<br/><br/>अमा सोमेन भौ
- मेन गुरुणा वा युता यदि।<br/>सा 
- तिथिः पुष्कला नाम सूर्यग्र
- हणसन्निभा॥<br/><br/><br/><br/>### References<br/>* Smr
- ti Mukthaphalam Shraddha Kandam Uttara Bhaga<br/><br/><br/>https://github.
- com/sanskrit-coders/adyatithi/tree/master/data/other/rare-days/combination
- s/amavasya-days#puṣkalā-amāvasyā-(alabhyam)<br/><br/>#RareDays #Combi
- nations #AmavasyaDays
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -4203,7 +4159,7 @@ SUMMARY:कृत्तिका-व्रतम्
 DTSTART;VALUE=DATE:20190408
 DTEND;VALUE=DATE:20190409
 DESCRIPTION:Observed on Kṛttikā nakṣhatram day of every solar month (
- sangava/puurvaviddha (default)).<br/>कृत्तिका-व्रत
+ sunset/puurvaviddha (default)).<br/>कृत्तिका-व्रत
  म् for Lord Subrahmanya. Observe fast for the entire day\, and obtain 
  blessings of all the कृत्तिका-स्त्रियः who
   raised स्कन्द after His birth.<br/><br/>https://github.com/sa
@@ -5176,7 +5132,7 @@ DESCRIPTION:Special vrata day for Ganesha. In this month\, Ganesha is wors
  hipped as विकट-महागणपतिः. Fast during the day an
  d pray to Ganesha after moonrise\, as follows:<br/><br/>गणाधिप
  स्त्वं देवेश चतुर्थ्यां पू
- जितो मया।<br/>कष्टान् मां मोचय
+ जितो मया।<br/>कष्टान्मां मोचय
  ेशान सर्वमिष्टं च देहि मे॥<br/
  ><br/><br/><br/>https://github.com/sanskrit-coders/adyatithi/tree/master/d
  ata/other/monthly-vratam/sankatahara-chaturthi-vratam#vikaṭa-mahāgaṇa
@@ -5483,7 +5439,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:काञ्ची ४७ जगद्गुरु श्री 
- चन्द्रशेखरेन्द्र सरस्वती ४
+ चन्द्रशेखरेन्द्र सरस्वती ३
   आराधना #८५४
 DTSTART;VALUE=DATE:20190504
 DTEND;VALUE=DATE:20190505
@@ -5496,7 +5452,7 @@ DESCRIPTION:Observed on Amāvāsyā tithi of Caitraḥ (lunar) month (apar
   on earth by remaining in Kāṅci Maṭha. This preceptor ...<br/><br/>##
  # References<br/>* Punya Shloka Manjari<br/><br/><br/>https://github.com/s
  anskrit-coders/adyatithi/tree/master/data/lunar_month/tithi/01/30#kāñch
- ī-47-jagadguru-śrī-chandraśekharendra-sarasvatī-4-ārādhanā<br/><br
+ ī-47-jagadguru-śrī-chandraśekharendra-sarasvatī-3-ārādhanā<br/><br
  />#KanchiAradhanaDays
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -5529,6 +5485,25 @@ DTEND;VALUE=DATE:20190506
 DESCRIPTION:https://github.com/sanskrit-coders/adyatithi/tree/master/data/
  other/special-period-start#agninakṣatra-ārambhaḥ<br/><br/>#SpecialPer
  iodStart
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:कृत्तिका-व्रतम्
+DTSTART;VALUE=DATE:20190505
+DTEND;VALUE=DATE:20190506
+DESCRIPTION:Observed on Kṛttikā nakṣhatram day of every solar month (
+ sunset/puurvaviddha (default)).<br/>कृत्तिका-व्रत
+ म् for Lord Subrahmanya. Observe fast for the entire day\, and obtain 
+ blessings of all the कृत्तिका-स्त्रियः who
+  raised स्कन्द after His birth.<br/><br/>https://github.com/sa
+ nskrit-coders/adyatithi/tree/master/data/solar_month/nakshatram/00/03#kṛ
+ ttikā-vratam<br/><br/>#SpecialVratam
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -5610,25 +5585,6 @@ DESCRIPTION:Have darshan of Moon today\, chanting the following shloka<br/
  िदधातु देवः॥<br/><br/><br/><br/>https://github.com/s
  anskrit-coders/adyatithi/tree/master/data/other/chandra-darshanam#chandra-
  darśanam<br/><br/>#ChandraDarshanam
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT4H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:कृत्तिका-व्रतम्
-DTSTART;VALUE=DATE:20190506
-DTEND;VALUE=DATE:20190507
-DESCRIPTION:Observed on Kṛttikā nakṣhatram day of every solar month (
- sangava/puurvaviddha (default)).<br/>कृत्तिका-व्रत
- म् for Lord Subrahmanya. Observe fast for the entire day\, and obtain 
- blessings of all the कृत्तिका-स्त्रियः who
-  raised स्कन्द after His birth.<br/><br/>https://github.com/sa
- nskrit-coders/adyatithi/tree/master/data/solar_month/nakshatram/00/03#kṛ
- ttikā-vratam<br/><br/>#SpecialVratam
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -6622,16 +6578,16 @@ DTEND;VALUE=DATE:20190519
 DESCRIPTION:Observed on Paurṇamāsī tithi of Vaiśākhaḥ (lunar) mont
  h (arunodaya/paraviddha).<br/>Perform snana four ghatikas before sunrise (
  during अरुणोदयम्\, when the Moon is still up\, on the fu
- ll-moon days of आषाढ\, कार्तिक\, माघ and व
- ैशाख – hence the name आ-का-मा-वै) bestows strength
- \, beauty\, fame\, dharma\, knowledge\, happiness\, fortitude and health.<
- br/><br/>बलं रूपं यशो धर्मं ज्ञान
- मायुः सुखं धृतिम्।<br/>आरोग्य
- ं परमाप्नोति सम्यक् स्नाने
- न मानवः॥<br/><br/><br/>### References<br/>* Satyavrata Smrit
- i<br/><br/><br/>https://github.com/sanskrit-coders/adyatithi/tree/master/d
- ata/lunar_month/tithi/02/15#vaiśākha-pūrṇimā-snānam<br/><br/>#Speci
- alSnanam
+ ll-moon days of आषाढ\, कार्त्तिक\, माघ and
+  वैशाख – hence the name आ-का-मा-वै) bestows stre
+ ngth\, beauty\, fame\, dharma\, knowledge\, happiness\, fortitude and heal
+ th.<br/><br/>बलं रूपं यशो धर्मं ज्ञा
+ नमायुः सुखं धृतिम्।<br/>आरोग्
+ यं परमाप्नोति सम्यक् स्नान
+ ेन मानवः॥<br/><br/><br/>### References<br/>* Satyavrata Sm
+ riti<br/><br/><br/>https://github.com/sanskrit-coders/adyatithi/tree/maste
+ r/data/lunar_month/tithi/02/15#vaiśākha-pūrṇimā-snānam<br/><br/>#Sp
+ ecialSnanam
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -6658,14 +6614,14 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:काञ्ची जगद्गुरु श्री चन्
- द्रशेखरेन्द्र सरस्वती ८ जय
+ द्रशेखरेन्द्र सरस्वती ७ जय
  न्ती #१२६
 DTSTART;VALUE=DATE:20190519
 DTEND;VALUE=DATE:20190520
 DESCRIPTION:Observed on Anūrādhā nakṣhatram day of Vṛṣabhaḥ (so
  lar) month (praatah/paraviddha).<br/><br/><br/>https://github.com/sanskrit
  -coders/adyatithi/tree/master/data/solar_month/nakshatram/02/17#kāñchī-
- jagadguru-śrī-chandraśekharendra-sarasvatī-8-jayantī<br/><br/>#Mahapu
+ jagadguru-śrī-chandraśekharendra-sarasvatī-7-jayantī<br/><br/>#Mahapu
  rushaEvents #CommonFestivals
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -6793,7 +6749,7 @@ DESCRIPTION:Special vrata day for Ganesha. In this month\, Ganesha is wors
  hipped as एकदन्त-महागणपतिः. Fast during the 
  day and pray to Ganesha after moonrise\, as follows:<br/><br/>गणाध
  िपस्त्वं देवेश चतुर्थ्यां 
- पूजितो मया।<br/>कष्टान् मां मो
+ पूजितो मया।<br/>कष्टान्मां मो
  चयेशान सर्वमिष्टं च देहि मे
  ॥<br/><br/><br/><br/>https://github.com/sanskrit-coders/adyatithi/tree/m
  aster/data/other/monthly-vratam/sankatahara-chaturthi-vratam#ekadanta-mah
@@ -7120,35 +7076,12 @@ SUMMARY:कृत्तिका-व्रतम्
 DTSTART;VALUE=DATE:20190602
 DTEND;VALUE=DATE:20190603
 DESCRIPTION:Observed on Kṛttikā nakṣhatram day of every solar month (
- sangava/puurvaviddha (default)).<br/>कृत्तिका-व्रत
+ sunset/puurvaviddha (default)).<br/>कृत्तिका-व्रत
  म् for Lord Subrahmanya. Observe fast for the entire day\, and obtain 
  blessings of all the कृत्तिका-स्त्रियः who
   raised स्कन्द after His birth.<br/><br/>https://github.com/sa
  nskrit-coders/adyatithi/tree/master/data/solar_month/nakshatram/00/03#kṛ
  ttikā-vratam<br/><br/>#SpecialVratam
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT4H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:पुष्कला अमावस्या (अलभ्यम
- ्)
-DTSTART;VALUE=DATE:20190603
-DTEND;VALUE=DATE:20190604
-DESCRIPTION:If\, अमावस्या occurs on a Monday\, Tuesday or 
- Thursday\, the combination gives the tithi the name पुष्कला 
- and is equal to a solar eclipse.<br/><br/>अमा सोमेन भौ
- मेन गुरुणा वा युता यदि।<br/>सा 
- तिथिः पुष्कला नाम सूर्यग्र
- हणसन्निभा॥<br/><br/><br/><br/>### References<br/>* Smr
- ti Mukthaphalam Shraddha Kandam Uttara Bhaga<br/><br/><br/>https://github.
- com/sanskrit-coders/adyatithi/tree/master/data/other/rare-days/combination
- s/amavasya-days#puṣkalā-amāvasyā-(alabhyam)<br/><br/>#RareDays #Combi
- nations #AmavasyaDays
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -7186,7 +7119,8 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:वैशाख-अमावस्या
+SUMMARY:वैशाख-अमावस्या (अलभ्यम्–
+ पुष्कला)
 DTSTART;VALUE=DATE:20190603
 DTEND;VALUE=DATE:20190604
 DESCRIPTION:https://github.com/sanskrit-coders/adyatithi/tree/master/data/
@@ -7518,7 +7452,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:काञ्ची ५० जगद्गुरु श्री 
- चन्द्रचूडेन्द्र सरस्वती १ 
+ चन्द्रचूडेन्द्र सरस्वती २ 
  आराधना #७२३
 DTSTART;VALUE=DATE:20190608
 DTEND;VALUE=DATE:20190609
@@ -7531,7 +7465,7 @@ DESCRIPTION:Observed on Śukla-Ṣaṣṭhī tithi of Jyaiṣṭhaḥ (lun
  eva and Śrī Jāhnavītirthas performed innumerable yāgas and attained .
  ..<br/><br/>### References<br/>* Punya Shloka Manjari<br/><br/><br/>https:
  //github.com/sanskrit-coders/adyatithi/tree/master/data/lunar_month/tithi/
- 03/06#kāñchī-50-jagadguru-śrī-chandrachūḍendra-sarasvatī-1-ārād
+ 03/06#kāñchī-50-jagadguru-śrī-chandrachūḍendra-sarasvatī-2-ārād
  hanā<br/><br/>#KanchiAradhanaDays
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -8439,7 +8373,7 @@ DESCRIPTION:Special vrata day for Ganesha. In this month\, Ganesha is wors
  hipped as कृष्णपिङ्गल-महागणपतिः. F
  ast during the day and pray to Ganesha after moonrise\, as follows:<br/><b
  r/>गणाधिपस्त्वं देवेश चतुर्थ
- ्यां पूजितो मया।<br/>कष्टान् म
+ ्यां पूजितो मया।<br/>कष्टान्म
  ां मोचयेशान सर्वमिष्टं च दे
  हि मे॥<br/><br/><br/><br/>https://github.com/sanskrit-coders/ady
  atithi/tree/master/data/other/monthly-vratam/sankatahara-chaturthi-vratam#
@@ -8606,7 +8540,7 @@ SUMMARY:कृत्तिका-व्रतम्
 DTSTART;VALUE=DATE:20190629
 DTEND;VALUE=DATE:20190630
 DESCRIPTION:Observed on Kṛttikā nakṣhatram day of every solar month (
- sangava/puurvaviddha (default)).<br/>कृत्तिका-व्रत
+ sunset/puurvaviddha (default)).<br/>कृत्तिका-व्रत
  म् for Lord Subrahmanya. Observe fast for the entire day\, and obtain 
  blessings of all the कृत्तिका-स्त्रियः who
   raised स्कन्द after His birth.<br/><br/>https://github.com/sa
@@ -8700,13 +8634,13 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:भोगशायी-पूजा
+SUMMARY:भोगशायि-पूजा
 DTSTART;VALUE=DATE:20190702
 DTEND;VALUE=DATE:20190703
 DESCRIPTION:Observed on Amāvāsyā tithi of Jyaiṣṭhaḥ (lunar) month
   (sunrise (default)/puurvaviddha (default)).<br/><br/><br/>https://github.
  com/sanskrit-coders/adyatithi/tree/master/data/lunar_month/tithi/03/30#bho
- gaśāyī-pūjā<br/><br/>#SpecialPuja
+ gaśāyi-pūjā<br/><br/>#SpecialPuja
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -8732,34 +8666,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ज्यैष्ठ-अमावस्या (अलभ्यम
- ्–आर्द्रा)
+ ्–आर्द्रा\, पुष्कला)
 DTSTART;VALUE=DATE:20190702
 DTEND;VALUE=DATE:20190703
 DESCRIPTION:https://github.com/sanskrit-coders/adyatithi/tree/master/data/
  other/amavasya-days#jyaiṣṭha-amāvasyā<br/><br/>#AmavasyaDays
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT4H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:पुष्कला अमावस्या (अलभ्यम
- ्)
-DTSTART;VALUE=DATE:20190702
-DTEND;VALUE=DATE:20190703
-DESCRIPTION:If\, अमावस्या occurs on a Monday\, Tuesday or 
- Thursday\, the combination gives the tithi the name पुष्कला 
- and is equal to a solar eclipse.<br/><br/>अमा सोमेन भौ
- मेन गुरुणा वा युता यदि।<br/>सा 
- तिथिः पुष्कला नाम सूर्यग्र
- हणसन्निभा॥<br/><br/><br/><br/>### References<br/>* Smr
- ti Mukthaphalam Shraddha Kandam Uttara Bhaga<br/><br/><br/>https://github.
- com/sanskrit-coders/adyatithi/tree/master/data/other/rare-days/combination
- s/amavasya-days#puṣkalā-amāvasyā-(alabhyam)<br/><br/>#RareDays #Combi
- nations #AmavasyaDays
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -9601,12 +9512,12 @@ DTEND;VALUE=DATE:20190717
 DESCRIPTION:Observed on Paurṇamāsī tithi of Āṣāḍhaḥ (lunar) mo
  nth (arunodaya/paraviddha).<br/>Perform snana four ghatikas before sunrise
   (during अरुणोदयम्\, when the Moon is still up\, on the 
- full-moon days of आषाढ\, कार्तिक\, माघ and व
- ैशाख – hence the name आ-का-मा-वै) bestows strength
- \, beauty\, fame\, dharma\, knowledge\, happiness\, fortitude and health.<
- br/>### References<br/>* Satyavrata Smriti<br/><br/><br/>https://github.co
- m/sanskrit-coders/adyatithi/tree/master/data/lunar_month/tithi/04/15#āṣ
- āḍha-pūrṇimā-snānam<br/><br/>#SpecialSnanam
+ full-moon days of आषाढ\, कार्त्तिक\, माघ a
+ nd वैशाख – hence the name आ-का-मा-वै) bestows st
+ rength\, beauty\, fame\, dharma\, knowledge\, happiness\, fortitude and he
+ alth.<br/>### References<br/>* Satyavrata Smriti<br/><br/><br/>https://git
+ hub.com/sanskrit-coders/adyatithi/tree/master/data/lunar_month/tithi/04/15
+ #āṣāḍha-pūrṇimā-snānam<br/><br/>#SpecialSnanam
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -9947,7 +9858,7 @@ DESCRIPTION:Special vrata day for Ganesha. In this month\, Ganesha is wors
  hipped as गजानन-महागणपतिः. Fast during the day
   and pray to Ganesha after moonrise\, as follows:<br/><br/>गणाधि
  पस्त्वं देवेश चतुर्थ्यां प
- ूजितो मया।<br/>कष्टान् मां मोच
+ ूजितो मया।<br/>कष्टान्मां मोच
  येशान सर्वमिष्टं च देहि मे॥<
  br/><br/><br/><br/>https://github.com/sanskrit-coders/adyatithi/tree/maste
  r/data/other/monthly-vratam/sankatahara-chaturthi-vratam#gajānana-mahāga
@@ -9999,7 +9910,7 @@ SUMMARY:कृत्तिका-व्रतम्
 DTSTART;VALUE=DATE:20190727
 DTEND;VALUE=DATE:20190728
 DESCRIPTION:Observed on Kṛttikā nakṣhatram day of every solar month (
- sangava/puurvaviddha (default)).<br/>कृत्तिका-व्रत
+ sunset/puurvaviddha (default)).<br/>कृत्तिका-व्रत
  म् for Lord Subrahmanya. Observe fast for the entire day\, and obtain 
  blessings of all the कृत्तिका-स्त्रियः who
   raised स्कन्द after His birth.<br/><br/>https://github.com/sa
@@ -10294,29 +10205,6 @@ DESCRIPTION:Observed on Amāvāsyā tithi of Āṣāḍhaḥ (lunar) month
   Skanda Puranam<br/><br/><br/>https://github.com/sanskrit-coders/adyatithi
  /tree/master/data/lunar_month/tithi/04/30#pati-sañjīvanī-vratam<br/><br
  />#SpecialVratam
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT4H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:पुष्कला अमावस्या (अलभ्यम
- ्)
-DTSTART;VALUE=DATE:20190801
-DTEND;VALUE=DATE:20190802
-DESCRIPTION:If\, अमावस्या occurs on a Monday\, Tuesday or 
- Thursday\, the combination gives the tithi the name पुष्कला 
- and is equal to a solar eclipse.<br/><br/>अमा सोमेन भौ
- मेन गुरुणा वा युता यदि।<br/>सा 
- तिथिः पुष्कला नाम सूर्यग्र
- हणसन्निभा॥<br/><br/><br/><br/>### References<br/>* Smr
- ti Mukthaphalam Shraddha Kandam Uttara Bhaga<br/><br/><br/>https://github.
- com/sanskrit-coders/adyatithi/tree/master/data/other/rare-days/combination
- s/amavasya-days#puṣkalā-amāvasyā-(alabhyam)<br/><br/>#RareDays #Combi
- nations #AmavasyaDays
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -11101,22 +10989,6 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ऋग्वेद-उपाकर्म
-DTSTART;VALUE=DATE:20190814
-DTEND;VALUE=DATE:20190815
-DESCRIPTION:Observed on Śravaṇam nakṣhatram day of Śrāvaṇaḥ (lu
- nar) month (sunrise (default)/puurvaviddha (default)).<br/><br/><br/>https
- ://github.com/sanskrit-coders/adyatithi/tree/master/data/lunar_month/naksh
- atram/05/22#ṛgveda-upākarma<br/><br/>#CommonFestivals
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT4H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:वेङ्कटाचले पूर्णिमा गरु
  ड-सेवा
 DTSTART;VALUE=DATE:20190814
@@ -11128,6 +11000,22 @@ DESCRIPTION:Observed on Paurṇamāsī tithi of every lunar month (moonris
  r/>https://github.com/sanskrit-coders/adyatithi/tree/master/data/lunar_mon
  th/tithi/00/15#veṅkaṭāchale-pūrṇimā-garuḍa-sevā<br/><br/>#Andh
  raTempleFestivals
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ऋग्वेद-उपाकर्म
+DTSTART;VALUE=DATE:20190815
+DTEND;VALUE=DATE:20190816
+DESCRIPTION:Observed on Śravaṇam nakṣhatram day of Śrāvaṇaḥ (lu
+ nar) month (sunrise (default)/paraviddha).<br/><br/><br/>https://github.co
+ m/sanskrit-coders/adyatithi/tree/master/data/lunar_month/nakshatram/05/22#
+ ṛgveda-upākarma<br/><br/>#CommonFestivals
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -11233,13 +11121,14 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:राखी-पूर्णिमा
+SUMMARY:राक्षाबन्धन-पूर्णिमा
 DTSTART;VALUE=DATE:20190815
 DTEND;VALUE=DATE:20190816
 DESCRIPTION:Observed on Paurṇamāsī tithi of Śrāvaṇaḥ (lunar) mon
  th (sunrise (default)/puurvaviddha (default)).<br/>Rakshabandhanam<br/><br
  />https://github.com/sanskrit-coders/adyatithi/tree/master/data/lunar_mont
- h/tithi/05/15#rākhī-pūrṇimā<br/><br/>#PurnimaDays #CommonFestivals
+ h/tithi/05/15#rākṣābandhana-pūrṇimā<br/><br/>#PurnimaDays #CommonF
+ estivals
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -11437,13 +11326,13 @@ SUMMARY:श्री राघवेन्द्र स्वामी आ
 DTSTART;VALUE=DATE:20190817
 DTEND;VALUE=DATE:20190818
 DESCRIPTION:Observed on Kṛṣṇa-Dvitīyā tithi of Śrāvaṇaḥ (lun
- ar) month (sunrise (default)/puurvaviddha (default)).<br/><br/><br/>पु
+ ar) month (sunrise (default)/puurvaviddha (default)).<br/><br/><br/>पू
  ज्याय राघवेन्द्राय सत्यधर्
- मरताय च।<br/>भजतां कलवृक्षाय न
- मतां कामधेनवे॥<br/><br/><br/><br/>https://github
- .com/sanskrit-coders/adyatithi/tree/master/data/lunar_month/tithi/05/17#ś
- rī-rāghavendra-svāmī-ārādhanā<br/><br/>#MahapurushaEvents #CommonFe
- stivals
+ मरताय च।<br/>भजतां कल्पवृक्षा
+ य नमतां कामधेनवे॥<br/><br/><br/><br/>https:/
+ /github.com/sanskrit-coders/adyatithi/tree/master/data/lunar_month/tithi/0
+ 5/17#śrī-rāghavendra-svāmī-ārādhanā<br/><br/>#MahapurushaEvents #C
+ ommonFestivals
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -11525,7 +11414,7 @@ DESCRIPTION:Special vrata day for Ganesha. In this month\, Ganesha is wors
  hipped as हेरम्ब-महागणपतिः. Fast during the 
  day and pray to Ganesha after moonrise\, as follows:<br/><br/>गणाध
  िपस्त्वं देवेश चतुर्थ्यां 
- पूजितो मया।<br/>कष्टान् मां मो
+ पूजितो मया।<br/>कष्टान्मां मो
  चयेशान सर्वमिष्टं च देहि मे
  ॥<br/><br/><br/><br/>https://github.com/sanskrit-coders/adyatithi/tree/m
  aster/data/other/monthly-vratam/sankatahara-chaturthi-vratam#heramba-mahā
@@ -11575,8 +11464,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:काञ्ची २१ जगद्गुरु श्री 
- चन्द्रशेखरेन्द्र सरस्वती २
-  आराधना #१५७३
+ सार्वभौमगुरुः चन्द्रचूडेन
+ ्द्र सरस्वती आराधना #१५७३
 DTSTART;VALUE=DATE:20190823
 DTEND;VALUE=DATE:20190824
 DESCRIPTION:Observed on Kṛṣṇa-Aṣṭamī tithi of Śrāvaṇaḥ (l
@@ -11588,8 +11477,8 @@ DESCRIPTION:Observed on Kṛṣṇa-Aṣṭamī tithi of Śrāvaṇaḥ (l
  ot initiated into asceticism with the name Sārvabhauma ...<br/><br/>### R
  eferences<br/>* Punya Shloka Manjari<br/><br/><br/>https://github.com/sans
  krit-coders/adyatithi/tree/master/data/lunar_month/tithi/05/23#kāñchī-2
- 1-jagadguru-śrī-chandraśekharendra-sarasvatī-2-ārādhanā<br/><br/>#K
- anchiAradhanaDays
+ 1-jagadguru-śrī-sārvabhaumaguruḥ-chandrachūḍendra-sarasvatī-ārā
+ dhanā<br/><br/>#KanchiAradhanaDays
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -11603,7 +11492,7 @@ SUMMARY:कृत्तिका-व्रतम्
 DTSTART;VALUE=DATE:20190823
 DTEND;VALUE=DATE:20190824
 DESCRIPTION:Observed on Kṛttikā nakṣhatram day of every solar month (
- sangava/puurvaviddha (default)).<br/>कृत्तिका-व्रत
+ sunset/puurvaviddha (default)).<br/>कृत्तिका-व्रत
  म् for Lord Subrahmanya. Observe fast for the entire day\, and obtain 
  blessings of all the कृत्तिका-स्त्रियः who
   raised स्कन्द after His birth.<br/><br/>https://github.com/sa
@@ -11854,7 +11743,7 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:सर्व-अजा-एकादशी
+SUMMARY:स्मार्त-अजा-एकादशी
 DTSTART;VALUE=DATE:20190826
 DTEND;VALUE=DATE:20190827
 DESCRIPTION:The Krishna-paksha Ekadashi of श्रवण month is known 
@@ -11930,6 +11819,23 @@ DESCRIPTION:https://github.com/sanskrit-coders/adyatithi/tree/master/data/
  relative_event/ta:tiruccendUr AvaNit tiruvizhA nir2aivu/offset__-8#tiruchc
  hêndūr-murugan-āvaṇit-tiruviḷā-4m-nāḻ—yānai-vāhanattil-muru
  gan-ambāḻ-bhavani<br/><br/>#TamilnaduTempleFestivals
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:वैष्णव-अजा-एकादशी
+DTSTART;VALUE=DATE:20190827
+DTEND;VALUE=DATE:20190828
+DESCRIPTION:The Krishna-paksha Ekadashi of श्रवण month is known 
+ as अजा-एकादशी. Satya Harishchandra performed this to get
+  back family and kingdom.<br/><br/>https://github.com/sanskrit-coders/adya
+ tithi/tree/master/data/other/monthly-vratam/ekadashi-vratam#ajā-ekādaś
+ ī<br/><br/>#MonthlyVratam #EkadashiVratam
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -12548,9 +12454,9 @@ SUMMARY:अमुक्ताभरण-सप्तमी
 DTSTART;VALUE=DATE:20190905
 DTEND;VALUE=DATE:20190906
 DESCRIPTION:Observed on Śukla-Saptamī tithi of Bhādrapadaḥ (lunar) mo
- nth (sunrise (default)/puurvaviddha (default)).<br/><br/><br/>https://gith
- ub.com/sanskrit-coders/adyatithi/tree/master/data/lunar_month/tithi/06/07#
- amuktābharaṇa-saptamī<br/><br/>#LessCommonFestivals
+ nth (madhyaahna/paraviddha).<br/><br/><br/>https://github.com/sanskrit-cod
+ ers/adyatithi/tree/master/data/lunar_month/tithi/06/07#amuktābharaṇa-sa
+ ptamī<br/><br/>#LessCommonFestivals
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -13143,9 +13049,9 @@ SUMMARY:நடராஜர் மஹாபிஷேகம்
 DTSTART;VALUE=DATE:20190912
 DTEND;VALUE=DATE:20190913
 DESCRIPTION:Observed on Śukla-Caturdaśī tithi of Siṃhaḥ (solar) mon
- th (sunrise (default)/puurvaviddha (default)).<br/><br/><br/>https://githu
- b.com/sanskrit-coders/adyatithi/tree/master/data/solar_month/tithi/05/14#n
- aṭarājar-mahābhiṣekam<br/><br/>#TamilnaduTempleFestivals
+ th (sunset/puurvaviddha).<br/><br/><br/>https://github.com/sanskrit-coders
+ /adyatithi/tree/master/data/solar_month/tithi/05/14#naṭarājar-mahābhi
+ ṣekam<br/><br/>#TamilnaduTempleFestivals
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -13253,9 +13159,10 @@ SUMMARY:उमा-महेश्वर-व्रतम्
 DTSTART;VALUE=DATE:20190914
 DTEND;VALUE=DATE:20190915
 DESCRIPTION:Observed on Paurṇamāsī tithi of Bhādrapadaḥ (lunar) mon
- th (sunrise/puurvaviddha).<br/><br/><br/>https://github.com/sanskrit-coder
- s/adyatithi/tree/master/data/lunar_month/tithi/06/15#umā-maheśvara-vrata
- m<br/><br/>#SpecialVratam #CommonFestivals
+ th (sunrise/puurvaviddha).<br/><br/>### References<br/>* VrataNirnayaKalpa
+ valli<br/><br/><br/>https://github.com/sanskrit-coders/adyatithi/tree/mast
+ er/data/lunar_month/tithi/06/15#umā-maheśvara-vratam<br/><br/>#SpecialVr
+ atam #CommonFestivals
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -13536,7 +13443,7 @@ SUMMARY:कृत्तिका-व्रतम्
 DTSTART;VALUE=DATE:20190919
 DTEND;VALUE=DATE:20190920
 DESCRIPTION:Observed on Kṛttikā nakṣhatram day of every solar month (
- sangava/puurvaviddha (default)).<br/>कृत्तिका-व्रत
+ sunset/puurvaviddha (default)).<br/>कृत्तिका-व्रत
  म् for Lord Subrahmanya. Observe fast for the entire day\, and obtain 
  blessings of all the कृत्तिका-स्त्रियः who
   raised स्कन्द after His birth.<br/><br/>https://github.com/sa
@@ -14049,7 +13956,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:गजच्छाया-योगः
-DTSTART;TZID=Asia/Calcutta;VALUE=DATE-TIME:20190928T220200
+DTSTART;TZID=Asia/Calcutta;VALUE=DATE-TIME:20190928T220000
 DTEND;TZID=Asia/Calcutta;VALUE=DATE-TIME:20190928T235600
 DESCRIPTION:A very special yOga\, for doing Pitru Shraddha during Mahalaya
   Paksham. A man that performs a sraddha in the conjunction called Gajaccha
@@ -14973,9 +14880,9 @@ SUMMARY:நடராஜர் மஹாபிஷேகம்
 DTSTART;VALUE=DATE:20191012
 DTEND;VALUE=DATE:20191013
 DESCRIPTION:Observed on Śukla-Caturdaśī tithi of Kanyā (solar) month (
- sunrise (default)/puurvaviddha (default)).<br/><br/><br/>https://github.co
- m/sanskrit-coders/adyatithi/tree/master/data/solar_month/tithi/06/14#naṭ
- arājar-mahābhiṣekam<br/><br/>#TamilnaduTempleFestivals
+ sunset/puurvaviddha).<br/><br/><br/>https://github.com/sanskrit-coders/ady
+ atithi/tree/master/data/solar_month/tithi/06/14#naṭarājar-mahābhiṣek
+ am<br/><br/>#TamilnaduTempleFestivals
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -15305,6 +15212,25 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:कृत्तिका-व्रतम्
+DTSTART;VALUE=DATE:20191016
+DTEND;VALUE=DATE:20191017
+DESCRIPTION:Observed on Kṛttikā nakṣhatram day of every solar month (
+ sunset/puurvaviddha (default)).<br/>कृत्तिका-व्रत
+ म् for Lord Subrahmanya. Observe fast for the entire day\, and obtain 
+ blessings of all the कृत्तिका-स्त्रियः who
+  raised स्कन्द after His birth.<br/><br/>https://github.com/sa
+ nskrit-coders/adyatithi/tree/master/data/solar_month/nakshatram/00/03#kṛ
+ ttikā-vratam<br/><br/>#SpecialVratam
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:कनक-गणेश-व्रतम्
 DTSTART;VALUE=DATE:20191016
 DTEND;VALUE=DATE:20191017
@@ -15328,25 +15254,6 @@ DESCRIPTION:Observed on Kṛṣṇa-Tṛtīyā tithi of Āśvayujaḥ (lun
  ar) month (sunrise (default)/puurvaviddha (default)).<br/><br/><br/>https:
  //github.com/sanskrit-coders/adyatithi/tree/master/data/lunar_month/tithi/
  07/18#lalitā-gaurī-vratam<br/><br/>#SpecialVratam
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT4H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:कृत्तिका-व्रतम्
-DTSTART;VALUE=DATE:20191017
-DTEND;VALUE=DATE:20191018
-DESCRIPTION:Observed on Kṛttikā nakṣhatram day of every solar month (
- sangava/puurvaviddha (default)).<br/>कृत्तिका-व्रत
- म् for Lord Subrahmanya. Observe fast for the entire day\, and obtain 
- blessings of all the कृत्तिका-स्त्रियः who
-  raised स्कन्द after His birth.<br/><br/>https://github.com/sa
- nskrit-coders/adyatithi/tree/master/data/solar_month/nakshatram/00/03#kṛ
- ttikā-vratam<br/><br/>#SpecialVratam
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -15394,8 +15301,8 @@ DESCRIPTION:Special vrata day for Ganesha. In this month\, Ganesha is wors
  hipped as वक्रतुण्ड-महागणपतिः. Fast du
  ring the day and pray to Ganesha after moonrise\, as follows:<br/><br/>ग
  णाधिपस्त्वं देवेश चतुर्थ्य
- ां पूजितो मया।<br/>कष्टान् मां
-  मोचयेशान सर्वमिष्टं च देहि 
+ ां पूजितो मया।<br/>कष्टान्मां 
+ मोचयेशान सर्वमिष्टं च देहि 
  मे॥<br/><br/><br/><br/>https://github.com/sanskrit-coders/adyatithi/
  tree/master/data/other/monthly-vratam/sankatahara-chaturthi-vratam#vakratu
  ṇḍa-mahāgaṇapati-saṅkaṭahara-chaturthī-vratam<br/><br/>#Monthl
@@ -16068,11 +15975,11 @@ BEGIN:VEVENT
 SUMMARY:गोवर्धन-पूजा
 DTSTART;VALUE=DATE:20191028
 DTEND;VALUE=DATE:20191029
-DESCRIPTION:Observed on Śukla-Prathamā tithi of Kārtikaḥ (lunar) mont
- h (madhyaahna/puurvaviddha).<br/>Commemoration of Govardhana Leela of Kris
- hna. Offer naivedyam to Lord Krishna.<br/><br/>https://github.com/sanskrit
- -coders/adyatithi/tree/master/data/lunar_month/tithi/08/01#govardhana-pūj
- ā<br/><br/>#PuranaEvents #CommonFestivals
+DESCRIPTION:Observed on Śukla-Prathamā tithi of Kārttikaḥ (lunar) mon
+ th (madhyaahna/puurvaviddha).<br/>Commemoration of Govardhana Leela of Kri
+ shna. Offer naivedyam to Lord Krishna.<br/><br/>https://github.com/sanskri
+ t-coders/adyatithi/tree/master/data/lunar_month/tithi/08/01#govardhana-pū
+ jā<br/><br/>#PuranaEvents #CommonFestivals
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -16106,29 +16013,6 @@ DESCRIPTION:Observed on Amāvāsyā tithi of Āśvayujaḥ (lunar) month (
  he Dasha Maha Vidyas.<br/><br/>https://github.com/sanskrit-coders/adyatith
  i/tree/master/data/lunar_month/tithi/07/30#kamalā-jayantī<br/><br/>#Dash
  amahavidya
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT4H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:पुष्कला अमावस्या (अलभ्यम
- ्)
-DTSTART;VALUE=DATE:20191028
-DTEND;VALUE=DATE:20191029
-DESCRIPTION:If\, अमावस्या occurs on a Monday\, Tuesday or 
- Thursday\, the combination gives the tithi the name पुष्कला 
- and is equal to a solar eclipse.<br/><br/>अमा सोमेन भौ
- मेन गुरुणा वा युता यदि।<br/>सा 
- तिथिः पुष्कला नाम सूर्यग्र
- हणसन्निभा॥<br/><br/><br/><br/>### References<br/>* Smr
- ti Mukthaphalam Shraddha Kandam Uttara Bhaga<br/><br/><br/>https://github.
- com/sanskrit-coders/adyatithi/tree/master/data/other/rare-days/combination
- s/amavasya-days#puṣkalā-amāvasyā-(alabhyam)<br/><br/>#RareDays #Combi
- nations #AmavasyaDays
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -16222,10 +16106,10 @@ BEGIN:VEVENT
 SUMMARY:यम/भ्रातृ-द्वितीया
 DTSTART;VALUE=DATE:20191029
 DTEND;VALUE=DATE:20191030
-DESCRIPTION:Observed on Śukla-Dvitīyā tithi of Kārtikaḥ (lunar) mont
- h (madhyaahna/puurvaviddha).<br/><br/><br/>https://github.com/sanskrit-cod
- ers/adyatithi/tree/master/data/lunar_month/tithi/08/02#yama/bhrātṛ-dvit
- īyā<br/><br/>#CommonFestivals
+DESCRIPTION:Observed on Śukla-Dvitīyā tithi of Kārttikaḥ (lunar) mon
+ th (madhyaahna/puurvaviddha).<br/><br/><br/>https://github.com/sanskrit-co
+ ders/adyatithi/tree/master/data/lunar_month/tithi/08/02#yama/bhrātṛ-dvi
+ tīyā<br/><br/>#CommonFestivals
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -16273,11 +16157,11 @@ BEGIN:VEVENT
 SUMMARY:देवसेना पञ्चमी
 DTSTART;VALUE=DATE:20191101
 DTEND;VALUE=DATE:20191102
-DESCRIPTION:Observed on Śukla-Pañcamī tithi of Kārtikaḥ (lunar) mont
- h (madhyaahna/puurvaviddha).<br/><br/>### References<br/>* https://twitter
- .com/blog_supplement/status/923044462229671936<br/><br/><br/>https://githu
- b.com/sanskrit-coders/adyatithi/tree/master/data/lunar_month/tithi/08/05#d
- evasenā-pañchamī<br/><br/>#LessCommonFestivals
+DESCRIPTION:Observed on Śukla-Pañcamī tithi of Kārttikaḥ (lunar) mon
+ th (madhyaahna/puurvaviddha).<br/><br/>### References<br/>* https://twitte
+ r.com/blog_supplement/status/923044462229671936<br/><br/><br/>https://gith
+ ub.com/sanskrit-coders/adyatithi/tree/master/data/lunar_month/tithi/08/05#
+ devasenā-pañchamī<br/><br/>#LessCommonFestivals
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -16290,10 +16174,10 @@ BEGIN:VEVENT
 SUMMARY:पाण्डव (लाभ)-पञ्चमी
 DTSTART;VALUE=DATE:20191101
 DTEND;VALUE=DATE:20191102
-DESCRIPTION:Observed on Śukla-Pañcamī tithi of Kārtikaḥ (lunar) mont
- h (madhyaahna/puurvaviddha).<br/><br/><br/>https://github.com/sanskrit-cod
- ers/adyatithi/tree/master/data/lunar_month/tithi/08/05#pāṇḍava-lābha
- -pañchamī<br/><br/>#LessCommonFestivals
+DESCRIPTION:Observed on Śukla-Pañcamī tithi of Kārttikaḥ (lunar) mon
+ th (madhyaahna/puurvaviddha).<br/><br/><br/>https://github.com/sanskrit-co
+ ders/adyatithi/tree/master/data/lunar_month/tithi/08/05#pāṇḍava-lābh
+ a-pañchamī<br/><br/>#LessCommonFestivals
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -16306,11 +16190,11 @@ BEGIN:VEVENT
 SUMMARY:सर्प-पूजा
 DTSTART;VALUE=DATE:20191101
 DTEND;VALUE=DATE:20191102
-DESCRIPTION:Observed on Śukla-Pañcamī tithi of Kārtikaḥ (lunar) mont
- h (sunrise (default)/puurvaviddha (default)).<br/>Vishnu's boon to AdiSesh
- a that humans will worship on this day<br/><br/>https://github.com/sanskri
- t-coders/adyatithi/tree/master/data/lunar_month/tithi/08/05#sarpa-pūjā<b
- r/><br/>#SpecialPuja #PuranaEvents
+DESCRIPTION:Observed on Śukla-Pañcamī tithi of Kārttikaḥ (lunar) mon
+ th (sunrise (default)/puurvaviddha (default)).<br/>Vishnu's boon to AdiSes
+ ha that humans will worship on this day<br/><br/>https://github.com/sanskr
+ it-coders/adyatithi/tree/master/data/lunar_month/tithi/08/05#sarpa-pūjā<
+ br/><br/>#SpecialPuja #PuranaEvents
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -16366,10 +16250,10 @@ BEGIN:VEVENT
 SUMMARY:कल्पादि
 DTSTART;VALUE=DATE:20191103
 DTEND;VALUE=DATE:20191104
-DESCRIPTION:Observed on Śukla-Saptamī tithi of Kārtikaḥ (lunar) month
-  (aparaahna/puurvaviddha).<br/>Kalpadi<br/><br/>https://github.com/sanskri
- t-coders/adyatithi/tree/master/data/lunar_month/tithi/08/07#kalpādi<br/><
- br/>#KalpadiDays
+DESCRIPTION:Observed on Śukla-Saptamī tithi of Kārttikaḥ (lunar) mont
+ h (aparaahna/puurvaviddha).<br/>Kalpadi<br/><br/>https://github.com/sanskr
+ it-coders/adyatithi/tree/master/data/lunar_month/tithi/08/07#kalpādi<br/>
+ <br/>#KalpadiDays
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -16404,16 +16288,16 @@ BEGIN:VEVENT
 SUMMARY:गोपाष्टमी
 DTSTART;VALUE=DATE:20191104
 DTEND;VALUE=DATE:20191105
-DESCRIPTION:Observed on Śukla-Aṣṭamī tithi of Kārtikaḥ (lunar) mo
- nth (madhyaahna/puurvaviddha).<br/>Perform पूजा of cow with calf\,
-  and offer அகத்திகீரை and grass/water\, and perform 16
-  प्रदक्षिणम्.<br/><br/>कार्तिके  य
- ाऽष्टमी  शुक्ला  ज्ञेया  गोप
- ाष्टमी  बुधै।<br/>तत्र  कुर्या
- द्गवां  पूजां  गोग्रासं  गोप
- ्रदक्षिणम्॥<br/><br/><br/><br/>https://github.com/sa
- nskrit-coders/adyatithi/tree/master/data/lunar_month/tithi/08/08#gopāṣ
- ṭamī<br/><br/>#LessCommonFestivals
+DESCRIPTION:Observed on Śukla-Aṣṭamī tithi of Kārttikaḥ (lunar) m
+ onth (madhyaahna/puurvaviddha).<br/>Perform पूजा of cow with calf\
+ , and offer அகத்திகீரை and grass/water\, and perform 1
+ 6 प्रदक्षिणम्.<br/><br/>कार्त्तिक
+ े  याऽष्टमी  शुक्ला  ज्ञेया  ग
+ ोपाष्टमी  बुधैः।<br/>तत्र  कुर
+ ्याद्गवां  पूजां  गोग्रासं  
+ गोप्रदक्षिणम्॥<br/><br/><br/><br/>https://gith
+ ub.com/sanskrit-coders/adyatithi/tree/master/data/lunar_month/tithi/08/08#
+ gopāṣṭamī<br/><br/>#LessCommonFestivals
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -16427,12 +16311,12 @@ SUMMARY:कार्तवीर्यार्जुन जयन्त
  ी
 DTSTART;VALUE=DATE:20191104
 DTEND;VALUE=DATE:20191105
-DESCRIPTION:Observed on Śukla-Aṣṭamī tithi of Kārtikaḥ (lunar) mo
- nth (sunrise (default)/puurvaviddha (default)).<br/><br/>### References<br
- />* http://hindupad.com/karthaveerya-arjuna-jayanthi-2011-karthaveerya-uth
- patthi/<br/><br/><br/>https://github.com/sanskrit-coders/adyatithi/tree/ma
- ster/data/lunar_month/tithi/08/08#kārtavīryārjuna-jayantī<br/><br/>#Ot
- herJayantis
+DESCRIPTION:Observed on Śukla-Aṣṭamī tithi of Kārttikaḥ (lunar) m
+ onth (sunrise (default)/puurvaviddha (default)).<br/><br/>### References<b
+ r/>* http://hindupad.com/karthaveerya-arjuna-jayanthi-2011-karthaveerya-ut
+ hpatthi/<br/><br/><br/>https://github.com/sanskrit-coders/adyatithi/tree/m
+ aster/data/lunar_month/tithi/08/08#kārtavīryārjuna-jayantī<br/><br/>#O
+ therJayantis
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -16542,9 +16426,9 @@ BEGIN:VEVENT
 SUMMARY:अक्षया नवमी
 DTSTART;VALUE=DATE:20191105
 DTEND;VALUE=DATE:20191106
-DESCRIPTION:Observed on Śukla-Navamī tithi of Kārtikaḥ (lunar) month 
- (sunrise (default)/puurvaviddha (default)).<br/><br/><br/>https://github.c
- om/sanskrit-coders/adyatithi/tree/master/data/lunar_month/tithi/08/09#ak
+DESCRIPTION:Observed on Śukla-Navamī tithi of Kārttikaḥ (lunar) month
+  (sunrise (default)/puurvaviddha (default)).<br/><br/><br/>https://github.
+ com/sanskrit-coders/adyatithi/tree/master/data/lunar_month/tithi/08/09#ak
  ṣayā-navamī<br/><br/>#LessCommonFestivals
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -16573,10 +16457,10 @@ BEGIN:VEVENT
 SUMMARY:जगद्धात्री-पूजा
 DTSTART;VALUE=DATE:20191105
 DTEND;VALUE=DATE:20191106
-DESCRIPTION:Observed on Śukla-Navamī tithi of Kārtikaḥ (lunar) month 
- (sunrise (default)/puurvaviddha (default)).<br/><br/><br/>https://github.c
- om/sanskrit-coders/adyatithi/tree/master/data/lunar_month/tithi/08/09#jaga
- ddhātrī-pūjā<br/><br/>#BengalFestivals
+DESCRIPTION:Observed on Śukla-Navamī tithi of Kārttikaḥ (lunar) month
+  (sunrise (default)/puurvaviddha (default)).<br/><br/><br/>https://github.
+ com/sanskrit-coders/adyatithi/tree/master/data/lunar_month/tithi/08/09#jag
+ addhātrī-pūjā<br/><br/>#BengalFestivals
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -16591,20 +16475,20 @@ SUMMARY:काञ्ची २२ जगद्गुरु श्री
  आराधना #१५३९
 DTSTART;VALUE=DATE:20191105
 DTEND;VALUE=DATE:20191106
-DESCRIPTION:Observed on Śukla-Navamī tithi of Kārtikaḥ (lunar) month 
- (aparaahna/paraviddha).<br/>Son of Rameśa Makhin\, Madhura\, a physician 
- adept in the incatations of Grāvābhilāpaka\, Paripūrṇabodha\, the pr
- eceptor of Śrī Śārada Maṭha attained the beatitude on the night of b
- right fortnight of the month Kartika in the year Raudri.<br/><br/>पु
- त्रो रमेशमखिनो मधुरोऽगदङ्क
- ृद्<br/>ग्रावाभिलापक इति प्रथ
- ितश्च मन्त्रे।<br/>श्रीशारदा
- मठगुरुः परिपूर्णबोधो<br/>रौद
- ्र्यूर्जशुक्लनवमीम् अनु सि
- द्धिम् ...<br/><br/>### References<br/>* Punya Shloka Manjari<
- br/><br/><br/>https://github.com/sanskrit-coders/adyatithi/tree/master/dat
- a/lunar_month/tithi/08/09#kāñchī-22-jagadguru-śrī-paripūrṇabodhend
- ra-sarasvatī-ārādhanā<br/><br/>#KanchiAradhanaDays
+DESCRIPTION:Observed on Śukla-Navamī tithi of Kārttikaḥ (lunar) month
+  (aparaahna/paraviddha).<br/>Son of Rameśa Makhin\, Madhura\, a physician
+  adept in the incatations of Grāvābhilāpaka\, Paripūrṇabodha\, the p
+ receptor of Śrī Śārada Maṭha attained the beatitude on the night of 
+ bright fortnight of the month Kārttika in the year Raudri.<br/><br/>प
+ ुत्रो रमेशमखिनो मधुरोऽगदङ्
+ कृद्<br/>ग्रावाभिलापक इति प्र
+ थितश्च मन्त्रे।<br/>श्रीशारद
+ ामठगुरुः परिपूर्णबोधो<br/>रौ
+ द्र्यूर्जशुक्लनवमीम् अनु ...
+ <br/><br/>### References<br/>* Punya Shloka Manjari<br/><br/><br/>https://
+ github.com/sanskrit-coders/adyatithi/tree/master/data/lunar_month/tithi/08
+ /09#kāñchī-22-jagadguru-śrī-paripūrṇabodhendra-sarasvatī-ārādha
+ nā<br/><br/>#KanchiAradhanaDays
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -16617,11 +16501,11 @@ BEGIN:VEVENT
 SUMMARY:मन्वादि (स्वायम्भुवः [१])
 DTSTART;VALUE=DATE:20191105
 DTEND;VALUE=DATE:20191106
-DESCRIPTION:Observed on Śukla-Navamī tithi of Kārtikaḥ (lunar) month 
- (aparaahna/paraviddha).<br/><br/>### References<br/>* Vaidyanātha-Dīkṣ
- itīyam<br/><br/><br/>https://github.com/sanskrit-coders/adyatithi/tree/ma
- ster/data/lunar_month/tithi/08/09#manvādi-svāyambhuvaḥ-[1]<br/><br/>#M
- anvadiDays
+DESCRIPTION:Observed on Śukla-Navamī tithi of Kārttikaḥ (lunar) month
+  (aparaahna/paraviddha).<br/><br/>### References<br/>* Vaidyanātha-Dīk
+ ṣitīyam<br/><br/><br/>https://github.com/sanskrit-coders/adyatithi/tree
+ /master/data/lunar_month/tithi/08/09#manvādi-svāyambhuvaḥ-[1]<br/><br/
+ >#ManvadiDays
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -16674,11 +16558,12 @@ BEGIN:VEVENT
 SUMMARY:कंस-वधः
 DTSTART;VALUE=DATE:20191107
 DTEND;VALUE=DATE:20191108
-DESCRIPTION:Observed on Śukla-Daśamī tithi of Kārtikaḥ (lunar) month
-  (sunrise (default)/puurvaviddha (default)).<br/>Lord Krishna killed Kamsa
-  on this day\; most popularly celebrated in Mathura and Uttar Pradesh.<br/
- ><br/>https://github.com/sanskrit-coders/adyatithi/tree/master/data/lunar_
- month/tithi/08/10#kaṃsa-vadhaḥ<br/><br/>#PuranaEvents #CommonFestivals
+DESCRIPTION:Observed on Śukla-Daśamī tithi of Kārttikaḥ (lunar) mont
+ h (sunrise (default)/puurvaviddha (default)).<br/>Lord Krishna killed Kams
+ a on this day\; most popularly celebrated in Mathura and Uttar Pradesh.<br
+ /><br/>https://github.com/sanskrit-coders/adyatithi/tree/master/data/lunar
+ _month/tithi/08/10#kaṃsa-vadhaḥ<br/><br/>#PuranaEvents #CommonFestival
+ s
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -16709,12 +16594,12 @@ SUMMARY:आदि-शङ्कर मानसिक-सन्न्या
  स-दिनम्
 DTSTART;VALUE=DATE:20191108
 DTEND;VALUE=DATE:20191109
-DESCRIPTION:Observed on Śukla-Ekādaśī tithi of Kārtikaḥ (lunar) mon
- th (sunrise (default)/puurvaviddha (default)).<br/>In Plava Nama year Adi 
- Shankara obtained permission from mother and took manasika sanyasam<br/><b
- r/>https://github.com/sanskrit-coders/adyatithi/tree/master/data/lunar_mon
- th/tithi/08/11#ādi-śaṅkara-mānasika-sannyāsa-dinam<br/><br/>#AdiShan
- karaHistory
+DESCRIPTION:Observed on Śukla-Ekādaśī tithi of Kārttikaḥ (lunar) mo
+ nth (sunrise (default)/puurvaviddha (default)).<br/>In Plava Nama year Adi
+  Shankara obtained permission from mother and took manasika sanyasam<br/><
+ br/>https://github.com/sanskrit-coders/adyatithi/tree/master/data/lunar_mo
+ nth/tithi/08/11#ādi-śaṅkara-mānasika-sannyāsa-dinam<br/><br/>#AdiSha
+ nkaraHistory
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -16727,8 +16612,8 @@ BEGIN:VEVENT
 SUMMARY:भीष्म-पञ्चक-व्रत-आरम्भः
 DTSTART;VALUE=DATE:20191108
 DTEND;VALUE=DATE:20191109
-DESCRIPTION:Observed on Śukla-Ekādaśī tithi of Kārtikaḥ (lunar) mon
- th (sunrise (default)/puurvaviddha (default)).<br/>Bhishma\, lying on श
+DESCRIPTION:Observed on Śukla-Ekādaśī tithi of Kārttikaḥ (lunar) mo
+ nth (sunrise (default)/puurvaviddha (default)).<br/>Bhishma\, lying on श
  रतल्प performed upadesha to Yudhisthira and other Pandavas for t
  hese five days.<br/><br/>https://github.com/sanskrit-coders/adyatithi/tree
  /master/data/lunar_month/tithi/08/11#bhīṣma-pañchaka-vrata-ārambhaḥ
@@ -16745,10 +16630,10 @@ BEGIN:VEVENT
 SUMMARY:सर्व-उत्थान-एकादशी
 DTSTART;VALUE=DATE:20191108
 DTEND;VALUE=DATE:20191109
-DESCRIPTION:The Shukla-paksha Ekadashi of कार्तिक month is k
- nown as उत्थान-एकादशी.<br/><br/>https://github.com
- /sanskrit-coders/adyatithi/tree/master/data/other/monthly-vratam/ekadashi-
- vratam#utthāna-ekādaśī<br/><br/>#MonthlyVratam #EkadashiVratam
+DESCRIPTION:The Shukla-paksha Ekadashi of कार्त्तिक mont
+ h is known as उत्थान-एकादशी.<br/><br/>https://gith
+ ub.com/sanskrit-coders/adyatithi/tree/master/data/other/monthly-vratam/eka
+ dashi-vratam#utthāna-ekādaśī<br/><br/>#MonthlyVratam #EkadashiVratam
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -16761,10 +16646,10 @@ BEGIN:VEVENT
 SUMMARY:तुलसी-विवाहः
 DTSTART;VALUE=DATE:20191108
 DTEND;VALUE=DATE:20191109
-DESCRIPTION:Observed on Śukla-Dvādaśī tithi of Kārtikaḥ (lunar) mon
- th (madhyaahna/puurvaviddha).<br/><br/><br/>https://github.com/sanskrit-co
- ders/adyatithi/tree/master/data/lunar_month/tithi/08/12#tulasī-vivāhaḥ
- <br/><br/>#CommonFestivals
+DESCRIPTION:Observed on Śukla-Dvādaśī tithi of Kārttikaḥ (lunar) mo
+ nth (madhyaahna/puurvaviddha).<br/><br/><br/>https://github.com/sanskrit-c
+ oders/adyatithi/tree/master/data/lunar_month/tithi/08/12#tulasī-vivāha
+ ḥ<br/><br/>#CommonFestivals
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -16777,10 +16662,10 @@ BEGIN:VEVENT
 SUMMARY:बृन्दावन-द्वादशी
 DTSTART;VALUE=DATE:20191109
 DTEND;VALUE=DATE:20191110
-DESCRIPTION:Observed on Śukla-Dvādaśī tithi of Kārtikaḥ (lunar) mon
- th (sunrise (default)/puurvaviddha (default)).<br/><br/><br/>https://githu
- b.com/sanskrit-coders/adyatithi/tree/master/data/lunar_month/tithi/08/12#b
- ṛndāvana-dvādaśī<br/><br/>#CommonFestivals
+DESCRIPTION:Observed on Śukla-Dvādaśī tithi of Kārttikaḥ (lunar) mo
+ nth (sunrise (default)/puurvaviddha (default)).<br/><br/><br/>https://gith
+ ub.com/sanskrit-coders/adyatithi/tree/master/data/lunar_month/tithi/08/12#
+ bṛndāvana-dvādaśī<br/><br/>#CommonFestivals
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -16793,8 +16678,8 @@ BEGIN:VEVENT
 SUMMARY:द्विदल-व्रत-समापनम्
 DTSTART;VALUE=DATE:20191109
 DTEND;VALUE=DATE:20191110
-DESCRIPTION:Observed on Śukla-Dvādaśī tithi of Kārtikaḥ (lunar) mon
- th (sunrise (default)/puurvaviddha (default)).<br/><br/><br/>अनिर
+DESCRIPTION:Observed on Śukla-Dvādaśī tithi of Kārttikaḥ (lunar) mo
+ nth (sunrise (default)/puurvaviddha (default)).<br/><br/><br/>अनिर
  ुद्ध नमस्तुभ्यं द्विदलाख्य
  व्रतेन च।<br/>मत्कृतेनाश्विन
  े मासे प्रीत्यर्थं फलदो भव॥<
@@ -16816,8 +16701,8 @@ BEGIN:VEVENT
 SUMMARY:द्विदल-व्रतम्
 DTSTART;VALUE=DATE:20191010
 DTEND;VALUE=DATE:20191110
-DESCRIPTION:Observed on Śukla-Dvādaśī tithi of Kārtikaḥ (lunar) mon
- th (sunrise (default)/puurvaviddha (default)).<br/><br/><br/>अनिर
+DESCRIPTION:Observed on Śukla-Dvādaśī tithi of Kārttikaḥ (lunar) mo
+ nth (sunrise (default)/puurvaviddha (default)).<br/><br/><br/>अनिर
  ुद्ध नमस्तुभ्यं द्विदलाख्य
  व्रतेन च।<br/>मत्कृतेनाश्विन
  े मासे प्रीत्यर्थं फलदो भव॥<
@@ -16839,11 +16724,11 @@ BEGIN:VEVENT
 SUMMARY:गोपद्म-व्रत-समापनम्
 DTSTART;VALUE=DATE:20191109
 DTEND;VALUE=DATE:20191110
-DESCRIPTION:Observed on Śukla-Dvādaśī tithi of Kārtikaḥ (lunar) mon
- th (sunrise (default)/puurvaviddha (default)).<br/><br/>### References<br/
- >* https://madhwafestivals.wordpress.com/2016/09/28/go-padma-vrata/<br/><b
- r/><br/>https://github.com/sanskrit-coders/adyatithi/tree/master/data/luna
- r_month/tithi/08/12#gopadma-vrata-samāpanam<br/><br/>#SpecialVratam
+DESCRIPTION:Observed on Śukla-Dvādaśī tithi of Kārttikaḥ (lunar) mo
+ nth (sunrise (default)/puurvaviddha (default)).<br/><br/>### References<br
+ />* https://madhwafestivals.wordpress.com/2016/09/28/go-padma-vrata/<br/><
+ br/><br/>https://github.com/sanskrit-coders/adyatithi/tree/master/data/lun
+ ar_month/tithi/08/12#gopadma-vrata-samāpanam<br/><br/>#SpecialVratam
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -16856,11 +16741,11 @@ BEGIN:VEVENT
 SUMMARY:गोपद्म-व्रतम्
 DTSTART;VALUE=DATE:20190712
 DTEND;VALUE=DATE:20191110
-DESCRIPTION:Observed on Śukla-Dvādaśī tithi of Kārtikaḥ (lunar) mon
- th (sunrise (default)/puurvaviddha (default)).<br/><br/>### References<br/
- >* https://madhwafestivals.wordpress.com/2016/09/28/go-padma-vrata/<br/><b
- r/><br/>https://github.com/sanskrit-coders/adyatithi/tree/master/data/luna
- r_month/tithi/08/12#gopadma-vrata-samāpanam<br/><br/>#SpecialVratam
+DESCRIPTION:Observed on Śukla-Dvādaśī tithi of Kārttikaḥ (lunar) mo
+ nth (sunrise (default)/puurvaviddha (default)).<br/><br/>### References<br
+ />* https://madhwafestivals.wordpress.com/2016/09/28/go-padma-vrata/<br/><
+ br/><br/>https://github.com/sanskrit-coders/adyatithi/tree/master/data/lun
+ ar_month/tithi/08/12#gopadma-vrata-samāpanam<br/><br/>#SpecialVratam
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -16873,10 +16758,10 @@ BEGIN:VEVENT
 SUMMARY:प्रबोधोत्सवः
 DTSTART;VALUE=DATE:20191109
 DTEND;VALUE=DATE:20191110
-DESCRIPTION:Observed on Śukla-Dvādaśī tithi of Kārtikaḥ (lunar) mon
- th (sunrise (default)/puurvaviddha (default)).<br/><br/><br/>https://githu
- b.com/sanskrit-coders/adyatithi/tree/master/data/lunar_month/tithi/08/12#p
- rabodhotsavaḥ<br/><br/>#CommonFestivals
+DESCRIPTION:Observed on Śukla-Dvādaśī tithi of Kārttikaḥ (lunar) mo
+ nth (sunrise (default)/puurvaviddha (default)).<br/><br/><br/>https://gith
+ ub.com/sanskrit-coders/adyatithi/tree/master/data/lunar_month/tithi/08/12#
+ prabodhotsavaḥ<br/><br/>#CommonFestivals
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -16889,20 +16774,21 @@ BEGIN:VEVENT
 SUMMARY:याज्ञवल्क्य जयन्ती
 DTSTART;VALUE=DATE:20191109
 DTEND;VALUE=DATE:20191110
-DESCRIPTION:Observed on Śukla-Dvādaśī tithi of Kārtikaḥ (lunar) mon
- th (sunrise (default)/puurvaviddha (default)).<br/>Avataram of Yajnavalkya
-  Maharshi happened in kArtika shulka dwadashi in Shatabhishak Nakshatram/D
- hanurlagnam.<br/><br/>वन्देऽहं  मङ्गळात्
- मानं  भास्वन्तं  वेदविग्रहम
- ्।<br/>याज्ञवल्क्यं  मुनिश्रे
- ष्ठं  जीष्णुं  हरिहरप्रभम्॥<
- br/>जितेन्द्रियं  जितक्रोधं  स
- दा  ध्यानपरायणम्।<br/>आनन्दनि
- लयं  वन्दे  योगानन्दमुनीश्व
- रम्॥<br/><br/><br/><br/>### References<br/>* Vaidikasri Nov 2017<b
- r/><br/><br/>https://github.com/sanskrit-coders/adyatithi/tree/master/data
- /lunar_month/tithi/08/12#yājñavalkya-jayantī<br/><br/>#MahapurushaEvent
- s
+DESCRIPTION:Observed on Śukla-Dvādaśī tithi of Kārttikaḥ (lunar) mo
+ nth (sunrise (default)/puurvaviddha (default)).<br/>Avataram of याज
+ ्ञवल्क्य महर्षि happened on कार्त्
+ तिक स्हुक्ल द्wआदशी in षतभिषक
+ ् नक्षत्रम्/धनुर्लग्नम्.<br/><br
+ />वन्देऽहं  मङ्गळात्मानं  भा
+ स्वन्तं  वेदविग्रहम्।<br/>याज
+ ्ञवल्क्यं  मुनिश्रेष्ठं  जी
+ ष्णुं  हरिहरप्रभम्॥<br/>जितेन
+ ्द्रियं  जितक्रोधं  सदा  ध्य
+ ानपरायणम्।<br/>आनन्दनिलयं  वन
+ ्दे  योगानन्दमुनीश्वरम्॥<br/><
+ br/><br/><br/>### References<br/>* Vaidikasri Nov 2017<br/><br/><br/>https
+ ://github.com/sanskrit-coders/adyatithi/tree/master/data/lunar_month/tithi
+ /08/12#yājñavalkya-jayantī<br/><br/>#MahapurushaEvents
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -16946,8 +16832,8 @@ BEGIN:VEVENT
 SUMMARY:मणिकर्णिका-स्नानम्
 DTSTART;VALUE=DATE:20191111
 DTEND;VALUE=DATE:20191112
-DESCRIPTION:Observed on Śukla-Caturdaśī tithi of Kārtikaḥ (lunar) mo
- nth (sunrise (default)/puurvaviddha (default)).<br/>Perform स्ना
+DESCRIPTION:Observed on Śukla-Caturdaśī tithi of Kārttikaḥ (lunar) m
+ onth (sunrise (default)/puurvaviddha (default)).<br/>Perform स्ना
  नम् at मणिकर्णिका ghat in Varanasi.<br/><br/>htt
  ps://github.com/sanskrit-coders/adyatithi/tree/master/data/lunar_month/tit
  hi/08/14#maṇikarṇikā-snānam<br/><br/>#SpecialSnanam
@@ -16980,10 +16866,10 @@ BEGIN:VEVENT
 SUMMARY:त्रिपुरोत्सवः
 DTSTART;VALUE=DATE:20191111
 DTEND;VALUE=DATE:20191112
-DESCRIPTION:Observed on Paurṇamāsī tithi of Kārtikaḥ (lunar) month 
- (pradosha/puurvaviddha).<br/><br/><br/>https://github.com/sanskrit-coders/
- adyatithi/tree/master/data/lunar_month/tithi/08/15#tripurotsavaḥ<br/><br
- />#CommonFestivals
+DESCRIPTION:Observed on Paurṇamāsī tithi of Kārttikaḥ (lunar) month
+  (pradosha/puurvaviddha).<br/><br/><br/>https://github.com/sanskrit-coders
+ /adyatithi/tree/master/data/lunar_month/tithi/08/15#tripurotsavaḥ<br/><b
+ r/>#CommonFestivals
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -17029,8 +16915,8 @@ BEGIN:VEVENT
 SUMMARY:भीष्म-पञ्चक-व्रत-समापनम्
 DTSTART;VALUE=DATE:20191112
 DTEND;VALUE=DATE:20191113
-DESCRIPTION:Observed on Paurṇamāsī tithi of Kārtikaḥ (lunar) month 
- (sunrise (default)/puurvaviddha (default)).<br/>Bhishma\, lying on शर
+DESCRIPTION:Observed on Paurṇamāsī tithi of Kārttikaḥ (lunar) month
+  (sunrise (default)/puurvaviddha (default)).<br/>Bhishma\, lying on शर
  तल्प performed upadesha to Yudhisthira and other Pandavas for thes
  e five days.<br/><br/>https://github.com/sanskrit-coders/adyatithi/tree/ma
  ster/data/lunar_month/tithi/08/15#bhīṣma-pañchaka-vrata-samāpanam<br/
@@ -17047,8 +16933,8 @@ BEGIN:VEVENT
 SUMMARY:भीष्म-पञ्चक-व्रतम्
 DTSTART;VALUE=DATE:20191108
 DTEND;VALUE=DATE:20191113
-DESCRIPTION:Observed on Paurṇamāsī tithi of Kārtikaḥ (lunar) month 
- (sunrise (default)/puurvaviddha (default)).<br/>Bhishma\, lying on शर
+DESCRIPTION:Observed on Paurṇamāsī tithi of Kārttikaḥ (lunar) month
+  (sunrise (default)/puurvaviddha (default)).<br/>Bhishma\, lying on शर
  तल्प performed upadesha to Yudhisthira and other Pandavas for thes
  e five days.<br/><br/>https://github.com/sanskrit-coders/adyatithi/tree/ma
  ster/data/lunar_month/tithi/08/15#bhīṣma-pañchaka-vrata-samāpanam<br/
@@ -17066,10 +16952,10 @@ SUMMARY:चातुर्मास्यव्रत-समापनम
  ्
 DTSTART;VALUE=DATE:20191112
 DTEND;VALUE=DATE:20191113
-DESCRIPTION:Observed on Paurṇamāsī tithi of Kārtikaḥ (lunar) month 
- (sunrise (default)/puurvaviddha (default)).<br/><br/><br/>https://github.c
- om/sanskrit-coders/adyatithi/tree/master/data/lunar_month/tithi/08/15#chā
- turmāsyavrata-samāpanam<br/><br/>#SpecialPeriodEnd #CommonFestivals
+DESCRIPTION:Observed on Paurṇamāsī tithi of Kārttikaḥ (lunar) month
+  (sunrise (default)/puurvaviddha (default)).<br/><br/><br/>https://github.
+ com/sanskrit-coders/adyatithi/tree/master/data/lunar_month/tithi/08/15#ch
+ āturmāsyavrata-samāpanam<br/><br/>#SpecialPeriodEnd #CommonFestivals
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -17082,10 +16968,10 @@ BEGIN:VEVENT
 SUMMARY:चातुर्मास्यव्रतम्
 DTSTART;VALUE=DATE:20190711
 DTEND;VALUE=DATE:20191113
-DESCRIPTION:Observed on Paurṇamāsī tithi of Kārtikaḥ (lunar) month 
- (sunrise (default)/puurvaviddha (default)).<br/><br/><br/>https://github.c
- om/sanskrit-coders/adyatithi/tree/master/data/lunar_month/tithi/08/15#chā
- turmāsyavrata-samāpanam<br/><br/>#SpecialPeriodEnd #CommonFestivals
+DESCRIPTION:Observed on Paurṇamāsī tithi of Kārttikaḥ (lunar) month
+  (sunrise (default)/puurvaviddha (default)).<br/><br/><br/>https://github.
+ com/sanskrit-coders/adyatithi/tree/master/data/lunar_month/tithi/08/15#ch
+ āturmāsyavrata-samāpanam<br/><br/>#SpecialPeriodEnd #CommonFestivals
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -17095,19 +16981,19 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:कार्तिक-पूर्णिमा-स्नानम
- ्
+SUMMARY:कार्त्तिक-पूर्णिमा-स्ना
+ नम्
 DTSTART;VALUE=DATE:20191112
 DTEND;VALUE=DATE:20191113
-DESCRIPTION:Observed on Paurṇamāsī tithi of Kārtikaḥ (lunar) month 
- (arunodaya/paraviddha).<br/>Perform snana four ghatikas before sunrise (du
- ring अरुणोदयम्\, when the Moon is still up\, on the full
- -moon days of आषाढ\, कार्तिक\, माघ and वै
- शाख – hence the name आ-का-मा-वै) bestows strength\, 
- beauty\, fame\, dharma\, knowledge\, happiness\, fortitude and health.<br/
- >### References<br/>* Satyavrata Smriti<br/><br/><br/>https://github.com/s
- anskrit-coders/adyatithi/tree/master/data/lunar_month/tithi/08/15#kārtika
- -pūrṇimā-snānam<br/><br/>#SpecialSnanam
+DESCRIPTION:Observed on Paurṇamāsī tithi of Kārttikaḥ (lunar) month
+  (arunodaya/paraviddha).<br/>Perform snana four ghatikas before sunrise (d
+ uring अरुणोदयम्\, when the Moon is still up\, on the ful
+ l-moon days of आषाढ\, कार्त्तिक\, माघ and 
+ वैशाख – hence the name आ-का-मा-वै) bestows stren
+ gth\, beauty\, fame\, dharma\, knowledge\, happiness\, fortitude and healt
+ h.<br/>### References<br/>* Satyavrata Smriti<br/><br/><br/>https://github
+ .com/sanskrit-coders/adyatithi/tree/master/data/lunar_month/tithi/08/15#k
+ ārttika-pūrṇimā-snānam<br/><br/>#SpecialSnanam
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -17191,10 +17077,10 @@ SUMMARY:श्री गोविन्द भगवत्पाद आर
  ाधना
 DTSTART;VALUE=DATE:20191112
 DTEND;VALUE=DATE:20191113
-DESCRIPTION:Observed on Paurṇamāsī tithi of Kārtikaḥ (lunar) month 
- (aparaahna/puurvaviddha).<br/><br/><br/>https://github.com/sanskrit-coders
- /adyatithi/tree/master/data/lunar_month/tithi/08/15#śrī-govinda-bhagavat
- pāda-ārādhanā<br/><br/>#KanchiAradhanaDays
+DESCRIPTION:Observed on Paurṇamāsī tithi of Kārttikaḥ (lunar) month
+  (aparaahna/puurvaviddha).<br/><br/><br/>https://github.com/sanskrit-coder
+ s/adyatithi/tree/master/data/lunar_month/tithi/08/15#śrī-govinda-bhagava
+ tpāda-ārādhanā<br/><br/>#KanchiAradhanaDays
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -17205,21 +17091,21 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:काञ्ची ६४ जगद्गुरु श्री 
- चन्द्रशेखरेन्द्र सरस्वती ६
+ चन्द्रशेखरेन्द्र सरस्वती ५
   आराधना #१६९
 DTSTART;VALUE=DATE:20191113
 DTEND;VALUE=DATE:20191114
-DESCRIPTION:Observed on Kṛṣṇa-Prathamā tithi of Kārtikaḥ (lunar)
-  month (aparaahna/paraviddha).<br/>Devoted to Lord Chandramauli\, precepto
- r Śrī Chandraśekhara too remaining in the Pīṭha for thirtyseven year
- s reached his eternal abode on the first day of Kṛṣṇapakṣa in the 
- month of Kārthika of the year Sādhāraṇa. The name of this preceptor b
- efore initiation was Veñkatasubrahmaṇya Dīkṣita. He was a descendant
-  of the family of Govinda Dīkṣita\, wellknown as “Ayyan” ...<br/><b
- r/>### References<br/>* Punya Shloka Manjari<br/><br/><br/>https://github.
- com/sanskrit-coders/adyatithi/tree/master/data/lunar_month/tithi/08/16#kā
- ñchī-64-jagadguru-śrī-chandraśekharendra-sarasvatī-6-ārādhanā<br/
- ><br/>#KanchiAradhanaDays
+DESCRIPTION:Observed on Kṛṣṇa-Prathamā tithi of Kārttikaḥ (lunar
+ ) month (aparaahna/paraviddha).<br/>Devoted to Lord Chandramauli\, precept
+ or Śrī Chandraśekhara too remaining in the Pīṭha for thirtyseven yea
+ rs reached his eternal abode on the first day of Kṛṣṇapakṣa in the
+  month of Kārthika of the year Sādhāraṇa. The name of this preceptor 
+ before initiation was Veñkatasubrahmaṇya Dīkṣita. He was a descendan
+ t of the family of Govinda Dīkṣita\, wellknown as “Ayyan” ...<br/><
+ br/>### References<br/>* Punya Shloka Manjari<br/><br/><br/>https://github
+ .com/sanskrit-coders/adyatithi/tree/master/data/lunar_month/tithi/08/16#k
+ āñchī-64-jagadguru-śrī-chandraśekharendra-sarasvatī-5-ārādhanā<b
+ r/><br/>#KanchiAradhanaDays
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -17233,7 +17119,7 @@ SUMMARY:कृत्तिका-व्रतम्
 DTSTART;VALUE=DATE:20191113
 DTEND;VALUE=DATE:20191114
 DESCRIPTION:Observed on Kṛttikā nakṣhatram day of every solar month (
- sangava/puurvaviddha (default)).<br/>कृत्तिका-व्रत
+ sunset/puurvaviddha (default)).<br/>कृत्तिका-व्रत
  म् for Lord Subrahmanya. Observe fast for the entire day\, and obtain 
  blessings of all the कृत्तिका-स्त्रियः who
   raised स्कन्द after His birth.<br/><br/>https://github.com/sa
@@ -17251,10 +17137,10 @@ BEGIN:VEVENT
 SUMMARY:नवम-अपरपक्ष-आरम्भः
 DTSTART;VALUE=DATE:20191113
 DTEND;VALUE=DATE:20191114
-DESCRIPTION:Observed on Kṛṣṇa-Prathamā tithi of Kārtikaḥ (lunar)
-  month (aparaahna/puurvaviddha).<br/><br/><br/>https://github.com/sanskrit
- -coders/adyatithi/tree/master/data/lunar_month/tithi/08/16#navama-aparapak
- ṣa-ārambhaḥ<br/><br/>#SpecialPeriodStart
+DESCRIPTION:Observed on Kṛṣṇa-Prathamā tithi of Kārttikaḥ (lunar
+ ) month (aparaahna/puurvaviddha).<br/><br/><br/>https://github.com/sanskri
+ t-coders/adyatithi/tree/master/data/lunar_month/tithi/08/16#navama-aparapa
+ kṣa-ārambhaḥ<br/><br/>#SpecialPeriodStart
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -17289,7 +17175,7 @@ DESCRIPTION:Special vrata day for Ganesha. In this month\, Ganesha is wors
  hipped as गणाधिप-महागणपतिः. Fast during the 
  day and pray to Ganesha after moonrise\, as follows:<br/><br/>गणाध
  िपस्त्वं देवेश चतुर्थ्यां 
- पूजितो मया।<br/>कष्टान् मां मो
+ पूजितो मया।<br/>कष्टान्मां मो
  चयेशान सर्वमिष्टं च देहि मे
  ॥<br/><br/><br/><br/>https://github.com/sanskrit-coders/adyatithi/tree/m
  aster/data/other/monthly-vratam/sankatahara-chaturthi-vratam#gaṇādhipa-
@@ -17309,8 +17195,8 @@ SUMMARY:काञ्ची ९ जगद्गुरु श्री क
  धना #१९५१
 DTSTART;VALUE=DATE:20191115
 DTEND;VALUE=DATE:20191116
-DESCRIPTION:Observed on Kṛṣṇa-Tṛtīyā tithi of Kārtikaḥ (lunar
- ) month (aparaahna/paraviddha).<br/>Kṛpāśaṅkara\, son of Ātmasomay
+DESCRIPTION:Observed on Kṛṣṇa-Tṛtīyā tithi of Kārttikaḥ (luna
+ r) month (aparaahna/paraviddha).<br/>Kṛpāśaṅkara\, son of Ātmasomay
  āji in Andhra in the lineage of Garga\, with the name Gaṅgayya before i
  nitiation established six religions of worship in worshipping Śiva\, Hari
  \, Skanda and others away from Tantrik practices and establishing everywhe
@@ -17332,10 +17218,10 @@ BEGIN:VEVENT
 SUMMARY:सौभाग्य-सुन्दरी-व्रतम्
 DTSTART;VALUE=DATE:20191115
 DTEND;VALUE=DATE:20191116
-DESCRIPTION:Observed on Kṛṣṇa-Tṛtīyā tithi of Kārtikaḥ (lunar
- ) month (sunrise (default)/puurvaviddha (default)).<br/><br/><br/>https://
- github.com/sanskrit-coders/adyatithi/tree/master/data/lunar_month/tithi/08
- /18#saubhāgya-sundarī-vratam<br/><br/>#SpecialVratam
+DESCRIPTION:Observed on Kṛṣṇa-Tṛtīyā tithi of Kārttikaḥ (luna
+ r) month (sunrise (default)/puurvaviddha (default)).<br/><br/><br/>https:/
+ /github.com/sanskrit-coders/adyatithi/tree/master/data/lunar_month/tithi/0
+ 8/18#saubhāgya-sundarī-vratam<br/><br/>#SpecialVratam
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -17565,10 +17451,10 @@ BEGIN:VEVENT
 SUMMARY:कालभैरवाष्टमी
 DTSTART;VALUE=DATE:20191119
 DTEND;VALUE=DATE:20191120
-DESCRIPTION:Observed on Kṛṣṇa-Aṣṭamī tithi of Kārtikaḥ (luna
- r) month (pradosha/puurvaviddha (default)).<br/><br/><br/>https://github.c
- om/sanskrit-coders/adyatithi/tree/master/data/lunar_month/tithi/08/23#kāl
- abhairavāṣṭamī<br/><br/>#SpecialPuja
+DESCRIPTION:Observed on Kṛṣṇa-Aṣṭamī tithi of Kārttikaḥ (lun
+ ar) month (pradosha/puurvaviddha (default)).<br/><br/><br/>https://github.
+ com/sanskrit-coders/adyatithi/tree/master/data/lunar_month/tithi/08/23#kā
+ labhairavāṣṭamī<br/><br/>#SpecialPuja
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -17604,9 +17490,9 @@ SUMMARY:काञ्ची ४२ जगद्गुरु श्री
  ती २ आराधना #१०४२
 DTSTART;VALUE=DATE:20191120
 DTEND;VALUE=DATE:20191121
-DESCRIPTION:Observed on Kṛṣṇa-Aṣṭamī tithi of Kārtikaḥ (luna
- r) month (aparaahna/paraviddha).<br/>Then Narasambhaṭṭa\, son of Subra
- hmanya\, having been initiated by Gaṅgādhara got the appellation Brahm
+DESCRIPTION:Observed on Kṛṣṇa-Aṣṭamī tithi of Kārttikaḥ (lun
+ ar) month (aparaahna/paraviddha).<br/>Then Narasambhaṭṭa\, son of Subr
+ ahmanya\, having been initiated by Gaṅgādhara got the appellation Brahm
  ānandaghana held the preceptorship of the Pīṭha for twenty-eight years
  . This great preceptor merged in the Lord Ăśvara as He ws teaching the d
  isciples the Brahmasūtra\, bhāṣya etc. in the early morning of Aṣṭ
@@ -17629,12 +17515,12 @@ SUMMARY:काञ्ची ४९ जगद्गुरु श्री
  धना #७७३
 DTSTART;VALUE=DATE:20191120
 DTEND;VALUE=DATE:20191121
-DESCRIPTION:Observed on Kṛṣṇa-Aṣṭamī tithi of Kārtikaḥ (luna
- r) month (aparaahna/paraviddha).<br/>Son of Chāyāvana Acyuta\, He was Gu
- rumūrthi by name (before initiation)\; having adorned the seat of Jagadgu
- ru for forty-seven years\, He attained on the night of Kālāṣṭamī of
-  the month Kārtika in the year Parābhava—the Supreme state denoted by 
- the term Paramātman.<br/><br/>छायावनाच्युतसु
+DESCRIPTION:Observed on Kṛṣṇa-Aṣṭamī tithi of Kārttikaḥ (lun
+ ar) month (aparaahna/paraviddha).<br/>Son of Chāyāvana Acyuta\, He was G
+ urumūrthi by name (before initiation)\; having adorned the seat of Jagadg
+ uru for forty-seven years\, He attained on the night of Kālāṣṭamī o
+ f the month Kārtika in the year Parābhava—the Supreme state denoted by
+  the term Paramātman.<br/><br/>छायावनाच्युतसु
  तो गुरुमूर्तिनामा स्थित्वा
   जगद्गुरुपदे छवि(४७)वर्षकाल
  म्।<br/>प्राप्तोऽपराभवपदं स ...<
@@ -17656,12 +17542,12 @@ SUMMARY:काञ्ची ५८ जगद्गुरु श्री
  ना #३८२
 DTSTART;VALUE=DATE:20191120
 DTEND;VALUE=DATE:20191121
-DESCRIPTION:Observed on Kṛṣṇa-Aṣṭamī tithi of Kārtikaḥ (luna
- r) month (aparaahna/paraviddha).<br/>Viśveśvara was the son of Viśvamak
- hindra\; resorting to the fact of Paraśivārya\, known as Navaśaṅkara 
- from the first preceptor toured all places successfully\, from Setu (Rāme
- śvaram) to Sītāgiri (Himalayas). Since He possessed intellect more than
-  anyone in the Universe\, men of wisdom call him Viśvādhika and Navaśa
+DESCRIPTION:Observed on Kṛṣṇa-Aṣṭamī tithi of Kārttikaḥ (lun
+ ar) month (aparaahna/paraviddha).<br/>Viśveśvara was the son of Viśvama
+ khindra\; resorting to the fact of Paraśivārya\, known as Navaśaṅkara
+  from the first preceptor toured all places successfully\, from Setu (Rām
+ eśvaram) to Sītāgiri (Himalayas). Since He possessed intellect more tha
+ n anyone in the Universe\, men of wisdom call him Viśvādhika and Navaśa
  ṅkara. His erudition in composing works such as Rudra ...<br/><br/>### R
  eferences<br/>* Punya Shloka Manjari<br/><br/><br/>https://github.com/sans
  krit-coders/adyatithi/tree/master/data/lunar_month/tithi/08/23#kāñchī-5
@@ -17679,11 +17565,11 @@ BEGIN:VEVENT
 SUMMARY:महादेवाष्टमी
 DTSTART;VALUE=DATE:20191120
 DTEND;VALUE=DATE:20191121
-DESCRIPTION:Observed on Kṛṣṇa-Aṣṭamī tithi of Kārtikaḥ (luna
- r) month (sunrise (default)/puurvaviddha (default)).<br/>Very famously cel
- ebrated in Vaikom Mahadeva Temple.<br/><br/>https://github.com/sanskrit-co
- ders/adyatithi/tree/master/data/lunar_month/tithi/08/23#mahādevāṣṭam
- ī<br/><br/>#KeralaTempleFestivals
+DESCRIPTION:Observed on Kṛṣṇa-Aṣṭamī tithi of Kārttikaḥ (lun
+ ar) month (sunrise (default)/puurvaviddha (default)).<br/>Very famously ce
+ lebrated in Vaikom Mahadeva Temple.<br/><br/>https://github.com/sanskrit-c
+ oders/adyatithi/tree/master/data/lunar_month/tithi/08/23#mahādevāṣṭa
+ mī<br/><br/>#KeralaTempleFestivals
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -17698,15 +17584,15 @@ SUMMARY:काञ्ची २८ जगद्गुरु श्री
  धना #१४१९
 DTSTART;VALUE=DATE:20191121
 DTEND;VALUE=DATE:20191122
-DESCRIPTION:Observed on Kṛṣṇa-Daśamī tithi of Kārtikaḥ (lunar) 
- month (aparaahna/paraviddha).<br/>Son of Bhānumiśra of Bhadrācala\, Śe
- ṣanārya (before initiation)\, He (Bhadrācala Mahādeva)\, having adorn
- ed/decorated the seat of the Ādiguru\, attained that Supreme state attain
- able by/to the great saints who were adepts in subduing senses\, on the te
- nth day of the black fortnight in the year Raudrī. He also attained beati
- tude in Kāñci. His preceptorship was for ...<br/><br/>### References<br/
- >* Punya Shloka Manjari<br/><br/><br/>https://github.com/sanskrit-coders/a
- dyatithi/tree/master/data/lunar_month/tithi/08/25#kāñchī-28-jagadguru-
+DESCRIPTION:Observed on Kṛṣṇa-Daśamī tithi of Kārttikaḥ (lunar)
+  month (aparaahna/paraviddha).<br/>Son of Bhānumiśra of Bhadrācala\, Ś
+ eṣanārya (before initiation)\, He (Bhadrācala Mahādeva)\, having ador
+ ned/decorated the seat of the Ādiguru\, attained that Supreme state attai
+ nable by/to the great saints who were adepts in subduing senses\, on the t
+ enth day of the black fortnight in the year Raudrī. He also attained beat
+ itude in Kāñci. His preceptorship was for ...<br/><br/>### References<br
+ />* Punya Shloka Manjari<br/><br/><br/>https://github.com/sanskrit-coders/
+ adyatithi/tree/master/data/lunar_month/tithi/08/25#kāñchī-28-jagadguru-
  śrī-mahādevendra-sarasvatī-1-ārādhanā<br/><br/>#KanchiAradhanaDays
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -17737,10 +17623,11 @@ SUMMARY:स्मार्त-उत्पन्ना-एकादशी
  (गृहस्थ)
 DTSTART;VALUE=DATE:20191122
 DTEND;VALUE=DATE:20191123
-DESCRIPTION:The Krishna-paksha Ekadashi of कार्तिक month is 
- known as उत्पन्ना-एकादशी.<br/><br/>https://git
- hub.com/sanskrit-coders/adyatithi/tree/master/data/other/monthly-vratam/ek
- adashi-vratam#utpannā-ekādaśī<br/><br/>#MonthlyVratam #EkadashiVratam
+DESCRIPTION:The Krishna-paksha Ekadashi of कार्त्तिक mon
+ th is known as उत्पन्ना-एकादशी.<br/><br/>https
+ ://github.com/sanskrit-coders/adyatithi/tree/master/data/other/monthly-vra
+ tam/ekadashi-vratam#utpannā-ekādaśī<br/><br/>#MonthlyVratam #EkadashiV
+ ratam
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -17771,10 +17658,11 @@ SUMMARY:स्मार्त-उत्पन्ना-एकादशी
  (सन्न्यस्थ)
 DTSTART;VALUE=DATE:20191123
 DTEND;VALUE=DATE:20191124
-DESCRIPTION:The Krishna-paksha Ekadashi of कार्तिक month is 
- known as उत्पन्ना-एकादशी.<br/><br/>https://git
- hub.com/sanskrit-coders/adyatithi/tree/master/data/other/monthly-vratam/ek
- adashi-vratam#utpannā-ekādaśī<br/><br/>#MonthlyVratam #EkadashiVratam
+DESCRIPTION:The Krishna-paksha Ekadashi of कार्त्तिक mon
+ th is known as उत्पन्ना-एकादशी.<br/><br/>https
+ ://github.com/sanskrit-coders/adyatithi/tree/master/data/other/monthly-vra
+ tam/ekadashi-vratam#utpannā-ekādaśī<br/><br/>#MonthlyVratam #EkadashiV
+ ratam
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -17819,10 +17707,11 @@ BEGIN:VEVENT
 SUMMARY:वैष्णव-उत्पन्ना-एकादशी
 DTSTART;VALUE=DATE:20191123
 DTEND;VALUE=DATE:20191124
-DESCRIPTION:The Krishna-paksha Ekadashi of कार्तिक month is 
- known as उत्पन्ना-एकादशी.<br/><br/>https://git
- hub.com/sanskrit-coders/adyatithi/tree/master/data/other/monthly-vratam/ek
- adashi-vratam#utpannā-ekādaśī<br/><br/>#MonthlyVratam #EkadashiVratam
+DESCRIPTION:The Krishna-paksha Ekadashi of कार्त्तिक mon
+ th is known as उत्पन्ना-एकादशी.<br/><br/>https
+ ://github.com/sanskrit-coders/adyatithi/tree/master/data/other/monthly-vra
+ tam/ekadashi-vratam#utpannā-ekādaśī<br/><br/>#MonthlyVratam #EkadashiV
+ ratam
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -17912,12 +17801,12 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:कार्तिक-अमावस्या (अलभ्यम
- ्–अनूराधा)
+SUMMARY:कार्त्तिक-अमावस्या (अलभ्
+ यम्–अनूराधा\, पुष्कला)
 DTSTART;VALUE=DATE:20191126
 DTEND;VALUE=DATE:20191127
 DESCRIPTION:https://github.com/sanskrit-coders/adyatithi/tree/master/data/
- other/amavasya-days#kārtika-amāvasyā<br/><br/>#AmavasyaDays
+ other/amavasya-days#kārttika-amāvasyā<br/><br/>#AmavasyaDays
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -17927,13 +17816,13 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:कार्तिक-स्नानपूर्तिः
+SUMMARY:कार्त्तिक-स्नानपूर्तिः
 DTSTART;VALUE=DATE:20191126
 DTEND;VALUE=DATE:20191127
-DESCRIPTION:Observed on Amāvāsyā tithi of Kārtikaḥ (lunar) month (su
- nrise (default)/puurvaviddha (default)).<br/><br/><br/>https://github.com/
- sanskrit-coders/adyatithi/tree/master/data/lunar_month/tithi/08/30#kārtik
- a-snānapūrtiḥ<br/><br/>#SpecialSnanam
+DESCRIPTION:Observed on Amāvāsyā tithi of Kārttikaḥ (lunar) month (s
+ unrise (default)/puurvaviddha (default)).<br/><br/><br/>https://github.com
+ /sanskrit-coders/adyatithi/tree/master/data/lunar_month/tithi/08/30#kārtt
+ ika-snānapūrtiḥ<br/><br/>#SpecialSnanam
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -17947,8 +17836,8 @@ SUMMARY:नवम-अपरपक्ष-समापनम्
 DTSTART;VALUE=DATE:20191126
 DTEND;VALUE=DATE:20191127
 DESCRIPTION:https://github.com/sanskrit-coders/adyatithi/tree/master/data/
- relative_event/kArtika-amAvasyA/offset__00#navama-aparapakṣa-samāpanam<
- br/><br/>#SpecialPeriodEnd
+ relative_event/kArttika-amAvasyA/offset__00#navama-aparapakṣa-samāpanam
+ <br/><br/>#SpecialPeriodEnd
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -17962,31 +17851,8 @@ SUMMARY:नवम-अपरपक्षः
 DTSTART;VALUE=DATE:20191113
 DTEND;VALUE=DATE:20191127
 DESCRIPTION:https://github.com/sanskrit-coders/adyatithi/tree/master/data/
- relative_event/kArtika-amAvasyA/offset__00#navama-aparapakṣa-samāpanam<
- br/><br/>#SpecialPeriodEnd
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT4H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:पुष्कला अमावस्या (अलभ्यम
- ्)
-DTSTART;VALUE=DATE:20191126
-DTEND;VALUE=DATE:20191127
-DESCRIPTION:If\, अमावस्या occurs on a Monday\, Tuesday or 
- Thursday\, the combination gives the tithi the name पुष्कला 
- and is equal to a solar eclipse.<br/><br/>अमा सोमेन भौ
- मेन गुरुणा वा युता यदि।<br/>सा 
- तिथिः पुष्कला नाम सूर्यग्र
- हणसन्निभा॥<br/><br/><br/><br/>### References<br/>* Smr
- ti Mukthaphalam Shraddha Kandam Uttara Bhaga<br/><br/><br/>https://github.
- com/sanskrit-coders/adyatithi/tree/master/data/other/rare-days/combination
- s/amavasya-days#puṣkalā-amāvasyā-(alabhyam)<br/><br/>#RareDays #Combi
- nations #AmavasyaDays
+ relative_event/kArttika-amAvasyA/offset__00#navama-aparapakṣa-samāpanam
+ <br/><br/>#SpecialPeriodEnd
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -18000,10 +17866,10 @@ SUMMARY:तिरुविशलूर् गङ्गाकर्षण-
  महोत्सव-समापनम्
 DTSTART;VALUE=DATE:20191126
 DTEND;VALUE=DATE:20191127
-DESCRIPTION:Observed on Amāvāsyā tithi of Kārtikaḥ (lunar) month (ap
- araahna/puurvaviddha (default)).<br/>Thiruvisanallur Sridhara Aiyyaval bro
- ught Ganga to his house well on this day! See also http://www.sriayyaval.o
- rg/ .<br/><br/>ईशे तस्य च नामनि प्रवि
+DESCRIPTION:Observed on Amāvāsyā tithi of Kārttikaḥ (lunar) month (a
+ paraahna/puurvaviddha (default)).<br/>Thiruvisanallur Sridhara Aiyyaval br
+ ought Ganga to his house well on this day! See also http://www.sriayyaval.
+ org/ .<br/><br/>ईशे तस्य च नामनि प्रवि
  मलं ज्ञानं तयोरूर्जितम्<br/>प
  ्रेम प्रेम च तत्परेषु विरति
  श्चान्यत्र सर्वत्र च।<br/>ईशे
@@ -18027,10 +17893,10 @@ SUMMARY:तिरुविशलूर् गङ्गाकर्षण-
  महोत्सवः
 DTSTART;VALUE=DATE:20191117
 DTEND;VALUE=DATE:20191127
-DESCRIPTION:Observed on Amāvāsyā tithi of Kārtikaḥ (lunar) month (ap
- araahna/puurvaviddha (default)).<br/>Thiruvisanallur Sridhara Aiyyaval bro
- ught Ganga to his house well on this day! See also http://www.sriayyaval.o
- rg/ .<br/><br/>ईशे तस्य च नामनि प्रवि
+DESCRIPTION:Observed on Amāvāsyā tithi of Kārttikaḥ (lunar) month (a
+ paraahna/puurvaviddha (default)).<br/>Thiruvisanallur Sridhara Aiyyaval br
+ ought Ganga to his house well on this day! See also http://www.sriayyaval.
+ org/ .<br/><br/>ईशे तस्य च नामनि प्रवि
  मलं ज्ञानं तयोरूर्जितम्<br/>प
  ्रेम प्रेम च तत्परेषु विरति
  श्चान्यत्र सर्वत्र च।<br/>ईशे
@@ -18651,7 +18517,7 @@ SUMMARY:कृत्तिका-व्रतम्
 DTSTART;VALUE=DATE:20191210
 DTEND;VALUE=DATE:20191211
 DESCRIPTION:Observed on Kṛttikā nakṣhatram day of every solar month (
- sangava/puurvaviddha (default)).<br/>कृत्तिका-व्रत
+ sunset/puurvaviddha (default)).<br/>कृत्तिका-व्रत
  म् for Lord Subrahmanya. Observe fast for the entire day\, and obtain 
  blessings of all the कृत्तिका-स्त्रियः who
   raised स्कन्द after His birth.<br/><br/>https://github.com/sa
@@ -18926,7 +18792,7 @@ DESCRIPTION:Special vrata day for Ganesha. In this month\, Ganesha is wors
  hipped as आखुरथ-महागणपतिः. Fast during the day
   and pray to Ganesha after moonrise\, as follows:<br/><br/>गणाधि
  पस्त्वं देवेश चतुर्थ्यां प
- ूजितो मया।<br/>कष्टान् मां मोच
+ ूजितो मया।<br/>कष्टान्मां मोच
  येशान सर्वमिष्टं च देहि मे॥<
  br/><br/><br/><br/>https://github.com/sanskrit-coders/adyatithi/tree/maste
  r/data/other/monthly-vratam/sankatahara-chaturthi-vratam#ākhuratha-mahāg
@@ -19136,7 +19002,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:काञ्ची ६८ जगद्गुरु श्री 
- चन्द्रशेखरेन्द्र सरस्वती ८
+ चन्द्रशेखरेन्द्र सरस्वती ७
   आराधना #२६
 DTSTART;VALUE=DATE:20191223
 DTEND;VALUE=DATE:20191224
@@ -19159,7 +19025,7 @@ DESCRIPTION:Observed on Kṛṣṇa-Dvādaśī tithi of Mārgaśīrṣaḥ
  यनाम ...<br/><br/>### References<br/>* Punya Shloka Manjari<br/><b
  r/><br/>https://github.com/sanskrit-coders/adyatithi/tree/master/data/luna
  r_month/tithi/09/27#kāñchī-68-jagadguru-śrī-chandraśekharendra-saras
- vatī-8-ārādhanā<br/><br/>#KanchiAradhanaDays #CommonFestivals
+ vatī-7-ārādhanā<br/><br/>#KanchiAradhanaDays #CommonFestivals
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -19226,7 +19092,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:काञ्ची ३४ जगद्गुरु श्री 
- चन्द्रशेखरेन्द्र सरस्वती ३
+ चन्द्रशेखरेन्द्र सरस्वती २
   आराधना #१३१०
 DTSTART;VALUE=DATE:20191225
 DTEND;VALUE=DATE:20191226
@@ -19239,7 +19105,7 @@ DESCRIPTION:Observed on Amāvāsyā tithi of Mārgaśīrṣaḥ (lunar) mo
  ant and enduring preceptor Sri ...<br/><br/>### References<br/>* Punya Shl
  oka Manjari<br/><br/><br/>https://github.com/sanskrit-coders/adyatithi/tre
  e/master/data/lunar_month/tithi/09/30#kāñchī-34-jagadguru-śrī-chandra
- śekharendra-sarasvatī-3-ārādhanā<br/><br/>#KanchiAradhanaDays
+ śekharendra-sarasvatī-2-ārādhanā<br/><br/>#KanchiAradhanaDays
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -19272,29 +19138,6 @@ DESCRIPTION:Observed on Jyeṣṭhā nakṣhatram day of Dhanuḥ (solar)
  rs/adyatithi/tree/master/data/solar_month/nakshatram/09/18#tôṇḍaraḍ
  ippôḍiyāḷvār-tirunakṣattiram<br/><br/>#MahapurushaEvents #AzhwarJ
  ayanti
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT4H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:पुष्कला अमावस्या (अलभ्यम
- ्)
-DTSTART;VALUE=DATE:20191226
-DTEND;VALUE=DATE:20191227
-DESCRIPTION:If\, अमावस्या occurs on a Monday\, Tuesday or 
- Thursday\, the combination gives the tithi the name पुष्कला 
- and is equal to a solar eclipse.<br/><br/>अमा सोमेन भौ
- मेन गुरुणा वा युता यदि।<br/>सा 
- तिथिः पुष्कला नाम सूर्यग्र
- हणसन्निभा॥<br/><br/><br/><br/>### References<br/>* Smr
- ti Mukthaphalam Shraddha Kandam Uttara Bhaga<br/><br/><br/>https://github.
- com/sanskrit-coders/adyatithi/tree/master/data/other/rare-days/combination
- s/amavasya-days#puṣkalā-amāvasyā-(alabhyam)<br/><br/>#RareDays #Combi
- nations #AmavasyaDays
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
