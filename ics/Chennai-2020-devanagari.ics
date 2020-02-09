@@ -576,8 +576,8 @@ SUMMARY:போகி
 DTSTART;VALUE=DATE:20200114
 DTEND;VALUE=DATE:20200115
 DESCRIPTION:https://github.com/sanskrit-coders/adyatithi/tree/master/data/
- relative_event/makara-saGkrAntiH__uttarAyaNa-puNyakAlaH/offset__-1#bhogi<b
- r/><br/>#CommonFestivals
+ relative_event/makara-saGkrAntiH/offset__-1#bhogi<br/><br/>#CommonFestival
+ s
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -620,14 +620,13 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:मकर-सङ्क्रान्तिः/उत्तरा
- यण-पुण्यकालः
+SUMMARY:मकर-सङ्क्रान्तिः
 DTSTART;VALUE=DATE:20200115
 DTEND;VALUE=DATE:20200116
 DESCRIPTION:Observed on day 1 of Makaraḥ (solar) month (sunrise (default
  )/puurvaviddha (default)).<br/><br/><br/>https://github.com/sanskrit-coder
- s/adyatithi/tree/master/data/solar_month/day/10/01#makara-saṅkrāntiḥ/
- uttarāyaṇa-puṇyakālaḥ<br/><br/>#CommonFestivals #SunSankranti
+ s/adyatithi/tree/master/data/solar_month/day/10/01#makara-saṅkrāntiḥ<
+ br/><br/>#CommonFestivals #SunSankranti
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -660,9 +659,8 @@ SUMMARY:மதுரை மீனாக்ஷீ கோயிலில்
 DTSTART;VALUE=DATE:20200115
 DTEND;VALUE=DATE:20200116
 DESCRIPTION:https://github.com/sanskrit-coders/adyatithi/tree/master/data/
- relative_event/makara-saGkrAntiH__uttarAyaNa-puNyakAlaH/offset__00#madhura
- i-mīnākṣī-koyilil-kal-yānaikku-karumbu-koḍutta-līlai<br/><br/>#Ta
- milnaduTempleFestivals
+ relative_event/makara-saGkrAntiH/offset__00#madhurai-mīnākṣī-koyilil-
+ kal-yānaikku-karumbu-koḍutta-līlai<br/><br/>#TamilnaduTempleFestivals
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -696,8 +694,8 @@ SUMMARY:इन्द्र-पूजा/गो-पूजा
 DTSTART;VALUE=DATE:20200116
 DTEND;VALUE=DATE:20200117
 DESCRIPTION:https://github.com/sanskrit-coders/adyatithi/tree/master/data/
- relative_event/makara-saGkrAntiH__uttarAyaNa-puNyakAlaH/offset__01#indra-p
- ūjā/go-pūjā<br/><br/>#SpecialPuja
+ relative_event/makara-saGkrAntiH/offset__01#indra-pūjā/go-pūjā<br/><br
+ />#SpecialPuja
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -711,8 +709,8 @@ SUMMARY:கனுப் பொங்கல்
 DTSTART;VALUE=DATE:20200116
 DTEND;VALUE=DATE:20200117
 DESCRIPTION:https://github.com/sanskrit-coders/adyatithi/tree/master/data/
- relative_event/makara-saGkrAntiH__uttarAyaNa-puNyakAlaH/offset__01#kanup-p
- ôṅgal<br/><br/>#CommonFestivals
+ relative_event/makara-saGkrAntiH/offset__01#kanup-pôṅgal<br/><br/>#Comm
+ onFestivals
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
