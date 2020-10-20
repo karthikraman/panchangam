@@ -29,7 +29,7 @@ scr=${script:0:4}
 
 echo -ne "Computing $y monthly panchangam for $city_name ($lat,$lon) - $tz in $script script... "
 cd ../panchangam/
-python3 -m jyotisha.panchangam.scripts.write_monthly_panchangam_tex $city_name $lat $lon $tz $y $script > ../tex/data/cal-$y-$city_name-$scr.tex
+python3 -m jyotisha.panchaanga.writer.tex.write_monthly_panchaanga_tex $city_name $lat $lon $tz $y $script > ../tex/data/cal-$y-$city_name-$scr.tex
 if [[ $? -eq 0 ]]
 then
   cd ../tex/data/
@@ -43,7 +43,7 @@ fi
 cd ../../panchangam/
 
 echo -ne "Computing $y daily panchangam for $city_name ($lat,$lon) - $tz in $script script... "
-python3 -m jyotisha.panchangam.scripts.write_daily_panchangam_tex $city_name $lat $lon $tz $y $script > ../tex/data/daily-cal-$y-$city_name-$scr.tex
+python3 -m jyotisha.panchaanga.writer.tex.write_daily_panchaanga_tex $city_name $lat $lon $tz $y $script > ../tex/data/daily-cal-$y-$city_name-$scr.tex
 if [[ $? -eq 0 ]]
 then
   mv cal-*-log* debug_logs/

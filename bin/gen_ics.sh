@@ -33,7 +33,7 @@ tz=$4
 scr=${script:0:4}
 
 echo -ne "Computing $y ICS calendar for panchangam for $city_name ($lat,$lon) - $tz in $script script... "
-python3 -m jyotisha.panchangam.scripts.ics $city_name $lat $lon $tz $y $script $mini
+python3 -m jyotisha.panchaanga.writer.ics $city_name $lat $lon $tz $y $script $mini
 if [[ $? -eq 0 ]]
 then
   echo "done!"
