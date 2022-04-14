@@ -1,7 +1,7 @@
 #!/bin/bash
 if [[ $# -ne 2 ]]
 then
-    echo "Usage: ./gen_png.sh <../pdf/madrapurI-5122-plava-devanagari-daily.pdf> 'April 14, 2021'"
+    echo "Usage: ./gen_daily_png.sh <../../kamakoti-panchangam/drik/output/pdf/madrapurI-5123-śubhakr̥t-devanagari-daily-lagna-simple.pdf> 'April 14, 2022'"
     exit 1
 fi
 nPages=367
