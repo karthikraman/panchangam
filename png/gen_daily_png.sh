@@ -14,7 +14,7 @@ while [ $k -le $nPages ]
 do
 ## Change k+3 appropriately based on pages spend on navanayaka etc.
 pdftoppm "$1" $name/daily/"`printf "%03d" $k`" -png -rx 300 -ry 300 -f $(( k+3 )) -singlefile
-echo `date --date "$start_date +$((k-1)) days" "+%d %B %Y"`,`date --date "$start_date +$((k-2)) days" "+%d-%m-%y"`,20:00,`date --date "$start_date +$((k-2)) days" "+%d-%m-%y"`,20:30,https://github.com/karthikraman/panchangam/raw/master/png/$name/daily/`printf "%03d" $k`.png >> $name.csv
+echo `date --date "$start_date +$((k-1)) days" "+%d %B %Y"`,`date --date "$start_date +$((k-2)) days" "+%d-%m-%y"`,20:00,`date --date "$start_date +$((k-2)) days" "+%d-%m-%y"`,20:30,https://github.com/karthikraman/panchangam/raw/master/png/$name/daily/`printf "%03d" $k`.png >> $name-PanchangaImage.csv
 k=$(( k+1 ))
 echo -ne .
 if [[ $(( k%20 )) -eq 0 ]]
