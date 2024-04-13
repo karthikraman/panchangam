@@ -7,7 +7,7 @@ fi
 nPages=367
 start_date=`date --date "$2"`
 name=`basename $1 | sed 's/\([0-9]\)-.*/\1/'`
-echo Subject,Start Date,Start Time,End Date,End Time,Location > $name.csv
+echo Subject,Start Date,Start Time,End Date,End Time,Location > $name-PanchangamImage.csv
 mkdir -p $name/daily
 k=1
 while [ $k -le $nPages ]
